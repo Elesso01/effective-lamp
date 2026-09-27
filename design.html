@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crypto &amp; AI News — Design Preview</title>
+<style>
+  :root {
+    --bg: #0f172a;
+    --surface: #1e293b;
+    --surface-2: #334155;
+    --text: #f1f5f9;
+    --muted: #94a3b8;
+    --accent: #22d3ee;
+    --accent-2: #f59e0b;
+    --success: #34d399;
+    --border: #334155;
+    --radius: 10px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: Inter, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5; padding: 32px;
+  }
+  .wrap { max-width: 900px; margin: 0 auto; }
+  header { margin-bottom: 28px; }
+  .kicker { color: var(--accent); font-size: 13px; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 8px; }
+  h1 { font-size: 40px; line-height: 1.1; margin: 0 0 8px; font-weight: 800; }
+  p.lead { color: var(--muted); font-size: 18px; margin: 0 0 8px; }
+  .disclaimer { display: inline-block; font-size: 13px; color: #0f172a; background: var(--accent-2);
+    padding: 4px 10px; border-radius: 999px; font-weight: 700; margin-top: 8px; }
+  section.card { background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 24px; margin: 18px 0; }
+  section.card h2 { font-size: 20px; margin: 0 0 4px; }
+  section.card p.sub { color: var(--muted); margin: 0 0 16px; font-size: 14px; }
+  .swatches { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; }
+  .swatch { border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
+  .swatch .c { height: 64px; }
+  .swatch .t { padding: 8px 10px; font-size: 13px; background: #0b1220; }
+  .swatch .t code { color: var(--muted); font-size: 12px; }
+  .type-sample h3 { font-size: 28px; margin: 12px 0 4px; }
+  .type-sample h4 { font-size: 20px; margin: 12px 0 4px; }
+  .type-sample p { margin: 6px 0; }
+  .caption { font-size: 13px; color: var(--muted); }
+  .why { border-left: 3px solid var(--accent); padding-left: 12px; color: #e2e8f0; font-size: 15px; }
+  .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .btn { font: inherit; font-weight: 700; border-radius: 8px; padding: 10px 18px;
+    cursor: pointer; border: 1px solid transparent; }
+  .btn-primary { background: var(--accent); color: #06202a; }
+  .btn-primary:hover { filter: brightness(1.08); }
+  .btn-secondary { background: transparent; color: var(--text); border-color: var(--surface-2); }
+  .btn-secondary:hover { border-color: var(--accent); }
+  .btn-ghost { background: transparent; color: var(--muted); }
+  .btn-ghost:hover { color: var(--text); }
+  label.field { display: block; font-size: 14px; font-weight: 600; margin: 14px 0 6px; }
+  input[type=text], select {
+    width: 100%; font: inherit; color: var(--text); background: #0b1220;
+    border: 1px solid var(--surface-2); border-radius: 8px; padding: 10px 12px;
+  }
+  input[type=text]:focus, select:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
+  .hint { font-size: 13px; color: var(--muted); margin-top: 6px; }
+  .toggle { display: flex; align-items: center; gap: 10px; margin-top: 12px; font-size: 14px; }
+  footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="kicker">Design preview · v0.1 local</p>
+    <h1>Crypto &amp; AI News Recommender</h1>
+    <p class="lead">Calm, neutral, accessible — understand the day in crypto &amp; AI in minutes.</p>
+    <span class="disclaimer">News, not investment advice</span>
+  </header>
+
+  <section class="card">
+    <h2>1 · Colors</h2>
+    <p class="sub">Deep navy base, cyan action, amber for caution/disclaimer.</p>
+    <div class="swatches">
+      <div class="swatch"><div class="c" style="background:#0f172a"></div><div class="t">Background<br><code>#0f172a</code></div></div>
+      <div class="swatch"><div class="c" style="background:#1e293b"></div><div class="t">Surface<br><code>#1e293b</code></div></div>
+      <div class="swatch"><div class="c" style="background:#22d3ee"></div><div class="t">Accent / action<br><code>#22d3ee</code></div></div>
+      <div class="swatch"><div class="c" style="background:#f59e0b"></div><div class="t">Caution<br><code>#f59e0b</code></div></div>
+      <div class="swatch"><div class="c" style="background:#94a3b8"></div><div class="t">Muted text<br><code>#94a3b8</code></div></div>
+      <div class="swatch"><div class="c" style="background:#f1f5f9"></div><div class="t">Primary text<br><code>#f1f5f9</code></div></div>
+    </div>
+  </section>
+
+  <section class="card type-sample">
+    <h2>2 · Typography</h2>
+    <p class="sub">System stack (Inter fallback). Headings tight, body relaxed, captions muted.</p>
+    <h3>Briefing headline — 28px / 800</h3>
+    <h4>Story title — 20px / 700</h4>
+    <p>Body — 16px. Regulators approved a new stablecoin framework. Here is what changes for exchanges and wallet providers.</p>
+    <p class="why"><strong>Why it matters:</strong> affects exchanges, developers, and everyday holders — fees, disclosures, and timelines.</p>
+    <p class="caption">Caption / metadata — 13px muted · News · CoinDesk · 2h ago · Because you follow Regulation</p>
+  </section>
+
+  <section class="card">
+    <h2>3 · Buttons</h2>
+    <p class="sub">Primary for main action, secondary for alternatives, ghost for dismiss.</p>
+    <div class="row">
+      <button class="btn btn-primary">Get daily briefing</button>
+      <button class="btn btn-secondary">Save story</button>
+      <button class="btn btn-ghost">Dismiss</button>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>4 · Sample inputs</h2>
+    <p class="sub">Onboarding-style controls: interest search, familiarity, alert opt-in.</p>
+    <label class="field" for="q">Search interests</label>
+    <input id="q" type="text" placeholder="e.g. AI regulation, Bitcoin, generative AI…" value="AI regulation">
+    <div class="hint">Try typing — this preview is static, wiring comes in Phase 2.</div>
+    <label class="field" for="fam">Familiarity</label>
+    <select id="fam">
+      <option>New to the topic</option>
+      <option selected>Some familiarity</option>
+      <option>Very familiar</option>
+    </select>
+    <div class="toggle">
+      <input id="alerts" type="checkbox" checked>
+      <label for="alerts">Breaking alerts for major events only</label>
+    </div>
+  </section>
+
+  <footer>Local-only preview · open this file in a browser · no external requests.</footer>
+</div>
+</body>
+</html>
