@@ -129,32 +129,50 @@ const STORIES = [
     title:"Regulator publishes stablecoin framework draft",
     sum:"A draft framework sets reserve, disclosure, and redemption rules for fiat-backed stablecoins.",
     why:"Affects exchanges, wallet providers, and holders — compliance timelines and fee disclosures may change.",
-    reason:"Because you follow Regulation" },
+    reason:"Because you follow Regulation",
+    url:"https://example.invalid/stablecoin-draft",
+    bg:"Stablecoin: a crypto token pegged to fiat. Previous drafts stalled over reserve rules; this draft revives them with redemption timelines.",
+    pers:["Industry: clarity will unlock compliant products.","Critics: reserve rules may favor large issuers."] },
   { id:"s2", bucket:"crypto", cat:"Security and privacy", type:"News", src:"Example Security Post", time:"5h ago",
     title:"Bridge exploit disclosed, patch released",
     sum:"Developers disclosed a bridge vulnerability, froze affected contracts, and released a patched version.",
     why:"If you use bridges or hold wrapped assets, check official migration guidance before moving funds.",
-    reason:"Related to your interest in crypto security" },
+    reason:"Related to your interest in crypto security",
+    url:"https://example.invalid/bridge-patch",
+    bg:"Bridge: software moving assets between blockchains — a frequent exploit target.",
+    pers:[] },
   { id:"s3", bucket:"ai", cat:"Research and development", type:"Research", src:"Example Lab Blog", time:"3h ago",
     title:"New open model matches frontier on reasoning tests",
     sum:"A research lab released model weights with evals showing strong math and code reasoning.",
     why:"Matters for builders choosing open vs closed models — cost, control, and safety trade-offs.",
-    reason:"Because you follow AI research" },
+    reason:"Because you follow AI research",
+    url:"https://example.invalid/open-model",
+    bg:"Open weights let anyone run and inspect the model. Frontier here means best closed models on math/code evals.",
+    pers:[] },
   { id:"s4", bucket:"ai", cat:"Regulation and policy", type:"Analysis", src:"Example Policy Review", time:"7h ago",
     title:"AI safety bill: what actually changes",
     sum:"An explainer separates the bill's reporting duties from voluntary commitments.",
     why:"Teams shipping models get new paperwork; everyone else gets clearer incident disclosures.",
-    reason:"A major development in AI policy" },
+    reason:"A major development in AI policy",
+    url:"https://example.invalid/safety-bill",
+    bg:"Safety bill follows voluntary lab commitments. Key terms: reporting duties (mandatory) vs pledges (optional).",
+    pers:["Supporters: reporting improves incident learning.","Skeptics: paperwork burdens small teams."] },
   { id:"s5", bucket:"crossover", cat:"Crypto and AI intersections", type:"Analysis", src:"Example Tech Desk", time:"4h ago",
     title:"Decentralized GPU markets meet AI demand",
     sum:"Crypto-powered compute marketplaces are selling idle GPU time to AI workloads.",
     why:"Early signal for both sides — pricing pressure on cloud GPUs and new token risks.",
-    reason:"A major development affecting both AI and blockchain" },
+    reason:"A major development affecting both AI and blockchain",
+    url:"https://example.invalid/gpu-markets",
+    bg:"GPU shortage pushed AI training costs up. Crypto miners repurposed idle hardware into compute marketplaces.",
+    pers:["Bulls: cheaper open compute.","Bears: token volatility offsets savings."] },
   { id:"s6", bucket:"ai", cat:"Products and applications", type:"Company announcement", src:"Example Company News", time:"9h ago",
     title:"Assistant adds cited answers",
     sum:"A vendor update adds citations to web answers with an honesty evaluation attached.",
     why:"Small UX change, big trust effect — check whether citations actually resolve to sources.",
-    reason:"Popular among readers interested in AI products" }
+    reason:"Popular among readers interested in AI products",
+    url:"https://example.invalid/cited-answers",
+    bg:"Cited answers: responses with source links. Earlier versions hallucinated links; this update adds link checks.",
+    pers:[] }
 ];
 const KEY = "crypto-ai-briefing-v1";
 const RKEY = "crypto-ai-reader-v1";
@@ -251,6 +269,9 @@ function render(){
       '<h3>' + s.title + '</h3>' +
       '<p>' + s.sum + '</p>' +
       '<div class="why"><strong>Why it matters' + (reader.fam === "new" ? " (plain language)" : "") + ':</strong> ' + whyText(s) + '</div>' +
+      '<details><summary>Background</summary><p>' + s.bg + '</p></details>' +
+      (s.pers && s.pers.length ? '<details><summary>Different perspectives</summary><p>• ' + s.pers.join('</p><p>• ') + '</p></details>' : '') +
+      '<p class="reason"><a style="color:var(--accent)" href="' + s.url + '" target="_blank" rel="noopener">Read original source →</a></p>' +
       '<p class="reason">' + s.reason + (vote ? ' · You voted ' + (vote>0?'"More like this"':'"Less like this"') : '') + '</p>' +
       '<div class="row">' +
         '<button class="btn' + (saved?' saved':'') + '" data-a="save">' + (saved?'★ Saved':'☆ Save') + '</button>' +
