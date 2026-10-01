@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-10-01T13:59:25.339Z",
+  "mix": {
+    "familiar": 3,
+    "discovery": 3
+  },
+  "items": [
+    {
+      "id": "st-new-open-model-matches-f",
+      "title": "New open model matches frontier on reasoning tests",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 15,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-regulator-publishes-stab",
+      "title": "Regulator publishes stablecoin framework draft",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 12.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ai-safety-bill-what-actu",
+      "title": "AI safety bill: what actually changes",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bridge-exploit-disclosed",
+      "title": "Bridge exploit disclosed, patch released",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-decentralized-gpu-market",
+      "title": "Decentralized GPU markets meet AI demand",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-assistant-adds-cited-ans",
+      "title": "Assistant adds cited answers",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 0,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    }
+  ]
+}

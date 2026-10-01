@@ -223,15 +223,23 @@ function scoreStory(s){
   else if (want === s.bucket) sc += 3;
   else if (s.bucket === "crossover") sc += 1;
   const hay = (s.title + " " + s.sum + " " + s.cat).toLowerCase();
+  let matched = false;
   reader.interests.forEach(name => {
     const w = name.toLowerCase().split(" ")[0];
-    if (w.length > 3 && hay.includes(w)) sc += 2;
+    if (w.length > 3 && hay.includes(w)) { sc += 2; matched = true; }
   });
   if (reader.follows) reader.follows.toLowerCase().split(",").forEach(f => {
-    f = f.trim(); if (f.length > 2 && hay.includes(f)) sc += 2;
+    f = f.trim(); if (f.length > 2 && hay.includes(f)) { sc += 2; matched = true; }
   });
+  if ((reader.followCats || []).includes(s.cat)) { sc += 2; matched = true; }
+  const v = state.votes[s.id] || 0;
+  if (v === 1) sc += 4;
+  if (v === -1) sc -= 6;
+  if (state.saved.includes(s.id)) sc += 1;
+  s._matched = matched;
   return sc;
 }
+function isDiscovery(s){ return !s._matched; }
 function whyText(s){
   if (reader.fam === "new") return s.why.split(" — ")[0].split(". ")[0] + ".";
   return s.why;
@@ -260,12 +268,14 @@ function render(){
   const topped = (reader.bal === "balanced" && filter === "all") ? items.slice(0, 6) : items;
   list.innerHTML = topped.length ? "" : '<p class="empty">Nothing here. Try another filter or reset.</p>';
   topped.forEach(s => {
+    const following = (reader.followCats || []).includes(s.cat);
     const el = document.createElement("article");
     el.className = "card";
     const saved = state.saved.includes(s.id);
     const vote = state.votes[s.id] || 0;
     el.innerHTML =
-      '<p class="meta">' + s.cat + ' · ' + s.type + ' · ' + s.src + ' · ' + s.time + '</p>' +
+      '<p class="meta">' + s.cat + ' · ' + s.type + ' · ' + s.src + ' · ' + s.time +
+      (isDiscovery(s) ? ' · ✨ Discovery' : '') + '</p>' +
       '<h3>' + s.title + '</h3>' +
       '<p>' + s.sum + '</p>' +
       '<div class="why"><strong>Why it matters' + (reader.fam === "new" ? " (plain language)" : "") + ':</strong> ' + whyText(s) + '</div>' +
@@ -275,17 +285,38 @@ function render(){
       '<p class="reason">' + s.reason + (vote ? ' · You voted ' + (vote>0?'"More like this"':'"Less like this"') : '') + '</p>' +
       '<div class="row">' +
         '<button class="btn' + (saved?' saved':'') + '" data-a="save">' + (saved?'★ Saved':'☆ Save') + '</button>' +
-        '<button class="btn" data-a="hide">Hide</button>' +
+        '<button class="btn" data-a="hide">Hide…</button>' +
+        '<button class="btn" data-a="follow">' + (following ? '✓ Following ' + s.cat : 'Follow ' + s.cat) + '</button>' +
         '<button class="btn" data-a="more">More like this</button>' +
         '<button class="btn" data-a="less">Less like this</button>' +
+      '</div>' +
+      '<div class="row hide-reasons" hidden>' +
+        '<span class="reason">Why hide?</span>' +
+        '<button class="btn" data-r="not-interested">Not interested</button>' +
+        '<button class="btn" data-r="too-repetitive">Too repetitive</button>' +
+        '<button class="btn" data-r="low-quality">Low quality</button>' +
+        '<button class="btn" data-r="">Cancel</button>' +
       '</div>';
     el.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+      if (b.dataset.r !== undefined) {
+        if (b.dataset.r) {
+          state.hidden.push(s.id);
+          state.hiddenReasons = state.hiddenReasons || {};
+          state.hiddenReasons[s.id] = b.dataset.r;
+        }
+        persist(); render(); return;
+      }
       const a = b.dataset.a;
       if (a === "save") {
         const i = state.saved.indexOf(s.id);
         if (i >= 0) state.saved.splice(i,1); else state.saved.push(s.id);
       } else if (a === "hide") {
-        state.hidden.push(s.id);
+        el.querySelector(".hide-reasons").hidden = false; return;
+      } else if (a === "follow") {
+        reader.followCats = reader.followCats || [];
+        const i = reader.followCats.indexOf(s.cat);
+        if (i >= 0) reader.followCats.splice(i,1); else reader.followCats.push(s.cat);
+        persistReader(); updateProfileLine();
       } else if (a === "more") { state.votes[s.id] = 1; }
       else if (a === "less") { state.votes[s.id] = -1; }
       persist(); render();
@@ -293,8 +324,11 @@ function render(){
     list.appendChild(el);
   });
   const hw = document.getElementById("hiddenWrap");
+  const reasons = state.hidden.map(id => (state.hiddenReasons||{})[id]).filter(Boolean);
   hw.innerHTML = state.hidden.length
-    ? '<div class="card"><p class="meta">Hidden (' + state.hidden.length + ')</p><div class="row"><button class="btn" id="unhide">Unhide all</button></div></div>' : "";
+    ? '<div class="card"><p class="meta">Hidden (' + state.hidden.length + ')' +
+      (reasons.length ? ' — ' + reasons.join(", ") : '') +
+      '</p><div class="row"><button class="btn" id="unhide">Unhide all</button></div></div>' : "";
   const u = document.getElementById("unhide");
   if (u) u.addEventListener("click", () => { state.hidden = []; persist(); render(); });
 }
