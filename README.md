@@ -67,18 +67,26 @@ Curious newcomers, technologists, business leaders, founders, investors seeking 
 
 ## Project Status
 
-Initial version — PRD only, no implementation yet.
+Local prototype through Phase 5 — open `app.html` in a browser (landing → email gate → briefing).
+`design.html` holds the visual preview. App + data run locally; no cloud.
 
 ```
 .
 ├── README.md
-└── # Product Requirements Document_ Crypto and AI News Recommender (1).md
+├── IMPLEMENTATION_PLAN.md
+├── app.html                        # landing + gate + briefing prototype
+├── design.html                     # visual preview
+├── data/                           # sources, stories, briefing, feed, alerts, digest, metrics, signals
+└── scripts/                        # ingest, briefing, ranker, alerts, digest, metrics (node, zero deps)
 ```
 
 ## Next Steps
 
-- [ ] Define data sources + source-quality checklist
-- [ ] Define recommendation logic (relevance, importance, timeliness, diversity)
-- [ ] Prototype daily briefing UI
-- [ ] Define onboarding flow
-- [ ] Define success metrics tracking (retention, recommendation quality, trust)
+- [x] Define data sources + source-quality checklist (`data/sources.json`)
+- [x] Define recommendation logic (`scripts/briefing.mjs`, `scripts/ranker.mjs`)
+- [x] Prototype daily briefing UI (`app.html`)
+- [x] Define onboarding flow (`app.html` Phase 2 section)
+- [x] Define success metrics tracking (`scripts/metrics.mjs` + in-app metrics card)
+- [ ] Scaffold Next.js + Prisma SQLite + Auth.js (Phase 0 build-out)
+- [ ] Replace seed data with live RSS/API ingest
+- [ ] Server-side reader accounts to replace localStorage registry
