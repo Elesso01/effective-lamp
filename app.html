@@ -244,17 +244,32 @@ const STORIES = [
 ];
 const REGKEY = "crypto-ai-readers-v1";
 const SESKEY = "crypto-ai-session-v1";
-let session = localStorage.getItem(SESKEY) || "";
+// Safe storage: localStorage when available, in-memory fallback for
+// sandboxed iframes (e.g. htmlpreview) or blocked storage.
+const __mem = {};
+const LS = (() => {
+  try {
+    localStorage.setItem("__t", "1"); localStorage.removeItem("__t");
+    return localStorage;
+  } catch (e) {
+    return {
+      getItem: (k) => (k in __mem ? __mem[k] : null),
+      setItem: (k, v) => { __mem[k] = String(v); },
+      removeItem: (k) => { delete __mem[k]; }
+    };
+  }
+})();
+let session = LS.getItem(SESKEY) || "";
 function stateKey(){ return "crypto-ai-briefing-v1" + (session && session !== "guest" ? ":" + session : ""); }
-function loadState(){ try { return JSON.parse(localStorage.getItem(stateKey()) || '{"saved":[],"hidden":[],"votes":{}}'); } catch(e){ return {saved:[],hidden:[],votes:{}}; } }
+function loadState(){ try { return JSON.parse(LS.getItem(stateKey()) || '{"saved":[],"hidden":[],"votes":{}}'); } catch(e){ return {saved:[],hidden:[],votes:{}}; } }
 let state = loadState();
-function persist(){ localStorage.setItem(stateKey(), JSON.stringify(state)); }
-function getRegistry(){ try { return JSON.parse(localStorage.getItem(REGKEY) || '{}'); } catch(e){ return {}; } }
-function saveRegistry(r){ localStorage.setItem(REGKEY, JSON.stringify(r)); }
+function persist(){ LS.setItem(stateKey(), JSON.stringify(state)); }
+function getRegistry(){ try { return JSON.parse(LS.getItem(REGKEY) || '{}'); } catch(e){ return {}; } }
+function saveRegistry(r){ LS.setItem(REGKEY, JSON.stringify(r)); }
 function blankReader(){ return {interests:[],followCats:[],fam:"some",bal:"balanced",follows:"",alerts:true,done:false}; }
 function loadReader(){
   if (!session || session === "guest") {
-    try { return Object.assign(blankReader(), JSON.parse(localStorage.getItem("crypto-ai-reader-v1") || '{}')); }
+    try { return Object.assign(blankReader(), JSON.parse(LS.getItem("crypto-ai-reader-v1") || '{}')); }
     catch(e){ return blankReader(); }
   }
   const reg = getRegistry();
@@ -262,7 +277,7 @@ function loadReader(){
 }
 let reader = loadReader();
 function persistReader(){
-  if (!session || session === "guest") { localStorage.setItem("crypto-ai-reader-v1", JSON.stringify(reader)); return; }
+  if (!session || session === "guest") { LS.setItem("crypto-ai-reader-v1", JSON.stringify(reader)); return; }
   const reg = getRegistry();
   reg[session] = reg[session] || {};
   reg[session].reader = reader;
@@ -526,20 +541,20 @@ function submitEmail(){
   const returning = !!reg[email];
   if (!returning) {
     let seed = {};
-    try { seed = JSON.parse(localStorage.getItem("crypto-ai-reader-v1") || '{}'); } catch(e){}
+    try { seed = JSON.parse(LS.getItem("crypto-ai-reader-v1") || '{}'); } catch(e){}
     reg[email] = { created_at: new Date().toISOString(), reader: Object.assign(blankReader(), seed) };
     saveRegistry(reg);
     note.textContent = "Account created for " + email + " — welcome! Opening your briefing…";
   } else {
     note.textContent = "Welcome back, " + email + " — opening your briefing…";
   }
-  session = email; localStorage.setItem(SESKEY, session);
+  session = email; LS.setItem(SESKEY, session);
   state = loadState(); reader = loadReader();
   setTimeout(() => { location.hash = "#/app"; }, returning ? 150 : 600);
 }
 document.getElementById("ctaStart").addEventListener("click", () => { location.hash = "#/start"; });
 document.getElementById("ctaPeek").addEventListener("click", () => {
-  session = "guest"; localStorage.setItem(SESKEY, session);
+  session = "guest"; LS.setItem(SESKEY, session);
   state = loadState(); reader = loadReader();
   location.hash = "#/app";
 });
@@ -547,7 +562,7 @@ document.getElementById("gateBack").addEventListener("click", () => { location.h
 document.getElementById("emailGo").addEventListener("click", submitEmail);
 document.getElementById("email").addEventListener("keydown", e => { if (e.key === "Enter") submitEmail(); });
 document.getElementById("signOut").addEventListener("click", () => {
-  session = ""; localStorage.removeItem(SESKEY);
+  session = ""; LS.removeItem(SESKEY);
   state = loadState(); reader = loadReader();
   location.hash = "#/";
 });
