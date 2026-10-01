@@ -472,3 +472,20 @@
 
 **This approach gives readers the convenience of staying current while preserving personalization, discovery, context, and trust.**
 
+**## Appendix A — Tool choice note (Database: SQLite, local-first)**
+
+**Decision:** Keep SQLite (via Prisma, `./prisma/dev.db`) for local MVP through Phase 3 (briefing). Revisit before Phase 4 (personalized feed at scale) / any hosted deploy.
+
+**Why:** App & DB must run locally for now with zero ops. SQLite is a single file, needs no server, and is enough for single-dev ingest → briefing loop. Prisma keeps the schema portable, so switching to Postgres later is a provider + migration change, not a rewrite.
+
+**Revisit triggers:** concurrent writers, full-text search needs, multi-user auth sessions in production, or hosted deploy. At that point: change Prisma provider to PostgreSQL (local Docker first), add migration, keep SQLite as dev fallback.
+
+**## Appendix B — Design note (design.html v0.1 → refined)**
+
+**Decided in `design.html` (`d3347f1`):**
+- **Font (clearer):** Inter-first stack, base 17px / 1.65 line-height, antialiased, headings -0.02em tracking, body max 68ch, labels 15px/700.
+- **Contrast:** text `#f8fafc`; muted raised `#94a3b8` → `#cbd5e1`; accent brightened `#22d3ee` → `#67e8f9`; disclaimer ink `#1a1000` on `#fbbf24`; why-box white text on cyan tint; captions/hints 14px.
+- **Buttons:** 44px targets, 16px/800, 2px borders, press effect, 3px white focus-visible ring, ghost underlined, disabled `Loading…` state. Inputs 44px, 2px borders, 3px focus ring.
+
+**Why:** product tone (§15) is clear, calm, accessible. Small muted text and thin focus rings failed that bar, so type was enlarged, muted text brightened to AA, and every control got a visible focus/press/disabled state before Phase 0 UI work.
+

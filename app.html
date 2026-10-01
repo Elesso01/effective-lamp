@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crypto &amp; AI News — Daily Briefing (local)</title>
+<style>
+  :root { --bg:#0f172a; --surface:#1e293b; --line:#475569; --text:#f8fafc;
+    --muted:#cbd5e1; --accent:#67e8f9; --accent-ink:#032630; --amber:#fbbf24; --focus:#fff; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+    font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    font-size:17px; line-height:1.65; padding:24px;
+    -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:860px; margin:0 auto; }
+  .kicker { color:var(--accent); font-size:14px; font-weight:800; letter-spacing:.12em; text-transform:uppercase; margin:0 0 6px; }
+  h1 { font-size:34px; margin:0 0 4px; letter-spacing:-.02em; }
+  .sub { color:var(--muted); margin:0 0 8px; }
+  .pill { display:inline-block; font-size:14px; font-weight:800; color:#1a1000; background:var(--amber);
+    border-radius:999px; padding:5px 12px; margin:8px 0 0; }
+  .tabs { display:flex; gap:8px; flex-wrap:wrap; margin:18px 0 6px; }
+  .tab { font:inherit; font-size:15px; font-weight:700; color:var(--text); background:transparent;
+    border:2px solid var(--line); border-radius:999px; padding:8px 16px; min-height:44px; cursor:pointer; }
+  .tab[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+  .tab:focus-visible, button:focus-visible { outline:3px solid var(--focus); outline-offset:2px; }
+  .card { background:var(--surface); border:1px solid var(--line); border-radius:12px; padding:18px; margin:12px 0; }
+  .meta { font-size:14px; color:var(--muted); margin:0 0 6px; }
+  .card h3 { font-size:21px; margin:4px 0 6px; line-height:1.35; }
+  .card p { margin:6px 0; max-width:68ch; }
+  .why { border-left:4px solid var(--accent); background:rgba(103,232,249,.08);
+    padding:8px 12px; border-radius:0 8px 8px 0; margin:10px 0; }
+  details { margin:8px 0; }
+  details summary { cursor:pointer; font-weight:700; }
+  .row { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
+  .btn { font:inherit; font-size:15px; font-weight:800; border-radius:10px; min-height:44px;
+    padding:10px 16px; cursor:pointer; border:2px solid var(--line); background:transparent; color:var(--text); }
+  .btn:hover { border-color:var(--accent); }
+  .btn.primary { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+  .btn.saved { border-color:var(--accent); color:var(--accent); }
+  .reason { font-size:14px; color:var(--muted); }
+  .empty { color:var(--muted); padding:16px 0; }
+  footer { color:var(--muted); font-size:14px; margin:20px 0; }
+  .toolbar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-top:10px; }
+  .steps { display:grid; gap:10px; }
+  .step { border:1px solid var(--line); border-radius:10px; padding:14px; }
+  .step h4 { margin:0 0 8px; font-size:17px; }
+  .chips { display:flex; gap:8px; flex-wrap:wrap; }
+  .chip { font:inherit; font-size:14px; font-weight:700; border:2px solid var(--line); background:transparent;
+    color:var(--text); border-radius:999px; padding:8px 14px; min-height:44px; cursor:pointer; }
+  .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+  .chip:focus-visible, select:focus-visible, input:focus-visible { outline:3px solid var(--focus); outline-offset:2px; }
+  select, input[type=text] { font:inherit; font-size:16px; color:var(--text); background:#0b1220;
+    border:2px solid var(--line); border-radius:10px; padding:10px 12px; min-height:44px; width:100%; }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  @media (max-width:640px){ .grid2 { grid-template-columns:1fr; } }
+  .profile { font-size:15px; color:var(--muted); }
+  .profile strong { color:var(--text); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="kicker">Daily briefing · local MVP</p>
+  <h1>Crypto &amp; AI News</h1>
+  <p class="sub" id="dateLine">Today · 6 stories · crypto + AI + crossover</p>
+  <span class="pill">News, not investment advice</span>
+
+  <section class="card" aria-label="Onboarding">
+    <h2 style="margin:0 0 4px;font-size:21px;">2 · Your briefing setup (Phase 2)</h2>
+    <p class="profile" id="profileLine">Brief, optional — pick interests and familiarity. Stored only in this browser.</p>
+    <div class="steps">
+      <div class="step">
+        <h4>Step 1 — Interests (tap to toggle)</h4>
+        <div class="chips" id="chips"></div>
+      </div>
+      <div class="step">
+        <h4>Step 2 — Familiarity + balance</h4>
+        <div class="grid2">
+          <label>Familiarity<br><select id="fam">
+            <option value="new">New to the topic</option>
+            <option value="some" selected>Some familiarity</option>
+            <option value="very">Very familiar</option>
+          </select></label>
+          <label>Coverage balance<br><select id="bal">
+            <option value="balanced" selected>Balanced crypto + AI</option>
+            <option value="crypto">More crypto</option>
+            <option value="ai">More AI</option>
+          </select></label>
+        </div>
+      </div>
+      <div class="step">
+        <h4>Step 3 — Follows + alerts</h4>
+        <label>Follow subjects (comma-separated)<br>
+          <input type="text" id="follows" placeholder="e.g. Ethereum, OpenAI, MiCA"></label>
+        <p class="profile" style="margin:8px 0 0;">
+          <label style="display:flex;gap:10px;align-items:center;">
+            <input type="checkbox" id="alerts" style="width:20px;height:20px;" checked>
+            Breaking alerts for major events only
+          </label>
+        </p>
+        <div class="row">
+          <button class="btn primary" id="saveProfile">Save my briefing</button>
+          <button class="btn" id="skipProfile">Skip</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="tabs" role="group" aria-label="Filter stories">
+    <button class="tab" data-f="all" aria-pressed="true">All</button>
+    <button class="tab" data-f="crypto" aria-pressed="false">Crypto</button>
+    <button class="tab" data-f="ai" aria-pressed="false">AI</button>
+    <button class="tab" data-f="crossover" aria-pressed="false">Crossover</button>
+    <button class="tab" data-f="saved" aria-pressed="false">★ Saved</button>
+  </div>
+
+  <div id="list"></div>
+  <div id="hiddenWrap"></div>
+
+  <div class="toolbar">
+    <button class="btn" id="resetBtn">Reset saved / hidden</button>
+  </div>
+
+  <footer>Single file · runs from disk · saves to this browser's localStorage · sample data for Phase 3 demo.</footer>
+</div>
+
+<script>
+const STORIES = [
+  { id:"s1", bucket:"crypto", cat:"Regulation and policy", type:"News", src:"Example Regulator Press", time:"2h ago",
+    title:"Regulator publishes stablecoin framework draft",
+    sum:"A draft framework sets reserve, disclosure, and redemption rules for fiat-backed stablecoins.",
+    why:"Affects exchanges, wallet providers, and holders — compliance timelines and fee disclosures may change.",
+    reason:"Because you follow Regulation" },
+  { id:"s2", bucket:"crypto", cat:"Security and privacy", type:"News", src:"Example Security Post", time:"5h ago",
+    title:"Bridge exploit disclosed, patch released",
+    sum:"Developers disclosed a bridge vulnerability, froze affected contracts, and released a patched version.",
+    why:"If you use bridges or hold wrapped assets, check official migration guidance before moving funds.",
+    reason:"Related to your interest in crypto security" },
+  { id:"s3", bucket:"ai", cat:"Research and development", type:"Research", src:"Example Lab Blog", time:"3h ago",
+    title:"New open model matches frontier on reasoning tests",
+    sum:"A research lab released model weights with evals showing strong math and code reasoning.",
+    why:"Matters for builders choosing open vs closed models — cost, control, and safety trade-offs.",
+    reason:"Because you follow AI research" },
+  { id:"s4", bucket:"ai", cat:"Regulation and policy", type:"Analysis", src:"Example Policy Review", time:"7h ago",
+    title:"AI safety bill: what actually changes",
+    sum:"An explainer separates the bill's reporting duties from voluntary commitments.",
+    why:"Teams shipping models get new paperwork; everyone else gets clearer incident disclosures.",
+    reason:"A major development in AI policy" },
+  { id:"s5", bucket:"crossover", cat:"Crypto and AI intersections", type:"Analysis", src:"Example Tech Desk", time:"4h ago",
+    title:"Decentralized GPU markets meet AI demand",
+    sum:"Crypto-powered compute marketplaces are selling idle GPU time to AI workloads.",
+    why:"Early signal for both sides — pricing pressure on cloud GPUs and new token risks.",
+    reason:"A major development affecting both AI and blockchain" },
+  { id:"s6", bucket:"ai", cat:"Products and applications", type:"Company announcement", src:"Example Company News", time:"9h ago",
+    title:"Assistant adds cited answers",
+    sum:"A vendor update adds citations to web answers with an honesty evaluation attached.",
+    why:"Small UX change, big trust effect — check whether citations actually resolve to sources.",
+    reason:"Popular among readers interested in AI products" }
+];
+const KEY = "crypto-ai-briefing-v1";
+const RKEY = "crypto-ai-reader-v1";
+const state = JSON.parse(localStorage.getItem(KEY) || '{"saved":[],"hidden":[],"votes":{}}');
+const reader = JSON.parse(localStorage.getItem(RKEY) || '{"interests":[],"fam":"some","bal":"balanced","follows":"","alerts":true,"done":false}');
+function persist(){ localStorage.setItem(KEY, JSON.stringify(state)); }
+function persistReader(){ localStorage.setItem(RKEY, JSON.stringify(reader)); }
+let filter = "all";
+
+// Phase 2 — 12 PRD interests with bucket mapping
+const INTERESTS = [
+  ["Crypto markets","crypto"],["Blockchain technology","crypto"],["Digital assets","crypto"],
+  ["Regulation","both"],["Web3 applications","crypto"],["AI research","ai"],
+  ["Generative AI","ai"],["AI products","ai"],["AI companies","ai"],
+  ["AI policy and safety","ai"],["AI business impact","ai"],["Crypto-AI relationship","crossover"]
+];
+function renderChips(){
+  const box = document.getElementById("chips");
+  box.innerHTML = "";
+  INTERESTS.forEach(([name]) => {
+    const b = document.createElement("button");
+    b.className = "chip";
+    b.textContent = name;
+    b.setAttribute("aria-pressed", reader.interests.includes(name) ? "true" : "false");
+    b.addEventListener("click", () => {
+      const i = reader.interests.indexOf(name);
+      if (i >= 0) reader.interests.splice(i,1); else reader.interests.push(name);
+      b.setAttribute("aria-pressed", reader.interests.includes(name) ? "true" : "false");
+      updateProfileLine();
+    });
+    box.appendChild(b);
+  });
+}
+function updateProfileLine(){
+  const n = reader.interests.length;
+  const f = {new:"New to the topic",some:"Some familiarity",very:"Very familiar"}[reader.fam];
+  const bal = {balanced:"Balanced crypto + AI",crypto:"More crypto",ai:"More AI"}[reader.bal];
+  document.getElementById("profileLine").innerHTML =
+    "Profile: <strong>" + (n ? n + " interest" + (n>1?"s":"") : "no interests yet") + "</strong> · " +
+    "<strong>" + f + "</strong> · <strong>" + bal + "</strong>" +
+    (reader.follows ? " · Following <strong>" + reader.follows + "</strong>" : "") +
+    (reader.alerts ? " · Alerts on" : " · Alerts off");
+}
+function scoreStory(s){
+  let sc = 0;
+  const want = reader.bal;
+  if (want === "balanced") sc += (s.bucket === "crossover" ? 2 : 1);
+  else if (want === s.bucket) sc += 3;
+  else if (s.bucket === "crossover") sc += 1;
+  const hay = (s.title + " " + s.sum + " " + s.cat).toLowerCase();
+  reader.interests.forEach(name => {
+    const w = name.toLowerCase().split(" ")[0];
+    if (w.length > 3 && hay.includes(w)) sc += 2;
+  });
+  if (reader.follows) reader.follows.toLowerCase().split(",").forEach(f => {
+    f = f.trim(); if (f.length > 2 && hay.includes(f)) sc += 2;
+  });
+  return sc;
+}
+function whyText(s){
+  if (reader.fam === "new") return s.why.split(" — ")[0].split(". ")[0] + ".";
+  return s.why;
+}
+
+document.getElementById("dateLine").textContent =
+  new Date().toLocaleDateString(undefined,{weekday:"long",month:"long",day:"numeric"}) +
+  " · " + STORIES.length + " stories · crypto + AI + crossover";
+
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => {
+  filter = b.dataset.f;
+  document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-pressed", x===b ? "true":"false"));
+  render();
+}));
+
+function visible(s){
+  if (state.hidden.includes(s.id)) return false;
+  if (filter === "saved") return state.saved.includes(s.id);
+  if (filter === "all") return true;
+  return s.bucket === filter;
+}
+
+function render(){
+  const list = document.getElementById("list");
+  const items = STORIES.filter(visible).sort((a,b) => scoreStory(b) - scoreStory(a));
+  const topped = (reader.bal === "balanced" && filter === "all") ? items.slice(0, 6) : items;
+  list.innerHTML = topped.length ? "" : '<p class="empty">Nothing here. Try another filter or reset.</p>';
+  topped.forEach(s => {
+    const el = document.createElement("article");
+    el.className = "card";
+    const saved = state.saved.includes(s.id);
+    const vote = state.votes[s.id] || 0;
+    el.innerHTML =
+      '<p class="meta">' + s.cat + ' · ' + s.type + ' · ' + s.src + ' · ' + s.time + '</p>' +
+      '<h3>' + s.title + '</h3>' +
+      '<p>' + s.sum + '</p>' +
+      '<div class="why"><strong>Why it matters' + (reader.fam === "new" ? " (plain language)" : "") + ':</strong> ' + whyText(s) + '</div>' +
+      '<p class="reason">' + s.reason + (vote ? ' · You voted ' + (vote>0?'"More like this"':'"Less like this"') : '') + '</p>' +
+      '<div class="row">' +
+        '<button class="btn' + (saved?' saved':'') + '" data-a="save">' + (saved?'★ Saved':'☆ Save') + '</button>' +
+        '<button class="btn" data-a="hide">Hide</button>' +
+        '<button class="btn" data-a="more">More like this</button>' +
+        '<button class="btn" data-a="less">Less like this</button>' +
+      '</div>';
+    el.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+      const a = b.dataset.a;
+      if (a === "save") {
+        const i = state.saved.indexOf(s.id);
+        if (i >= 0) state.saved.splice(i,1); else state.saved.push(s.id);
+      } else if (a === "hide") {
+        state.hidden.push(s.id);
+      } else if (a === "more") { state.votes[s.id] = 1; }
+      else if (a === "less") { state.votes[s.id] = -1; }
+      persist(); render();
+    }));
+    list.appendChild(el);
+  });
+  const hw = document.getElementById("hiddenWrap");
+  hw.innerHTML = state.hidden.length
+    ? '<div class="card"><p class="meta">Hidden (' + state.hidden.length + ')</p><div class="row"><button class="btn" id="unhide">Unhide all</button></div></div>' : "";
+  const u = document.getElementById("unhide");
+  if (u) u.addEventListener("click", () => { state.hidden = []; persist(); render(); });
+}
+document.getElementById("resetBtn").addEventListener("click", () => {
+  state.saved = []; state.hidden = []; state.votes = {}; persist(); render();
+});
+// Phase 2 wiring
+document.getElementById("fam").value = reader.fam;
+document.getElementById("bal").value = reader.bal;
+document.getElementById("follows").value = reader.follows || "";
+document.getElementById("alerts").checked = reader.alerts !== false;
+renderChips(); updateProfileLine();
+document.getElementById("saveProfile").addEventListener("click", () => {
+  reader.fam = document.getElementById("fam").value;
+  reader.bal = document.getElementById("bal").value;
+  reader.follows = document.getElementById("follows").value.trim();
+  reader.alerts = document.getElementById("alerts").checked;
+  reader.done = true; persistReader(); updateProfileLine(); render();
+});
+document.getElementById("skipProfile").addEventListener("click", () => {
+  reader.done = true; persistReader(); render();
+});
+render();
+</script>
+</body>
+</html>

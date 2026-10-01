@@ -1,0 +1,56 @@
+[
+  {
+    "id": "reg-press",
+    "name": "Example Regulator Press",
+    "feed": "local-seed",
+    "expertise": "regulation",
+    "quality": { "authorship": true, "evidence": true, "corrections": true, "expertise": true, "adsSeparated": true },
+    "score": 0.95,
+    "notes": "Primary source for regulation drafts."
+  },
+  {
+    "id": "sec-post",
+    "name": "Example Security Post",
+    "feed": "local-seed",
+    "expertise": "security",
+    "quality": { "authorship": true, "evidence": true, "corrections": true, "expertise": true, "adsSeparated": true },
+    "score": 0.9,
+    "notes": "Vendor-maintained disclosure feed."
+  },
+  {
+    "id": "lab-blog",
+    "name": "Example Lab Blog",
+    "feed": "local-seed",
+    "expertise": "research",
+    "quality": { "authorship": true, "evidence": true, "corrections": true, "expertise": true, "adsSeparated": true },
+    "score": 0.9,
+    "notes": "Primary research announcements with evals."
+  },
+  {
+    "id": "policy-review",
+    "name": "Example Policy Review",
+    "feed": "local-seed",
+    "expertise": "policy",
+    "quality": { "authorship": true, "evidence": true, "corrections": true, "expertise": true, "adsSeparated": true },
+    "score": 0.85,
+    "notes": "Secondary analysis, strong correction record."
+  },
+  {
+    "id": "tech-desk",
+    "name": "Example Tech Desk",
+    "feed": "local-seed",
+    "expertise": "crossover",
+    "quality": { "authorship": true, "evidence": true, "corrections": true, "expertise": false, "adsSeparated": true },
+    "score": 0.75,
+    "notes": "General tech desk, verify claims against primaries."
+  },
+  {
+    "id": "company-news",
+    "name": "Example Company News",
+    "feed": "local-seed",
+    "expertise": "product",
+    "quality": { "authorship": true, "evidence": false, "corrections": true, "expertise": true, "adsSeparated": false },
+    "score": 0.6,
+    "notes": "Company announcements — label as announcement, verify independently."
+  }
+]
