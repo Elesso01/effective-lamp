@@ -41,6 +41,22 @@
   .empty { color:var(--muted); padding:16px 0; }
   footer { color:var(--muted); font-size:14px; margin:20px 0; }
   .toolbar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-top:10px; }
+  .hero { padding:34px 0 10px; }
+  .hero h1 { font-size:46px; line-height:1.08; letter-spacing:-0.025em; margin:0 0 12px; max-width:20ch; }
+  .hero h1 .hl { color:var(--accent); }
+  .hero .lede { font-size:20px; color:var(--text); max-width:56ch; margin:0 0 8px; }
+  .bullets { list-style:none; padding:0; margin:16px 0; display:grid; gap:8px; }
+  .bullets li { padding-left:28px; position:relative; }
+  .bullets li::before { content:"✓"; position:absolute; left:0; color:var(--accent); font-weight:800; }
+  .cta-row { display:flex; gap:12px; flex-wrap:wrap; margin:20px 0 8px; }
+  .btn-big { font-size:18px; padding:16px 26px; min-height:56px; border-radius:12px; }
+  .gate-card { max-width:520px; }
+  .gate-card input[type=email] { font:inherit; font-size:16px; color:var(--text); background:#0b1220;
+    border:2px solid var(--line); border-radius:10px; padding:12px 14px; min-height:48px; width:100%; }
+  .gate-card input[type=email]:focus { outline:3px solid var(--focus); outline-offset:2px; border-color:var(--accent); }
+  .form-err { color:#fda4af; font-size:15px; min-height:24px; margin:6px 0 0; }
+  .session { display:flex; justify-content:space-between; align-items:center; gap:10px;
+    font-size:14px; color:var(--muted); padding:8px 0; }
   .steps { display:grid; gap:10px; }
   .step { border:1px solid var(--line); border-radius:10px; padding:14px; }
   .step h4 { margin:0 0 8px; font-size:17px; }
@@ -59,6 +75,44 @@
 </head>
 <body>
 <div class="wrap">
+
+  <section id="view-landing" hidden>
+    <div class="hero">
+      <p class="kicker">Crypto &amp; AI, in minutes a day</p>
+      <h1>The day in crypto and AI, <span class="hl">distilled.</span></h1>
+      <p class="lede">One short briefing each morning: the stories that actually matter,
+        why they matter, and the background to understand them — without the hype.</p>
+      <ul class="bullets">
+        <li><strong>5–8 stories, 5 minutes</strong> — crypto, AI, and where they collide</li>
+        <li><strong>Why it matters</strong> on every story, plain language when you're new</li>
+        <li><strong>Balanced and sourced</strong> — news, never investment advice</li>
+      </ul>
+      <div class="cta-row">
+        <button class="btn primary btn-big" id="ctaStart">Start your day with a crypto or AI news story</button>
+        <button class="btn" id="ctaPeek">Peek at today's briefing →</button>
+      </div>
+      <p class="profile">Free · runs locally · your email only remembers your setup on this device</p>
+    </div>
+  </section>
+
+  <section id="view-gate" hidden>
+    <div class="card gate-card">
+      <p class="kicker">Step 1 of 1 · 20 seconds</p>
+      <h2 style="margin:0 0 4px;font-size:26px;">Where should your briefing live?</h2>
+      <p class="sub">Enter your email to open your briefing. Returning reader? We'll pick up where you left off.</p>
+      <label class="field" for="email">Email address</label>
+      <input type="email" id="email" placeholder="you@example.com" autocomplete="email">
+      <p class="form-err" id="emailErr"></p>
+      <div class="row">
+        <button class="btn primary" id="emailGo">Continue to my briefing →</button>
+        <button class="btn btn-ghost" id="gateBack">← Back</button>
+      </div>
+      <p class="hint" id="gateNote">Stored only in this browser. No password, no spam — email is just your key.</p>
+    </div>
+  </section>
+
+  <div id="view-app" hidden>
+  <div class="session"><span id="sessionLine"></span><button class="btn btn-ghost" id="signOut">Sign out</button></div>
   <p class="kicker">Daily briefing · local MVP</p>
   <h1>Crypto &amp; AI News</h1>
   <p class="sub" id="dateLine">Today · 6 stories · crypto + AI + crossover</p>
@@ -132,6 +186,8 @@
     <div id="metricsBox"></div>
   </section>
 
+  </div><!-- /view-app -->
+
   <footer>Single file · runs from disk · saves to this browser's localStorage · sample data for Phase 3 demo.</footer>
 </div>
 
@@ -186,12 +242,32 @@ const STORIES = [
     bg:"Cited answers: responses with source links. Earlier versions hallucinated links; this update adds link checks.",
     pers:[] }
 ];
-const KEY = "crypto-ai-briefing-v1";
-const RKEY = "crypto-ai-reader-v1";
-const state = JSON.parse(localStorage.getItem(KEY) || '{"saved":[],"hidden":[],"votes":{}}');
-const reader = JSON.parse(localStorage.getItem(RKEY) || '{"interests":[],"fam":"some","bal":"balanced","follows":"","alerts":true,"done":false}');
-function persist(){ localStorage.setItem(KEY, JSON.stringify(state)); }
-function persistReader(){ localStorage.setItem(RKEY, JSON.stringify(reader)); }
+const REGKEY = "crypto-ai-readers-v1";
+const SESKEY = "crypto-ai-session-v1";
+let session = localStorage.getItem(SESKEY) || "";
+function stateKey(){ return "crypto-ai-briefing-v1" + (session && session !== "guest" ? ":" + session : ""); }
+function loadState(){ try { return JSON.parse(localStorage.getItem(stateKey()) || '{"saved":[],"hidden":[],"votes":{}}'); } catch(e){ return {saved:[],hidden:[],votes:{}}; } }
+let state = loadState();
+function persist(){ localStorage.setItem(stateKey(), JSON.stringify(state)); }
+function getRegistry(){ try { return JSON.parse(localStorage.getItem(REGKEY) || '{}'); } catch(e){ return {}; } }
+function saveRegistry(r){ localStorage.setItem(REGKEY, JSON.stringify(r)); }
+function blankReader(){ return {interests:[],followCats:[],fam:"some",bal:"balanced",follows:"",alerts:true,done:false}; }
+function loadReader(){
+  if (!session || session === "guest") {
+    try { return Object.assign(blankReader(), JSON.parse(localStorage.getItem("crypto-ai-reader-v1") || '{}')); }
+    catch(e){ return blankReader(); }
+  }
+  const reg = getRegistry();
+  return Object.assign(blankReader(), (reg[session] && reg[session].reader) || {});
+}
+let reader = loadReader();
+function persistReader(){
+  if (!session || session === "guest") { localStorage.setItem("crypto-ai-reader-v1", JSON.stringify(reader)); return; }
+  const reg = getRegistry();
+  reg[session] = reg[session] || {};
+  reg[session].reader = reader;
+  saveRegistry(reg);
+}
 let filter = "all";
 
 // Phase 2 — 12 PRD interests with bucket mapping
@@ -399,11 +475,12 @@ document.getElementById("resetBtn").addEventListener("click", () => {
   state.saved = []; state.hidden = []; state.votes = {}; state.dismissedAlerts = []; state.hiddenReasons = {}; persist(); render();
 });
 // Phase 2 wiring
-document.getElementById("fam").value = reader.fam;
-document.getElementById("bal").value = reader.bal;
-document.getElementById("follows").value = reader.follows || "";
-document.getElementById("alerts").checked = reader.alerts !== false;
-renderChips(); updateProfileLine();
+function syncProfileControls(){
+  document.getElementById("fam").value = reader.fam;
+  document.getElementById("bal").value = reader.bal;
+  document.getElementById("follows").value = reader.follows || "";
+  document.getElementById("alerts").checked = reader.alerts !== false;
+}
 document.getElementById("saveProfile").addEventListener("click", () => {
   reader.fam = document.getElementById("fam").value;
   reader.bal = document.getElementById("bal").value;
@@ -414,7 +491,69 @@ document.getElementById("saveProfile").addEventListener("click", () => {
 document.getElementById("skipProfile").addEventListener("click", () => {
   reader.done = true; persistReader(); render();
 });
-render();
+// Landing + email gate routing
+function showView(name){
+  document.getElementById("view-landing").hidden = name !== "landing";
+  document.getElementById("view-gate").hidden = name !== "gate";
+  document.getElementById("view-app").hidden = name !== "app";
+  if (name === "app") {
+    document.getElementById("sessionLine").textContent =
+      session === "guest" ? "Browsing as guest — no email saved" : "Signed in as " + session;
+    syncProfileControls(); renderChips(); updateProfileLine(); render();
+  }
+  window.scrollTo(0, 0);
+}
+function route(){
+  const h = location.hash;
+  if (h === "#/start") showView("gate");
+  else if (h === "#/app") {
+    if (!session) { location.hash = "#/start"; return; }
+    showView("app");
+  }
+  else showView("landing");
+}
+function submitEmail(){
+  const input = document.getElementById("email");
+  const err = document.getElementById("emailErr");
+  const note = document.getElementById("gateNote");
+  const email = input.value.trim().toLowerCase();
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    err.textContent = "Please enter a valid email address.";
+    input.focus(); return;
+  }
+  err.textContent = "";
+  const reg = getRegistry();
+  const returning = !!reg[email];
+  if (!returning) {
+    let seed = {};
+    try { seed = JSON.parse(localStorage.getItem("crypto-ai-reader-v1") || '{}'); } catch(e){}
+    reg[email] = { created_at: new Date().toISOString(), reader: Object.assign(blankReader(), seed) };
+    saveRegistry(reg);
+    note.textContent = "Account created for " + email + " — welcome! Opening your briefing…";
+  } else {
+    note.textContent = "Welcome back, " + email + " — opening your briefing…";
+  }
+  session = email; localStorage.setItem(SESKEY, session);
+  state = loadState(); reader = loadReader();
+  setTimeout(() => { location.hash = "#/app"; }, returning ? 150 : 600);
+}
+document.getElementById("ctaStart").addEventListener("click", () => { location.hash = "#/start"; });
+document.getElementById("ctaPeek").addEventListener("click", () => {
+  session = "guest"; localStorage.setItem(SESKEY, session);
+  state = loadState(); reader = loadReader();
+  location.hash = "#/app";
+});
+document.getElementById("gateBack").addEventListener("click", () => { location.hash = "#/"; });
+document.getElementById("emailGo").addEventListener("click", submitEmail);
+document.getElementById("email").addEventListener("keydown", e => { if (e.key === "Enter") submitEmail(); });
+document.getElementById("signOut").addEventListener("click", () => {
+  session = ""; localStorage.removeItem(SESKEY);
+  state = loadState(); reader = loadReader();
+  location.hash = "#/";
+});
+window.addEventListener("hashchange", route);
+if (session && (!location.hash || location.hash === "#/")) location.hash = "#/app";
+else route();
 </script>
 </body>
 </html>
