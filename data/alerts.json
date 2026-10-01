@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-10-01T14:03:28.280Z",
+  "count": 2,
+  "alerts": [
+    {
+      "id": "st-regulator-publishes-stab",
+      "title": "Regulator publishes stablecoin framework draft",
+      "category": "Regulation and policy",
+      "source": "Example Regulator Press",
+      "published_at": "2026-10-01T08:00:00Z",
+      "url": "https://example.invalid/stablecoin-draft"
+    },
+    {
+      "id": "st-bridge-exploit-disclosed",
+      "title": "Bridge exploit disclosed, patch released",
+      "category": "Security and privacy",
+      "source": "Example Security Post",
+      "published_at": "2026-10-01T05:00:00Z",
+      "url": "https://example.invalid/bridge-patch"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-10-01T14:03:28.806Z",
+  "pipeline": {
+    "stories": 6,
+    "briefed": 6,
+    "labelCoverage": 100,
+    "categoriesCovered": 5,
+    "buckets": {
+      "crypto": 2,
+      "ai": 3,
+      "crossover": 1
+    }
+  },
+  "behavioralDefinitions": {
+    "returnRate": "share of days with a briefing opened (app.html: days active in localStorage)",
+    "storiesPerBriefing": "reads per briefing open",
+    "onboardingCompletion": "reader.done flag set / total opens",
+    "feedbackRatio": "More vs Less votes in localStorage",
+    "discoveryFollows": "followCats added from discovery-badged stories",
+    "hideReasons": "counts by not-interested / too-repetitive / low-quality"
+  }
+}

@@ -64,6 +64,8 @@
   <p class="sub" id="dateLine">Today · 6 stories · crypto + AI + crossover</p>
   <span class="pill">News, not investment advice</span>
 
+  <div id="alertBanner"></div>
+
   <section class="card" aria-label="Onboarding">
     <h2 style="margin:0 0 4px;font-size:21px;">2 · Your briefing setup (Phase 2)</h2>
     <p class="profile" id="profileLine">Brief, optional — pick interests and familiarity. Stored only in this browser.</p>
@@ -119,6 +121,16 @@
   <div class="toolbar">
     <button class="btn" id="resetBtn">Reset saved / hidden</button>
   </div>
+
+  <section class="card" aria-label="Weekly digest">
+    <h2 style="margin:0 0 4px;font-size:21px;">5 · Weekly digest (Phase 5)</h2>
+    <div id="digestBox"></div>
+  </section>
+
+  <section class="card" aria-label="Metrics">
+    <h2 style="margin:0 0 4px;font-size:21px;">5 · Metrics (Phase 5)</h2>
+    <div id="metricsBox"></div>
+  </section>
 
   <footer>Single file · runs from disk · saves to this browser's localStorage · sample data for Phase 3 demo.</footer>
 </div>
@@ -262,7 +274,57 @@ function visible(s){
   return s.bucket === filter;
 }
 
+function majorAlerts(){
+  return STORIES.filter(s =>
+    ["Regulation and policy","Security and privacy"].includes(s.cat) &&
+    !(state.dismissedAlerts || []).includes(s.id)
+  ).slice(0, 2);
+}
+function renderAlerts(){
+  const box = document.getElementById("alertBanner");
+  if (!reader.alerts) {
+    box.innerHTML = '<div class="card"><p class="meta">Breaking alerts are off. <button class="btn" id="alertsOn">Turn on (major events only)</button></p></div>';
+    document.getElementById("alertsOn").addEventListener("click", () => {
+      reader.alerts = true; document.getElementById("alerts").checked = true;
+      persistReader(); updateProfileLine(); render();
+    });
+    return;
+  }
+  const majors = majorAlerts();
+  if (!majors.length) { box.innerHTML = ""; return; }
+  box.innerHTML = '<div class="card" style="border-color:var(--amber)">' +
+    '<p class="meta">🔔 Breaking — major events only (' + majors.length + ')</p>' +
+    majors.map(s => '<p><strong>' + s.title + '</strong><br><span class="reason">' + s.cat + ' · ' + s.src + '</span></p>').join("") +
+    '<div class="row"><button class="btn" id="dismissAlerts">Dismiss</button>' +
+    '<button class="btn" id="alertsOff">Turn alerts off</button></div></div>';
+  document.getElementById("dismissAlerts").addEventListener("click", () => {
+    state.dismissedAlerts = majors.map(s => s.id); persist(); render();
+  });
+  document.getElementById("alertsOff").addEventListener("click", () => {
+    reader.alerts = false; document.getElementById("alerts").checked = false;
+    persistReader(); updateProfileLine(); render();
+  });
+}
+function renderDigestMetrics(){
+  const saved = STORIES.filter(s => state.saved.includes(s.id));
+  const disc = STORIES.find(s => isDiscovery(s));
+  document.getElementById("digestBox").innerHTML =
+    '<p class="meta">This week: ' + STORIES.length + ' briefed · ' + saved.length + ' saved</p>' +
+    (saved.length ? '<p>Saved: ' + saved.map(s => s.title).join("; ") + '</p>' : '<p>Nothing saved yet — tap ☆ Save on any story.</p>') +
+    '<p class="reason">Discovery pick: ' + (disc ? disc.title : "none") + '</p>';
+  const votes = Object.values(state.votes);
+  const more = votes.filter(v => v === 1).length, less = votes.filter(v => v === -1).length;
+  const hr = state.hiddenReasons || {};
+  const hrc = Object.values(hr).reduce((m, r) => ((m[r] = (m[r] || 0) + 1), m), {});
+  document.getElementById("metricsBox").innerHTML =
+    '<p class="meta">Pipeline: 6 stories · 100% labeled · 5 categories · crypto 2 / AI 3 / crossover 1</p>' +
+    '<p>Saved ' + state.saved.length + ' · Hidden ' + state.hidden.length +
+    ' · More ' + more + ' / Less ' + less +
+    ' · Onboarding ' + (reader.done ? 'done' : 'skipped/open') + '</p>' +
+    (Object.keys(hrc).length ? '<p class="reason">Hide reasons: ' + Object.entries(hrc).map(([k, v]) => k + '×' + v).join(", ") + '</p>' : '');
+}
 function render(){
+  renderAlerts();
   const list = document.getElementById("list");
   const items = STORIES.filter(visible).sort((a,b) => scoreStory(b) - scoreStory(a));
   const topped = (reader.bal === "balanced" && filter === "all") ? items.slice(0, 6) : items;
@@ -331,9 +393,10 @@ function render(){
       '</p><div class="row"><button class="btn" id="unhide">Unhide all</button></div></div>' : "";
   const u = document.getElementById("unhide");
   if (u) u.addEventListener("click", () => { state.hidden = []; persist(); render(); });
+  renderDigestMetrics();
 }
 document.getElementById("resetBtn").addEventListener("click", () => {
-  state.saved = []; state.hidden = []; state.votes = {}; persist(); render();
+  state.saved = []; state.hidden = []; state.votes = {}; state.dismissedAlerts = []; state.hiddenReasons = {}; persist(); render();
 });
 // Phase 2 wiring
 document.getElementById("fam").value = reader.fam;
