@@ -13,7 +13,11 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.95,
-    "imported_at": "2026-10-01T13:38:13.110Z"
+    "imported_at": "2026-10-01T13:38:13.110Z",
+    "ai_why": "** This draft framework matters for stablecoin issuers and users, as it sets clear rules for reserve management, disclosure, and redemption, potentially increasing trust and stability in the market.",
+    "ai_bg": "** A stablecoin is a digital currency pegged to the value of a traditional currency, like the US dollar, providing a stable store of value in the rapidly evolving cryptocurrency landscape.",
+    "ai_model": "meta-llama/llama-3.1-8b-instruct",
+    "ai_at": "2026-10-02T10:15:44.356Z"
   },
   {
     "id": "st-new-open-model-matches-f",
@@ -29,7 +33,11 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-01T13:38:13.112Z"
+    "imported_at": "2026-10-01T13:38:13.112Z",
+    "ai_why": "** This breakthrough in open model reasoning tests has significant implications for AI developers and researchers, enabling more transparent and collaborative advancements in the field.",
+    "ai_bg": "** For those new to the topic, an \"open model\" refers to an artificial intelligence system whose underlying architecture and weights are publicly available, allowing for community-driven testing and improvement.",
+    "ai_model": "meta-llama/llama-3.1-8b-instruct",
+    "ai_at": "2026-10-02T10:15:45.572Z"
   },
   {
     "id": "st-bridge-exploit-disclosed",

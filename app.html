@@ -199,6 +199,8 @@ const STORIES = [
     why:"Affects exchanges, wallet providers, and holders — compliance timelines and fee disclosures may change.",
     reason:"Because you follow Regulation",
     url:"https://example.invalid/stablecoin-draft",
+    ai_why:"This draft framework matters for stablecoin issuers and users, as it sets clear rules for reserve management, disclosure, and redemption, potentially increasing trust and stability in the market.",
+    ai_bg:"A stablecoin is a digital currency pegged to the value of a traditional currency, like the US dollar, providing a stable store of value in the rapidly evolving cryptocurrency landscape.",
     bg:"Stablecoin: a crypto token pegged to fiat. Previous drafts stalled over reserve rules; this draft revives them with redemption timelines.",
     pers:["Industry: clarity will unlock compliant products.","Critics: reserve rules may favor large issuers."] },
   { id:"s2", bucket:"crypto", cat:"Security and privacy", type:"News", src:"Example Security Post", time:"5h ago",
@@ -215,6 +217,8 @@ const STORIES = [
     why:"Matters for builders choosing open vs closed models — cost, control, and safety trade-offs.",
     reason:"Because you follow AI research",
     url:"https://example.invalid/open-model",
+    ai_why:"This breakthrough in open model reasoning tests has significant implications for AI developers and researchers, enabling more transparent and collaborative advancements in the field.",
+    ai_bg:"An open model refers to an artificial intelligence system whose underlying architecture and weights are publicly available, allowing for community-driven testing and improvement.",
     bg:"Open weights let anyone run and inspect the model. Frontier here means best closed models on math/code evals.",
     pers:[] },
   { id:"s4", bucket:"ai", cat:"Regulation and policy", type:"Analysis", src:"Example Policy Review", time:"7h ago",
@@ -431,8 +435,8 @@ function render(){
       (isDiscovery(s) ? ' · ✨ Discovery' : '') + '</p>' +
       '<h3>' + s.title + '</h3>' +
       '<p>' + s.sum + '</p>' +
-      '<div class="why"><strong>Why it matters' + (reader.fam === "new" ? " (plain language)" : "") + ':</strong> ' + whyText(s) + '</div>' +
-      '<details><summary>Background</summary><p>' + s.bg + '</p></details>' +
+      '<div class="why"><strong>Why it matters' + (reader.fam === "new" && !s.ai_why ? " (plain language)" : "") + ':</strong> ' + (s.ai_why || whyText(s)).replace(/^(\*\*\s*)+/, '') + (s.ai_why ? ' <span class="reason">✦ AI</span>' : '') + '</div>' +
+      '<details><summary>Background</summary><p>' + (s.ai_bg || s.bg).replace(/^(\*\*\s*)+/, '') + '</p></details>' +
       (s.pers && s.pers.length ? '<details><summary>Different perspectives</summary><p>• ' + s.pers.join('</p><p>• ') + '</p></details>' : '') +
       '<p class="reason"><a style="color:var(--accent)" href="' + s.url + '" target="_blank" rel="noopener">Read original source →</a></p>' +
       '<p class="reason">' + s.reason + (vote ? ' · You voted ' + (vote>0?'"More like this"':'"Less like this"') : '') + '</p>' +
