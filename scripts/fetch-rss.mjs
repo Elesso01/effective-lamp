@@ -36,7 +36,7 @@ function parseFeed(xml) {
       title: pick(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i),
       url: pick(/<link>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/link>/i),
       date: pick(/<pubDate>([\s\S]*?)<\/pubDate>/i),
-      body: pick(/<(description|content:encoded)>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/(description|content:encoded)>/i)
+      body: pick(/<(?:description|content:encoded)>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/(?:description|content:encoded)>/i)
     });
   }
   // Atom entries (only if no RSS items found)
@@ -48,8 +48,8 @@ function parseFeed(xml) {
       items.push({
         title: pick(/<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i),
         url: link ? link[1] : "",
-        date: pick(/<(updated|published)>([\s\S]*?)<\/(updated|published)>/i),
-        body: pick(/<(summary|content)[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/(summary|content)>/i)
+        date: pick(/<(?:updated|published)>([\s\S]*?)<\/(?:updated|published)>/i),
+        body: pick(/<(?:summary|content)[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/(?:summary|content)>/i)
       });
     }
   }
@@ -58,7 +58,8 @@ function parseFeed(xml) {
 
 function categorize(title, body) {
   const t = (title + " " + body).toLowerCase();
-  const has = (...ws) => ws.some((w) => t.includes(w));
+  // Short tokens use word boundaries ("ai" must not match "said", "sec" not "second")
+  const has = (...ws) => ws.some((w) => w.length <= 3 ? new RegExp(`\\b${w}\\b`).test(t) : t.includes(w));
   const crypto = has("bitcoin", "ethereum", "crypto", "stablecoin", "token", "blockchain", "defi", "exchange", "wallet", "etf");
   const ai = has("ai", "artificial intelligence", "model", "llm", "chatgpt", "openai", "gemini", "anthropic", "machine learning", "gpu");
   if (crypto && ai) return { category: "Crypto and AI intersections", bucket: "crossover" };

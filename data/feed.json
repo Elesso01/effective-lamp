@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-10-03T19:21:49.566Z",
+  "generated_at": "2026-10-03T19:27:19.542Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 24
+    "familiar": 7,
+    "discovery": 22
   },
   "items": [
+    {
+      "id": "st-crypto-job-postings-triple-t",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-s-sisyphean-struggle",
+      "title": "Crypto's Sisyphean struggle",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-bank-group-sues-u-s-regulato",
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
@@ -24,6 +42,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-community-banks-sue-occ-over",
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-blast-to-wind-down-ethereum",
       "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
       "category": "Markets and business",
@@ -33,8 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-job-postings-triple-t",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "id": "st-payments-firm-openpayd-targe",
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8.5,
@@ -51,15 +87,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-s-sisyphean-struggle",
-      "title": "Crypto's Sisyphean struggle",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-blackrock-offers-a-glimpse-o",
       "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
       "category": "Markets and business",
@@ -69,9 +96,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bny-in-talks-with-kraken-par",
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-a-model-guide-for-the-gpt-6",
       "title": "A model guide for the GPT-6 family",
-      "category": "Products and applications",
+      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -81,6 +117,15 @@
       "id": "st-chatham-scales-its-capital-m",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-eternal-complement",
+      "title": "The eternal complement",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -123,11 +168,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-devday-2026-recap",
+      "title": "DevDay 2026 Recap",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -135,15 +180,6 @@
       "id": "st-near-intents-recovers-entire",
       "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
       "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-community-banks-sue-occ-over",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -161,8 +197,8 @@
     {
       "id": "st-european-crypto-users-have-m",
       "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -186,8 +222,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-splice-ceo-kakul-srivastava",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "id": "st-capcom-is-preparing-for-a-fu",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -213,15 +249,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-netflix-is-pivoting-away-fro",
-      "title": "Netflix is pivoting away from prestige",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-apple-will-limit-mac-disk-ac",
       "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
       "category": "Products and applications",
@@ -231,19 +258,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-capcom-is-preparing-for-a-fu",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "id": "st-splice-ceo-kakul-srivastava",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-best-early-october-prime",
-      "title": "The best early October Prime Day deals happening now",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

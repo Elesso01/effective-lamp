@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-03T19:21:49.699Z",
+  "generated_at": "2026-10-03T19:27:19.676Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-crypto-s-sisyphean-struggle",
+      "title": "Crypto's Sisyphean struggle",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-03T13:00:00.000Z",
+      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle"
+    },
     {
       "id": "st-bank-group-sues-u-s-regulato",
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-02T21:23:20.000Z",
       "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters"
-    },
-    {
-      "id": "st-once-a-2-billion-ethereum-la",
-      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-02T17:15:35.000Z",
-      "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
     }
   ]
 }

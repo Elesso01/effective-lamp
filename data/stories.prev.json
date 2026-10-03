@@ -8,12 +8,12 @@
     "published_at": "2026-10-03T16:00:00.000Z",
     "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
     "type": "News",
-    "summary": "description",
+    "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.221Z"
+    "imported_at": "2026-10-03T19:26:36.666Z"
   },
   {
     "id": "st-crypto-job-postings-triple-t",
@@ -24,12 +24,12 @@
     "published_at": "2026-10-03T16:00:00.000Z",
     "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
     "type": "News",
-    "summary": "description",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.222Z"
+    "imported_at": "2026-10-03T19:26:36.666Z"
   },
   {
     "id": "st-cathie-wood-says-smart-inves",
@@ -40,12 +40,12 @@
     "published_at": "2026-10-03T15:00:00.000Z",
     "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
     "type": "News",
-    "summary": "description",
+    "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.222Z"
+    "imported_at": "2026-10-03T19:26:36.666Z"
   },
   {
     "id": "st-crypto-s-sisyphean-struggle",
@@ -56,12 +56,12 @@
     "published_at": "2026-10-03T13:00:00.000Z",
     "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
     "type": "News",
-    "summary": "description",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.222Z"
+    "imported_at": "2026-10-03T19:26:36.666Z"
   },
   {
     "id": "st-blackrock-offers-a-glimpse-o",
@@ -72,12 +72,12 @@
     "published_at": "2026-10-03T13:00:00.000Z",
     "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
     "type": "News",
-    "summary": "description",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.222Z"
+    "imported_at": "2026-10-03T19:26:36.666Z"
   },
   {
     "id": "st-bank-group-sues-u-s-regulato",
@@ -88,12 +88,12 @@
     "published_at": "2026-10-02T21:23:20.000Z",
     "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
     "type": "News",
-    "summary": "description",
+    "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.222Z"
+    "imported_at": "2026-10-03T19:26:36.667Z"
   },
   {
     "id": "st-bny-in-talks-with-kraken-par",
@@ -104,12 +104,12 @@
     "published_at": "2026-10-02T17:34:40.000Z",
     "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
     "type": "News",
-    "summary": "description",
-    "category": "Products and applications",
+    "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.239Z"
+    "imported_at": "2026-10-03T19:26:36.668Z"
   },
   {
     "id": "st-once-a-2-billion-ethereum-la",
@@ -120,12 +120,12 @@
     "published_at": "2026-10-02T17:15:35.000Z",
     "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "type": "News",
-    "summary": "description",
+    "summary": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:18:39.239Z"
+    "imported_at": "2026-10-03T19:26:36.668Z"
   },
   {
     "id": "st-a-model-guide-for-the-gpt-6",
@@ -136,12 +136,12 @@
     "published_at": "2026-10-02T16:15:00.000Z",
     "url": "https://openai.com/index/practical-guide-building-gpt-6",
     "type": "News",
-    "summary": "description",
-    "category": "Products and applications",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.049Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-chatham-scales-its-capital-m",
@@ -152,12 +152,12 @@
     "published_at": "2026-10-02T00:00:00.000Z",
     "url": "https://openai.com/index/chatham-financial",
     "type": "News",
-    "summary": "description",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
     "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.049Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-the-eternal-complement",
@@ -168,12 +168,12 @@
     "published_at": "2026-10-01T17:00:00.000Z",
     "url": "https://openai.com/index/the-eternal-complement",
     "type": "News",
-    "summary": "description",
-    "category": "Products and applications",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.049Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-how-albertsons-companies-is",
@@ -184,12 +184,12 @@
     "published_at": "2026-10-01T16:00:00.000Z",
     "url": "https://openai.com/index/albertsons-reimagining-retail",
     "type": "News",
-    "summary": "description",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.049Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-the-den-frees-up-10-15-hours",
@@ -200,12 +200,12 @@
     "published_at": "2026-10-01T00:00:00.000Z",
     "url": "https://openai.com/index/the-den-family-social",
     "type": "News",
-    "summary": "description",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.050Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-disrupting-a-coordinated-mod",
@@ -216,12 +216,12 @@
     "published_at": "2026-09-30T10:30:00.000Z",
     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "type": "News",
-    "summary": "description",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.050Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-helping-small-businesses-put",
@@ -232,12 +232,12 @@
     "published_at": "2026-09-30T10:00:00.000Z",
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "type": "News",
-    "summary": "description",
+    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.050Z"
+    "imported_at": "2026-10-03T19:26:39.686Z"
   },
   {
     "id": "st-devday-2026-recap",
@@ -248,12 +248,12 @@
     "published_at": "2026-09-29T10:00:00.000Z",
     "url": "https://openai.com/index/devday-2026-recap",
     "type": "News",
-    "summary": "description",
-    "category": "Products and applications",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:18:42.050Z"
+    "imported_at": "2026-10-03T19:26:39.687Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -264,12 +264,12 @@
     "published_at": "2026-10-03T12:20:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.036Z"
   },
   {
     "id": "st-near-intents-recovers-entire",
@@ -280,12 +280,12 @@
     "published_at": "2026-10-03T11:59:10.000Z",
     "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
+    "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
     "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.036Z"
   },
   {
     "id": "st-community-banks-sue-occ-over",
@@ -296,12 +296,12 @@
     "published_at": "2026-10-03T09:25:01.000Z",
     "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.036Z"
   },
   {
     "id": "st-trump-is-expected-to-appoint",
@@ -312,12 +312,12 @@
     "published_at": "2026-10-03T07:06:08.000Z",
     "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
+    "summary": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.037Z"
   },
   {
     "id": "st-european-crypto-users-have-m",
@@ -328,12 +328,12 @@
     "published_at": "2026-10-02T20:40:47.000Z",
     "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
+    "summary": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
     "category": "Crypto and AI intersections",
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.037Z"
   },
   {
     "id": "st-4-2b-crypto-bank-anchorage-d",
@@ -344,12 +344,12 @@
     "published_at": "2026-10-02T18:41:17.000Z",
     "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
+    "summary": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.037Z"
   },
   {
     "id": "st-blast-to-wind-down-ethereum",
@@ -360,12 +360,12 @@
     "published_at": "2026-10-02T18:24:05.000Z",
     "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
+    "imported_at": "2026-10-03T19:26:38.037Z"
   },
   {
     "id": "st-71-of-uk-finance-leaders-exp",
@@ -376,124 +376,12 @@
     "published_at": "2026-10-02T16:20:24.000Z",
     "url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "description",
+    "summary": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:18:40.357Z"
-  },
-  {
-    "id": "st-the-best-early-october-prime",
-    "title": "The best early October Prime Day deals happening now",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
-  },
-  {
-    "id": "st-splice-ceo-kakul-srivastava",
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
-  },
-  {
-    "id": "st-an-openai-safety-employee-ha",
-    "title": "An OpenAI safety employee has quit and is sounding the alarm",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
-  },
-  {
-    "id": "st-3d-movies-are-finally-worth",
-    "title": "3D movies are finally worth watching",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
-  },
-  {
-    "id": "st-meta-open-sources-code-to-le",
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
-  },
-  {
-    "id": "st-netflix-is-pivoting-away-fro",
-    "title": "Netflix is pivoting away from prestige",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-    "type": "News",
-    "summary": "summary",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
-  },
-  {
-    "id": "st-apple-will-limit-mac-disk-ac",
-    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.732Z",
-    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
+    "imported_at": "2026-10-03T19:26:38.038Z"
   },
   {
     "id": "st-capcom-is-preparing-for-a-fu",
@@ -501,14 +389,110 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-03T19:18:43.731Z",
+    "published_at": "2026-10-03T16:49:10.000Z",
     "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
     "type": "News",
-    "summary": "summary",
+    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, ",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-03T19:18:43.732Z"
+    "imported_at": "2026-10-03T19:26:40.380Z"
+  },
+  {
+    "id": "st-the-best-early-october-prime",
+    "title": "The best early October Prime Day deals happening now",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T16:22:40.000Z",
+    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+    "type": "News",
+    "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on ",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:26:40.380Z"
+  },
+  {
+    "id": "st-an-openai-safety-employee-ha",
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T14:31:56.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "type": "News",
+    "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly comi",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:26:40.381Z"
+  },
+  {
+    "id": "st-meta-open-sources-code-to-le",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-02T21:08:37.000Z",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "type": "News",
+    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big sc",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:26:40.381Z"
+  },
+  {
+    "id": "st-netflix-is-pivoting-away-fro",
+    "title": "Netflix is pivoting away from prestige",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-02T20:30:26.000Z",
+    "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+    "type": "News",
+    "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels in",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:26:40.381Z"
+  },
+  {
+    "id": "st-apple-will-limit-mac-disk-ac",
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-02T20:08:55.000Z",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "type": "News",
+    "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level o",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:26:40.382Z"
+  },
+  {
+    "id": "st-splice-ceo-kakul-srivastava",
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-02T17:19:41.000Z",
+    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "type": "News",
+    "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here a",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:26:40.381Z"
   }
 ]
