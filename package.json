@@ -1,0 +1,24 @@
+{
+  "name": "effective-lamp",
+  "version": "1.0.0",
+  "description": "Helps a broad audience stay up to date on important developments in cryptocurrency and artificial intelligence — in a few minutes each day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elesso01/effective-lamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Elesso01/effective-lamp/issues"
+  },
+  "homepage": "https://github.com/Elesso01/effective-lamp#readme",
+  "dependencies": {
+    "nodemailer": "^10.0.13"
+  }
+}
