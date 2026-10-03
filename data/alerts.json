@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-01T14:03:28.280Z",
+  "generated_at": "2026-10-03T19:21:49.699Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-regulator-publishes-stab",
-      "title": "Regulator publishes stablecoin framework draft",
+      "id": "st-bank-group-sues-u-s-regulato",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
       "category": "Regulation and policy",
-      "source": "Example Regulator Press",
-      "published_at": "2026-10-01T08:00:00Z",
-      "url": "https://example.invalid/stablecoin-draft"
+      "source": "CoinDesk",
+      "published_at": "2026-10-02T21:23:20.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters"
     },
     {
-      "id": "st-bridge-exploit-disclosed",
-      "title": "Bridge exploit disclosed, patch released",
-      "category": "Security and privacy",
-      "source": "Example Security Post",
-      "published_at": "2026-10-01T05:00:00Z",
-      "url": "https://example.invalid/bridge-patch"
+      "id": "st-once-a-2-billion-ethereum-la",
+      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-02T17:15:35.000Z",
+      "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
     }
   ]
 }

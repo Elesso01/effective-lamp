@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-payments-firm-openpayd-targe",
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-03T16:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "type": "News",
+    "summary": "description",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-03T19:18:39.221Z"
+  },
+  {
     "id": "st-crypto-job-postings-triple-t",
     "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:21:17.092Z"
+    "imported_at": "2026-10-03T19:18:39.222Z"
   },
   {
     "id": "st-cathie-wood-says-smart-inves",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:21:17.092Z"
+    "imported_at": "2026-10-03T19:18:39.222Z"
   },
   {
     "id": "st-crypto-s-sisyphean-struggle",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:21:17.092Z"
+    "imported_at": "2026-10-03T19:18:39.222Z"
   },
   {
     "id": "st-blackrock-offers-a-glimpse-o",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:21:17.093Z"
+    "imported_at": "2026-10-03T19:18:39.222Z"
   },
   {
     "id": "st-bank-group-sues-u-s-regulato",
@@ -77,7 +93,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:21:17.093Z"
+    "imported_at": "2026-10-03T19:18:39.222Z"
+  },
+  {
+    "id": "st-bny-in-talks-with-kraken-par",
+    "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-02T17:34:40.000Z",
+    "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+    "type": "News",
+    "summary": "description",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-03T19:18:39.239Z"
   },
   {
     "id": "st-once-a-2-billion-ethereum-la",
@@ -93,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-03T19:21:17.093Z"
+    "imported_at": "2026-10-03T19:18:39.239Z"
   },
   {
     "id": "st-a-model-guide-for-the-gpt-6",
@@ -109,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:21:19.146Z"
+    "imported_at": "2026-10-03T19:18:42.049Z"
   },
   {
     "id": "st-chatham-scales-its-capital-m",
@@ -125,7 +157,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:21:19.146Z"
+    "imported_at": "2026-10-03T19:18:42.049Z"
+  },
+  {
+    "id": "st-the-eternal-complement",
+    "title": "The eternal complement",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-01T17:00:00.000Z",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "type": "News",
+    "summary": "description",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-03T19:18:42.049Z"
   },
   {
     "id": "st-how-albertsons-companies-is",
@@ -141,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:21:19.147Z"
+    "imported_at": "2026-10-03T19:18:42.049Z"
   },
   {
     "id": "st-the-den-frees-up-10-15-hours",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:21:19.147Z"
+    "imported_at": "2026-10-03T19:18:42.050Z"
   },
   {
     "id": "st-disrupting-a-coordinated-mod",
@@ -173,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:21:19.147Z"
+    "imported_at": "2026-10-03T19:18:42.050Z"
   },
   {
     "id": "st-helping-small-businesses-put",
@@ -189,7 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-03T19:21:19.147Z"
+    "imported_at": "2026-10-03T19:18:42.050Z"
+  },
+  {
+    "id": "st-devday-2026-recap",
+    "title": "DevDay 2026 Recap",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-09-29T10:00:00.000Z",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "type": "News",
+    "summary": "description",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-03T19:18:42.050Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -205,7 +269,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.628Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-near-intents-recovers-entire",
@@ -221,7 +285,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.628Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-community-banks-sue-occ-over",
@@ -237,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.629Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-trump-is-expected-to-appoint",
@@ -253,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.629Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-european-crypto-users-have-m",
@@ -269,7 +333,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.629Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-4-2b-crypto-bank-anchorage-d",
@@ -285,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.629Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-blast-to-wind-down-ethereum",
@@ -301,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.629Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-71-of-uk-finance-leaders-exp",
@@ -317,103 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-03T19:21:17.629Z"
-  },
-  {
-    "id": "st-splice-ceo-kakul-srivastava",
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.744Z",
-    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.744Z"
-  },
-  {
-    "id": "st-an-openai-safety-employee-ha",
-    "title": "An OpenAI safety employee has quit and is sounding the alarm",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.744Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.744Z"
-  },
-  {
-    "id": "st-meta-open-sources-code-to-le",
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.744Z",
-    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.744Z"
-  },
-  {
-    "id": "st-netflix-is-pivoting-away-fro",
-    "title": "Netflix is pivoting away from prestige",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.744Z",
-    "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-    "type": "News",
-    "summary": "summary",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.744Z"
-  },
-  {
-    "id": "st-apple-will-limit-mac-disk-ac",
-    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.744Z",
-    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.744Z"
-  },
-  {
-    "id": "st-capcom-is-preparing-for-a-fu",
-    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.743Z",
-    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-    "type": "News",
-    "summary": "summary",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.743Z"
+    "imported_at": "2026-10-03T19:18:40.357Z"
   },
   {
     "id": "st-the-best-early-october-prime",
@@ -421,7 +389,7 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-03T19:21:19.743Z",
+    "published_at": "2026-10-03T19:18:43.732Z",
     "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
     "type": "News",
     "summary": "summary",
@@ -429,6 +397,118 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-03T19:21:19.743Z"
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-splice-ceo-kakul-srivastava",
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.732Z",
+    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "type": "News",
+    "summary": "summary",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-an-openai-safety-employee-ha",
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.732Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "type": "News",
+    "summary": "summary",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-3d-movies-are-finally-worth",
+    "title": "3D movies are finally worth watching",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.732Z",
+    "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+    "type": "News",
+    "summary": "summary",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-meta-open-sources-code-to-le",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.732Z",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "type": "News",
+    "summary": "summary",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-netflix-is-pivoting-away-fro",
+    "title": "Netflix is pivoting away from prestige",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.732Z",
+    "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+    "type": "News",
+    "summary": "summary",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-apple-will-limit-mac-disk-ac",
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.732Z",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "type": "News",
+    "summary": "summary",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
+  },
+  {
+    "id": "st-capcom-is-preparing-for-a-fu",
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-03T19:18:43.731Z",
+    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "type": "News",
+    "summary": "summary",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-03T19:18:43.732Z"
   }
 ]
