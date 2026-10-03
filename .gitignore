@@ -1,4 +1,11 @@
 node_modules/
+.next/
 data/.env.local
+.env
+.env.local
+dev.db
+dev.db-journal
+prisma/dev.db
+prisma/dev.db-journal
 *.log
 .DS_Store

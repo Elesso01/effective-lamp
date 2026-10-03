@@ -4,6 +4,10 @@
   "description": "Helps a broad audience stay up to date on important developments in cryptocurrency and artificial intelligence — in a few minutes each day.",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:push": "prisma db push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,12 +17,21 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Elesso01/effective-lamp/issues"
   },
   "homepage": "https://github.com/Elesso01/effective-lamp#readme",
   "dependencies": {
-    "nodemailer": "^10.0.13"
+    "@next-auth/prisma-adapter": "^1.0.7",
+    "@prisma/adapter-better-sqlite3": "^7.10.0",
+    "@prisma/client": "^7.10.0",
+    "better-sqlite3": "^13.0.3",
+    "next": "^16.3.8",
+    "next-auth": "^4.24.15",
+    "nodemailer": "^10.0.13",
+    "prisma": "^7.10.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   }
 }
