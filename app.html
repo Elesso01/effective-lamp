@@ -209,6 +209,8 @@ const STORIES = [
     why:"If you use bridges or hold wrapped assets, check official migration guidance before moving funds.",
     reason:"Related to your interest in crypto security",
     url:"https://example.invalid/bridge-patch",
+    ai_why:"A bridge exploit disclosure affects users who interact with the affected contracts, potentially exposing them to financial loss or unauthorized access to their assets.",
+    ai_bg:"A bridge in crypto refers to a protocol that enables the transfer of assets between different blockchain networks, allowing for greater interoperability.",
     bg:"Bridge: software moving assets between blockchains — a frequent exploit target.",
     pers:[] },
   { id:"s3", bucket:"ai", cat:"Research and development", type:"Research", src:"Example Lab Blog", time:"3h ago",
@@ -227,6 +229,8 @@ const STORIES = [
     why:"Teams shipping models get new paperwork; everyone else gets clearer incident disclosures.",
     reason:"A major development in AI policy",
     url:"https://example.invalid/safety-bill",
+    ai_why:"The AI safety bill's distinction between reporting duties and voluntary commitments matters for companies and researchers, as it clarifies their responsibilities and potential liabilities.",
+    ai_bg:"The AI safety bill is proposed legislation aimed at regulating AI development, particularly in areas like facial recognition, bias, and transparency.",
     bg:"Safety bill follows voluntary lab commitments. Key terms: reporting duties (mandatory) vs pledges (optional).",
     pers:["Supporters: reporting improves incident learning.","Skeptics: paperwork burdens small teams."] },
   { id:"s5", bucket:"crossover", cat:"Crypto and AI intersections", type:"Analysis", src:"Example Tech Desk", time:"4h ago",
@@ -235,6 +239,8 @@ const STORIES = [
     why:"Early signal for both sides — pricing pressure on cloud GPUs and new token risks.",
     reason:"A major development affecting both AI and blockchain",
     url:"https://example.invalid/gpu-markets",
+    ai_why:"The emergence of decentralized GPU markets meets growing demand for AI computing power, benefiting individuals with idle GPUs and AI developers seeking cost-effective resources.",
+    ai_bg:"Decentralized GPU markets are online platforms connecting individuals with spare computing power to developers needing resources for AI model training.",
     bg:"GPU shortage pushed AI training costs up. Crypto miners repurposed idle hardware into compute marketplaces.",
     pers:["Bulls: cheaper open compute.","Bears: token volatility offsets savings."] },
   { id:"s6", bucket:"ai", cat:"Products and applications", type:"Company announcement", src:"Example Company News", time:"9h ago",
@@ -351,6 +357,7 @@ function whyText(s){
   if (reader.fam === "new") return s.why.split(" — ")[0].split(". ")[0] + ".";
   return s.why;
 }
+function cleanAI(t){ return (t || "").replace(/^(\*\*[\s*]*)+/, "").replace(/\*+$/, "").trim(); }
 
 document.getElementById("dateLine").textContent =
   new Date().toLocaleDateString(undefined,{weekday:"long",month:"long",day:"numeric"}) +
@@ -435,8 +442,8 @@ function render(){
       (isDiscovery(s) ? ' · ✨ Discovery' : '') + '</p>' +
       '<h3>' + s.title + '</h3>' +
       '<p>' + s.sum + '</p>' +
-      '<div class="why"><strong>Why it matters' + (reader.fam === "new" && !s.ai_why ? " (plain language)" : "") + ':</strong> ' + (s.ai_why || whyText(s)).replace(/^(\*\*\s*)+/, '') + (s.ai_why ? ' <span class="reason">✦ AI</span>' : '') + '</div>' +
-      '<details><summary>Background</summary><p>' + (s.ai_bg || s.bg).replace(/^(\*\*\s*)+/, '') + '</p></details>' +
+      '<div class="why"><strong>Why it matters' + (reader.fam === "new" && !cleanAI(s.ai_why) ? " (plain language)" : "") + ':</strong> ' + (cleanAI(s.ai_why) || whyText(s)) + (cleanAI(s.ai_why) ? ' <span class="reason">✦ AI</span>' : '') + '</div>' +
+      '<details><summary>Background</summary><p>' + (cleanAI(s.ai_bg) || s.bg) + '</p></details>' +
       (s.pers && s.pers.length ? '<details><summary>Different perspectives</summary><p>• ' + s.pers.join('</p><p>• ') + '</p></details>' : '') +
       '<p class="reason"><a style="color:var(--accent)" href="' + s.url + '" target="_blank" rel="noopener">Read original source →</a></p>' +
       '<p class="reason">' + s.reason + (vote ? ' · You voted ' + (vote>0?'"More like this"':'"Less like this"') : '') + '</p>' +

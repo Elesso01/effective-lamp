@@ -53,7 +53,11 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-01T13:38:13.112Z"
+    "imported_at": "2026-10-01T13:38:13.112Z",
+    "ai_why": "** A bridge exploit disclosure affects users who interact with the affected contracts, potentially exposing them to financial loss or unauthorized access to their assets.",
+    "ai_bg": "** A bridge in crypto refers to a protocol that enables the transfer of assets between different blockchain networks, such as Ethereum and other blockchains, allowing for greater interoperability.",
+    "ai_model": "meta-llama/llama-3.1-8b-instruct",
+    "ai_at": "2026-10-03T18:08:14.630Z"
   },
   {
     "id": "st-ai-safety-bill-what-actu",
@@ -69,7 +73,11 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-01T13:38:13.112Z"
+    "imported_at": "2026-10-01T13:38:13.112Z",
+    "ai_why": "** The AI safety bill's distinction between reporting duties and voluntary commitments matters for companies and researchers, as it clarifies their responsibilities and potential liabilities in developing and deploying AI systems.",
+    "ai_bg": "** The AI safety bill is a proposed US legislation aimed at regulating the development and use of artificial intelligence, particularly in areas like facial recognition, bias, and transparency.",
+    "ai_model": "meta-llama/llama-3.1-8b-instruct",
+    "ai_at": "2026-10-03T18:08:16.206Z"
   },
   {
     "id": "st-decentralized-gpu-market",
@@ -85,7 +93,11 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-01T13:38:13.112Z"
+    "imported_at": "2026-10-01T13:38:13.112Z",
+    "ai_why": "** The emergence of decentralized GPU markets meets the growing demand for AI computing power, benefiting individuals with idle GPUs and AI developers seeking cost-effective resources.",
+    "ai_bg": "** Decentralized GPU markets are online platforms that connect individuals with spare computing power (GPUs) with businesses and developers that need computing resources for tasks like AI model training and validation.",
+    "ai_model": "meta-llama/llama-3.1-8b-instruct",
+    "ai_at": "2026-10-03T18:08:17.406Z"
   },
   {
     "id": "st-assistant-adds-cited-ans",
@@ -101,6 +113,10 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.6,
-    "imported_at": "2026-10-01T13:38:13.112Z"
+    "imported_at": "2026-10-01T13:38:13.112Z",
+    "ai_why": "**",
+    "ai_bg": "**",
+    "ai_model": "meta-llama/llama-3.1-8b-instruct",
+    "ai_at": "2026-10-03T18:08:17.825Z"
   }
 ]
