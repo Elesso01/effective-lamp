@@ -59,7 +59,7 @@ Included:
 Excluded from MVP:
 Community discussions, audio, advanced sharing, extensive company profiles, custom editorial collections, investment recommendations, expert tools.
 
-See full spec in `# Product Requirements Document_ Crypto and AI News Recommender (1).md`.
+See full spec in `PRD.md`.
 
 ## Target Audience
 
