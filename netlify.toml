@@ -3,3 +3,8 @@
 [build]
   publish = "."
   command = ""
+
+[build.environment]
+  # Repo contains Next.js for local dev, but Netlify serves static files only.
+  # Skip the auto-detected Next.js plugin, which fails with no Next build.
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
