@@ -1,0 +1,5 @@
+# Static publish: serves app.html, design.html, data/*.json as-is.
+# (The Next.js scaffold stays local-only for now; no build step on Netlify.)
+[build]
+  publish = "."
+  command = ""
