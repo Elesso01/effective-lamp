@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-10-03
+# Weekly digest — week of 2026-10-07
 
-6 stories briefed · feed mix 7 familiar / 22 discovery.
+6 stories briefed · feed mix 4 familiar / 31 discovery.
 
 ## Top stories
-1. **Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions** (Products and applications · CoinDesk) — A top crypto development today
-2. **Crypto job postings triple to over 1,200 in September, but applications fall** (Markets and business · CoinDesk) — A top crypto development today
-3. **Cathie Wood says smart investors need to start watching where AI agents spend money** (Products and applications · CoinDesk) — A top AI development today
-4. **Capcom is preparing for a ‘future where we create games together with AI’** (Products and applications · The Verge) — A top AI development today
-5. **Crypto's Sisyphean struggle** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
-6. **BlackRock offers a glimpse of how tokenization may change your investment portfolio** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Rain is seeking a national trust bank charter to bypass third-party banks** (Markets and business · CoinDesk) — A top crypto development today
+2. **Robinhood adds bitcoin worth $25 million to its balance sheet** (Markets and business · CoinDesk) — A top crypto development today
+3. **Spotify expands audiobooks to over 180 markets** (Markets and business · TechCrunch) — A top AI development today
+4. **Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product** (Markets and business · TechCrunch) — A top AI development today
+5. **Down but not out. Bitcoin's stair-step bullish trajectory is still intact** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+6. **U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Crypto's Sisyphean struggle.
+- Discovery pick of the week: Down but not out. Bitcoin's stair-step bullish trajectory is still intact.
 
 _News, not investment advice._

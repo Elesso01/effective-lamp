@@ -19,12 +19,15 @@ const FEEDS = [
   ["https://www.coindesk.com/arc/outboundfeeds/rss/", "CoinDesk", "crypto", 0.85],
   ["https://cointelegraph.com/rss", "Cointelegraph", "crypto", 0.75],
   ["https://openai.com/blog/rss.xml", "OpenAI Blog", "ai", 0.8],
+  ["https://techcrunch.com/feed/", "TechCrunch", "ai", 0.8],
   ["https://www.theverge.com/rss/index.xml", "The Verge", "ai", 0.7]
 ];
 
 const strip = (html) => (html || "").replace(/<[^>]+>/g, " ").replace(/&amp;/g, "&")
   .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"')
-  .replace(/&#39;/g, "'").replace(/\s+/g, " ").trim();
+  .replace(/&#39;/g, "'").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+  .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+  .replace(/\s+/g, " ").trim();
 
 function parseFeed(xml) {
   const items = [];

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T19:27:19.542Z",
+  "generated_at": "2026-10-07T10:12:03.646Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 22
+    "familiar": 4,
+    "discovery": 31
   },
   "items": [
     {
-      "id": "st-crypto-job-postings-triple-t",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "id": "st-pudgy-penguins-abstract-beco",
+      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,29 +15,20 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-s-sisyphean-struggle",
-      "title": "Crypto's Sisyphean struggle",
+      "id": "st-ai-computing-startup-lambda",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bank-group-sues-u-s-regulato",
-      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "id": "st-doj-invokes-bitcoin-fog-ruli",
+      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-once-a-2-billion-ethereum-la",
-      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -51,56 +42,173 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-community-banks-sue-occ-over",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-blast-to-wind-down-ethereum",
-      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "id": "st-rain-is-seeking-a-national-t",
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-payments-firm-openpayd-targe",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "id": "st-robinhood-adds-bitcoin-worth",
+      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-down-but-not-out-bitcoin-s-s",
+      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-u-s-government-moves-over-10",
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cardano-gives-token-issuers",
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-dips-below-84-000-as",
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-peter-thiel-backed-founders",
+      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-spotify-expands-audiobooks-t",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-is-reportedly-partneri",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cathie-wood-says-smart-inves",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "id": "st-ex-ramp-engineers-raise-20m",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-silicon-valley-s-ai-wunderki",
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-blackrock-offers-a-glimpse-o",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bny-in-talks-with-kraken-par",
-      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-      "category": "Markets and business",
+      "id": "st-how-ai-decision-models-could",
+      "title": "How AI decision models could change content moderation",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-next-hurdle-for-ai-agent",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-atlassian-and-openai-expand",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-jump-trading-is-scaling",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sharing-ai-progress-in-mathe",
+      "title": "Sharing AI progress in mathematics",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-advancing-computer-use-with",
+      "title": "Advancing computer use with Ironclad",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-our-approach-to-eu-text-prov",
+      "title": "Our approach to EU text provenance rules",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-building-advertising-for-the",
+      "title": "Building advertising for the way people use AI",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -123,107 +231,80 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-eternal-complement",
-      "title": "The eternal complement",
+      "id": "st-old-money-has-stronger-bitco",
+      "title": "‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-liquidations-hit-550m",
+      "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-etfs-rebound-with-11",
+      "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-russia-clears-first-crypto-e",
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kalshi-s-15-min-gold-markets",
+      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chatgpt-for-teens-is-an-unac",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-drops-another-batch-o",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
       "category": "Research and development",
       "bucket": "ai",
-      "score": 8,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-albertsons-companies-is",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "id": "st-apple-and-lg-team-up-on-new",
+      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-den-frees-up-10-15-hours",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-disrupting-a-coordinated-mod",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-helping-small-businesses-put",
-      "title": "Helping small businesses put AI to work",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-devday-2026-recap",
-      "title": "DevDay 2026 Recap",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-near-intents-recovers-entire",
-      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-is-expected-to-appoint",
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-european-crypto-users-have-m",
-      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-2b-crypto-bank-anchorage-d",
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-71-of-uk-finance-leaders-exp",
-      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-capcom-is-preparing-for-a-fu",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "id": "st-the-best-robot-vacuum-and-mo",
+      "title": "The best robot vacuum and mop deals during October Prime Day",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -231,35 +312,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-an-openai-safety-employee-ha",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-open-sources-code-to-le",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-will-limit-mac-disk-ac",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-splice-ceo-kakul-srivastava",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "id": "st-tesla-s-model-3-and-model-y",
+      "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
