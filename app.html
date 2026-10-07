@@ -3,6 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0f172a">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="apple-touch-icon" href="./icon-192.png">
 <title>Crypto &amp; AI News — Daily Briefing (local)</title>
 <style>
   :root { --bg:#0f172a; --surface:#1e293b; --line:#475569; --text:#f8fafc;
@@ -112,7 +115,7 @@
   </section>
 
   <div id="view-app" hidden>
-  <div class="session"><span id="sessionLine"></span><button class="btn btn-ghost" id="signOut">Sign out</button></div>
+  <div class="session"><span id="sessionLine"></span><span class="row" style="margin-top:0"><button class="btn" id="installBtn" hidden>⬇ Install app</button><button class="btn btn-ghost" id="signOut">Sign out</button></span></div>
   <p class="kicker">Daily briefing · local MVP</p>
   <h1>Crypto &amp; AI News</h1>
   <p class="sub" id="dateLine">Today · 6 stories · crypto + AI + crossover</p>
@@ -578,6 +581,36 @@ document.getElementById("signOut").addEventListener("click", () => {
   location.hash = "#/";
 });
 window.addEventListener("hashchange", route);
+// PWA: offline worker (http(s) only) + visible install button
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
+  navigator.serviceWorker.register("./sw.js").catch(() => {});
+}
+let deferredPrompt = null;
+const installBtn = document.getElementById("installBtn");
+function standaloneMode() {
+  return window.matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+}
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  if (!standaloneMode()) installBtn.hidden = false;
+});
+window.addEventListener("appinstalled", () => {
+  deferredPrompt = null;
+  installBtn.hidden = true;
+});
+installBtn.addEventListener("click", async () => {
+  if (deferredPrompt) {
+    deferredPrompt.prompt();
+    await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    installBtn.hidden = true;
+  } else {
+    alert("To install: open your browser menu and choose Install app / Add to Home Screen.");
+  }
+});
+// Show the button as a hint on touch devices even before the prompt fires
+if (!standaloneMode() && ("ontouchstart" in window)) installBtn.hidden = false;
 if (session && (!location.hash || location.hash === "#/")) location.hash = "#/app";
 else route();
 </script>
