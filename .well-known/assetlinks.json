@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elesso.cryptoainews",
+      "sha256_cert_fingerprints": [
+        "53:DF:A0:1E:F0:C6:2C:E8:51:78:3B:77:25:FE:BF:33:99:91:DC:59:C9:AC:3D:78:56:DB:9F:A6:72:94:18:0F"
+      ]
+    }
+  }
+]
