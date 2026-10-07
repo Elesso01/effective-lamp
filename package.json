@@ -22,6 +22,9 @@
     "url": "https://github.com/Elesso01/effective-lamp/issues"
   },
   "homepage": "https://github.com/Elesso01/effective-lamp#readme",
+  "overrides": {
+    "nodemailer": "$nodemailer"
+  },
   "dependencies": {
     "@neon/config": "^1.8.4",
     "@neon/env": "^1.5.1",
