@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-07T10:12:03.646Z",
+  "generated_at": "2026-10-07T10:23:22.190Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 31
+    "familiar": 5,
+    "discovery": 41
   },
   "items": [
+    {
+      "id": "st-us-commodities-regulator-pro",
+      "title": "US commodities regulator proposes new federal crypto oversight rules",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 11,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-pudgy-penguins-abstract-beco",
       "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
@@ -40,6 +49,15 @@
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-us-justice-dept-tells-staff",
+      "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-rain-is-seeking-a-national-t",
@@ -314,6 +332,87 @@
     {
       "id": "st-tesla-s-model-3-and-model-y",
       "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-georgia-tech-announces-new-o",
+      "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-icba-sues-occ-over-crypto-na",
+      "title": "ICBA Sues OCC Over Crypto National Trust Bank Charters: A Significant Challenge to the OCC’s Chartering Authority",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-what-microsoft-mascot-just-f",
+      "title": "What Microsoft mascot just featured in a cryptocurrency scam?",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-state-cryptocurrency-campaig",
+      "title": "State Cryptocurrency Campaign Finance Laws: Complete Guide 2026",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-guest-column-a-caution-about",
+      "title": "Guest column: A caution about artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-commentary-artificial-intell",
+      "title": "Commentary: Artificial intelligence in the classroom",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-treasure-valley-agencies-wor",
+      "title": "Treasure Valley agencies work to address cryptocurrency ATM fraud",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-we-asked-ai-whether-it-would",
+      "title": "We asked AI whether it would lead to human extinction in a decade. Here’s what it said",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trump-ai-deal-rebrands-artif",
+      "title": "Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

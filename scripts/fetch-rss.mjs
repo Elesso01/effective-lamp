@@ -20,6 +20,10 @@ const FEEDS = [
   ["https://cointelegraph.com/rss", "Cointelegraph", "crypto", 0.75],
   ["https://openai.com/blog/rss.xml", "OpenAI Blog", "ai", 0.8],
   ["https://techcrunch.com/feed/", "TechCrunch", "ai", 0.8],
+  // Reuters offers no public RSS; Google News search surfaces Reuters tech/crypto
+  // coverage (publisher taken from each item's <source> tag, Reuters scored 0.9).
+  ["https://news.google.com/rss/search?q=cryptocurrency%20when:7d&hl=en-US&gl=US&ceid=US:en", "Google News (crypto)", "crypto", 0.7],
+  ["https://news.google.com/rss/search?q=artificial%20intelligence%20when:7d&hl=en-US&gl=US&ceid=US:en", "Google News (AI)", "ai", 0.7],
   ["https://www.theverge.com/rss/index.xml", "The Verge", "ai", 0.7]
 ];
 
@@ -39,7 +43,8 @@ function parseFeed(xml) {
       title: pick(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i),
       url: pick(/<link>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/link>/i),
       date: pick(/<pubDate>([\s\S]*?)<\/pubDate>/i),
-      body: pick(/<(?:description|content:encoded)>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/(?:description|content:encoded)>/i)
+      body: pick(/<(?:description|content:encoded)>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/(?:description|content:encoded)>/i),
+      outlet: pick(/<source[^>]*>([\s\S]*?)<\/source>/i)
     });
   }
   // Atom entries (only if no RSS items found)
@@ -81,9 +86,15 @@ const slug = (t) => "st-" + normTitle(t).slice(0, 28).trim().replace(/\s/g, "-")
 const storiesPath = join(root, "data", "stories.json");
 if (existsSync(storiesPath)) copyFileSync(storiesPath, join(root, "data", "stories.prev.json"));
 
+const HYPE = /skyrocket|will make (you|some)|make (you|some) (rich|millionaires)|unstoppable.*buy|buy before it soars|guaranteed|10x|100x|moonshot|get rich/i;
+const isStub = (title) =>
+  title.length < 30 ||
+  /^(artificial intelligence|crypto(currency)?|ai|bitcoin)\s*-\s*.+/i.test(title) ||
+  /\bthe am$|\.\.+$/.test(title);
+
 const seen = new Set();
 const stories = [];
-let filtered = 0;
+let filtered = 0, filteredPromo = 0;
 const feedStatus = [];
 
 for (const [feedUrl, source, bucket, quality] of FEEDS) {
@@ -100,22 +111,29 @@ for (const [feedUrl, source, bucket, quality] of FEEDS) {
     const items = parseFeed(xml).slice(0, LIMIT);
     let kept = 0;
     for (const it of items) {
-      const key = normTitle(it.title);
+      // Google News titles carry "Headline - Publisher"; split publisher out.
+      const outlet = it.outlet || "";
+      const title = outlet ? it.title.replace(/\s+-\s+[^-]+$/, "").trim() || it.title : it.title;
+      if (HYPE.test(title) || isStub(title)) { filteredPromo++; continue; }
+      const key = normTitle(title);
       if (!key || seen.has(key)) continue;
-      const { category, bucket: catBucket } = categorize(it.title, it.body);
+      const { category, bucket: catBucket } = categorize(title, it.body);
       if (!category) { filtered++; continue; }
       seen.add(key);
+      const isReuters = /reuters/i.test(outlet);
+      const itemSource = outlet || source;
+      const itemQuality = isReuters ? 0.9 : quality;
       const finalBucket = catBucket === "crossover" ? "crossover" : bucket === catBucket ? bucket : catBucket;
       stories.push({
-        id: slug(it.title),
-        title: it.title,
-        source, sourceId: "rss-" + normTitle(source).replace(/\s/g, "-"),
+        id: slug(title),
+        title,
+        source: itemSource, sourceId: "rss-" + normTitle(itemSource).replace(/\s/g, "-"),
         author: source,
         published_at: it.date && !isNaN(Date.parse(it.date)) ? new Date(it.date).toISOString() : new Date().toISOString(),
         url: it.url, type: "News",
         summary: it.body.slice(0, 280),
         category, bucket: finalBucket, crossover: finalBucket === "crossover",
-        quality, imported_at: new Date().toISOString()
+        quality: itemQuality, imported_at: new Date().toISOString()
       });
       kept++;
     }
@@ -135,7 +153,7 @@ if (!stories.length) {
 stories.sort((a, b) => b.quality - a.quality || (b.published_at < a.published_at ? -1 : 1));
 writeFileSync(storiesPath, JSON.stringify(stories, null, 2));
 console.log(JSON.stringify({
-  kept: stories.length, filteredOffTopic: filtered,
+  kept: stories.length, filteredOffTopic: filtered, filteredPromo,
   byBucket: stories.reduce((m, s) => ((m[s.bucket] = (m[s.bucket] || 0) + 1), m), {}),
   feedStatus, backup: "data/stories.prev.json", out: "data/stories.json"
 }, null, 2));

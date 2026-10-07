@@ -1,5 +1,37 @@
 [
   {
+    "id": "st-us-justice-dept-tells-staff",
+    "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
+    "source": "Reuters",
+    "sourceId": "rss-reuters",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-06T20:13:08.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YU",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.9,
+    "imported_at": "2026-10-07T10:23:08.245Z"
+  },
+  {
+    "id": "st-us-commodities-regulator-pro",
+    "title": "US commodities regulator proposes new federal crypto oversight rules",
+    "source": "Reuters",
+    "sourceId": "rss-reuters",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-05T20:30:55.000Z",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWMwYjBmbmRQV1RYQXlDczJHN0ZMdzRhSVgzTE01dzJrOXNidlBqZzg3ZjlmcjlqM0dxd3g1eGZEcGtVUVFQVmNVQVgwTnE1M2VHV2lBbU1ySTZWa05DN1kzcEFxamdEVE56UGRBNkxwWnhqSktWWkFFSjF3S1kwaEVBem10cE1QNnBUc19mdkJ2TlZqaVpaVmdjbHgwczZ6LU5RQ2loWUd5NjFPbjgw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWMwYjBmbmRQV1RYQXlDczJHN0ZMdzRhSVgzTE01dzJrOXNidlBqZzg3ZjlmcjlqM0dxd3g1eGZEcGtVUVFQVmNVQVgwTnE1M2VHV2lBbU1ySTZWa05DN1kzcEFxamdEVE56UGRBNkxwWnhqSktWWkFFSjF3S1kwaEVBem10cE1QNnBUc19mdkJ2TlZqaVpaVmdjbHgwczZ6LU5RQ2loWUd5Nj",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.9,
+    "imported_at": "2026-10-07T10:23:07.970Z"
+  },
+  {
     "id": "st-rain-is-seeking-a-national-t",
     "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
     "source": "CoinDesk",
@@ -13,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.177Z"
+    "imported_at": "2026-10-07T10:23:04.344Z"
   },
   {
     "id": "st-robinhood-adds-bitcoin-worth",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.178Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-down-but-not-out-bitcoin-s-s",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.179Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-u-s-government-moves-over-10",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.179Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-pudgy-penguins-abstract-beco",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.179Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-cardano-gives-token-issuers",
@@ -93,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.179Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-bitcoin-dips-below-84-000-as",
@@ -109,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.180Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-peter-thiel-backed-founders",
@@ -125,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:11:59.180Z"
+    "imported_at": "2026-10-07T10:23:04.346Z"
   },
   {
     "id": "st-spotify-expands-audiobooks-t",
@@ -141,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.098Z"
+    "imported_at": "2026-10-07T10:23:07.161Z"
   },
   {
     "id": "st-apple-is-reportedly-partneri",
@@ -157,7 +189,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.099Z"
+    "imported_at": "2026-10-07T10:23:07.162Z"
   },
   {
     "id": "st-ex-ramp-engineers-raise-20m",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.099Z"
+    "imported_at": "2026-10-07T10:23:07.162Z"
   },
   {
     "id": "st-silicon-valley-s-ai-wunderki",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.099Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-how-ai-decision-models-could",
@@ -205,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.099Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-ai-computing-startup-lambda",
@@ -221,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.099Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-the-next-hurdle-for-ai-agent",
@@ -237,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:02.100Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-atlassian-and-openai-expand",
@@ -253,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-how-jump-trading-is-scaling",
@@ -269,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-sharing-ai-progress-in-mathe",
@@ -285,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-advancing-computer-use-with",
@@ -301,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-our-approach-to-eu-text-prov",
@@ -317,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-building-advertising-for-the",
@@ -333,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-a-model-guide-for-the-gpt-6",
@@ -349,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-chatham-scales-its-capital-m",
@@ -365,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:12:01.591Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-old-money-has-stronger-bitco",
@@ -381,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.725Z"
+    "imported_at": "2026-10-07T10:23:05.027Z"
   },
   {
     "id": "st-crypto-liquidations-hit-550m",
@@ -397,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.725Z"
+    "imported_at": "2026-10-07T10:23:05.027Z"
   },
   {
     "id": "st-bitcoin-etfs-rebound-with-11",
@@ -413,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.725Z"
+    "imported_at": "2026-10-07T10:23:05.027Z"
   },
   {
     "id": "st-russia-clears-first-crypto-e",
@@ -429,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.726Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-doj-invokes-bitcoin-fog-ruli",
@@ -445,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.726Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -461,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.726Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-kalshi-s-15-min-gold-markets",
@@ -477,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:11:59.727Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-chatgpt-for-teens-is-an-unac",
@@ -493,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:12:03.186Z"
+    "imported_at": "2026-10-07T10:23:10.165Z"
   },
   {
     "id": "st-openai-drops-another-batch-o",
@@ -509,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:12:03.186Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-apple-and-lg-team-up-on-new",
@@ -525,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:12:03.187Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-the-best-robot-vacuum-and-mo",
@@ -541,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:12:03.187Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-tesla-s-model-3-and-model-y",
@@ -557,6 +589,150 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:12:03.187Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
+  },
+  {
+    "id": "st-georgia-tech-announces-new-o",
+    "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+    "source": "Georgia Tech News Center",
+    "sourceId": "rss-georgia-tech-news-center",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-06T19:32:43.000Z",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cF",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:08.245Z"
+  },
+  {
+    "id": "st-icba-sues-occ-over-crypto-na",
+    "title": "ICBA Sues OCC Over Crypto National Trust Bank Charters: A Significant Challenge to the OCC’s Chartering Authority",
+    "source": "Consumer Finance Monitor",
+    "sourceId": "rss-consumer-finance-monitor",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-06T01:32:35.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUU5KaGZER3JjVDdtOEZILV9XVzVNcUpfdnBNMUd6M214eWpEbkl0S295c0VITHZUeVh2ZmVkTXFtclU2V0FfOGRzLUZyVzZXRmJIS3FGVHVIZEVnZ3BMWnBRbldmNVQwTWJCLUJjUVktOU05SkFOUm00VDNsQ3lqaWtDSW4xYjZpM1dzajVKcXQzWlZ2eFZ2RGM5TjYzZmRQS096c1V4M2pTM3htdEdWc3k5MVZGZUNJNFhxQy1qaVZNbnRBbTFyajlqbFdvdFMxN1RZLW5aVWFSUUxxcGxFR0VmZlBmdEZLcTVYLWc3dUkwQm1O?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUU5KaGZER3JjVDdtOEZILV9XVzVNcUpfdnBNMUd6M214eWpEbkl0S295c0VITHZUeVh2ZmVkTXFtclU2V0FfOGRzLUZyVzZXRmJIS3FGVHVIZEVnZ3BMWnBRbldmNVQwTWJCLUJjUVktOU05SkFOUm00VDNsQ3lqaWtDSW4xYjZpM1dzajVKcXQzWlZ2eFZ2RGM5TjYzZmRQS096c1V4M2pTM3",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:07.971Z"
+  },
+  {
+    "id": "st-what-microsoft-mascot-just-f",
+    "title": "What Microsoft mascot just featured in a cryptocurrency scam?",
+    "source": "GovTech",
+    "sourceId": "rss-govtech",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-05T21:57:46.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUVreTY0dVJBaEp2Vzd6WTVKMHl1Z2tKMXRGcmtOZUVNQ2FnbUktWHhyMlQwMVhCTXJvRVJHTThvRWE5U2VQVE1CYTJ3ZUppam9MeW5naUJXYUJxRjNCMTFlb0M1ODZfZFhVMjg2OUZHa1oxdEliQ1liNFNJS2dkeGJLS1lLWTg2YjdqbEktX1hSQW4wLTA3d2pNUm5XZnE0YmZCOVZZYw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUVreTY0dVJBaEp2Vzd6WTVKMHl1Z2tKMXRGcmtOZUVNQ2FnbUktWHhyMlQwMVhCTXJvRVJHTThvRWE5U2VQVE1CYTJ3ZUppam9MeW5naUJXYUJxRjNCMTFlb0M1ODZfZFhVMjg2OUZHa1oxdEliQ1liNFNJS2dkeGJLS1lLWTg2YjdqbEktX1hSQW4wLTA3d2pNUm5XZnE0YmZCOVZZYw?oc=",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:07.971Z"
+  },
+  {
+    "id": "st-state-cryptocurrency-campaig",
+    "title": "State Cryptocurrency Campaign Finance Laws: Complete Guide 2026",
+    "source": "MultiState",
+    "sourceId": "rss-multistate",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-05T20:48:06.000Z",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVUtT2lUbW9kY054Wlo5R3lFUmQ4YWNYNXZLamN6am9EcFhHS3lQWm9ZNnIwT1FrY2xpekQ4U2dGV3p4RUxBQmNrazNQSkZkdjdENzJLalpuQjdOdG9WeE5pNXQtdmZCSHBnMmQ0V2hRcWhmRG5hcDVGS0JIbEtGU2R4X29JM2M4dGZZanpaZWRSWWRZZUtROGhOLXNXUQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdVUtT2lUbW9kY054Wlo5R3lFUmQ4YWNYNXZLamN6am9EcFhHS3lQWm9ZNnIwT1FrY2xpekQ4U2dGV3p4RUxBQmNrazNQSkZkdjdENzJLalpuQjdOdG9WeE5pNXQtdmZCSHBnMmQ0V2hRcWhmRG5hcDVGS0JIbEtGU2R4X29JM2M4dGZZanpaZWRSWWRZZUtROGhOLXNXUQ?oc=5\" target=\"_",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:07.960Z"
+  },
+  {
+    "id": "st-guest-column-a-caution-about",
+    "title": "Guest column: A caution about artificial intelligence",
+    "source": "Riverhead News Review",
+    "sourceId": "rss-riverhead-news-review",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-04T23:26:10.000Z",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV29FYjZYXzFaeklJckdoWmRoT0lQM04zaXRna0owQUxuOGFVLTg3LVZrYWRNNkdYMS15WkxMeUJ5ck02UTFZVkoyZDNOZ2Y3a21aUTlFVkVCNWZrcjVsRk8tSnBYdFAxUkxPUWthUVJKcVpkZDY0TmpHWjdhMzlVcnJCN0FsNDE4bVJrWGhoQ0dwOHlFeEMyemRlOGpSR083bFphYTZLUkZ5d3B3VTJLcGZR?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOV29FYjZYXzFaeklJckdoWmRoT0lQM04zaXRna0owQUxuOGFVLTg3LVZrYWRNNkdYMS15WkxMeUJ5ck02UTFZVkoyZDNOZ2Y3a21aUTlFVkVCNWZrcjVsRk8tSnBYdFAxUkxPUWthUVJKcVpkZDY0TmpHWjdhMzlVcnJCN0FsNDE4bVJrWGhoQ0dwOHlFeEMyemRlOGpSR083bFphYTZLUkZ5d3",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:08.245Z"
+  },
+  {
+    "id": "st-commentary-artificial-intell",
+    "title": "Commentary: Artificial intelligence in the classroom",
+    "source": "Washington State Standard",
+    "sourceId": "rss-washington-state-standard",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-04T16:07:53.000Z",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFlVjlFZjllRFpuSGJsRkR0a3BjQmdqbnRnNUlHTG9GNHE0alZJcXh0THlKYmNfUngtV3lzUkxiV2RTY0NBVUlIaktwdDhaLW95b3N6cnIxTDE3NEJhYzdyTExVOV9FdXI3cnYwUGdYaUllQkpob19ZZWtuV3V0RlVuVl9JZGxseWdwcU0yRE5HQQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFlVjlFZjllRFpuSGJsRkR0a3BjQmdqbnRnNUlHTG9GNHE0alZJcXh0THlKYmNfUngtV3lzUkxiV2RTY0NBVUlIaktwdDhaLW95b3N6cnIxTDE3NEJhYzdyTExVOV9FdXI3cnYwUGdYaUllQkpob19ZZWtuV3V0RlVuVl9JZGxseWdwcU0yRE5HQQ?oc=5\" target=\"_blank\">Commentar",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:08.245Z"
+  },
+  {
+    "id": "st-treasure-valley-agencies-wor",
+    "title": "Treasure Valley agencies work to address cryptocurrency ATM fraud",
+    "source": "KTVB",
+    "sourceId": "rss-ktvb",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-02T02:26:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN1ptV0ZZTThRcGNjcFU3aEFJTlZSaVBFamF4Zk55SDdaMWR3eGhXZ3pHLXV4TWdzUHlSbTdVZ0pWMHlxXzdTUGNhU2JaN0ZKUE5lbkF6RVNaQ3E2MmJDaXNPOUN5OVdNSGM0YmF5V0lfejNoSl85M0lUY0FDempPYVRTcS1welRDSGhoZHVpUXEyeFkzblRlSHVpVkk1aF9vUkRkYmdQRVpZd0RRanUyby1xLTNyeWhJckJ0UG1FclRrVHhrc0x2eTlNUFVFZ2h6ZDN3R3U4OUdSR0Y2aFR2aQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN1ptV0ZZTThRcGNjcFU3aEFJTlZSaVBFamF4Zk55SDdaMWR3eGhXZ3pHLXV4TWdzUHlSbTdVZ0pWMHlxXzdTUGNhU2JaN0ZKUE5lbkF6RVNaQ3E2MmJDaXNPOUN5OVdNSGM0YmF5V0lfejNoSl85M0lUY0FDempPYVRTcS1welRDSGhoZHVpUXEyeFkzblRlSHVpVkk1aF9vUkRkYmdQRVpZd0",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:07.961Z"
+  },
+  {
+    "id": "st-we-asked-ai-whether-it-would",
+    "title": "We asked AI whether it would lead to human extinction in a decade. Here’s what it said",
+    "source": "The Independent",
+    "sourceId": "rss-the-independent",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-01T08:26:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW5ZaHJXdjBMS3RsR2R5b3NnVmQyeWZhWTZVaVpHMGt3c1Nqa0o0cHZaMVMxX05IdklFb0ZzbFprREtYYTVZcU9Wdnk1RmlnRHRoWWcwckVQYkhPMldjRTB4MnZ1cXVwWEEtcHhUZjlPdnN6UENaRUswOWU4MWh4TWNCb0NRMnZHYlVQZ2pLVW1fTFRQUWZHbUNPMGdVR1ZNSG5NTEFn?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW5ZaHJXdjBMS3RsR2R5b3NnVmQyeWZhWTZVaVpHMGt3c1Nqa0o0cHZaMVMxX05IdklFb0ZzbFprREtYYTVZcU9Wdnk1RmlnRHRoWWcwckVQYkhPMldjRTB4MnZ1cXVwWEEtcHhUZjlPdnN6UENaRUswOWU4MWh4TWNCb0NRMnZHYlVQZ2pLVW1fTFRQUWZHbUNPMGdVR1ZNSG5NTEFn?oc=5\"",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:08.245Z"
+  },
+  {
+    "id": "st-trump-ai-deal-rebrands-artif",
+    "title": "Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’",
+    "source": "The Guardian",
+    "sourceId": "rss-the-guardian",
+    "author": "Google News (AI)",
+    "published_at": "2026-09-30T17:37:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFVZQVZWMk1XVVREWXRWcVZaWGZrb0dGSURLVkl4MUg0ZHFoTHNWckY5WU9hWXJuOXhnU21xY1NHM0hMM2FiQkRKdUtmWlpRcHdGbEg1MmphUXFWaEE1VC1YSGgwTlJIVlhwX0tOcl9HV2F1UnhMOHZPV3hQMkEwdWI3c2N6TGxYOWVJS052Q3E3UmM?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFVZQVZWMk1XVVREWXRWcVZaWGZrb0dGSURLVkl4MUg0ZHFoTHNWckY5WU9hWXJuOXhnU21xY1NHM0hMM2FiQkRKdUtmWlpRcHdGbEg1MmphUXFWaEE1VC1YSGgwTlJIVlhwX0tOcl9HV2F1UnhMOHZPV3hQMkEwdWI3c2N6TGxYOWVJS052Q3E3UmM?oc=5\" target=\"_blank\">Trump AI",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-07T10:23:08.245Z"
   }
 ]
