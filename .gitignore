@@ -12,6 +12,7 @@ prisma/dev.db-journal
 .neon
 # Android build outputs + signing secrets (sources in android-twa/ are committed)
 android-twa/build/
+android-twa/app/build/
 android-twa/.gradle/
 android-twa/local.properties
 android-twa/gradle.properties
