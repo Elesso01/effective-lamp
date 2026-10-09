@@ -19,6 +19,12 @@ self.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET") return;
   const url = new URL(e.request.url);
   if (url.origin !== location.origin) return;
+  const offline = () =>
+    new Response("<h1>You are offline</h1>", {
+      status: 503,
+      statusText: "Offline",
+      headers: { "Content-Type": "text/html; charset=utf-8" },
+    });
   e.respondWith(
     caches.match(e.request).then((hit) => {
       const fresh = fetch(e.request).then((res) => {
@@ -27,9 +33,12 @@ self.addEventListener("fetch", (e) => {
           caches.open(VERSION).then((c) => c.put(e.request, copy));
         }
         return res;
-      }).catch(() => hit);
-      // Data JSON: network first; shell: cache first.
-      return url.pathname.endsWith(".json") ? fresh.catch(() => hit) : (hit || fresh);
+      });
+      // Data JSON: network first; shell: cache first. Never respond with
+      // undefined — fall back to cache, then to a synthetic offline page.
+      return url.pathname.endsWith(".json")
+        ? fresh.catch(() => hit || offline())
+        : hit || fresh.catch(() => offline());
     })
   );
 });
