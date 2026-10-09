@@ -13,7 +13,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-07T10:21:49.673Z"
+    "imported_at": "2026-10-07T10:23:08.245Z"
   },
   {
     "id": "st-us-commodities-regulator-pro",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-07T10:21:48.942Z"
+    "imported_at": "2026-10-07T10:23:07.970Z"
   },
   {
     "id": "st-rain-is-seeking-a-national-t",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.801Z"
+    "imported_at": "2026-10-07T10:23:04.344Z"
   },
   {
     "id": "st-robinhood-adds-bitcoin-worth",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.802Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-down-but-not-out-bitcoin-s-s",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.803Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-u-s-government-moves-over-10",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.803Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-pudgy-penguins-abstract-beco",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.803Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-cardano-gives-token-issuers",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.803Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-bitcoin-dips-below-84-000-as",
@@ -141,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.804Z"
+    "imported_at": "2026-10-07T10:23:04.345Z"
   },
   {
     "id": "st-peter-thiel-backed-founders",
@@ -157,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-07T10:21:44.804Z"
+    "imported_at": "2026-10-07T10:23:04.346Z"
   },
   {
     "id": "st-spotify-expands-audiobooks-t",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.777Z"
+    "imported_at": "2026-10-07T10:23:07.161Z"
   },
   {
     "id": "st-apple-is-reportedly-partneri",
@@ -189,7 +189,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.778Z"
+    "imported_at": "2026-10-07T10:23:07.162Z"
   },
   {
     "id": "st-ex-ramp-engineers-raise-20m",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.778Z"
+    "imported_at": "2026-10-07T10:23:07.162Z"
   },
   {
     "id": "st-silicon-valley-s-ai-wunderki",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.779Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-how-ai-decision-models-could",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.779Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-ai-computing-startup-lambda",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.779Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-the-next-hurdle-for-ai-agent",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.779Z"
+    "imported_at": "2026-10-07T10:23:07.163Z"
   },
   {
     "id": "st-atlassian-and-openai-expand",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.165Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-how-jump-trading-is-scaling",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.164Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-sharing-ai-progress-in-mathe",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.164Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-advancing-computer-use-with",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.165Z"
+    "imported_at": "2026-10-07T10:23:06.647Z"
   },
   {
     "id": "st-our-approach-to-eu-text-prov",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.165Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-building-advertising-for-the",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.165Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-a-model-guide-for-the-gpt-6",
@@ -381,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.165Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-chatham-scales-its-capital-m",
@@ -397,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-07T10:21:47.165Z"
+    "imported_at": "2026-10-07T10:23:06.648Z"
   },
   {
     "id": "st-old-money-has-stronger-bitco",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.456Z"
+    "imported_at": "2026-10-07T10:23:05.027Z"
   },
   {
     "id": "st-crypto-liquidations-hit-550m",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.457Z"
+    "imported_at": "2026-10-07T10:23:05.027Z"
   },
   {
     "id": "st-bitcoin-etfs-rebound-with-11",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.457Z"
+    "imported_at": "2026-10-07T10:23:05.027Z"
   },
   {
     "id": "st-russia-clears-first-crypto-e",
@@ -461,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.457Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-doj-invokes-bitcoin-fog-ruli",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.458Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -493,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.458Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-kalshi-s-15-min-gold-markets",
@@ -509,23 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-07T10:21:45.458Z"
-  },
-  {
-    "id": "st-artificial-intelligence-abc",
-    "title": "Artificial Intelligence - ABC News",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "sourceId": "rss-abc-news-breaking-news-latest-news-and-videos",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-07T05:11:52.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5\" target=\"_blank\">Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.671Z"
+    "imported_at": "2026-10-07T10:23:05.028Z"
   },
   {
     "id": "st-chatgpt-for-teens-is-an-unac",
@@ -541,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:53.674Z"
+    "imported_at": "2026-10-07T10:23:10.165Z"
   },
   {
     "id": "st-openai-drops-another-batch-o",
@@ -557,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:53.674Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-apple-and-lg-team-up-on-new",
@@ -573,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:53.675Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-the-best-robot-vacuum-and-mo",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:53.674Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-tesla-s-model-3-and-model-y",
@@ -605,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:53.675Z"
+    "imported_at": "2026-10-07T10:23:10.166Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.672Z"
+    "imported_at": "2026-10-07T10:23:08.245Z"
   },
   {
     "id": "st-icba-sues-occ-over-crypto-na",
@@ -637,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.943Z"
+    "imported_at": "2026-10-07T10:23:07.971Z"
   },
   {
     "id": "st-what-microsoft-mascot-just-f",
@@ -653,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.943Z"
+    "imported_at": "2026-10-07T10:23:07.971Z"
   },
   {
     "id": "st-state-cryptocurrency-campaig",
@@ -669,23 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.941Z"
-  },
-  {
-    "id": "st-prediction-this-cryptocurren",
-    "title": "Prediction: This Cryptocurrency Will Skyrocket in Price in 2027 and Make Some Investors Rich",
-    "source": "Yahoo Finance",
-    "sourceId": "rss-yahoo-finance",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-05T12:23:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPREd0enRFQTFzNjJ3UUJQU3E5d3Y1ZnMzTzRoTy00NVVUdnRRb09YRDIwNXlDcEJVeWZJNi1IWTZGSE9TcUxYTmxveWR5NUJfUVBpN190WkEwMnBhOEJCTF9VZjFpQVBsMjRlMldtTU5vWWZUR1k2SXNoaUgwdjE4bGVGRXF6cE9mdjNuMG1hZ0tkLXdVM1lNZnh2clBGVEowd3EwaDdETHl5bjEtWTF2SQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPREd0enRFQTFzNjJ3UUJQU3E5d3Y1ZnMzTzRoTy00NVVUdnRRb09YRDIwNXlDcEJVeWZJNi1IWTZGSE9TcUxYTmxveWR5NUJfUVBpN190WkEwMnBhOEJCTF9VZjFpQVBsMjRlMldtTU5vWWZUR1k2SXNoaUgwdjE4bGVGRXF6cE9mdjNuMG1hZ0tkLXdVM1lNZnh2clBGVEowd3EwaDdETHl5bj",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.942Z"
+    "imported_at": "2026-10-07T10:23:07.960Z"
   },
   {
     "id": "st-guest-column-a-caution-about",
@@ -701,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.672Z"
+    "imported_at": "2026-10-07T10:23:08.245Z"
   },
   {
     "id": "st-commentary-artificial-intell",
@@ -717,55 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.672Z"
-  },
-  {
-    "id": "st-1-unstoppable-cryptocurrency",
-    "title": "1 Unstoppable Cryptocurrency to Buy Before It Soars Over 250%, According to Wall Street Analysts",
-    "source": "The Motley Fool",
-    "sourceId": "rss-the-motley-fool",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-04T03:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUpiSEM5LXl1dXdKeEhaMXA4WUhjQXplcW4tQVlVLUYtNXhINWo1eGI5MWNwemtjZ2hnTExqeHRKbnVlN0pzSWZ1YXdNc3c2Z0tsVWwyVVhiZk40eFcxTENpR3ZWdVRzVTBPdWlkbzNkel9BamNyOHJhTHVpNlZQY1JrYW9LMFp1MUhGbjNtQ05vaVJReWw0eA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUpiSEM5LXl1dXdKeEhaMXA4WUhjQXplcW4tQVlVLUYtNXhINWo1eGI5MWNwemtjZ2hnTExqeHRKbnVlN0pzSWZ1YXdNc3c2Z0tsVWwyVVhiZk40eFcxTENpR3ZWdVRzVTBPdWlkbzNkel9BamNyOHJhTHVpNlZQY1JrYW9LMFp1MUhGbjNtQ05vaVJReWw0eA?oc=5\" target=\"_blank\">1",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.942Z"
-  },
-  {
-    "id": "st-the-new-york-times-president",
-    "title": "The New York Times. . President Trump launched his own cryptocurrency just days before his 2025 inauguration. The New York Times would like to hear from readers who bought the coin last year, no matter the reason for investing, or how big or small the am",
-    "source": "Facebook",
-    "sourceId": "rss-facebook",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-02T20:25:01.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTJhSWJlLTNaTnVEa1U0UWt4cWVJZlNva09RVVZCdDNrazY5RFJuX2lETmVIV3J1ZEpZSmFrYWEwRGJTdUREY1Y2eFpDMm50MU56XzJaTUZ6OEVPTWljSnJmRDlzUnpsZ2ZXVkxRa2xoSm1WWVh3dlV4UkJRSUFxSy13V0g1WVF3U0xDTUFqTDVuTExCbG1oM0MxcWxpN1VaSlVxN3Jacw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTJhSWJlLTNaTnVEa1U0UWt4cWVJZlNva09RVVZCdDNrazY5RFJuX2lETmVIV3J1ZEpZSmFrYWEwRGJTdUREY1Y2eFpDMm50MU56XzJaTUZ6OEVPTWljSnJmRDlzUnpsZ2ZXVkxRa2xoSm1WWVh3dlV4UkJRSUFxSy13V0g1WVF3U0xDTUFqTDVuTExCbG1oM0MxcWxpN1VaSlVxN3Jacw?oc=",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.942Z"
-  },
-  {
-    "id": "st-artificial-intelligence",
-    "title": "Artificial intelligence",
-    "source": "World Meteorological Organization WMO",
-    "sourceId": "rss-world-meteorological-organization-wmo",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-02T07:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5teV8xeTgyQjNGNWlRWDFiUTVZMllvVlp5ODhLZWFHOUpOVzVPU2Z2YXUxY1gwMVBkNHdoMGpWS2dRMnltUTlFRVhqdHdQeGlMVGhUTjJZeERhUQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5teV8xeTgyQjNGNWlRWDFiUTVZMllvVlp5ODhLZWFHOUpOVzVPU2Z2YXUxY1gwMVBkNHdoMGpWS2dRMnltUTlFRVhqdHdQeGlMVGhUTjJZeERhUQ?oc=5\" target=\"_blank\">Artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Meteorological Org",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.672Z"
+    "imported_at": "2026-10-07T10:23:08.245Z"
   },
   {
     "id": "st-treasure-valley-agencies-wor",
@@ -781,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:48.942Z"
+    "imported_at": "2026-10-07T10:23:07.961Z"
   },
   {
     "id": "st-we-asked-ai-whether-it-would",
@@ -797,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.671Z"
+    "imported_at": "2026-10-07T10:23:08.245Z"
   },
   {
     "id": "st-trump-ai-deal-rebrands-artif",
@@ -813,6 +733,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-07T10:21:49.672Z"
+    "imported_at": "2026-10-07T10:23:08.245Z"
   }
 ]

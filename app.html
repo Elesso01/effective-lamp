@@ -191,7 +191,7 @@
 
   </div><!-- /view-app -->
 
-  <footer>Single file · runs from disk · saves to this browser's localStorage · sample data for Phase 3 demo.</footer>
+  <footer>Live RSS briefing · refreshes every 4 hours · saves to this browser's localStorage.</footer>
 </div>
 
 <script>
@@ -255,6 +255,58 @@ const STORIES = [
     bg:"Cited answers: responses with source links. Earlier versions hallucinated links; this update adds link checks.",
     pers:[] }
 ];
+// Live news loader — swaps the embedded sample stories for today's pipeline
+// output (data/stories.json + data/briefing.json). Falls back to samples if
+// offline or the data can't be loaded.
+async function loadLiveNews(){
+  try {
+    const [stRes, brRes] = await Promise.all([
+      fetch("data/stories.json", {cache:"no-cache"}),
+      fetch("data/briefing.json", {cache:"no-cache"}).catch(() => null)
+    ]);
+    if (!stRes || !stRes.ok) return false;
+    const stories = await stRes.json();
+    if (!Array.isArray(stories) || !stories.length) return false;
+    let briefing = null;
+    try { if (brRes && brRes.ok) briefing = await brRes.json(); } catch(e){}
+    const slotById = {};
+    ((briefing && briefing.slots) || []).forEach(s => { slotById[s.id] = s; });
+    const ago = (iso) => {
+      const mins = Math.max(0, (Date.now() - new Date(iso).getTime()) / 6e4);
+      if (mins < 60) return Math.max(1, Math.round(mins)) + "m ago";
+      const hrs = mins / 60;
+      if (hrs < 48) return Math.round(hrs) + "h ago";
+      return Math.round(hrs / 24) + "d ago";
+    };
+    const DEFAULT_WHY = {
+      crypto: "Top crypto development in today's feed — markets, regulation, or security.",
+      ai: "Top AI development in today's feed — models, products, or policy.",
+      crossover: "A development touching both crypto and AI — worth knowing early."
+    };
+    const live = stories.map(s => {
+      const b = slotById[s.id];
+      return {
+        id: s.id, bucket: s.bucket, cat: s.category, type: s.type || "News",
+        src: s.source, time: ago(s.published_at),
+        title: s.title, sum: s.summary || "",
+        why: DEFAULT_WHY[s.bucket] || "Part of today's crypto + AI briefing.",
+        reason: b ? b.reason : "Fresh from " + s.source,
+        url: s.url,
+        bg: (b && b.background) || "",
+        pers: (b && b.perspectives) || []
+      };
+    });
+    STORIES.length = 0;
+    STORIES.push.apply(STORIES, live);
+    document.getElementById("dateLine").textContent =
+      new Date().toLocaleDateString(undefined,{weekday:"long",month:"long",day:"numeric"}) +
+      " · " + STORIES.length + " stories · crypto + AI · updated " +
+      new Date().toLocaleTimeString(undefined,{hour:"2-digit",minute:"2-digit"});
+    render();
+    return true;
+  } catch(e){ return false; }
+}
+loadLiveNews();
 const REGKEY = "crypto-ai-readers-v1";
 const SESKEY = "crypto-ai-session-v1";
 // Safe storage: localStorage when available, in-memory fallback for
@@ -421,8 +473,10 @@ function renderDigestMetrics(){
   const more = votes.filter(v => v === 1).length, less = votes.filter(v => v === -1).length;
   const hr = state.hiddenReasons || {};
   const hrc = Object.values(hr).reduce((m, r) => ((m[r] = (m[r] || 0) + 1), m), {});
+  const byB = STORIES.reduce((m, s) => ((m[s.bucket] = (m[s.bucket] || 0) + 1), m), {});
   document.getElementById("metricsBox").innerHTML =
-    '<p class="meta">Pipeline: 6 stories · 100% labeled · 5 categories · crypto 2 / AI 3 / crossover 1</p>' +
+    '<p class="meta">Pipeline: ' + STORIES.length + ' stories · live RSS · crypto ' +
+    (byB.crypto || 0) + ' / AI ' + (byB.ai || 0) + ' / crossover ' + (byB.crossover || 0) + '</p>' +
     '<p>Saved ' + state.saved.length + ' · Hidden ' + state.hidden.length +
     ' · More ' + more + ' / Less ' + less +
     ' · Onboarding ' + (reader.done ? 'done' : 'skipped/open') + '</p>' +

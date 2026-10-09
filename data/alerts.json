@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-07T10:23:22.315Z",
+  "generated_at": "2026-10-09T20:27:16.481Z",
   "count": 1,
   "alerts": [
     {
-      "id": "st-us-commodities-regulator-pro",
-      "title": "US commodities regulator proposes new federal crypto oversight rules",
-      "category": "Regulation and policy",
-      "source": "Reuters",
-      "published_at": "2026-10-05T20:30:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWMwYjBmbmRQV1RYQXlDczJHN0ZMdzRhSVgzTE01dzJrOXNidlBqZzg3ZjlmcjlqM0dxd3g1eGZEcGtVUVFQVmNVQVgwTnE1M2VHV2lBbU1ySTZWa05DN1kzcEFxamdEVE56UGRBNkxwWnhqSktWWkFFSjF3S1kwaEVBem10cE1QNnBUc19mdkJ2TlZqaVpaVmdjbHgwczZ6LU5RQ2loWUd5NjFPbjgw?oc=5"
+      "id": "st-dwf-labs-subsidiaries-sue-bi",
+      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+      "category": "Security and privacy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-09T12:23:54.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach"
     }
   ]
 }

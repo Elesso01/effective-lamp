@@ -1,10 +1,15 @@
-// Offline-first service worker for the static prototype.
-// Cache-first for app shell; network-first for data JSON.
-const VERSION = "v1";
+// Offline-capable service worker.
+// Network-first for pages and data JSON (updates always reach the user);
+// cache-first for static assets. Never responds with undefined.
+const VERSION = "v2";
 const SHELL = ["./", "./app.html", "./design.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil(
+    caches.open(VERSION)
+      .then((c) => Promise.all(SHELL.map((u) => c.add(u).catch(() => {}))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener("activate", (e) => {
@@ -25,6 +30,11 @@ self.addEventListener("fetch", (e) => {
       statusText: "Offline",
       headers: { "Content-Type": "text/html; charset=utf-8" },
     });
+  const networkFirst =
+    e.request.mode === "navigate" ||
+    url.pathname.endsWith(".html") ||
+    url.pathname.endsWith(".json") ||
+    url.pathname === "/";
   e.respondWith(
     caches.match(e.request).then((hit) => {
       const fresh = fetch(e.request).then((res) => {
@@ -34,11 +44,8 @@ self.addEventListener("fetch", (e) => {
         }
         return res;
       });
-      // Data JSON: network first; shell: cache first. Never respond with
-      // undefined — fall back to cache, then to a synthetic offline page.
-      return url.pathname.endsWith(".json")
-        ? fresh.catch(() => hit || offline())
-        : hit || fresh.catch(() => offline());
+      if (networkFirst) return fresh.catch(() => hit || offline());
+      return hit || fresh.catch(() => offline());
     })
   );
 });
