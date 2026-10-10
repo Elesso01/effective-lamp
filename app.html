@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#0f172a">
+<meta name="theme-color" content="#f8fafc">
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="icon" type="image/png" href="./icon-192.png">
 <link rel="apple-touch-icon" href="./icon-192.png">
 <title>Crypto &amp; AI News — Daily Briefing (local)</title>
 <style>
-  :root { --bg:#0f172a; --surface:#1e293b; --line:#475569; --text:#f8fafc;
-    --muted:#cbd5e1; --accent:#67e8f9; --accent-ink:#032630; --amber:#fbbf24; --focus:#fff; }
+  :root { --bg:#f8fafc; --surface:#ffffff; --line:#e2e8f0; --text:#0f172a;
+    --muted:#475569; --accent:#0891b2; --accent-ink:#ffffff; --amber:#f59e0b; --focus:#0891b2; }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--text);
     font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
@@ -31,7 +31,7 @@
   .meta { font-size:14px; color:var(--muted); margin:0 0 6px; }
   .card h3 { font-size:21px; margin:4px 0 6px; line-height:1.35; }
   .card p { margin:6px 0; max-width:68ch; }
-  .why { border-left:4px solid var(--accent); background:rgba(103,232,249,.08);
+  .why { border-left:4px solid var(--accent); background:rgba(8,145,178,.08);
     padding:8px 12px; border-radius:0 8px 8px 0; margin:10px 0; }
   details { margin:8px 0; }
   details summary { cursor:pointer; font-weight:700; }
@@ -55,10 +55,10 @@
   .cta-row { display:flex; gap:12px; flex-wrap:wrap; margin:20px 0 8px; }
   .btn-big { font-size:18px; padding:16px 26px; min-height:56px; border-radius:12px; }
   .gate-card { max-width:520px; }
-  .gate-card input[type=email] { font:inherit; font-size:16px; color:var(--text); background:#0b1220;
+  .gate-card input[type=email] { font:inherit; font-size:16px; color:var(--text); background:var(--surface);
     border:2px solid var(--line); border-radius:10px; padding:12px 14px; min-height:48px; width:100%; }
   .gate-card input[type=email]:focus { outline:3px solid var(--focus); outline-offset:2px; border-color:var(--accent); }
-  .form-err { color:#fda4af; font-size:15px; min-height:24px; margin:6px 0 0; }
+  .form-err { color:#e11d48; font-size:15px; min-height:24px; margin:6px 0 0; }
   .session { display:flex; justify-content:space-between; align-items:center; gap:10px;
     font-size:14px; color:var(--muted); padding:8px 0; }
   .steps { display:grid; gap:10px; }
@@ -69,7 +69,7 @@
     color:var(--text); border-radius:999px; padding:8px 14px; min-height:44px; cursor:pointer; }
   .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
   .chip:focus-visible, select:focus-visible, input:focus-visible { outline:3px solid var(--focus); outline-offset:2px; }
-  select, input[type=text] { font:inherit; font-size:16px; color:var(--text); background:#0b1220;
+  select, input[type=text] { font:inherit; font-size:16px; color:var(--text); background:var(--surface);
     border:2px solid var(--line); border-radius:10px; padding:10px 12px; min-height:44px; width:100%; }
   .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
   @media (max-width:640px){ .grid2 { grid-template-columns:1fr; } }
