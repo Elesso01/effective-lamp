@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-10T08:36:12.785Z",
+  "generated_at": "2026-10-10T12:42:02.356Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 41
+    "familiar": 6,
+    "discovery": 42
   },
   "items": [
+    {
+      "id": "st-bitcoin-s-19-billion-wake-up",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-xrp-ledger-patched-decade-ol",
       "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
@@ -19,15 +28,6 @@
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-ledger-investigates-potentia",
-      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -60,20 +60,29 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-blockchain-com-pursues-cftc",
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-greece-plans-10-cryptocurren",
       "title": "Greece plans 10% cryptocurrency capital gains tax",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-one-year-after-10-10-flash-c",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tokenized-commodities-look-b",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -98,24 +107,6 @@
     {
       "id": "st-visa-survey-says-nearly-half",
       "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-robinhood-chain-considers-te",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-new-york-ag-secures-up-to-35",
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -240,6 +231,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-justin-sun-says-tron-s-post",
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tech-chief-says-eu-can-fend",
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-sam-altman-backed-bitcoin-li",
       "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
       "category": "Startups and companies",
@@ -262,15 +271,6 @@
       "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-investigates-fund-los",
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "category": "Research and development",
-      "bucket": "ai",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -303,6 +303,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-the-director-of-fjord-takes",
+      "title": "The director of Fjord takes the ‘risky position’ of moderator",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-grounded-reasoning-and-artif",
       "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
       "category": "Products and applications",
@@ -314,24 +323,6 @@
     {
       "id": "st-pure-insanity-mathematicians",
       "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-teases-fitbit-edge-la",
-      "title": "Google teases Fitbit Edge launch next week",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nikon-microscopic-video-comp",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -366,15 +357,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-anyone-saying-ai-is-th",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-trump-says-anyone-who-does-n",
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
@@ -396,6 +378,15 @@
       "id": "st-most-americans-think-artific",
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-telo-mt1-is-a-big-truck",
+      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -433,6 +424,15 @@
       "title": "FinCEN Reverses Course on Cryptocurrency Mixing",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-guest-column-a-caution-about",
+      "title": "Guest column: A caution about artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

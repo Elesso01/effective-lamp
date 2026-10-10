@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-10T08:36:11.976Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
+  },
+  {
+    "id": "st-one-year-after-10-10-flash-c",
+    "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-10T12:00:00.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "type": "News",
+    "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-10T12:42:01.033Z"
+  },
+  {
+    "id": "st-tokenized-commodities-look-b",
+    "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-10T12:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+    "type": "News",
+    "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-10T12:42:01.033Z"
+  },
+  {
+    "id": "st-bitcoin-s-19-billion-wake-up",
+    "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-10T11:00:00.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+    "type": "News",
+    "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-10T12:42:01.033Z"
   },
   {
     "id": "st-bitcoin-s-volatility-has-plu",
@@ -29,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.810Z"
+    "imported_at": "2026-10-10T12:42:01.033Z"
   },
   {
     "id": "st-robinhood-chain-slowdown-spr",
@@ -45,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.811Z"
+    "imported_at": "2026-10-10T12:42:01.034Z"
   },
   {
     "id": "st-xrp-ledger-patched-decade-ol",
@@ -61,7 +109,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.811Z"
+    "imported_at": "2026-10-10T12:42:01.034Z"
   },
   {
     "id": "st-visa-survey-says-nearly-half",
@@ -77,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.811Z"
+    "imported_at": "2026-10-10T12:42:01.034Z"
   },
   {
     "id": "st-u-s-cftc-moves-to-fold-event",
@@ -93,55 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.811Z"
-  },
-  {
-    "id": "st-robinhood-chain-considers-te",
-    "title": "Robinhood Chain considers technology that gives paying traders priority",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T18:11:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-    "type": "News",
-    "summary": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.811Z"
-  },
-  {
-    "id": "st-new-york-ag-secures-up-to-35",
-    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T14:55:23.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-    "type": "News",
-    "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.812Z"
-  },
-  {
-    "id": "st-ledger-investigates-potentia",
-    "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T14:47:27.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-    "type": "News",
-    "summary": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-10T08:36:10.812Z"
+    "imported_at": "2026-10-10T12:42:01.034Z"
   },
   {
     "id": "st-elon-musk-intensifies-attack",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-anthropic-can-t-reliably-con",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-long-live-the-mechanical-key",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-the-maker-of-non-text-ai-mod",
@@ -205,7 +205,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-an-anthropic-ai-model-sent-a",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-batteries-are-now-cheaper-th",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-lumenus-helps-automate-tedio",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.422Z"
+    "imported_at": "2026-10-10T12:42:01.249Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -365,7 +365,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T08:36:11.275Z"
+    "imported_at": "2026-10-10T12:42:01.222Z"
+  },
+  {
+    "id": "st-justin-sun-says-tron-s-post",
+    "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-10T11:52:14.000Z",
+    "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-10T12:42:01.081Z"
+  },
+  {
+    "id": "st-tech-chief-says-eu-can-fend",
+    "title": "Tech chief says EU can fend off rogue AI risk: Report",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-10T08:41:06.000Z",
+    "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-10T12:42:01.081Z"
   },
   {
     "id": "st-sam-altman-backed-bitcoin-li",
@@ -381,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
+    "imported_at": "2026-10-10T12:42:01.081Z"
   },
   {
     "id": "st-us-plans-to-seize-1b-in-cryp",
@@ -397,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
+    "imported_at": "2026-10-10T12:42:01.081Z"
   },
   {
     "id": "st-new-york-permanently-bars-ce",
@@ -413,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
+    "imported_at": "2026-10-10T12:42:01.081Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -429,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
+    "imported_at": "2026-10-10T12:42:01.081Z"
   },
   {
     "id": "st-hsbc-ant-digital-test-ai-age",
@@ -445,39 +477,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
-  },
-  {
-    "id": "st-ledger-investigates-fund-los",
-    "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-09T17:02:47.000Z",
-    "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
-  },
-  {
-    "id": "st-blockchain-com-pursues-cftc",
-    "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-09T16:22:45.000Z",
-    "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-10T08:36:11.008Z"
+    "imported_at": "2026-10-10T12:42:01.081Z"
   },
   {
     "id": "st-my-brief-romance-with-an-ai",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.681Z"
+    "imported_at": "2026-10-10T12:42:02.264Z"
   },
   {
     "id": "st-anthropic-s-ai-gave-philadel",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.681Z"
+    "imported_at": "2026-10-10T12:42:02.264Z"
   },
   {
     "id": "st-decade-old-ram-is-making-a-c",
@@ -525,7 +525,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.681Z"
+    "imported_at": "2026-10-10T12:42:02.264Z"
+  },
+  {
+    "id": "st-the-director-of-fjord-takes",
+    "title": "The director of Fjord takes the ‘risky position’ of moderator",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-09T20:57:09.000Z",
+    "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+    "type": "News",
+    "summary": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan), an",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T12:42:02.264Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.520Z"
+    "imported_at": "2026-10-10T12:42:02.184Z"
   },
   {
     "id": "st-pure-insanity-mathematicians",
@@ -557,39 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.681Z"
-  },
-  {
-    "id": "st-google-teases-fitbit-edge-la",
-    "title": "Google teases Fitbit Edge launch next week",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T18:08:36.000Z",
-    "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-    "type": "News",
-    "summary": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" A trove of Fitbit Edge leaks h",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.681Z"
-  },
-  {
-    "id": "st-nikon-microscopic-video-comp",
-    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T18:06:57.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-    "type": "News",
-    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.681Z"
+    "imported_at": "2026-10-10T12:42:02.264Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:11.976Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
   },
   {
     "id": "st-treasury-backs-down-on-biden",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:11.976Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -637,23 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:11.976Z"
-  },
-  {
-    "id": "st-trump-anyone-saying-ai-is-th",
-    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-    "source": "Axios",
-    "sourceId": "rss-axios",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-08T20:58:57.000Z",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.521Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -669,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.520Z"
+    "imported_at": "2026-10-10T12:42:02.184Z"
   },
   {
     "id": "st-ohio-bci-returns-more-than-1",
@@ -685,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:11.976Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -701,7 +669,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.520Z"
+    "imported_at": "2026-10-10T12:42:02.184Z"
+  },
+  {
+    "id": "st-the-telo-mt1-is-a-big-truck",
+    "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-07T17:24:41.000Z",
+    "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+    "type": "News",
+    "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything el",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T12:42:02.264Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:11.976Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.520Z"
+    "imported_at": "2026-10-10T12:42:02.184Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -749,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:12.520Z"
+    "imported_at": "2026-10-10T12:42:02.184Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -765,6 +749,22 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T08:36:11.976Z"
+    "imported_at": "2026-10-10T12:42:01.685Z"
+  },
+  {
+    "id": "st-guest-column-a-caution-about",
+    "title": "Guest column: A caution about artificial intelligence",
+    "source": "The Suffolk Times",
+    "sourceId": "rss-the-suffolk-times",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-03T17:45:06.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5\" target=\"",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T12:42:02.184Z"
   }
 ]
