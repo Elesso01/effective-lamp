@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-10T00:48:15.353Z",
+  "generated_at": "2026-10-10T04:38:12.431Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-xrp-ledger-patched-decade-ol",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-10T04:20:07.000Z",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing"
+    },
     {
       "id": "st-u-s-cftc-moves-to-fold-event",
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-09T21:21:54.000Z",
       "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages"
-    },
-    {
-      "id": "st-dwf-labs-subsidiaries-sue-bi",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "category": "Security and privacy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-09T12:23:54.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach"
     }
   ]
 }
