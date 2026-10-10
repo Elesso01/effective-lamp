@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T16:35:38.952Z",
+  "generated_at": "2026-10-10T20:35:29.277Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 42
+    "familiar": 9,
+    "discovery": 39
   },
   "items": [
     {
@@ -69,6 +69,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-distrokid-has-been-quietly-t",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ledger-wallet-tampering-susp",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-k-pop-star-sunmi-loves-notio",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-one-year-after-10-10-flash-c",
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
       "category": "Markets and business",
@@ -114,6 +141,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-apple-discloses-deal-to-hire",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-petra-power-looks-to-moderni",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-cloudflare-acquires-deno-to",
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
       "category": "Products and applications",
@@ -152,24 +197,6 @@
     {
       "id": "st-long-live-the-mechanical-key",
       "title": "Long live the mechanical keyboard",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-maker-of-non-text-ai-mod",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-an-anthropic-ai-model-sent-a",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -294,15 +321,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-my-brief-romance-with-an-ai",
-      "title": "My brief romance with an AI bird feeder",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-lg-s-rgb-led-tv-is-good-for",
       "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
       "category": "Products and applications",
@@ -316,15 +334,6 @@
       "title": "AI agent makers are promising privacy — will they deliver?",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-director-of-fjord-takes",
-      "title": "The director of Fjord takes the ‘risky position’ of moderator",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -357,6 +366,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-trump-anyone-saying-ai-is-th",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-trump-says-anyone-who-does-n",
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
@@ -378,15 +396,6 @@
       "id": "st-most-americans-think-artific",
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-telo-mt1-is-a-big-truck",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -424,15 +433,6 @@
       "title": "FinCEN Reverses Course on Cryptocurrency Mixing",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-guest-column-a-caution-about",
-      "title": "Guest column: A caution about artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
