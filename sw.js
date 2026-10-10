@@ -1,7 +1,7 @@
 // Offline-capable service worker.
 // Network-first for pages and data JSON (updates always reach the user);
 // cache-first for static assets. Never responds with undefined.
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL = ["./", "./app.html", "./design.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {
