@@ -3,15 +3,15 @@
 6 stories briefed · feed mix 7 familiar / 41 discovery.
 
 ## Top stories
-1. **Visa survey says nearly half of APAC consumers open to using stablecoins by 2031** (Markets and business · CoinDesk) — A top crypto development today
-2. **New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky** (Markets and business · CoinDesk) — A top crypto development today
-3. **XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing** (Regulation and policy · CoinDesk) — A top AI development today
-4. **Elon Musk intensifies attack on Ambani over Starlink India launch delay** (Regulation and policy · TechCrunch) — A top AI development today
+1. **Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018** (Markets and business · CoinDesk) — A top crypto development today
+2. **Visa survey says nearly half of APAC consumers open to using stablecoins by 2031** (Markets and business · CoinDesk) — A top crypto development today
+3. **Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%** (Markets and business · CoinDesk) — A top AI development today
+4. **XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing** (Regulation and policy · CoinDesk) — A top AI development today
 5. **The maker of non-text AI model Jev valued at $7.5B just weeks after launch** (Crypto and AI intersections · TechCrunch) — A major development affecting both AI and blockchain
-6. **U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
+6. **Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds** (Startups and companies · Cointelegraph) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages.
+- Discovery pick of the week: Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds.
 
 _News, not investment advice._

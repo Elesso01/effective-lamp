@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T04:38:12.404Z",
+  "generated_at": "2026-10-10T08:36:12.785Z",
   "mix": {
     "familiar": 7,
     "discovery": 41
@@ -78,6 +78,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bitcoin-s-volatility-has-plu",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-robinhood-chain-slowdown-spr",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-visa-survey-says-nearly-half",
       "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
       "category": "Markets and business",
@@ -98,24 +116,6 @@
     {
       "id": "st-new-york-ag-secures-up-to-35",
       "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-dwf-labs-subsidiaries-sue-bi",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-zcash-developers-set-january",
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -240,6 +240,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-sam-altman-backed-bitcoin-li",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-us-plans-to-seize-1b-in-cryp",
       "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
       "category": "Markets and business",
@@ -267,11 +276,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-biz-wealthy-investors",
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-my-brief-romance-with-an-ai",
+      "title": "My brief romance with an AI bird feeder",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -330,17 +339,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-samsung-galaxy-s26-ultra",
-      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-      "category": "Products and applications",
+      "id": "st-a-year-on-bitcoin-languishes",
+      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-year-on-bitcoin-languishes",
-      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "id": "st-treasury-backs-down-on-biden",
+      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -352,6 +361,15 @@
       "title": "Fayetteville man faces fraud charges in cryptocurrency venture - The Arkansas Democrat-Gazette",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trump-anyone-saying-ai-is-th",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,28 +429,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-state-cryptocurrency-campaig",
-      "title": "State Cryptocurrency Campaign Finance Laws: Complete Guide 2026",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-fincen-reverses-course-on-cr",
       "title": "FinCEN Reverses Course on Cryptocurrency Mixing",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-guest-column-a-caution-about",
-      "title": "Guest column: A caution about artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

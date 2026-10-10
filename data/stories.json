@@ -13,7 +13,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-10T04:38:11.706Z"
+    "imported_at": "2026-10-10T08:36:11.976Z"
+  },
+  {
+    "id": "st-bitcoin-s-volatility-has-plu",
+    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-10T05:43:00.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+    "type": "News",
+    "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-10T08:36:10.810Z"
+  },
+  {
+    "id": "st-robinhood-chain-slowdown-spr",
+    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-10T04:44:35.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "type": "News",
+    "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-10T08:36:10.811Z"
   },
   {
     "id": "st-xrp-ledger-patched-decade-ol",
@@ -29,7 +61,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.950Z"
+    "imported_at": "2026-10-10T08:36:10.811Z"
   },
   {
     "id": "st-visa-survey-says-nearly-half",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.950Z"
+    "imported_at": "2026-10-10T08:36:10.811Z"
   },
   {
     "id": "st-u-s-cftc-moves-to-fold-event",
@@ -61,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.950Z"
+    "imported_at": "2026-10-10T08:36:10.811Z"
   },
   {
     "id": "st-robinhood-chain-considers-te",
@@ -77,7 +109,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.950Z"
+    "imported_at": "2026-10-10T08:36:10.811Z"
   },
   {
     "id": "st-new-york-ag-secures-up-to-35",
@@ -93,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.950Z"
+    "imported_at": "2026-10-10T08:36:10.812Z"
   },
   {
     "id": "st-ledger-investigates-potentia",
@@ -109,39 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.950Z"
-  },
-  {
-    "id": "st-dwf-labs-subsidiaries-sue-bi",
-    "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T12:23:54.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-    "type": "News",
-    "summary": "DWF is seeking $114 million in damages on the basis BitGo’s token sales resulted in direct losses through the fall in tokens' prices.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.951Z"
-  },
-  {
-    "id": "st-zcash-developers-set-january",
-    "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T11:39:05.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-    "type": "News",
-    "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-10T04:38:10.951Z"
+    "imported_at": "2026-10-10T08:36:10.812Z"
   },
   {
     "id": "st-elon-musk-intensifies-attack",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-anthropic-can-t-reliably-con",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-long-live-the-mechanical-key",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-the-maker-of-non-text-ai-mod",
@@ -205,7 +205,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-an-anthropic-ai-model-sent-a",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-batteries-are-now-cheaper-th",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-lumenus-helps-automate-tedio",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.184Z"
+    "imported_at": "2026-10-10T08:36:11.422Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -365,7 +365,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T04:38:11.117Z"
+    "imported_at": "2026-10-10T08:36:11.275Z"
+  },
+  {
+    "id": "st-sam-altman-backed-bitcoin-li",
+    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-10T07:10:43.000Z",
+    "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
     "id": "st-us-plans-to-seize-1b-in-cryp",
@@ -381,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
     "id": "st-new-york-permanently-bars-ce",
@@ -397,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -413,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
     "id": "st-hsbc-ant-digital-test-ai-age",
@@ -429,7 +445,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
     "id": "st-ledger-investigates-fund-los",
@@ -445,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
     "id": "st-blockchain-com-pursues-cftc",
@@ -461,23 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "imported_at": "2026-10-10T08:36:11.008Z"
   },
   {
-    "id": "st-crypto-biz-wealthy-investors",
-    "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-09T15:51:53.000Z",
-    "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-my-brief-romance-with-an-ai",
+    "title": "My brief romance with an AI bird feeder",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-10T07:15:33.000Z",
+    "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
     "type": "News",
-    "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.",
-    "category": "Startups and companies",
-    "bucket": "crypto",
+    "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-10T04:38:11.013Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-10T08:36:12.681Z"
   },
   {
     "id": "st-anthropic-s-ai-gave-philadel",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.331Z"
+    "imported_at": "2026-10-10T08:36:12.681Z"
   },
   {
     "id": "st-decade-old-ram-is-making-a-c",
@@ -509,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.331Z"
+    "imported_at": "2026-10-10T08:36:12.681Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -525,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.213Z"
+    "imported_at": "2026-10-10T08:36:12.520Z"
   },
   {
     "id": "st-pure-insanity-mathematicians",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.331Z"
+    "imported_at": "2026-10-10T08:36:12.681Z"
   },
   {
     "id": "st-google-teases-fitbit-edge-la",
@@ -557,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.331Z"
+    "imported_at": "2026-10-10T08:36:12.681Z"
   },
   {
     "id": "st-nikon-microscopic-video-comp",
@@ -573,23 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.331Z"
-  },
-  {
-    "id": "st-the-samsung-galaxy-s26-ultra",
-    "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T17:41:24.000Z",
-    "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
-    "type": "News",
-    "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which can hide your entire screen, or just portions of it, from onl",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.331Z"
+    "imported_at": "2026-10-10T08:36:12.681Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -605,7 +605,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:11.706Z"
+    "imported_at": "2026-10-10T08:36:11.976Z"
+  },
+  {
+    "id": "st-treasury-backs-down-on-biden",
+    "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
+    "source": "Reason Magazine",
+    "sourceId": "rss-reason-magazine",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-09T14:15:32.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5\" targ",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T08:36:11.976Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -621,7 +637,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:11.706Z"
+    "imported_at": "2026-10-10T08:36:11.976Z"
+  },
+  {
+    "id": "st-trump-anyone-saying-ai-is-th",
+    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+    "source": "Axios",
+    "sourceId": "rss-axios",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-08T20:58:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T08:36:12.521Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -637,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.213Z"
+    "imported_at": "2026-10-10T08:36:12.520Z"
   },
   {
     "id": "st-ohio-bci-returns-more-than-1",
@@ -653,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:11.706Z"
+    "imported_at": "2026-10-10T08:36:11.976Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -661,7 +693,7 @@
     "source": "AP News",
     "sourceId": "rss-ap-news",
     "author": "Google News (AI)",
-    "published_at": "2026-10-08T10:56:55.000Z",
+    "published_at": "2026-10-08T10:23:00.000Z",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS2",
@@ -669,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.213Z"
+    "imported_at": "2026-10-10T08:36:12.520Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -685,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:11.706Z"
+    "imported_at": "2026-10-10T08:36:11.976Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -701,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.213Z"
+    "imported_at": "2026-10-10T08:36:12.520Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -717,23 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.213Z"
-  },
-  {
-    "id": "st-state-cryptocurrency-campaig",
-    "title": "State Cryptocurrency Campaign Finance Laws: Complete Guide 2026",
-    "source": "MultiState",
-    "sourceId": "rss-multistate",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-05T20:48:06.000Z",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVUtT2lUbW9kY054Wlo5R3lFUmQ4YWNYNXZLamN6am9EcFhHS3lQWm9ZNnIwT1FrY2xpekQ4U2dGV3p4RUxBQmNrazNQSkZkdjdENzJLalpuQjdOdG9WeE5pNXQtdmZCSHBnMmQ0V2hRcWhmRG5hcDVGS0JIbEtGU2R4X29JM2M4dGZZanpaZWRSWWRZZUtROGhOLXNXUQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdVUtT2lUbW9kY054Wlo5R3lFUmQ4YWNYNXZLamN6am9EcFhHS3lQWm9ZNnIwT1FrY2xpekQ4U2dGV3p4RUxBQmNrazNQSkZkdjdENzJLalpuQjdOdG9WeE5pNXQtdmZCSHBnMmQ0V2hRcWhmRG5hcDVGS0JIbEtGU2R4X29JM2M4dGZZanpaZWRSWWRZZUtROGhOLXNXUQ?oc=5\" target=\"_",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:11.706Z"
+    "imported_at": "2026-10-10T08:36:12.520Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -749,22 +765,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:11.706Z"
-  },
-  {
-    "id": "st-guest-column-a-caution-about",
-    "title": "Guest column: A caution about artificial intelligence",
-    "source": "The Suffolk Times",
-    "sourceId": "rss-the-suffolk-times",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-03T17:45:06.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5\" target=\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T04:38:12.213Z"
+    "imported_at": "2026-10-10T08:36:11.976Z"
   }
 ]
