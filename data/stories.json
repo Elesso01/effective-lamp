@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-09T20:31:56.942Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
+  },
+  {
+    "id": "st-u-s-cftc-moves-to-fold-event",
+    "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-09T21:21:54.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+    "type": "News",
+    "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-10T00:48:13.563Z"
   },
   {
     "id": "st-robinhood-chain-considers-te",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.211Z"
+    "imported_at": "2026-10-10T00:48:13.563Z"
   },
   {
     "id": "st-new-york-ag-secures-up-to-35",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "imported_at": "2026-10-10T00:48:13.564Z"
   },
   {
     "id": "st-ledger-investigates-potentia",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "imported_at": "2026-10-10T00:48:13.564Z"
   },
   {
     "id": "st-dwf-labs-subsidiaries-sue-bi",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "imported_at": "2026-10-10T00:48:13.564Z"
   },
   {
     "id": "st-zcash-developers-set-january",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "imported_at": "2026-10-10T00:48:13.564Z"
   },
   {
     "id": "st-trump-s-iran-pledge-underpin",
@@ -109,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "imported_at": "2026-10-10T00:48:13.564Z"
   },
   {
     "id": "st-bitcoin-steadies-near-82-500",
@@ -125,23 +141,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "imported_at": "2026-10-10T00:48:13.564Z"
   },
   {
-    "id": "st-thailand-opens-door-to-local",
-    "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T10:16:55.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+    "id": "st-anthropic-can-t-reliably-con",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-10T00:18:32.000Z",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "type": "News",
-    "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
-    "category": "Products and applications",
-    "bucket": "crypto",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "category": "Research and development",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-09T20:31:56.212Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-10T00:48:13.951Z"
+  },
+  {
+    "id": "st-long-live-the-mechanical-key",
+    "title": "Long live the mechanical keyboard",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-09T22:08:24.000Z",
+    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+    "type": "News",
+    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-10T00:48:13.951Z"
+  },
+  {
+    "id": "st-the-maker-of-non-text-ai-mod",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-09T21:41:29.000Z",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "type": "News",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.8,
+    "imported_at": "2026-10-10T00:48:13.951Z"
   },
   {
     "id": "st-an-anthropic-ai-model-sent-a",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.444Z"
+    "imported_at": "2026-10-10T00:48:13.951Z"
   },
   {
     "id": "st-batteries-are-now-cheaper-th",
@@ -173,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.445Z"
+    "imported_at": "2026-10-10T00:48:13.951Z"
   },
   {
     "id": "st-lumenus-helps-automate-tedio",
@@ -189,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.445Z"
+    "imported_at": "2026-10-10T00:48:13.951Z"
   },
   {
     "id": "st-amazon-and-others-are-done-k",
@@ -205,23 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.445Z"
-  },
-  {
-    "id": "st-we-can-t-help-treating-ai-li",
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-09T16:40:14.000Z",
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "type": "News",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.445Z"
+    "imported_at": "2026-10-10T00:48:13.951Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -237,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.845Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -253,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.846Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -269,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.846Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -285,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.846Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -301,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.846Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -317,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.846Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -333,7 +365,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-09T20:31:56.378Z"
+    "imported_at": "2026-10-10T00:48:13.846Z"
+  },
+  {
+    "id": "st-us-plans-to-seize-1b-in-cryp",
+    "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-09T20:39:17.000Z",
+    "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
     "id": "st-new-york-permanently-bars-ce",
@@ -349,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
     "id": "st-hsbc-ant-digital-test-ai-age",
@@ -381,7 +429,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
     "id": "st-ledger-investigates-fund-los",
@@ -397,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
     "id": "st-blockchain-com-pursues-cftc",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
     "id": "st-crypto-biz-wealthy-investors",
@@ -429,23 +477,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "imported_at": "2026-10-10T00:48:13.653Z"
   },
   {
-    "id": "st-bitcoin-consolidates-near-82",
-    "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-09T15:20:36.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-anthropic-s-ai-gave-philadel",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-09T23:45:03.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
     "type": "News",
-    "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
+    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-09T20:31:56.257Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-10T00:48:15.230Z"
+  },
+  {
+    "id": "st-decade-old-ram-is-making-a-c",
+    "title": "Decade-old RAM is making a comeback",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-09T21:50:00.000Z",
+    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+    "type": "News",
+    "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigab",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T00:48:15.229Z"
+  },
+  {
+    "id": "st-grounded-reasoning-and-artif",
+    "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
+    "source": "Idaho National Laboratory (.gov)",
+    "sourceId": "rss-idaho-national-laboratory-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-09T19:35:44.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHpadkNSRlN0czliVkQxQ2NPOWtwVUZaV21WVlIzY2tzUXM0bDhmbEVJa3lEaVhCTkNBRzlRT1JnZ0w2N1EtQWE4N0JMU0h0Rlg3akZKNHJlTS1fblUtSFJpSlBXVUk5S3N1Tm5RT1pFeUdrR01uWFZINnN4QU5xN0dYYnNMeXU2QlJZcDMwaFc2ZW54NWlrYVVDaGdoR3BrYnJj?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHpadkNSRlN0czliVkQxQ2NPOWtwVUZaV21WVlIzY2tzUXM0bDhmbEVJa3lEaVhCTkNBRzlRT1JnZ0w2N1EtQWE4N0JMU0h0Rlg3akZKNHJlTS1fblUtSFJpSlBXVUk5S3N1Tm5RT1pFeUdrR01uWFZINnN4QU5xN0dYYnNMeXU2QlJZcDMwaFc2ZW54NWlrYVVDaGdoR3BrYnJj?oc=5\" tar",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T00:48:15.027Z"
   },
   {
     "id": "st-pure-insanity-mathematicians",
@@ -461,23 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.570Z"
-  },
-  {
-    "id": "st-amazon-s-new-kindles-appear",
-    "title": "Amazon’s new Kindles appear to have a light leak problem",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T19:00:21.000Z",
-    "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
-    "type": "News",
-    "summary": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change on",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.570Z"
+    "imported_at": "2026-10-10T00:48:15.230Z"
   },
   {
     "id": "st-google-teases-fitbit-edge-la",
@@ -493,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.570Z"
+    "imported_at": "2026-10-10T00:48:15.230Z"
   },
   {
     "id": "st-nikon-microscopic-video-comp",
@@ -509,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.570Z"
+    "imported_at": "2026-10-10T00:48:15.230Z"
   },
   {
     "id": "st-the-samsung-galaxy-s26-ultra",
@@ -525,23 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.570Z"
-  },
-  {
-    "id": "st-microsoft-tries-to-spark-new",
-    "title": "Microsoft tries to spark new life into Windows",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T16:22:01.000Z",
-    "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
-    "type": "News",
-    "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like ",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.570Z"
+    "imported_at": "2026-10-10T00:48:15.230Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -557,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:56.943Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -573,7 +621,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:56.943Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
+  },
+  {
+    "id": "st-trump-anyone-saying-ai-is-th",
+    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+    "source": "Axios",
+    "sourceId": "rss-axios",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-08T20:58:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T00:48:15.027Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -589,23 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
-  },
-  {
-    "id": "st-trump-anyone-saying-ai-is-th",
-    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-    "source": "Axios",
-    "sourceId": "rss-axios",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-08T19:17:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
+    "imported_at": "2026-10-10T00:48:15.027Z"
   },
   {
     "id": "st-ohio-bci-returns-more-than-1",
@@ -621,23 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:56.943Z"
-  },
-  {
-    "id": "st-grounded-reasoning-and-artif",
-    "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
-    "source": "Idaho National Laboratory (.gov)",
-    "sourceId": "rss-idaho-national-laboratory-gov",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-08T14:07:34.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CQnJzcE1oMGFNWmstTFpQYTJZSE9FYXJwS0NHWjJaVWx5d25tYWQybUtIT25YOUNLaVNzWGtyMlpEVFp1?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9CQnJzcE1oMGFNWmstTFpQYTJZSE9FYXJwS0NHWjJaVWx5d25tYWQybUtIT25YOUNLaVNzWGtyMlpEVFp1?oc=5\" target=\"_blank\">Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop</a>&nbsp;&nbsp;<font color=\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -653,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
+    "imported_at": "2026-10-10T00:48:15.027Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -669,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:56.943Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -685,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
+    "imported_at": "2026-10-10T00:48:15.027Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -701,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
+    "imported_at": "2026-10-10T00:48:15.027Z"
   },
   {
     "id": "st-state-cryptocurrency-campaig",
@@ -717,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:56.942Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -733,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:56.942Z"
+    "imported_at": "2026-10-10T00:48:14.504Z"
   },
   {
     "id": "st-guest-column-a-caution-about",
@@ -749,6 +781,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-09T20:31:57.452Z"
+    "imported_at": "2026-10-10T00:48:15.027Z"
   }
 ]

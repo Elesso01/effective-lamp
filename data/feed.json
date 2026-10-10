@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-09T20:31:57.661Z",
+  "generated_at": "2026-10-10T00:48:15.320Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 43
+    "familiar": 5,
+    "discovery": 44
   },
   "items": [
+    {
+      "id": "st-u-s-cftc-moves-to-fold-event",
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-ledger-investigates-potentia",
       "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
@@ -105,11 +114,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-thailand-opens-door-to-local",
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+      "id": "st-anthropic-can-t-reliably-con",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-long-live-the-mechanical-key",
+      "title": "Long live the mechanical keyboard",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-maker-of-non-text-ai-mod",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -145,15 +172,6 @@
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "category": "Startups and companies",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-we-can-t-help-treating-ai-li",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -222,6 +240,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-us-plans-to-seize-1b-in-cryp",
+      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-hsbc-ant-digital-test-ai-age",
       "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
       "category": "Crypto and AI intersections",
@@ -249,17 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-consolidates-near-82",
-      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-pure-insanity-mathematicians",
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "id": "st-anthropic-s-ai-gave-philadel",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -267,8 +285,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amazon-s-new-kindles-appear",
-      "title": "Amazon’s new Kindles appear to have a light leak problem",
+      "id": "st-decade-old-ram-is-making-a-c",
+      "title": "Decade-old RAM is making a comeback",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-grounded-reasoning-and-artif",
+      "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-pure-insanity-mathematicians",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,15 +339,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-microsoft-tries-to-spark-new",
-      "title": "Microsoft tries to spark new life into Windows",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
       "category": "Markets and business",
@@ -330,8 +357,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-says-anyone-who-does-n",
-      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
+      "id": "st-trump-anyone-saying-ai-is-th",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -339,8 +366,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-anyone-saying-ai-is-th",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "id": "st-trump-says-anyone-who-does-n",
+      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -352,15 +379,6 @@
       "title": "Ohio BCI Returns More Than $15,000 to Victim of Crypto ATM Scam",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-grounded-reasoning-and-artif",
-      "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
