@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T00:47:06.333Z",
+  "generated_at": "2026-10-11T04:37:27.564Z",
   "mix": {
     "familiar": 9,
-    "discovery": 39
+    "discovery": 40
   },
   "items": [
     {
@@ -368,6 +368,15 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-treasury-backs-down-on-biden",
+      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

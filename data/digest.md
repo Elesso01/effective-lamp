@@ -1,10 +1,10 @@
 # Weekly digest — week of 2026-10-11
 
-6 stories briefed · feed mix 9 familiar / 39 discovery.
+6 stories briefed · feed mix 9 familiar / 40 discovery.
 
 ## Top stories
-1. **One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks** (Markets and business · CoinDesk) — A top crypto development today
-2. **Tokenized commodities look beyond gold as lending and oil open new markets** (Markets and business · CoinDesk) — A top crypto development today
+1. **Greece plans 10% cryptocurrency capital gains tax** (Markets and business · Reuters) — A top crypto development today
+2. **One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks** (Markets and business · CoinDesk) — A top crypto development today
 3. **Microsoft’s Satya Nadella says AI models need an ‘emergency brake’** (Products and applications · TechCrunch) — A top AI development today
 4. **Apple discloses deal to hire team and license tech from personalized podcast startup Huxe** (Startups and companies · TechCrunch) — A top AI development today
 5. **HSBC, Ant Digital test AI-agent payments using tokenized deposits** (Crypto and AI intersections · Cointelegraph) — A major development affecting both AI and blockchain
