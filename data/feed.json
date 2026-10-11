@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T12:43:03.828Z",
+  "generated_at": "2026-10-11T16:36:33.678Z",
   "mix": {
-    "familiar": 9,
+    "familiar": 4,
     "discovery": 40
   },
   "items": [
@@ -15,38 +15,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-xrp-ledger-patched-decade-ol",
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-u-s-cftc-moves-to-fold-event",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-elon-musk-intensifies-attack",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "id": "st-what-to-know-about-the-landm",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-cftc-proposals-aimed-at-sepa",
-      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -55,6 +28,15 @@
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-cftc-proposals-aimed-at-sepa",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "category": "Regulation and policy",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -69,31 +51,22 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-distrokid-has-been-quietly-t",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-ledger-wallet-tampering-susp",
-      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-      "category": "Regulation and policy",
+      "id": "st-clarity-s-failure-could-spee",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-k-pop-star-sunmi-loves-notio",
-      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "id": "st-imf-finds-demand-for-tokeniz",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-one-year-after-10-10-flash-c",
@@ -132,11 +105,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-visa-survey-says-nearly-half",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-techcrunch-mobility-a-roadbl",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-efferon-wants-to-eradicate-t",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-these-execs-think-voice-ai-h",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -162,42 +153,6 @@
       "id": "st-petra-power-looks-to-moderni",
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cloudflare-acquires-deno-to",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-3-days-to-techcrunch-disrupt",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-here-are-the-top-ai-agents-t",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-can-t-reliably-con",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -268,7 +223,7 @@
     },
     {
       "id": "st-ledger-confirms-unauthorized",
-      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7.5,
@@ -312,6 +267,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-why-the-leappad-couldn-t-sur",
+      "title": "Why the LeapPad couldn’t survive the iPad",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-learning-to-use-local-ai-is",
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
       "category": "Products and applications",
@@ -330,10 +294,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-is-cutting-off-its",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "category": "Research and development",
-      "bucket": "ai",
+      "id": "st-what-to-expect-from-apple-s",
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -343,15 +307,6 @@
       "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-why-the-leappad-couldn-t-sur",
-      "title": "Why the LeapPad couldn’t survive the iPad",
-      "category": "Markets and business",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

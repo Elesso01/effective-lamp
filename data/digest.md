@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-11
 
-6 stories briefed · feed mix 9 familiar / 40 discovery.
+6 stories briefed · feed mix 4 familiar / 40 discovery.
 
 ## Top stories
-1. **Greece plans 10% cryptocurrency capital gains tax** (Markets and business · Reuters) — A top crypto development today
-2. **One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks** (Markets and business · CoinDesk) — A top crypto development today
-3. **Ledger confirms unauthorized hardware implant; losses may exceed $86M** (Markets and business · Cointelegraph) — A top AI development today
-4. **CFTC proposals aimed at separating prediction markets from casino gambling** (Regulation and policy · Cointelegraph) — A top AI development today
-5. **Learning to use local AI is exciting, overwhelming, and frustrating** (Products and applications · The Verge) — Outside your usual reads — worth a skim
-6. **Microsoft’s Satya Nadella says AI models need an ‘emergency brake’** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
+1. **Clarity's failure could speed crypto innovation while shielding incumbents** (Markets and business · CoinDesk) — A top crypto development today
+2. **IMF finds demand for tokenized stocks, says the market is still volatile, illiquid** (Markets and business · CoinDesk) — A top crypto development today
+3. **TechCrunch Mobility: A roadblock clears for self-driving trucks** (Products and applications · TechCrunch) — A top AI development today
+4. **Efferon wants to eradicate the devastating toll of pediatric sepsis** (Startups and companies · TechCrunch) — A top AI development today
+5. **What to know about the landmark Warner Bros. Discovery sale** (Regulation and policy · TechCrunch) — Outside your usual reads — worth a skim
+6. **These execs think voice AI hasn’t reached its ChatGPT moment yet** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Learning to use local AI is exciting, overwhelming, and frustrating.
+- Discovery pick of the week: What to know about the landmark Warner Bros. Discovery sale.
 
 _News, not investment advice._
