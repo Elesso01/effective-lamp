@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-10T16:35:38.247Z"
+    "imported_at": "2026-10-10T20:35:28.571Z"
   },
   {
     "id": "st-one-year-after-10-10-flash-c",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.444Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-tokenized-commodities-look-b",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.444Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-bitcoin-s-19-billion-wake-up",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.444Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-bitcoin-s-volatility-has-plu",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.444Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-robinhood-chain-slowdown-spr",
@@ -93,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.445Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-xrp-ledger-patched-decade-ol",
@@ -109,7 +109,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.445Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-visa-survey-says-nearly-half",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.445Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
   },
   {
     "id": "st-u-s-cftc-moves-to-fold-event",
@@ -141,7 +141,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-10T16:35:37.445Z"
+    "imported_at": "2026-10-10T20:35:27.644Z"
+  },
+  {
+    "id": "st-apple-discloses-deal-to-hire",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-10T19:50:00.000Z",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "type": "News",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-10T20:35:28.068Z"
+  },
+  {
+    "id": "st-petra-power-looks-to-moderni",
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-10T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "type": "News",
+    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-cloudflare-acquires-deno-to",
@@ -157,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-3-days-to-techcrunch-disrupt",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-here-are-the-top-ai-agents-t",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-elon-musk-intensifies-attack",
@@ -205,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-anthropic-can-t-reliably-con",
@@ -221,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-long-live-the-mechanical-key",
@@ -237,39 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
-  },
-  {
-    "id": "st-the-maker-of-non-text-ai-mod",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-09T21:41:29.000Z",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "type": "News",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
-  },
-  {
-    "id": "st-an-anthropic-ai-model-sent-a",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-09T19:36:56.000Z",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "type": "News",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.791Z"
+    "imported_at": "2026-10-10T20:35:28.068Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.961Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.961Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.962Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.962Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.962Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.962Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -381,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-10T16:35:37.721Z"
+    "imported_at": "2026-10-10T20:35:27.962Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.515Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
   },
   {
     "id": "st-justin-sun-says-tron-s-post",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.515Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
   },
   {
     "id": "st-tech-chief-says-eu-can-fend",
@@ -429,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.516Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
   },
   {
     "id": "st-sam-altman-backed-bitcoin-li",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.516Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
   },
   {
     "id": "st-us-plans-to-seize-1b-in-cryp",
@@ -461,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.516Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
   },
   {
     "id": "st-new-york-permanently-bars-ce",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.516Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
   },
   {
     "id": "st-hsbc-ant-digital-test-ai-age",
@@ -493,7 +493,39 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-10T16:35:37.516Z"
+    "imported_at": "2026-10-10T20:35:27.762Z"
+  },
+  {
+    "id": "st-distrokid-has-been-quietly-t",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-10T18:52:07.000Z",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "type": "News",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that Distr",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T20:35:29.200Z"
+  },
+  {
+    "id": "st-ledger-wallet-tampering-susp",
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-10T17:39:16.000Z",
+    "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+    "type": "News",
+    "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger h",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T20:35:29.200Z"
   },
   {
     "id": "st-anthropic-is-cutting-off-its",
@@ -509,23 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.876Z"
-  },
-  {
-    "id": "st-my-brief-romance-with-an-ai",
-    "title": "My brief romance with an AI bird feeder",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-10T07:15:33.000Z",
-    "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-    "type": "News",
-    "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.876Z"
+    "imported_at": "2026-10-10T20:35:29.200Z"
   },
   {
     "id": "st-lg-s-rgb-led-tv-is-good-for",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.876Z"
+    "imported_at": "2026-10-10T20:35:29.200Z"
   },
   {
     "id": "st-ai-agent-makers-are-promisin",
@@ -557,23 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.876Z"
-  },
-  {
-    "id": "st-the-director-of-fjord-takes",
-    "title": "The director of Fjord takes the ‘risky position’ of moderator",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T20:57:09.000Z",
-    "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-    "type": "News",
-    "summary": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan), an",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.876Z"
+    "imported_at": "2026-10-10T20:35:29.200Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -589,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.813Z"
+    "imported_at": "2026-10-10T20:35:29.122Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -605,7 +605,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.247Z"
+    "imported_at": "2026-10-10T20:35:28.572Z"
+  },
+  {
+    "id": "st-k-pop-star-sunmi-loves-notio",
+    "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-09T13:23:50.000Z",
+    "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+    "type": "News",
+    "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in Oct",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T20:35:29.200Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -621,7 +637,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.247Z"
+    "imported_at": "2026-10-10T20:35:28.572Z"
+  },
+  {
+    "id": "st-trump-anyone-saying-ai-is-th",
+    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+    "source": "Axios",
+    "sourceId": "rss-axios",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-08T20:58:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-10T20:35:29.123Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -637,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.813Z"
+    "imported_at": "2026-10-10T20:35:29.123Z"
   },
   {
     "id": "st-ohio-bci-returns-more-than-1",
@@ -653,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.247Z"
+    "imported_at": "2026-10-10T20:35:28.571Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -661,7 +693,7 @@
     "source": "AP News",
     "sourceId": "rss-ap-news",
     "author": "Google News (AI)",
-    "published_at": "2026-10-08T10:23:00.000Z",
+    "published_at": "2026-10-08T10:56:55.000Z",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS2",
@@ -669,23 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.813Z"
-  },
-  {
-    "id": "st-the-telo-mt1-is-a-big-truck",
-    "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-07T17:24:41.000Z",
-    "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-    "type": "News",
-    "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything el",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.876Z"
+    "imported_at": "2026-10-10T20:35:29.123Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -701,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.813Z"
+    "imported_at": "2026-10-10T20:35:29.122Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -717,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.813Z"
+    "imported_at": "2026-10-10T20:35:29.122Z"
   },
   {
     "id": "st-state-cryptocurrency-campaig",
@@ -733,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.247Z"
+    "imported_at": "2026-10-10T20:35:28.571Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -749,22 +765,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.247Z"
-  },
-  {
-    "id": "st-guest-column-a-caution-about",
-    "title": "Guest column: A caution about artificial intelligence",
-    "source": "The Suffolk Times",
-    "sourceId": "rss-the-suffolk-times",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-03T17:45:06.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5\" target=\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-10T16:35:38.813Z"
+    "imported_at": "2026-10-10T20:35:28.571Z"
   }
 ]

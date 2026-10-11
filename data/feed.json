@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:35:29.277Z",
+  "generated_at": "2026-10-11T00:47:06.333Z",
   "mix": {
     "familiar": 9,
     "discovery": 39
@@ -141,6 +141,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-microsoft-s-satya-nadella-sa",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-apple-discloses-deal-to-hire",
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "category": "Startups and companies",
@@ -189,15 +198,6 @@
       "id": "st-anthropic-can-t-reliably-con",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-long-live-the-mechanical-key",
-      "title": "Long live the mechanical keyboard",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -312,6 +312,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-satya-nadella-says-we-should",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-anthropic-is-cutting-off-its",
       "title": "Anthropic is cutting off its internal evaluations from the internet",
       "category": "Research and development",
@@ -366,15 +384,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-anyone-saying-ai-is-th",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-trump-says-anyone-who-does-n",
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
@@ -415,15 +424,6 @@
       "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-state-cryptocurrency-campaig",
-      "title": "State Cryptocurrency Campaign Finance Laws: Complete Guide 2026",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
