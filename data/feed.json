@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T04:37:27.564Z",
+  "generated_at": "2026-10-11T08:37:13.152Z",
   "mix": {
-    "familiar": 9,
+    "familiar": 10,
     "discovery": 40
   },
   "items": [
@@ -38,6 +38,15 @@
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-cftc-proposals-aimed-at-sepa",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -303,15 +312,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hsbc-ant-digital-test-ai-age",
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-satya-nadella-says-we-should",
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "category": "Products and applications",
@@ -379,6 +379,15 @@
       "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-new-state-honor-recognizes-i",
+      "title": "New state honor recognizes intentional use of artificial intelligence in higher ed",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
