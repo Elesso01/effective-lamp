@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T08:37:13.152Z",
+  "generated_at": "2026-10-11T12:43:03.828Z",
   "mix": {
-    "familiar": 10,
+    "familiar": 9,
     "discovery": 40
   },
   "items": [
@@ -53,15 +53,6 @@
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-new-york-permanently-bars-ce",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -276,6 +267,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-ledger-confirms-unauthorized",
+      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-justin-sun-says-tron-s-post",
       "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
       "category": "Markets and business",
@@ -312,8 +312,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-satya-nadella-says-we-should",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "id": "st-learning-to-use-local-ai-is",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,8 +321,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "id": "st-satya-nadella-says-we-should",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -339,18 +339,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-lg-s-rgb-led-tv-is-good-for",
-      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-opinion-better-protection-ne",
+      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-agent-makers-are-promisin",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "category": "Products and applications",
+      "id": "st-why-the-leappad-couldn-t-sur",
+      "title": "Why the LeapPad couldn’t survive the iPad",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -368,15 +368,6 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-treasury-backs-down-on-biden",
-      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
