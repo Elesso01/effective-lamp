@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-11T16:36:33.678Z",
+  "generated_at": "2026-10-11T20:35:54.537Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 40
+    "familiar": 5,
+    "discovery": 37
   },
   "items": [
+    {
+      "id": "st-everyone-wants-scotus-to-tak",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-bitcoin-s-19-billion-wake-up",
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
@@ -96,11 +105,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-robinhood-chain-slowdown-spr",
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "id": "st-48-hours-to-techcrunch-disru",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "category": "Markets and business",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-can-the-ai-industry-persuade",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -126,33 +144,6 @@
       "id": "st-these-execs-think-voice-ai-h",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-s-satya-nadella-sa",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-discloses-deal-to-hire",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-petra-power-looks-to-moderni",
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,6 +213,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-saylor-teases-strategy-bitco",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ledger-confirms-unauthorized",
       "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
       "category": "Markets and business",
@@ -258,37 +258,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-plans-to-seize-1b-in-cryp",
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "category": "Markets and business",
+      "id": "st-silicon-valley-is-falling-in",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-new-apple-tv-could-have",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-why-the-leappad-couldn-t-sur",
-      "title": "Why the LeapPad couldn’t survive the iPad",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-learning-to-use-local-ai-is",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-satya-nadella-says-we-should",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -297,15 +279,6 @@
       "id": "st-what-to-expect-from-apple-s",
       "title": "What to expect from Apple’s ‘Welcome Home’ event",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-opinion-better-protection-ne",
-      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -323,6 +296,15 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-treasury-backs-down-on-biden",
+      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -357,19 +339,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ohio-bci-returns-more-than-1",
-      "title": "Ohio BCI Returns More Than $15,000 to Victim of Crypto ATM Scam",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-most-americans-think-artific",
+      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-most-americans-think-artific",
-      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-europol-urges-early-action-t",
+      "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

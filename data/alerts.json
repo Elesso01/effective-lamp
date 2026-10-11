@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-11T16:36:33.717Z",
-  "count": 1,
+  "generated_at": "2026-10-11T20:35:54.572Z",
+  "count": 2,
   "alerts": [
+    {
+      "id": "st-everyone-wants-scotus-to-tak",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-11T18:30:00.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto"
+    },
     {
       "id": "st-bitcoin-s-19-billion-wake-up",
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",

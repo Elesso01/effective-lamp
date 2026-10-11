@@ -13,7 +13,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-11T12:43:03.040Z"
+    "imported_at": "2026-10-11T16:36:33.029Z"
+  },
+  {
+    "id": "st-clarity-s-failure-could-spee",
+    "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-11T16:00:00.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+    "type": "News",
+    "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-11T16:36:32.335Z"
+  },
+  {
+    "id": "st-imf-finds-demand-for-tokeniz",
+    "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-11T13:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+    "type": "News",
+    "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-11T16:36:32.335Z"
   },
   {
     "id": "st-one-year-after-10-10-flash-c",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.262Z"
+    "imported_at": "2026-10-11T16:36:32.335Z"
   },
   {
     "id": "st-tokenized-commodities-look-b",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.262Z"
+    "imported_at": "2026-10-11T16:36:32.335Z"
   },
   {
     "id": "st-bitcoin-s-19-billion-wake-up",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.262Z"
+    "imported_at": "2026-10-11T16:36:32.336Z"
   },
   {
     "id": "st-bitcoin-s-volatility-has-plu",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.262Z"
+    "imported_at": "2026-10-11T16:36:32.336Z"
   },
   {
     "id": "st-robinhood-chain-slowdown-spr",
@@ -93,55 +125,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.262Z"
+    "imported_at": "2026-10-11T16:36:32.336Z"
   },
   {
-    "id": "st-xrp-ledger-patched-decade-ol",
-    "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-10T04:20:07.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+    "id": "st-techcrunch-mobility-a-roadbl",
+    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T16:02:00.000Z",
+    "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
     "type": "News",
-    "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-11T16:36:32.589Z"
+  },
+  {
+    "id": "st-efferon-wants-to-eradicate-t",
+    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+    "type": "News",
+    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-11T16:36:32.589Z"
+  },
+  {
+    "id": "st-what-to-know-about-the-landm",
+    "title": "What to know about the landmark Warner Bros. Discovery sale",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T14:15:00.000Z",
+    "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+    "type": "News",
+    "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.263Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-11T16:36:32.589Z"
   },
   {
-    "id": "st-visa-survey-says-nearly-half",
-    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-10T03:00:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+    "id": "st-these-execs-think-voice-ai-h",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
     "type": "News",
-    "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.263Z"
-  },
-  {
-    "id": "st-u-s-cftc-moves-to-fold-event",
-    "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-09T21:21:54.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-    "type": "News",
-    "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
-    "category": "Regulation and policy",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-11T12:43:02.263Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-11T16:36:32.589Z"
   },
   {
     "id": "st-microsoft-s-satya-nadella-sa",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
+    "imported_at": "2026-10-11T16:36:32.590Z"
   },
   {
     "id": "st-apple-discloses-deal-to-hire",
@@ -173,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
+    "imported_at": "2026-10-11T16:36:32.590Z"
   },
   {
     "id": "st-petra-power-looks-to-moderni",
@@ -189,87 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
-  },
-  {
-    "id": "st-cloudflare-acquires-deno-to",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T16:25:42.000Z",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "type": "News",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
-  },
-  {
-    "id": "st-3-days-to-techcrunch-disrupt",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "type": "News",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at ",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
-  },
-  {
-    "id": "st-here-are-the-top-ai-agents-t",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "type": "News",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
-  },
-  {
-    "id": "st-elon-musk-intensifies-attack",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T03:10:06.000Z",
-    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "type": "News",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
-  },
-  {
-    "id": "st-anthropic-can-t-reliably-con",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T00:18:32.000Z",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "type": "News",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.573Z"
+    "imported_at": "2026-10-11T16:36:32.590Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -285,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -301,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -317,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -333,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -349,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -365,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -381,39 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T12:43:02.517Z"
-  },
-  {
-    "id": "st-ledger-confirms-unauthorized",
-    "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-11T09:01:51.000Z",
-    "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
-  },
-  {
-    "id": "st-cftc-proposals-aimed-at-sepa",
-    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-11T07:44:51.000Z",
-    "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
+    "imported_at": "2026-10-11T16:36:32.532Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -421,7 +357,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-10T12:30:00.000Z",
+    "published_at": "2026-10-11T12:45:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -429,7 +365,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
+    "imported_at": "2026-10-11T16:36:32.411Z"
+  },
+  {
+    "id": "st-ledger-confirms-unauthorized",
+    "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-11T09:05:00.000Z",
+    "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-11T16:36:32.411Z"
+  },
+  {
+    "id": "st-cftc-proposals-aimed-at-sepa",
+    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-11T07:50:00.000Z",
+    "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-11T16:36:32.411Z"
   },
   {
     "id": "st-justin-sun-says-tron-s-post",
@@ -445,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
+    "imported_at": "2026-10-11T16:36:32.411Z"
   },
   {
     "id": "st-tech-chief-says-eu-can-fend",
@@ -453,15 +421,15 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-10T08:41:06.000Z",
+    "published_at": "2026-10-10T08:45:00.000Z",
     "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
+    "summary": "Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
+    "imported_at": "2026-10-11T16:36:32.412Z"
   },
   {
     "id": "st-sam-altman-backed-bitcoin-li",
@@ -477,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
+    "imported_at": "2026-10-11T16:36:32.412Z"
   },
   {
     "id": "st-us-plans-to-seize-1b-in-cryp",
@@ -493,7 +461,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T12:43:02.344Z"
+    "imported_at": "2026-10-11T16:36:32.412Z"
+  },
+  {
+    "id": "st-why-the-leappad-couldn-t-sur",
+    "title": "Why the LeapPad couldn’t survive the iPad",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-11T13:20:00.000Z",
+    "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+    "type": "News",
+    "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - […]",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-11T16:36:33.574Z"
   },
   {
     "id": "st-learning-to-use-local-ai-is",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
+    "imported_at": "2026-10-11T16:36:33.574Z"
   },
   {
     "id": "st-satya-nadella-says-we-should",
@@ -525,61 +509,29 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
+    "imported_at": "2026-10-11T16:36:33.574Z"
   },
   {
-    "id": "st-distrokid-has-been-quietly-t",
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "id": "st-what-to-expect-from-apple-s",
+    "title": "What to expect from Apple’s ‘Welcome Home’ event",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-10T21:23:38.000Z",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "published_at": "2026-10-10T21:53:39.000Z",
+    "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
     "type": "News",
-    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that Distr",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
-  },
-  {
-    "id": "st-ledger-wallet-tampering-susp",
-    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-10T17:39:16.000Z",
-    "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-    "type": "News",
-    "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger h",
-    "category": "Regulation and policy",
+    "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
-  },
-  {
-    "id": "st-anthropic-is-cutting-off-its",
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-10T14:41:16.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "type": "News",
-    "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolve",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
+    "imported_at": "2026-10-11T16:36:33.574Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
     "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
-    "source": "South China Morning Post",
-    "sourceId": "rss-south-china-morning-post",
+    "source": "SCMP",
+    "sourceId": "rss-scmp",
     "author": "Google News (crypto)",
     "published_at": "2026-10-10T08:30:05.000Z",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcWM0THphekU2WWZGZjQyYVh1RkhZVQ?oc=5",
@@ -589,23 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.040Z"
-  },
-  {
-    "id": "st-why-the-leappad-couldn-t-sur",
-    "title": "Why the LeapPad couldn’t survive the iPad",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T20:28:42.000Z",
-    "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-    "type": "News",
-    "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. However, buying it came with a high price and big parenting questions. On the next episode of Version H",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
+    "imported_at": "2026-10-11T16:36:33.029Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -621,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.532Z"
+    "imported_at": "2026-10-11T16:36:33.539Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -637,23 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.040Z"
-  },
-  {
-    "id": "st-k-pop-star-sunmi-loves-notio",
-    "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T13:23:50.000Z",
-    "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-    "type": "News",
-    "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in Oct",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.605Z"
+    "imported_at": "2026-10-11T16:36:33.029Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -669,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.532Z"
+    "imported_at": "2026-10-11T16:36:33.539Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -685,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.040Z"
+    "imported_at": "2026-10-11T16:36:33.029Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -701,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.532Z"
+    "imported_at": "2026-10-11T16:36:33.539Z"
   },
   {
     "id": "st-ohio-bci-returns-more-than-1",
@@ -717,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.040Z"
+    "imported_at": "2026-10-11T16:36:33.029Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -733,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.532Z"
+    "imported_at": "2026-10-11T16:36:33.539Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -749,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.532Z"
+    "imported_at": "2026-10-11T16:36:33.539Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -765,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.532Z"
+    "imported_at": "2026-10-11T16:36:33.539Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -781,6 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T12:43:03.040Z"
+    "imported_at": "2026-10-11T16:36:33.029Z"
   }
 ]

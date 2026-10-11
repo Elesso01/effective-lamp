@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-11T16:36:33.029Z"
+    "imported_at": "2026-10-11T20:35:53.884Z"
+  },
+  {
+    "id": "st-everyone-wants-scotus-to-tak",
+    "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-11T18:30:00.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+    "type": "News",
+    "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-11T20:35:53.057Z"
   },
   {
     "id": "st-clarity-s-failure-could-spee",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.335Z"
+    "imported_at": "2026-10-11T20:35:53.057Z"
   },
   {
     "id": "st-imf-finds-demand-for-tokeniz",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.335Z"
+    "imported_at": "2026-10-11T20:35:53.058Z"
   },
   {
     "id": "st-one-year-after-10-10-flash-c",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.335Z"
+    "imported_at": "2026-10-11T20:35:53.058Z"
   },
   {
     "id": "st-tokenized-commodities-look-b",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.335Z"
+    "imported_at": "2026-10-11T20:35:53.058Z"
   },
   {
     "id": "st-bitcoin-s-19-billion-wake-up",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.336Z"
+    "imported_at": "2026-10-11T20:35:53.058Z"
   },
   {
     "id": "st-bitcoin-s-volatility-has-plu",
@@ -109,23 +125,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.336Z"
+    "imported_at": "2026-10-11T20:35:53.058Z"
   },
   {
-    "id": "st-robinhood-chain-slowdown-spr",
-    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-10T04:44:35.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "id": "st-48-hours-to-techcrunch-disru",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T19:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
     "type": "News",
-    "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
     "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-11T16:36:32.336Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-11T20:35:53.445Z"
+  },
+  {
+    "id": "st-can-the-ai-industry-persuade",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T16:52:33.000Z",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "type": "News",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-11T20:35:53.446Z"
   },
   {
     "id": "st-techcrunch-mobility-a-roadbl",
@@ -141,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.589Z"
+    "imported_at": "2026-10-11T20:35:53.446Z"
   },
   {
     "id": "st-efferon-wants-to-eradicate-t",
@@ -157,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.589Z"
+    "imported_at": "2026-10-11T20:35:53.446Z"
   },
   {
     "id": "st-what-to-know-about-the-landm",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.589Z"
+    "imported_at": "2026-10-11T20:35:53.446Z"
   },
   {
     "id": "st-these-execs-think-voice-ai-h",
@@ -189,55 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.589Z"
-  },
-  {
-    "id": "st-microsoft-s-satya-nadella-sa",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T21:47:51.000Z",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "type": "News",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.590Z"
-  },
-  {
-    "id": "st-apple-discloses-deal-to-hire",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T19:50:00.000Z",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "type": "News",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.590Z"
-  },
-  {
-    "id": "st-petra-power-looks-to-moderni",
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-10T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-    "type": "News",
-    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.590Z"
+    "imported_at": "2026-10-11T20:35:53.446Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -349,7 +333,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T16:36:32.532Z"
+    "imported_at": "2026-10-11T20:35:53.351Z"
+  },
+  {
+    "id": "st-saylor-teases-strategy-bitco",
+    "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-11T17:11:00.000Z",
+    "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-11T20:35:53.166Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -357,7 +357,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-11T12:45:00.000Z",
+    "published_at": "2026-10-11T12:59:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.411Z"
+    "imported_at": "2026-10-11T20:35:53.167Z"
   },
   {
     "id": "st-ledger-confirms-unauthorized",
@@ -381,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.411Z"
+    "imported_at": "2026-10-11T20:35:53.167Z"
   },
   {
     "id": "st-cftc-proposals-aimed-at-sepa",
@@ -397,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.411Z"
+    "imported_at": "2026-10-11T20:35:53.167Z"
   },
   {
     "id": "st-justin-sun-says-tron-s-post",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.411Z"
+    "imported_at": "2026-10-11T20:35:53.167Z"
   },
   {
     "id": "st-tech-chief-says-eu-can-fend",
@@ -429,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.412Z"
+    "imported_at": "2026-10-11T20:35:53.167Z"
   },
   {
     "id": "st-sam-altman-backed-bitcoin-li",
@@ -445,71 +445,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.412Z"
+    "imported_at": "2026-10-11T20:35:53.167Z"
   },
   {
-    "id": "st-us-plans-to-seize-1b-in-cryp",
-    "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-09T20:39:17.000Z",
-    "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-silicon-valley-is-falling-in",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-11T18:33:56.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
     "type": "News",
-    "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
-    "category": "Markets and business",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling i",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-11T20:35:54.448Z"
+  },
+  {
+    "id": "st-the-new-apple-tv-could-have",
+    "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-11T17:31:07.000Z",
+    "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+    "type": "News",
+    "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the App",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-11T16:36:32.412Z"
-  },
-  {
-    "id": "st-why-the-leappad-couldn-t-sur",
-    "title": "Why the LeapPad couldn’t survive the iPad",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-11T13:20:00.000Z",
-    "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-    "type": "News",
-    "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - […]",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.574Z"
-  },
-  {
-    "id": "st-learning-to-use-local-ai-is",
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-11T04:53:46.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "type": "News",
-    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this t",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.574Z"
-  },
-  {
-    "id": "st-satya-nadella-says-we-should",
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-10T22:10:17.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "type": "News",
-    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accep",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.574Z"
+    "imported_at": "2026-10-11T20:35:54.448Z"
   },
   {
     "id": "st-what-to-expect-from-apple-s",
@@ -517,7 +485,7 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-10T21:53:39.000Z",
+    "published_at": "2026-10-11T16:41:46.000Z",
     "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
     "type": "News",
     "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS",
@@ -525,23 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.574Z"
-  },
-  {
-    "id": "st-opinion-better-protection-ne",
-    "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
-    "source": "SCMP",
-    "sourceId": "rss-scmp",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-10T08:30:05.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcWM0THphekU2WWZGZjQyYVh1RkhZVQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcW",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.029Z"
+    "imported_at": "2026-10-11T20:35:54.448Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -557,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.539Z"
+    "imported_at": "2026-10-11T20:35:54.348Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -573,7 +525,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.029Z"
+    "imported_at": "2026-10-11T20:35:53.884Z"
+  },
+  {
+    "id": "st-treasury-backs-down-on-biden",
+    "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
+    "source": "Reason Magazine",
+    "sourceId": "rss-reason-magazine",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-09T14:24:50.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5\" targ",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-11T20:35:53.884Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -589,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.539Z"
+    "imported_at": "2026-10-11T20:35:54.348Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -605,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.029Z"
+    "imported_at": "2026-10-11T20:35:53.884Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -621,23 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.539Z"
-  },
-  {
-    "id": "st-ohio-bci-returns-more-than-1",
-    "title": "Ohio BCI Returns More Than $15,000 to Victim of Crypto ATM Scam",
-    "source": "Ohio Attorney General (.gov)",
-    "sourceId": "rss-ohio-attorney-general-gov",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-08T18:47:12.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUQ3VnhMTmVxTkRFVFM3Y0RidkJ0WmxLQzlEOUptU0dSQmFzNE9LdHJEbG14YTljNVJ3YlowejRqcnUyV2tiUjlBSERHZlBwVDFzRFV3NzUtZk50V2NyckQ1bEs2UlpQM183dTRSSEx4Sm4wMFIxa3JSN05JbTBhTVhkU0hYMnRfSE1NNVk5VTlvUzBQY1NmamdDOU1KRTZqbWgxdjhGTWUzMVBIdlpoaVpfcVJnWU5ZbDI4?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUQ3VnhMTmVxTkRFVFM3Y0RidkJ0WmxLQzlEOUptU0dSQmFzNE9LdHJEbG14YTljNVJ3YlowejRqcnUyV2tiUjlBSERHZlBwVDFzRFV3NzUtZk50V2NyckQ1bEs2UlpQM183dTRSSEx4Sm4wMFIxa3JSN05JbTBhTVhkU0hYMnRfSE1NNVk5VTlvUzBQY1NmamdDOU1KRTZqbWgxdjhGTWUzMV",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.029Z"
+    "imported_at": "2026-10-11T20:35:54.348Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -653,7 +605,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.539Z"
+    "imported_at": "2026-10-11T20:35:54.348Z"
+  },
+  {
+    "id": "st-europol-urges-early-action-t",
+    "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
+    "source": "Europol",
+    "sourceId": "rss-europol",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-07T10:05:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXh1UFhKa1VqTGFDZWF5NUR0THFaTC1WM3JZZWFLRm5xMG42NmRwWnZTTWxIaEhqelprbHdDX2ZxZFJDaW56a19VazZtOFFWVk94Z212aG9qUk4wc1hITlJ6STBsRUI4dUJ1YmNzZG8xNVdMYUVQcXd6MTNtSkVNcDJSYjJlcUt4VF9keXRmQnBOM2NibnNiLVZaNmEtaXVuVVdZeHFPNFgtam9pZzJ2eEpXMmo0U255VUk5a1FFS241OGlpb0tmc18zYkFIVkRZNTF6VzVfVzg0ZFRwbnc?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXh1UFhKa1VqTGFDZWF5NUR0THFaTC1WM3JZZWFLRm5xMG42NmRwWnZTTWxIaEhqelprbHdDX2ZxZFJDaW56a19VazZtOFFWVk94Z212aG9qUk4wc1hITlJ6STBsRUI4dUJ1YmNzZG8xNVdMYUVQcXd6MTNtSkVNcDJSYjJlcUt4VF9keXRmQnBOM2NibnNiLVZaNmEtaXVuVVdZeHFPNFgtam",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-11T20:35:53.884Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -669,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.539Z"
+    "imported_at": "2026-10-11T20:35:54.348Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -685,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.539Z"
+    "imported_at": "2026-10-11T20:35:54.348Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -701,6 +669,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T16:36:33.029Z"
+    "imported_at": "2026-10-11T20:35:53.884Z"
   }
 ]
