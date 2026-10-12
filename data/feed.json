@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T16:38:34.465Z",
+  "generated_at": "2026-10-12T20:39:33.281Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 44
+    "familiar": 5,
+    "discovery": 43
   },
   "items": [
     {
@@ -49,6 +49,15 @@
       "score": 9,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-elon-musk-has-donated-over-2",
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-palantir-s-europe-head-warns",
@@ -105,6 +114,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-meta-releases-its-first-fron",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-windborne-wins-a-hefty-us-ai",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-honeyjar-offers-ai-tools-to",
       "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "category": "Products and applications",
@@ -135,24 +162,6 @@
       "id": "st-techcrunch-disrupt-2026-star",
       "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-former-plaud-exec-raises-26m",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-founder-s-guide-to-techc",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,6 +231,42 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-crypto-pacs-report-2-7m-spen",
+      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-accounting-overhaul-could",
+      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-miners-face-widening",
+      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-drops-2-2-as-ukraine",
+      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-xrp-treasury-evernorth-s-sha",
       "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
       "category": "Markets and business",
@@ -240,55 +285,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-australia-proposes-leverage",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-btc-price-support-holds-ahea",
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kraken-parent-clears-dubai-s",
-      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-standard-chartered-adds-ripp",
-      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-android-is-the-best-and-wors",
       "title": "Android is the best and worst thing about Googlebooks",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-s-new-ai-chip-make",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -303,8 +303,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-meta-has-some-wonder-full-ne",
+      "title": "Meta has some Wonder Full new AI models",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nevada-city-council-to-discu",
+      "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -321,27 +339,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-opinion-better-protection-ne",
       "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-fitbit-edge-is-for-folks",
-      "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
-      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -357,8 +357,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-new-state-honor-recognizes-i",
-      "title": "New state honor recognizes intentional use of artificial intelligence in higher ed",
+      "id": "st-barrett-introduces-legislati",
+      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -366,10 +366,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fayetteville-man-faces-fraud",
-      "title": "Fayetteville man faces fraud charges in cryptocurrency venture - The Arkansas Democrat-Gazette",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-new-state-honor-recognizes-i",
+      "title": "New state honor recognizes intentional use of artificial intelligence in higher ed",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
