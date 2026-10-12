@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-12T00:50:13.283Z",
+  "generated_at": "2026-10-12T04:41:11.635Z",
   "pipeline": {
     "stories": 41,
     "briefed": 6,
     "labelCoverage": 100,
-    "categoriesCovered": 4,
+    "categoriesCovered": 3,
     "buckets": {
       "crypto": 19,
       "ai": 22

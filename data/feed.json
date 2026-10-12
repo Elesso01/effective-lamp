@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:50:13.236Z",
+  "generated_at": "2026-10-12T04:41:11.588Z",
   "mix": {
     "familiar": 5,
     "discovery": 36
@@ -105,6 +105,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-the-founder-s-guide-to-techc",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-will-the-homeview-be-apple-s",
       "title": "Will the HomeView be Apple’s first smart home success?",
       "category": "Products and applications",
@@ -135,15 +144,6 @@
       "id": "st-techcrunch-mobility-a-roadbl",
       "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-efferon-wants-to-eradicate-t",
-      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -240,15 +240,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tech-chief-says-eu-can-fend",
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-silicon-valley-is-falling-in",
       "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
       "category": "Products and applications",
@@ -276,6 +267,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-opinion-better-protection-ne",
+      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-grounded-reasoning-and-artif",
       "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
       "category": "Products and applications",
@@ -287,15 +296,6 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-treasury-backs-down-on-biden",
-      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

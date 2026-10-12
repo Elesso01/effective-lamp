@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-12T00:50:12.500Z"
+    "imported_at": "2026-10-12T04:41:10.941Z"
   },
   {
     "id": "st-everyone-wants-scotus-to-tak",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.353Z"
+    "imported_at": "2026-10-12T04:41:09.952Z"
   },
   {
     "id": "st-clarity-s-failure-could-spee",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.354Z"
+    "imported_at": "2026-10-12T04:41:09.952Z"
   },
   {
     "id": "st-imf-finds-demand-for-tokeniz",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.354Z"
+    "imported_at": "2026-10-12T04:41:09.952Z"
   },
   {
     "id": "st-one-year-after-10-10-flash-c",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.354Z"
+    "imported_at": "2026-10-12T04:41:09.953Z"
   },
   {
     "id": "st-tokenized-commodities-look-b",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.354Z"
+    "imported_at": "2026-10-12T04:41:09.953Z"
   },
   {
     "id": "st-bitcoin-s-19-billion-wake-up",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.354Z"
+    "imported_at": "2026-10-12T04:41:09.953Z"
   },
   {
     "id": "st-bitcoin-s-volatility-has-plu",
@@ -125,7 +125,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T00:50:11.354Z"
+    "imported_at": "2026-10-12T04:41:09.953Z"
+  },
+  {
+    "id": "st-the-founder-s-guide-to-techc",
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T00:59:01.000Z",
+    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "type": "News",
+    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T04:41:10.433Z"
   },
   {
     "id": "st-will-the-homeview-be-apple-s",
@@ -141,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.966Z"
+    "imported_at": "2026-10-12T04:41:10.433Z"
   },
   {
     "id": "st-48-hours-to-techcrunch-disru",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.966Z"
+    "imported_at": "2026-10-12T04:41:10.433Z"
   },
   {
     "id": "st-can-the-ai-industry-persuade",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.966Z"
+    "imported_at": "2026-10-12T04:41:10.433Z"
   },
   {
     "id": "st-techcrunch-mobility-a-roadbl",
@@ -189,23 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.966Z"
-  },
-  {
-    "id": "st-efferon-wants-to-eradicate-t",
-    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-    "type": "News",
-    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.966Z"
+    "imported_at": "2026-10-12T04:41:10.434Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T00:50:11.854Z"
+    "imported_at": "2026-10-12T04:41:10.343Z"
   },
   {
     "id": "st-ledger-attack-spreads-to-eu",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
+    "imported_at": "2026-10-12T04:41:10.080Z"
   },
   {
     "id": "st-saylor-teases-strategy-bitco",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
+    "imported_at": "2026-10-12T04:41:10.080Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
+    "imported_at": "2026-10-12T04:41:10.080Z"
   },
   {
     "id": "st-ledger-confirms-unauthorized",
@@ -381,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
+    "imported_at": "2026-10-12T04:41:10.080Z"
   },
   {
     "id": "st-cftc-proposals-aimed-at-sepa",
@@ -397,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
+    "imported_at": "2026-10-12T04:41:10.080Z"
   },
   {
     "id": "st-justin-sun-says-tron-s-post",
@@ -413,23 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
-  },
-  {
-    "id": "st-tech-chief-says-eu-can-fend",
-    "title": "Tech chief says EU can fend off rogue AI risk: Report",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-10T08:45:00.000Z",
-    "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T00:50:11.621Z"
+    "imported_at": "2026-10-12T04:41:10.080Z"
   },
   {
     "id": "st-silicon-valley-is-falling-in",
@@ -445,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:13.172Z"
+    "imported_at": "2026-10-12T04:41:11.524Z"
   },
   {
     "id": "st-the-new-apple-tv-could-have",
@@ -461,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:13.172Z"
+    "imported_at": "2026-10-12T04:41:11.524Z"
   },
   {
     "id": "st-what-to-expect-from-apple-s",
@@ -477,7 +461,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:13.172Z"
+    "imported_at": "2026-10-12T04:41:11.524Z"
+  },
+  {
+    "id": "st-the-evolution-of-artificial",
+    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+    "source": "CancerNetwork",
+    "sourceId": "rss-cancernetwork",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-10T18:45:22.000Z",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T04:41:11.392Z"
+  },
+  {
+    "id": "st-opinion-better-protection-ne",
+    "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
+    "source": "South China Morning Post",
+    "sourceId": "rss-south-china-morning-post",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-10T08:30:05.000Z",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcWM0THphekU2WWZGZjQyYVh1RkhZVdIBvwFBVV95cUxQczItaVgyOUVRckJmcmF5ZXYzRVVlUDBMbnNrbFpFcGpQT0RrQmFIeC1SYlVRczRudDdzTTRwRGZPakxQLTVZT2hYZ2YwZ0FKd0V2RWtDOWpCVkNrYzh3R3RFSm50dm9HMENTY0VDQS0yU2RpcmNZNkpPdTFtLTV5Rld3VnR6UkEyUzVyQlpOZDU3VV96RV85N3A2bXNwS2tfWmNtTlBHbjZLbGxVeEtkOVl1enhxRG5XSTBNVk1Sdw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcW",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T04:41:10.941Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.942Z"
+    "imported_at": "2026-10-12T04:41:11.392Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -509,23 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.500Z"
-  },
-  {
-    "id": "st-treasury-backs-down-on-biden",
-    "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
-    "source": "Reason Magazine",
-    "sourceId": "rss-reason-magazine",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-09T14:24:50.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5\" targ",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.501Z"
+    "imported_at": "2026-10-12T04:41:10.941Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -541,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.942Z"
+    "imported_at": "2026-10-12T04:41:11.392Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.500Z"
+    "imported_at": "2026-10-12T04:41:10.941Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -573,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.942Z"
+    "imported_at": "2026-10-12T04:41:11.392Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -589,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.942Z"
+    "imported_at": "2026-10-12T04:41:11.392Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -605,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.500Z"
+    "imported_at": "2026-10-12T04:41:10.941Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -621,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.942Z"
+    "imported_at": "2026-10-12T04:41:11.392Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -637,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.942Z"
+    "imported_at": "2026-10-12T04:41:11.392Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -653,6 +653,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T00:50:12.500Z"
+    "imported_at": "2026-10-12T04:41:10.941Z"
   }
 ]
