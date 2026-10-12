@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-12T04:41:11.612Z",
+  "generated_at": "2026-10-12T08:43:59.078Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-why-a-bug-that-could-have-th",
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-12T08:32:17.000Z",
+      "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years"
+    },
     {
       "id": "st-everyone-wants-scotus-to-tak",
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-11T18:30:00.000Z",
       "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto"
-    },
-    {
-      "id": "st-bitcoin-s-19-billion-wake-up",
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-10T11:00:00.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything"
     }
   ]
 }
