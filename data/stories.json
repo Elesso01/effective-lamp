@@ -13,11 +13,59 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-12T13:03:37.717Z"
+    "imported_at": "2026-10-12T16:38:33.676Z"
+  },
+  {
+    "id": "st-palantir-s-europe-head-warns",
+    "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-12T16:18:03.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+    "type": "News",
+    "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-12T16:38:32.872Z"
+  },
+  {
+    "id": "st-tom-lee-sees-2-trillion-weal",
+    "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-12T15:27:09.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+    "type": "News",
+    "summary": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-12T16:38:32.872Z"
+  },
+  {
+    "id": "st-tokenized-catastrophe-bonds",
+    "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-12T15:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+    "type": "News",
+    "summary": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-12T16:38:32.872Z"
   },
   {
     "id": "st-ledger-claims-cryptobilis-ca",
-    "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+    "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
@@ -29,11 +77,11 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.714Z"
+    "imported_at": "2026-10-12T16:38:32.872Z"
   },
   {
-    "id": "st-bitcoin-holds-83-000-as-doll",
-    "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+    "id": "st-bitcoin-falls-below-83-000-a",
+    "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
@@ -45,7 +93,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.714Z"
+    "imported_at": "2026-10-12T16:38:32.872Z"
   },
   {
     "id": "st-global-financial-watchdog-ca",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.714Z"
+    "imported_at": "2026-10-12T16:38:32.872Z"
   },
   {
     "id": "st-south-korea-just-got-its-fir",
@@ -77,55 +125,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.714Z"
+    "imported_at": "2026-10-12T16:38:32.872Z"
   },
   {
-    "id": "st-swi-raises-894-million-to-re",
-    "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T10:27:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+    "id": "st-honeyjar-offers-ai-tools-to",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T15:45:00.000Z",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "type": "News",
-    "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.714Z"
-  },
-  {
-    "id": "st-altcoins-rally-on-thin-tradi",
-    "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T10:20:54.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-    "type": "News",
-    "summary": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Could AI actually make PR better?",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.714Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-12T16:38:33.148Z"
   },
   {
-    "id": "st-u-s-inflation-ethereum-upgra",
-    "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T08:58:24.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+    "id": "st-microsoft-president-says-uk",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T15:31:19.000Z",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "type": "News",
-    "summary": "Your look at what's coming in the week starting Oct. 12.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-12T13:03:36.715Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-12T16:38:33.149Z"
+  },
+  {
+    "id": "st-this-ai-startup-says-it-can",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T15:27:59.000Z",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "type": "News",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T16:38:33.149Z"
+  },
+  {
+    "id": "st-smart-ring-maker-ultrahuman",
+    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T14:09:34.000Z",
+    "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+    "type": "News",
+    "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T16:38:33.149Z"
+  },
+  {
+    "id": "st-techcrunch-disrupt-2026-star",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "type": "News",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket ",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T16:38:33.149Z"
   },
   {
     "id": "st-former-plaud-exec-raises-26m",
@@ -141,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.266Z"
+    "imported_at": "2026-10-12T16:38:33.149Z"
   },
   {
     "id": "st-the-founder-s-guide-to-techc",
@@ -157,71 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.266Z"
-  },
-  {
-    "id": "st-will-the-homeview-be-apple-s",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T21:14:40.000Z",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "type": "News",
-    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.266Z"
-  },
-  {
-    "id": "st-48-hours-to-techcrunch-disru",
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "type": "News",
-    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.266Z"
-  },
-  {
-    "id": "st-can-the-ai-industry-persuade",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T16:52:33.000Z",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "type": "News",
-    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.266Z"
-  },
-  {
-    "id": "st-techcrunch-mobility-a-roadbl",
-    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T16:02:00.000Z",
-    "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-    "type": "News",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.266Z"
+    "imported_at": "2026-10-12T16:38:33.149Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.072Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.073Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.073Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.073Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.073Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.073Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -333,7 +349,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T13:03:37.073Z"
+    "imported_at": "2026-10-12T16:38:33.077Z"
+  },
+  {
+    "id": "st-xrp-treasury-evernorth-s-sha",
+    "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T14:18:49.000Z",
+    "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Evernorth’s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T16:38:32.933Z"
+  },
+  {
+    "id": "st-ledger-implant-tests-bitcoin",
+    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T14:07:00.000Z",
+    "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -349,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
     "id": "st-strategy-adds-250-bitcoin-as",
@@ -365,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
     "id": "st-australia-proposes-leverage",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
     "id": "st-btc-price-support-holds-ahea",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
     "id": "st-kraken-parent-clears-dubai-s",
@@ -413,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
     "id": "st-standard-chartered-adds-ripp",
@@ -429,39 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "imported_at": "2026-10-12T16:38:32.933Z"
   },
   {
-    "id": "st-south-korean-bank-launches-b",
-    "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T08:45:58.000Z",
-    "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-android-is-the-best-and-wors",
+    "title": "Android is the best and worst thing about Googlebooks",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-12T15:04:23.000Z",
+    "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
     "type": "News",
-    "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
+    "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
-  },
-  {
-    "id": "st-global-watchdog-flags-stable",
-    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T06:30:21.000Z",
-    "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T13:03:36.837Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-12T16:38:34.375Z"
   },
   {
     "id": "st-microsoft-s-new-ai-chip-make",
@@ -469,7 +501,7 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-12T10:56:42.000Z",
+    "published_at": "2026-10-12T13:33:06.000Z",
     "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
     "type": "News",
     "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of han",
@@ -477,7 +509,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.416Z"
+    "imported_at": "2026-10-12T16:38:34.375Z"
+  },
+  {
+    "id": "st-the-oneplus-16-is-the-compan",
+    "title": "The OnePlus 16 is the company’s most interesting phone in years",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-12T13:13:53.000Z",
+    "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+    "type": "News",
+    "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performan",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T16:38:34.375Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -493,39 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:37.717Z"
-  },
-  {
-    "id": "st-silicon-valley-is-falling-in",
-    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-11T18:33:56.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "type": "News",
-    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling i",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.416Z"
-  },
-  {
-    "id": "st-the-new-apple-tv-could-have",
-    "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-11T17:31:07.000Z",
-    "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-    "type": "News",
-    "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the App",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.416Z"
+    "imported_at": "2026-10-12T16:38:33.676Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -541,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:37.717Z"
+    "imported_at": "2026-10-12T16:38:33.677Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.230Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
@@ -573,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:37.717Z"
+    "imported_at": "2026-10-12T16:38:33.677Z"
   },
   {
     "id": "st-the-fitbit-edge-is-for-folks",
@@ -589,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.416Z"
+    "imported_at": "2026-10-12T16:38:34.375Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.229Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.230Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -637,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:37.717Z"
+    "imported_at": "2026-10-12T16:38:33.677Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -653,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.229Z"
   },
   {
     "id": "st-cmf-s-first-wireless-speaker",
@@ -669,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.416Z"
+    "imported_at": "2026-10-12T16:38:34.375Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -685,7 +701,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.229Z"
+  },
+  {
+    "id": "st-europol-urges-early-action-t",
+    "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
+    "source": "Europol",
+    "sourceId": "rss-europol",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-07T10:05:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXh1UFhKa1VqTGFDZWF5NUR0THFaTC1WM3JZZWFLRm5xMG42NmRwWnZTTWxIaEhqelprbHdDX2ZxZFJDaW56a19VazZtOFFWVk94Z212aG9qUk4wc1hITlJ6STBsRUI4dUJ1YmNzZG8xNVdMYUVQcXd6MTNtSkVNcDJSYjJlcUt4VF9keXRmQnBOM2NibnNiLVZaNmEtaXVuVVdZeHFPNFgtam9pZzJ2eEpXMmo0U255VUk5a1FFS241OGlpb0tmc18zYkFIVkRZNTF6VzVfVzg0ZFRwbnc?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXh1UFhKa1VqTGFDZWF5NUR0THFaTC1WM3JZZWFLRm5xMG42NmRwWnZTTWxIaEhqelprbHdDX2ZxZFJDaW56a19VazZtOFFWVk94Z212aG9qUk4wc1hITlJ6STBsRUI4dUJ1YmNzZG8xNVdMYUVQcXd6MTNtSkVNcDJSYjJlcUt4VF9keXRmQnBOM2NibnNiLVZaNmEtaXVuVVdZeHFPNFgtam",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T16:38:33.677Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -701,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.229Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -717,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:38.194Z"
+    "imported_at": "2026-10-12T16:38:34.229Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -733,6 +765,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T13:03:37.717Z"
+    "imported_at": "2026-10-12T16:38:33.676Z"
   }
 ]

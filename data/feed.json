@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T13:03:38.481Z",
+  "generated_at": "2026-10-12T16:38:34.465Z",
   "mix": {
     "familiar": 4,
-    "discovery": 42
+    "discovery": 44
   },
   "items": [
     {
@@ -15,11 +15,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-u-s-inflation-ethereum-upgra",
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 10.5,
+      "id": "st-microsoft-president-says-uk",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -51,8 +51,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-palantir-s-europe-head-warns",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tom-lee-sees-2-trillion-weal",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tokenized-catastrophe-bonds",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ledger-claims-cryptobilis-ca",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8.5,
@@ -60,8 +87,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-holds-83-000-as-doll",
-      "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+      "id": "st-bitcoin-falls-below-83-000-a",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -78,20 +105,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-swi-raises-894-million-to-re",
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-honeyjar-offers-ai-tools-to",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-altcoins-rally-on-thin-tradi",
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-this-ai-startup-says-it-can",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-smart-ring-maker-ultrahuman",
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-techcrunch-disrupt-2026-star",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -107,42 +152,6 @@
     {
       "id": "st-the-founder-s-guide-to-techc",
       "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-will-the-homeview-be-apple-s",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-48-hours-to-techcrunch-disru",
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-can-the-ai-industry-persuade",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-mobility-a-roadbl",
-      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -213,6 +222,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-xrp-treasury-evernorth-s-sha",
+      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ledger-implant-tests-bitcoin",
+      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-australia-proposes-leverage",
       "title": "Australia proposes leverage caps for crypto-settled derivatives",
       "category": "Markets and business",
@@ -249,20 +276,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-south-korean-bank-launches-b",
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "id": "st-android-is-the-best-and-wors",
+      "title": "Android is the best and worst thing about Googlebooks",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-global-watchdog-flags-stable",
-      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -276,27 +294,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-year-on-bitcoin-languishes",
-      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "category": "Markets and business",
+      "id": "st-the-oneplus-16-is-the-compan",
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-silicon-valley-is-falling-in",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-new-apple-tv-could-have",
-      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-      "category": "Products and applications",
+      "id": "st-a-year-on-bitcoin-languishes",
+      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -388,6 +397,15 @@
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-europol-urges-early-action-t",
+      "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
