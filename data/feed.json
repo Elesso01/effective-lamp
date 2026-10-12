@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T20:35:54.537Z",
+  "generated_at": "2026-10-12T00:50:13.236Z",
   "mix": {
     "familiar": 5,
-    "discovery": 37
+    "discovery": 36
   },
   "items": [
     {
@@ -24,11 +24,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-what-to-know-about-the-landm",
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "id": "st-ledger-attack-spreads-to-eu",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 10,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -105,6 +105,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-will-the-homeview-be-apple-s",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-48-hours-to-techcrunch-disru",
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "category": "Markets and business",
@@ -135,15 +144,6 @@
       "id": "st-efferon-wants-to-eradicate-t",
       "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-these-execs-think-voice-ai-h",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -244,15 +244,6 @@
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sam-altman-backed-bitcoin-li",
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "category": "Startups and companies",
-      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

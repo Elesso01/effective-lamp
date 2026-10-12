@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-11T20:35:53.884Z"
+    "imported_at": "2026-10-12T00:50:12.500Z"
   },
   {
     "id": "st-everyone-wants-scotus-to-tak",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.057Z"
+    "imported_at": "2026-10-12T00:50:11.353Z"
   },
   {
     "id": "st-clarity-s-failure-could-spee",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.057Z"
+    "imported_at": "2026-10-12T00:50:11.354Z"
   },
   {
     "id": "st-imf-finds-demand-for-tokeniz",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.058Z"
+    "imported_at": "2026-10-12T00:50:11.354Z"
   },
   {
     "id": "st-one-year-after-10-10-flash-c",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.058Z"
+    "imported_at": "2026-10-12T00:50:11.354Z"
   },
   {
     "id": "st-tokenized-commodities-look-b",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.058Z"
+    "imported_at": "2026-10-12T00:50:11.354Z"
   },
   {
     "id": "st-bitcoin-s-19-billion-wake-up",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.058Z"
+    "imported_at": "2026-10-12T00:50:11.354Z"
   },
   {
     "id": "st-bitcoin-s-volatility-has-plu",
@@ -125,7 +125,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-11T20:35:53.058Z"
+    "imported_at": "2026-10-12T00:50:11.354Z"
+  },
+  {
+    "id": "st-will-the-homeview-be-apple-s",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-11T21:14:40.000Z",
+    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "type": "News",
+    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T00:50:11.966Z"
   },
   {
     "id": "st-48-hours-to-techcrunch-disru",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.445Z"
+    "imported_at": "2026-10-12T00:50:11.966Z"
   },
   {
     "id": "st-can-the-ai-industry-persuade",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.446Z"
+    "imported_at": "2026-10-12T00:50:11.966Z"
   },
   {
     "id": "st-techcrunch-mobility-a-roadbl",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.446Z"
+    "imported_at": "2026-10-12T00:50:11.966Z"
   },
   {
     "id": "st-efferon-wants-to-eradicate-t",
@@ -189,39 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.446Z"
-  },
-  {
-    "id": "st-what-to-know-about-the-landm",
-    "title": "What to know about the landmark Warner Bros. Discovery sale",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T14:15:00.000Z",
-    "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-    "type": "News",
-    "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.446Z"
-  },
-  {
-    "id": "st-these-execs-think-voice-ai-h",
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-11T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "type": "News",
-    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.446Z"
+    "imported_at": "2026-10-12T00:50:11.966Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -333,7 +317,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-11T20:35:53.351Z"
+    "imported_at": "2026-10-12T00:50:11.854Z"
+  },
+  {
+    "id": "st-ledger-attack-spreads-to-eu",
+    "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-11T22:57:53.000Z",
+    "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-saylor-teases-strategy-bitco",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.166Z"
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.167Z"
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-ledger-confirms-unauthorized",
@@ -381,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.167Z"
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-cftc-proposals-aimed-at-sepa",
@@ -397,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.167Z"
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-justin-sun-says-tron-s-post",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.167Z"
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-tech-chief-says-eu-can-fend",
@@ -429,23 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.167Z"
-  },
-  {
-    "id": "st-sam-altman-backed-bitcoin-li",
-    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-10T07:10:43.000Z",
-    "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
-    "category": "Startups and companies",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-11T20:35:53.167Z"
+    "imported_at": "2026-10-12T00:50:11.621Z"
   },
   {
     "id": "st-silicon-valley-is-falling-in",
@@ -461,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.448Z"
+    "imported_at": "2026-10-12T00:50:13.172Z"
   },
   {
     "id": "st-the-new-apple-tv-could-have",
@@ -477,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.448Z"
+    "imported_at": "2026-10-12T00:50:13.172Z"
   },
   {
     "id": "st-what-to-expect-from-apple-s",
@@ -493,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.448Z"
+    "imported_at": "2026-10-12T00:50:13.172Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.348Z"
+    "imported_at": "2026-10-12T00:50:12.942Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -525,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:53.884Z"
+    "imported_at": "2026-10-12T00:50:12.500Z"
   },
   {
     "id": "st-treasury-backs-down-on-biden",
@@ -541,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:53.884Z"
+    "imported_at": "2026-10-12T00:50:12.501Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -557,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.348Z"
+    "imported_at": "2026-10-12T00:50:12.942Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -573,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:53.884Z"
+    "imported_at": "2026-10-12T00:50:12.500Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.348Z"
+    "imported_at": "2026-10-12T00:50:12.942Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -605,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.348Z"
+    "imported_at": "2026-10-12T00:50:12.942Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:53.884Z"
+    "imported_at": "2026-10-12T00:50:12.500Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.348Z"
+    "imported_at": "2026-10-12T00:50:12.942Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -653,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:54.348Z"
+    "imported_at": "2026-10-12T00:50:12.942Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -669,6 +653,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-11T20:35:53.884Z"
+    "imported_at": "2026-10-12T00:50:12.500Z"
   }
 ]
