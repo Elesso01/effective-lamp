@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-12T08:43:59.044Z",
+  "generated_at": "2026-10-12T13:03:38.481Z",
   "mix": {
     "familiar": 4,
-    "discovery": 36
+    "discovery": 42
   },
   "items": [
     {
-      "id": "st-why-a-bug-that-could-have-th",
-      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "id": "st-south-korea-just-got-its-fir",
+      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-everyone-wants-scotus-to-tak",
-      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-      "category": "Regulation and policy",
+      "id": "st-u-s-inflation-ethereum-upgra",
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
@@ -33,10 +33,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ledger-attack-spreads-to-eu",
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "id": "st-strategy-adds-250-bitcoin-as",
+      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -51,8 +51,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ledger-says-unauthorized-imp",
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "id": "st-ledger-claims-cryptobilis-ca",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8.5,
@@ -60,8 +60,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-shrugs-off-etf-outfl",
-      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "id": "st-bitcoin-holds-83-000-as-doll",
+      "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-global-financial-watchdog-ca",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,8 +78,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-clarity-s-failure-could-spee",
-      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "id": "st-swi-raises-894-million-to-re",
+      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-altcoins-rally-on-thin-tradi",
+      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -78,20 +96,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-imf-finds-demand-for-tokeniz",
-      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-one-year-after-10-10-flash-c",
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-former-plaud-exec-raises-26m",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -204,6 +213,51 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-australia-proposes-leverage",
+      "title": "Australia proposes leverage caps for crypto-settled derivatives",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-btc-price-support-holds-ahea",
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kraken-parent-clears-dubai-s",
+      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-standard-chartered-adds-ripp",
+      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korean-bank-launches-b",
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-global-watchdog-flags-stable",
       "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
       "category": "Crypto and AI intersections",
@@ -213,20 +267,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-french-lawmakers-back-report",
-      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-saylor-teases-strategy-bitco",
-      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-microsoft-s-new-ai-chip-make",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,15 +303,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-to-expect-from-apple-s",
-      "title": "What to expect from Apple’s ‘Welcome Home’ event",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-better-cryptocurrency-to-buy",
       "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
       "category": "Markets and business",
@@ -280,6 +316,24 @@
       "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-opinion-better-protection-ne",
+      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-fitbit-edge-is-for-folks",
+      "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -321,19 +375,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-most-americans-think-artific",
-      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "id": "st-cmf-s-first-wireless-speaker",
+      "title": "CMF’s first wireless speakers look like musical milk cartons",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-europol-urges-early-action-t",
-      "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-most-americans-think-artific",
+      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

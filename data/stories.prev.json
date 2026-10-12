@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-12T04:41:10.941Z"
+    "imported_at": "2026-10-12T08:43:58.393Z"
+  },
+  {
+    "id": "st-why-a-bug-that-could-have-th",
+    "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-12T08:32:17.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+    "type": "News",
+    "summary": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-12T08:43:57.197Z"
+  },
+  {
+    "id": "st-ledger-says-unauthorized-imp",
+    "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-12T07:49:40.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+    "type": "News",
+    "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-12T08:43:57.198Z"
+  },
+  {
+    "id": "st-bitcoin-shrugs-off-etf-outfl",
+    "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-12T04:49:30.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "type": "News",
+    "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-12T08:43:57.198Z"
   },
   {
     "id": "st-everyone-wants-scotus-to-tak",
@@ -29,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.952Z"
+    "imported_at": "2026-10-12T08:43:57.198Z"
   },
   {
     "id": "st-clarity-s-failure-could-spee",
@@ -45,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.952Z"
+    "imported_at": "2026-10-12T08:43:57.198Z"
   },
   {
     "id": "st-imf-finds-demand-for-tokeniz",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.952Z"
+    "imported_at": "2026-10-12T08:43:57.198Z"
   },
   {
     "id": "st-one-year-after-10-10-flash-c",
@@ -77,55 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.953Z"
-  },
-  {
-    "id": "st-tokenized-commodities-look-b",
-    "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-10T12:00:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-    "type": "News",
-    "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.953Z"
-  },
-  {
-    "id": "st-bitcoin-s-19-billion-wake-up",
-    "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-10T11:00:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-    "type": "News",
-    "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.953Z"
-  },
-  {
-    "id": "st-bitcoin-s-volatility-has-plu",
-    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-10T05:43:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-    "type": "News",
-    "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-12T04:41:09.953Z"
+    "imported_at": "2026-10-12T08:43:57.198Z"
   },
   {
     "id": "st-the-founder-s-guide-to-techc",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.433Z"
+    "imported_at": "2026-10-12T08:43:57.815Z"
   },
   {
     "id": "st-will-the-homeview-be-apple-s",
@@ -157,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.433Z"
+    "imported_at": "2026-10-12T08:43:57.815Z"
   },
   {
     "id": "st-48-hours-to-techcrunch-disru",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.433Z"
+    "imported_at": "2026-10-12T08:43:57.815Z"
   },
   {
     "id": "st-can-the-ai-industry-persuade",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.433Z"
+    "imported_at": "2026-10-12T08:43:57.815Z"
   },
   {
     "id": "st-techcrunch-mobility-a-roadbl",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.434Z"
+    "imported_at": "2026-10-12T08:43:57.815Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -317,7 +317,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T04:41:10.343Z"
+    "imported_at": "2026-10-12T08:43:57.627Z"
+  },
+  {
+    "id": "st-global-watchdog-flags-stable",
+    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T06:30:21.000Z",
+    "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T08:43:57.323Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T05:55:00.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T08:43:57.323Z"
+  },
+  {
+    "id": "st-french-lawmakers-back-report",
+    "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T04:45:15.000Z",
+    "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T08:43:57.323Z"
   },
   {
     "id": "st-ledger-attack-spreads-to-eu",
@@ -333,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T04:41:10.080Z"
+    "imported_at": "2026-10-12T08:43:57.323Z"
   },
   {
     "id": "st-saylor-teases-strategy-bitco",
@@ -349,71 +397,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T04:41:10.080Z"
+    "imported_at": "2026-10-12T08:43:57.323Z"
   },
   {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-11T12:59:00.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-a-year-on-bitcoin-languishes",
+    "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+    "source": "WSJ",
+    "sourceId": "rss-wsj",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-12T05:42:55.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
     "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T04:41:10.080Z"
-  },
-  {
-    "id": "st-ledger-confirms-unauthorized",
-    "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-11T09:05:00.000Z",
-    "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T04:41:10.080Z"
-  },
-  {
-    "id": "st-cftc-proposals-aimed-at-sepa",
-    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-11T07:50:00.000Z",
-    "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T04:41:10.080Z"
-  },
-  {
-    "id": "st-justin-sun-says-tron-s-post",
-    "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-10T11:52:14.000Z",
-    "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOU",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T04:41:10.080Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-12T08:43:58.393Z"
   },
   {
     "id": "st-silicon-valley-is-falling-in",
@@ -429,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.524Z"
+    "imported_at": "2026-10-12T08:43:58.955Z"
   },
   {
     "id": "st-the-new-apple-tv-could-have",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.524Z"
+    "imported_at": "2026-10-12T08:43:58.955Z"
   },
   {
     "id": "st-what-to-expect-from-apple-s",
@@ -461,7 +461,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.524Z"
+    "imported_at": "2026-10-12T08:43:58.955Z"
+  },
+  {
+    "id": "st-better-cryptocurrency-to-buy",
+    "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
+    "source": "The Motley Fool",
+    "sourceId": "rss-the-motley-fool",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-11T11:30:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRSX0JRZWlrOHBZMTc3Z25rOU1OWGxCY2VIbjllQjdUOHJrM3pubTRjWEt0bzFVMWRfRUMtbXFZcjd6djAycHlRM1VTWmVKdjY2aXRhR0c5cU5VeFhVNHMteWdPSFk1VjFJVHpKSF80aE1wT3IxVFBEeGNvZnZhUnB2ZGsyV3lhaU4yT285d2hDODVJMVFhcg?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRSX0JRZWlrOHBZMTc3Z25rOU1OWGxCY2VIbjllQjdUOHJrM3pubTRjWEt0bzFVMWRfRUMtbXFZcjd6djAycHlRM1VTWmVKdjY2aXRhR0c5cU5VeFhVNHMteWdPSFk1VjFJVHpKSF80aE1wT3IxVFBEeGNvZnZhUnB2ZGsyV3lhaU4yT285d2hDODVJMVFhcg?oc=5\" target=\"_blank\">B",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T08:43:58.394Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -477,23 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
-  },
-  {
-    "id": "st-opinion-better-protection-ne",
-    "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
-    "source": "South China Morning Post",
-    "sourceId": "rss-south-china-morning-post",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-10T08:30:05.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcWM0THphekU2WWZGZjQyYVh1RkhZVdIBvwFBVV95cUxQczItaVgyOUVRckJmcmF5ZXYzRVVlUDBMbnNrbFpFcGpQT0RrQmFIeC1SYlVRczRudDdzTTRwRGZPakxQLTVZT2hYZ2YwZ0FKd0V2RWtDOWpCVkNrYzh3R3RFSm50dm9HMENTY0VDQS0yU2RpcmNZNkpPdTFtLTV5Rld3VnR6UkEyUzVyQlpOZDU3VV96RV85N3A2bXNwS2tfWmNtTlBHbjZLbGxVeEtkOVl1enhxRG5XSTBNVk1Sdw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcW",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:10.941Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -509,23 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
-  },
-  {
-    "id": "st-a-year-on-bitcoin-languishes",
-    "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-    "source": "WSJ",
-    "sourceId": "rss-wsj",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-09T15:45:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOU",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:10.941Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -541,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-fayetteville-man-faces-fraud",
@@ -557,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:10.941Z"
+    "imported_at": "2026-10-12T08:43:58.394Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -573,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:10.941Z"
+    "imported_at": "2026-10-12T08:43:58.394Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:11.392Z"
+    "imported_at": "2026-10-12T08:43:58.822Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -653,6 +637,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T04:41:10.941Z"
+    "imported_at": "2026-10-12T08:43:58.393Z"
   }
 ]
