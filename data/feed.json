@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T16:41:22.172Z",
+  "generated_at": "2026-10-13T20:54:41.544Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 45
+    "familiar": 6,
+    "discovery": 41
   },
   "items": [
     {
@@ -24,11 +24,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bumble-agrees-to-a-1-3b-acqu",
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+      "id": "st-most-tokenized-stock-trading",
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
       "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,9 +42,9 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ens-seeks-dao-approval-to-ac",
-      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
-      "category": "Markets and business",
+      "id": "st-how-the-sec-s-lack-of-leader",
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -60,8 +60,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-shopify-opens-its-catalog-up",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-crypto-exchange-mnx-takes-on",
-      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -70,7 +79,7 @@
     },
     {
       "id": "st-uk-crypto-trader-says-almost",
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -114,26 +123,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-satlyt-founded-by-a-former-g",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "category": "Startups and companies",
+      "id": "st-judge-orders-openai-to-turn",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-2026-startup-battlefield",
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-spotify-users-on-ios-27-can",
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+      "id": "st-cambridge-heavy-industries-h",
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8,
@@ -141,8 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-techcrunch-disrupt-2026-day",
-      "title": "TechCrunch Disrupt 2026: Day 1",
+      "id": "st-niobia-takes-the-guesswork-o",
+      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -150,8 +150,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-spacexsi-bundles-x-premium-g",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "id": "st-rivian-s-startup-mind-roboti",
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-flox-intelligence-is-buildin",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -159,8 +168,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-refreshes-its-homepod",
-      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+      "id": "st-facebook-is-giving-users-mor",
+      "title": "Facebook is giving users more control over their algorithm",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -168,10 +177,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-new-smart-home-lineu",
-      "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+      "id": "st-higgsfield-takes-ai-video-fr",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -231,11 +240,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-radisson-hotel-group-brings",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-trezor-reduces-resellers-as",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -276,44 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-digital-cash-offers-cash-lik",
-      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-russia-clears-sberbank-for-c",
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hands-on-with-the-apple-home",
-      "title": "Hands-on with the Apple Home Collection",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-s-homepod-mini-2-is-av",
-      "title": "Apple’s HomePod Mini 2 is available to preorder",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-buying-apple-s-wall-mounted",
-      "title": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
+      "id": "st-openai-employee-arrested-for",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,8 +294,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-are-all-the-new-homepod",
-      "title": "Here are all the new HomePod Mini 2 colors",
+      "id": "st-rivian-partner-mind-robotics",
+      "title": "Rivian partner Mind Robotics hires Doug Field as president",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-it-looks-like-apple-music-is",
+      "title": "It looks like Apple Music is getting a new icon",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-xbox-is-officially-embracing",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -330,8 +321,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-epic-shifts-to-ai-accelerate",
-      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "id": "st-what-my-son-is-learning-from",
+      "title": "What My Son Is Learning From Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -339,17 +330,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-dlss-5-gets-toned-down-for-i",
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-ledger-says-hardware-implant",
+      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-finally-releases-gemi",
-      "title": "Google finally releases Gemini 4 Argon",
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -366,28 +357,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-nevada-city-council-to-discu",
+      "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-better-cryptocurrency-to-buy",
       "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-opinion-better-protection-ne",
-      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-grounded-reasoning-and-artif",
-      "title": "Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -441,15 +423,6 @@
       "id": "st-can-artificial-intelligence",
       "title": "Can Artificial Intelligence Learn the Art of Surgery?",
       "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-georgia-tech-announces-new-o",
-      "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,

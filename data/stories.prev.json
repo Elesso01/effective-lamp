@@ -13,7 +13,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-13T12:50:07.108Z"
+    "imported_at": "2026-10-13T16:41:21.556Z"
+  },
+  {
+    "id": "st-crypto-exchange-mnx-takes-on",
+    "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T15:52:09.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+    "type": "News",
+    "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-13T16:41:20.413Z"
+  },
+  {
+    "id": "st-uk-crypto-trader-says-almost",
+    "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T15:24:52.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+    "type": "News",
+    "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
     "id": "st-south-korea-blocks-27-crypto",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.348Z"
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
     "id": "st-federated-hermes-joins-wall",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.348Z"
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
     "id": "st-stacks-stx-a-bitcoin-layer-2",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.348Z"
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
     "id": "st-bitcoin-ether-slip-and-rebou",
@@ -77,7 +109,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.348Z"
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
     "id": "st-russia-s-largest-bank-sberba",
@@ -93,167 +125,151 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.349Z"
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
-    "id": "st-live-updates-bitcoin-continu",
-    "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
+    "id": "st-live-updates-bitcoin-trading",
+    "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
     "published_at": "2026-10-13T10:46:57.000Z",
     "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
     "type": "News",
-    "summary": "The third-quarter U.S. earnings season is kicking off today, with results from Goldman Sachs, JPMorgan, and UnitedHealthcare, among others. The key September CPI report comes tomorrow.",
+    "summary": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.349Z"
+    "imported_at": "2026-10-13T16:41:20.413Z"
   },
   {
-    "id": "st-bitcoin-diverges-from-south",
-    "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T10:38:51.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+    "id": "st-satlyt-founded-by-a-former-g",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T16:30:00.000Z",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
     "type": "News",
-    "summary": "South Korea’s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.349Z"
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-13T16:41:21.066Z"
   },
   {
-    "id": "st-ledger-says-spy-chip-inside",
-    "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T09:27:47.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+    "id": "st-the-2026-startup-battlefield",
+    "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T15:02:00.000Z",
+    "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
     "type": "News",
-    "summary": "Ledger said it will review its reseller policies and announced and that investigations to determine who tampered with the devices will continue.",
+    "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-13T16:41:21.066Z"
+  },
+  {
+    "id": "st-spotify-users-on-ios-27-can",
+    "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T14:30:12.000Z",
+    "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+    "type": "News",
+    "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T12:50:06.349Z"
-  },
-  {
-    "id": "st-giraffe-bio-aims-its-bespoke",
-    "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T12:40:00.000Z",
-    "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-    "type": "News",
-    "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.616Z"
+    "imported_at": "2026-10-13T16:41:21.066Z"
   },
   {
-    "id": "st-just-5-years-in-interactive",
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "id": "st-bumble-agrees-to-a-1-3b-acqu",
+    "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-13T12:23:42.000Z",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "published_at": "2026-10-13T14:25:48.000Z",
+    "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
     "type": "News",
-    "summary": "The startup will sell some of its assets to Disney for $20 million.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.616Z"
-  },
-  {
-    "id": "st-meta-releases-its-first-fron",
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-12T17:56:56.000Z",
-    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "type": "News",
-    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.617Z"
-  },
-  {
-    "id": "st-windborne-wins-a-hefty-us-ai",
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-12T17:19:14.000Z",
-    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "type": "News",
-    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.617Z"
-  },
-  {
-    "id": "st-honeyjar-offers-ai-tools-to",
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-12T15:45:00.000Z",
-    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "type": "News",
-    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.617Z"
-  },
-  {
-    "id": "st-microsoft-president-says-uk",
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-12T15:31:19.000Z",
-    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "type": "News",
-    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "summary": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.617Z"
+    "imported_at": "2026-10-13T16:41:21.066Z"
   },
   {
-    "id": "st-this-ai-startup-says-it-can",
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "id": "st-techcrunch-disrupt-2026-day",
+    "title": "TechCrunch Disrupt 2026: Day 1",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-12T15:27:59.000Z",
-    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "published_at": "2026-10-13T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
     "type": "News",
-    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
     "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.617Z"
+    "imported_at": "2026-10-13T16:41:21.066Z"
+  },
+  {
+    "id": "st-spacexsi-bundles-x-premium-g",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T13:50:19.000Z",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "type": "News",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-13T16:41:21.066Z"
+  },
+  {
+    "id": "st-apple-refreshes-its-homepod",
+    "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T13:38:03.000Z",
+    "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+    "type": "News",
+    "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-13T16:41:21.066Z"
+  },
+  {
+    "id": "st-apple-s-new-smart-home-lineu",
+    "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T13:37:19.000Z",
+    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+    "type": "News",
+    "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-13T16:41:21.066Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -333,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -349,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -365,7 +381,103 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T12:50:06.539Z"
+    "imported_at": "2026-10-13T16:41:20.858Z"
+  },
+  {
+    "id": "st-strive-reports-208m-in-warra",
+    "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T15:57:55.000Z",
+    "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T16:41:20.690Z"
+  },
+  {
+    "id": "st-bitcoin-keeps-up-pressure-on",
+    "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T15:27:32.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T16:41:20.690Z"
+  },
+  {
+    "id": "st-anthropic-warns-ai-worms-may",
+    "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T13:55:09.000Z",
+    "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T16:41:20.690Z"
+  },
+  {
+    "id": "st-is-bitcoin-kidding-itself-ab",
+    "title": "Is Bitcoin kidding itself about the Lightning Network?",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T13:30:00.000Z",
+    "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T16:41:20.690Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T13:26:42.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T16:41:20.690Z"
+  },
+  {
+    "id": "st-digital-cash-offers-cash-lik",
+    "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T13:17:17.000Z",
+    "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T16:41:20.691Z"
   },
   {
     "id": "st-russia-clears-sberbank-for-c",
@@ -381,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.414Z"
+    "imported_at": "2026-10-13T16:41:20.691Z"
   },
   {
     "id": "st-ens-seeks-dao-approval-to-ac",
@@ -397,199 +509,135 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.414Z"
+    "imported_at": "2026-10-13T16:41:20.691Z"
   },
   {
-    "id": "st-metaplanet-to-issue-329m-con",
-    "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T10:23:07.000Z",
-    "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selling holdings.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.414Z"
-  },
-  {
-    "id": "st-mediamarktsaturn-pulls-ledge",
-    "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T10:09:01.000Z",
-    "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.414Z"
-  },
-  {
-    "id": "st-bitcoin-hits-84k-resistance",
-    "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T09:42:00.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.415Z"
-  },
-  {
-    "id": "st-chinese-fraud-victims-lose-k",
-    "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T09:03:06.000Z",
-    "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.415Z"
-  },
-  {
-    "id": "st-ledger-details-lte-enabled-s",
-    "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T08:45:10.000Z",
-    "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.415Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T05:51:31.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T12:50:06.415Z"
-  },
-  {
-    "id": "st-character-ai-files-for-bankr",
-    "title": "Character.AI files for bankruptcy",
+    "id": "st-hands-on-with-the-apple-home",
+    "title": "Hands-on with the Apple Home Collection",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-13T10:32:23.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "published_at": "2026-10-13T16:11:00.000Z",
+    "url": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
     "type": "News",
-    "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the sa",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.679Z"
-  },
-  {
-    "id": "st-the-evolution-of-artificial",
-    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-    "source": "CancerNetwork",
-    "sourceId": "rss-cancernetwork",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T00:17:23.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.638Z"
-  },
-  {
-    "id": "st-elon-musk-has-donated-over-2",
-    "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-12T16:52:54.000Z",
-    "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-    "type": "News",
-    "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American histo",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.679Z"
-  },
-  {
-    "id": "st-android-is-the-best-and-wors",
-    "title": "Android is the best and worst thing about Googlebooks",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-12T15:04:23.000Z",
-    "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-    "type": "News",
-    "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful",
+    "summary": "We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics a",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.679Z"
+    "imported_at": "2026-10-13T16:41:22.099Z"
   },
   {
-    "id": "st-meta-has-some-wonder-full-ne",
-    "title": "Meta has some Wonder Full new AI models",
+    "id": "st-apple-s-homepod-mini-2-is-av",
+    "title": "Apple’s HomePod Mini 2 is available to preorder",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-12T11:13:10.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "published_at": "2026-10-13T15:52:22.000Z",
+    "url": "https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy",
     "type": "News",
-    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Won",
+    "summary": "After nearly six years, Apple debuted a new, improved HomePod Mini. The $149 HomePod Mini 2 will launch on Friday, October 30th, and you can place a preorder now through Apple. The speaker includes the S10 chip, which debuted in the Apple Watch Series 10, and it can power a host ",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T16:41:22.099Z"
+  },
+  {
+    "id": "st-buying-apple-s-wall-mounted",
+    "title": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-13T15:48:10.000Z",
+    "url": "https://www.theverge.com/tech/1010164/apple-homeview-wall-mounted-sold-separately",
+    "type": "News",
+    "summary": "The HomeView smart home display announced by Apple today comes in two models that both cost $299: one with a speaker base, and the other being a self explanatory \"Wall Mounted\" version. If you want the latter, however, you'll actually have to pay at least $59 more - the mounts re",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.679Z"
+    "imported_at": "2026-10-13T16:41:22.099Z"
   },
   {
-    "id": "st-nevada-city-council-to-discu",
-    "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
-    "source": "KCCI",
-    "sourceId": "rss-kcci",
+    "id": "st-here-are-all-the-new-homepod",
+    "title": "Here are all the new HomePod Mini 2 colors",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-13T15:38:48.000Z",
+    "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
+    "type": "News",
+    "summary": "Apple's HomePod Mini 2 is here, and we've gotten a close-up look at the second-gen smart speaker. The HomePod Mini 2 comes with an upgraded S10 chip capable of powering Siri AI, though Apple says support for new AI features will roll out as part of a future update. It also offers",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T16:41:22.099Z"
+  },
+  {
+    "id": "st-epic-shifts-to-ai-accelerate",
+    "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-13T15:12:59.000Z",
+    "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+    "type": "News",
+    "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like A",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T16:41:22.099Z"
+  },
+  {
+    "id": "st-dlss-5-gets-toned-down-for-i",
+    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-13T13:58:28.000Z",
+    "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+    "type": "News",
+    "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy ",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T16:41:22.099Z"
+  },
+  {
+    "id": "st-google-finally-releases-gemi",
+    "title": "Google finally releases Gemini 4 Argon",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-13T12:12:37.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "type": "News",
+    "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across comple",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T16:41:22.099Z"
+  },
+  {
+    "id": "st-i-did-a-crypto-heist-rockvil",
+    "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+    "source": "WUSA9",
+    "sourceId": "rss-wusa9",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-11T22:41:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal83UHlkeUgxclBFSnAybi1CNU5nSFk?oc=5",
+    "published_at": "2026-10-12T11:44:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aTllbEtOMjgyNV81dERQdlI1WnpqdllZVE55bW1PVXdOTjJPSEdXWmREQUVIbTFxbjliM1dLSlVNdGdSY2wzeld0SUJiNnM1MXZicDlHRlIwbHJxWXJHamVETzdGbnJ2MDdldTFWQWN5R0w?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aT",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.108Z"
+    "imported_at": "2026-10-13T16:41:21.556Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -605,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.108Z"
+    "imported_at": "2026-10-13T16:41:21.556Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
@@ -621,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.108Z"
+    "imported_at": "2026-10-13T16:41:21.556Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -637,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.637Z"
+    "imported_at": "2026-10-13T16:41:22.064Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -653,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.638Z"
+    "imported_at": "2026-10-13T16:41:22.064Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -669,23 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.108Z"
-  },
-  {
-    "id": "st-arkansas-cryptocurrency-deve",
-    "title": "Arkansas cryptocurrency developer indicted for alleged multi-million-dollar fraud scheme",
-    "source": "KNWA FOX24",
-    "sourceId": "rss-knwa-fox24",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-09T15:32:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGR6bENyR0FMdDY4QW1zLUpEb3kyUVJJYm8yb09GS1RadWdmVGJDTERGWnN6R3FudGVKalFjYnR4ZlRBcFZaR3NMV2pyQnNJTHpnQ1BLSjhmbUc2X1lmQThMTERoTFVMQ2JoV0c0VU1wZ1VOalllNTNoU0xxZWU4Xy11YzlrdnVNZEVvRXBadGVodi0tU2RFWS1SWVRXMU8tdjV1UERTXzdQVGZ1eFI1Z2twLVpveFlQWHktUDdNY9IBxAFBVV95cUxObXhQbldlbXhwR0xqMHgydVhHbFVYRWM1Ti1qTWRvemg0M0VCTTAxZlVhQV9mM2pNQ0pTYU04a0lQMm5pLWp3Z3Z0NEZYMS1FV0x2Y2xaaVhtcHd4Q193UlNodDJvcm1FV3hPektaXzVkU1lLTlJuTllYOWdYa3lXbVQtMFREMXVUbTRvNTY0UUN1ejVCM3BTT29CQVhUWHlDb1l1SEdxMUZxNUdIVEp0OEl1Nmgxb1VLVkZDQ1hWNENkVFJt?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObGR6bENyR0FMdDY4QW1zLUpEb3kyUVJJYm8yb09GS1RadWdmVGJDTERGWnN6R3FudGVKalFjYnR4ZlRBcFZaR3NMV2pyQnNJTHpnQ1BLSjhmbUc2X1lmQThMTERoTFVMQ2JoV0c0VU1wZ1VOalllNTNoU0xxZWU4Xy11YzlrdnVNZEVvRXBadGVodi0tU2RFWS1SWVRXMU8tdjV1UERTXzdQVG",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.108Z"
+    "imported_at": "2026-10-13T16:41:21.556Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -701,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.638Z"
+    "imported_at": "2026-10-13T16:41:22.064Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -717,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.638Z"
+    "imported_at": "2026-10-13T16:41:22.064Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -733,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.108Z"
+    "imported_at": "2026-10-13T16:41:21.556Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -749,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.637Z"
+    "imported_at": "2026-10-13T16:41:22.063Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -765,6 +797,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T12:50:07.637Z"
+    "imported_at": "2026-10-13T16:41:22.063Z"
   }
 ]
