@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T20:39:33.281Z",
+  "generated_at": "2026-10-13T00:51:48.052Z",
   "mix": {
-    "familiar": 5,
+    "familiar": 4,
     "discovery": 43
   },
   "items": [
@@ -26,15 +26,6 @@
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-strategy-adds-250-bitcoin-as",
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -231,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-ftx-s-crypto-mining-venture",
+      "title": "FTX’s crypto mining venture is now used to advance AI",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-crypto-pacs-report-2-7m-spen",
       "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
       "category": "Markets and business",
@@ -312,15 +312,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-year-on-bitcoin-languishes",
-      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-nevada-city-council-to-discu",
       "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
       "category": "Markets and business",
@@ -366,6 +357,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-a-year-on-bitcoin-languishes",
+      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-treasury-backs-down-on-biden",
+      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-new-state-honor-recognizes-i",
       "title": "New state honor recognizes intentional use of artificial intelligence in higher ed",
       "category": "Products and applications",
@@ -379,15 +388,6 @@
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cmf-s-first-wireless-speaker",
-      "title": "CMF’s first wireless speakers look like musical milk cartons",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -424,15 +424,6 @@
       "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fincen-reverses-course-on-cr",
-      "title": "FinCEN Reverses Course on Cryptocurrency Mixing",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

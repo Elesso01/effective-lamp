@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-12T16:38:33.676Z"
+    "imported_at": "2026-10-12T20:39:32.671Z"
   },
   {
     "id": "st-palantir-s-europe-head-warns",
@@ -29,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.858Z"
   },
   {
     "id": "st-tom-lee-sees-2-trillion-weal",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.858Z"
   },
   {
     "id": "st-tokenized-catastrophe-bonds",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.858Z"
   },
   {
     "id": "st-ledger-claims-cryptobilis-ca",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.859Z"
   },
   {
     "id": "st-bitcoin-falls-below-83-000-a",
@@ -93,7 +93,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.859Z"
   },
   {
     "id": "st-global-financial-watchdog-ca",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.859Z"
   },
   {
     "id": "st-south-korea-just-got-its-fir",
@@ -125,7 +125,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T16:38:32.872Z"
+    "imported_at": "2026-10-12T20:39:31.859Z"
+  },
+  {
+    "id": "st-meta-releases-its-first-fron",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T17:56:56.000Z",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "type": "News",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T20:39:32.165Z"
+  },
+  {
+    "id": "st-windborne-wins-a-hefty-us-ai",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-12T17:19:14.000Z",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "type": "News",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-12T20:39:32.165Z"
   },
   {
     "id": "st-honeyjar-offers-ai-tools-to",
@@ -136,12 +168,12 @@
     "published_at": "2026-10-12T15:45:00.000Z",
     "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "type": "News",
-    "summary": "Could AI actually make PR better?",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.148Z"
+    "imported_at": "2026-10-12T20:39:32.166Z"
   },
   {
     "id": "st-microsoft-president-says-uk",
@@ -152,12 +184,12 @@
     "published_at": "2026-10-12T15:31:19.000Z",
     "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "type": "News",
-    "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.149Z"
+    "imported_at": "2026-10-12T20:39:32.166Z"
   },
   {
     "id": "st-this-ai-startup-says-it-can",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.149Z"
+    "imported_at": "2026-10-12T20:39:32.166Z"
   },
   {
     "id": "st-smart-ring-maker-ultrahuman",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.149Z"
+    "imported_at": "2026-10-12T20:39:32.166Z"
   },
   {
     "id": "st-techcrunch-disrupt-2026-star",
@@ -205,39 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.149Z"
-  },
-  {
-    "id": "st-former-plaud-exec-raises-26m",
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-12T12:47:59.000Z",
-    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-    "type": "News",
-    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.149Z"
-  },
-  {
-    "id": "st-the-founder-s-guide-to-techc",
-    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-12T00:59:01.000Z",
-    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "type": "News",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.149Z"
+    "imported_at": "2026-10-12T20:39:32.166Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.095Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.095Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.095Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.096Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.096Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.096Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -349,7 +349,87 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T16:38:33.077Z"
+    "imported_at": "2026-10-12T20:39:32.096Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T19:26:13.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T20:39:31.965Z"
+  },
+  {
+    "id": "st-crypto-pacs-report-2-7m-spen",
+    "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T18:55:49.000Z",
+    "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support “pro-crypto” candidates in 2026.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T20:39:31.965Z"
+  },
+  {
+    "id": "st-us-accounting-overhaul-could",
+    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T18:38:14.000Z",
+    "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T20:39:31.965Z"
+  },
+  {
+    "id": "st-bitcoin-miners-face-widening",
+    "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T16:51:05.000Z",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T20:39:31.966Z"
+  },
+  {
+    "id": "st-bitcoin-drops-2-2-as-ukraine",
+    "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T16:30:21.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-12T20:39:31.966Z"
   },
   {
     "id": "st-xrp-treasury-evernorth-s-sha",
@@ -365,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
+    "imported_at": "2026-10-12T20:39:31.966Z"
   },
   {
     "id": "st-ledger-implant-tests-bitcoin",
@@ -381,23 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T12:46:51.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
+    "imported_at": "2026-10-12T20:39:31.966Z"
   },
   {
     "id": "st-strategy-adds-250-bitcoin-as",
@@ -413,71 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
+    "imported_at": "2026-10-12T20:39:31.966Z"
   },
   {
-    "id": "st-australia-proposes-leverage",
-    "title": "Australia proposes leverage caps for crypto-settled derivatives",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T11:41:58.000Z",
-    "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-elon-musk-has-donated-over-2",
+    "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-12T16:52:54.000Z",
+    "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
     "type": "News",
-    "summary": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
-  },
-  {
-    "id": "st-btc-price-support-holds-ahea",
-    "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T11:14:10.000Z",
-    "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
-  },
-  {
-    "id": "st-kraken-parent-clears-dubai-s",
-    "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T09:41:17.000Z",
-    "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
-    "category": "Markets and business",
+    "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American histo",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
-  },
-  {
-    "id": "st-standard-chartered-adds-ripp",
-    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T09:30:57.000Z",
-    "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T16:38:32.933Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-12T20:39:33.193Z"
   },
   {
     "id": "st-android-is-the-best-and-wors",
@@ -493,23 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.375Z"
-  },
-  {
-    "id": "st-microsoft-s-new-ai-chip-make",
-    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-12T13:33:06.000Z",
-    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-    "type": "News",
-    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of han",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.375Z"
+    "imported_at": "2026-10-12T20:39:33.193Z"
   },
   {
     "id": "st-the-oneplus-16-is-the-compan",
@@ -525,7 +525,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.375Z"
+    "imported_at": "2026-10-12T20:39:33.193Z"
+  },
+  {
+    "id": "st-meta-has-some-wonder-full-ne",
+    "title": "Meta has some Wonder Full new AI models",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-12T11:13:10.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "type": "News",
+    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Won",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T20:39:33.193Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -541,7 +557,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:33.676Z"
+    "imported_at": "2026-10-12T20:39:32.671Z"
+  },
+  {
+    "id": "st-nevada-city-council-to-discu",
+    "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
+    "source": "KCCI",
+    "sourceId": "rss-kcci",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-11T22:41:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal83UHlkeUgxclBFSnAybi1CNU5nSFk?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T20:39:32.671Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -557,23 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:33.677Z"
-  },
-  {
-    "id": "st-the-evolution-of-artificial",
-    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-    "source": "CancerNetwork",
-    "sourceId": "rss-cancernetwork",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-10T18:45:22.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.230Z"
+    "imported_at": "2026-10-12T20:39:32.671Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
@@ -589,23 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:33.677Z"
-  },
-  {
-    "id": "st-the-fitbit-edge-is-for-folks",
-    "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-09T20:35:01.000Z",
-    "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-    "type": "News",
-    "summary": "The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup. Basically, i",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.375Z"
+    "imported_at": "2026-10-12T20:39:32.671Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -621,7 +621,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.229Z"
+    "imported_at": "2026-10-12T20:39:33.121Z"
+  },
+  {
+    "id": "st-barrett-introduces-legislati",
+    "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
+    "source": "Representative Tom Barrett | (.gov)",
+    "sourceId": "rss-representative-tom-barrett-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-09T16:28:33.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm9id2ozV0h5c2pTY21DMHB3YlowTUpFeXM?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-12T20:39:33.122Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -637,23 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.230Z"
-  },
-  {
-    "id": "st-fayetteville-man-faces-fraud",
-    "title": "Fayetteville man faces fraud charges in cryptocurrency venture - The Arkansas Democrat-Gazette",
-    "source": "The Arkansas Democrat-Gazette",
-    "sourceId": "rss-the-arkansas-democrat-gazette",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-08T22:13:21.000Z",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejhTSktOcDM0RjRMeDlWVjVxSElWeXR5c0xWR1FHQWh0UEFGUDV4c2gwcWxrSTdDaFY2RXBZMWltZDlfV1dZYzNIMjhfQkVqRWNVb016UEFJQ19mOWdKbFhWTlZubl9KSnRKMDAwcDBuRTZ5UXZLX0FvZGlxR3VITk5VeFRubVhTc2pzZ1hFUnhYdw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQejhTSktOcDM0RjRMeDlWVjVxSElWeXR5c0xWR1FHQWh0UEFGUDV4c2gwcWxrSTdDaFY2RXBZMWltZDlfV1dZYzNIMjhfQkVqRWNVb016UEFJQ19mOWdKbFhWTlZubl9KSnRKMDAwcDBuRTZ5UXZLX0FvZGlxR3VITk5VeFRubVhTc2pzZ1hFUnhYdw?oc=5\" target=\"_blank\">Fayettevi",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:33.677Z"
+    "imported_at": "2026-10-12T20:39:33.121Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.229Z"
+    "imported_at": "2026-10-12T20:39:33.121Z"
   },
   {
     "id": "st-cmf-s-first-wireless-speaker",
@@ -685,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.375Z"
+    "imported_at": "2026-10-12T20:39:33.193Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.229Z"
+    "imported_at": "2026-10-12T20:39:33.121Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:33.677Z"
+    "imported_at": "2026-10-12T20:39:32.671Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.229Z"
+    "imported_at": "2026-10-12T20:39:33.121Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -749,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:34.229Z"
+    "imported_at": "2026-10-12T20:39:33.121Z"
   },
   {
     "id": "st-fincen-reverses-course-on-cr",
@@ -765,6 +765,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T16:38:33.676Z"
+    "imported_at": "2026-10-12T20:39:32.671Z"
   }
 ]
