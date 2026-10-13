@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-10-13T04:41:34.679Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-10-13T08:43:04.043Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-once-largest-ethereum-nft-ma",
+      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-13T04:43:18.000Z",
+      "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99"
+    }
+  ]
 }

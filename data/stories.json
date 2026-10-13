@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
+  },
+  {
+    "id": "st-bitcoin-whale-that-sat-throu",
+    "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T05:45:10.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+    "type": "News",
+    "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-13T08:43:02.308Z"
+  },
+  {
+    "id": "st-tokenized-sandisk-bets-saw-m",
+    "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T05:27:17.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+    "type": "News",
+    "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-13T08:43:02.309Z"
+  },
+  {
+    "id": "st-once-largest-ethereum-nft-ma",
+    "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T04:43:18.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+    "type": "News",
+    "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-13T08:43:02.309Z"
   },
   {
     "id": "st-bitcoin-rebounds-above-83-00",
@@ -29,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
+    "imported_at": "2026-10-13T08:43:02.309Z"
   },
   {
     "id": "st-palantir-s-europe-head-warns",
@@ -45,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
+    "imported_at": "2026-10-13T08:43:02.309Z"
   },
   {
     "id": "st-tom-lee-sees-2-trillion-weal",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
+    "imported_at": "2026-10-13T08:43:02.309Z"
   },
   {
     "id": "st-tokenized-catastrophe-bonds",
@@ -77,55 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
-  },
-  {
-    "id": "st-ledger-claims-cryptobilis-ca",
-    "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T12:01:53.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-    "type": "News",
-    "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
-  },
-  {
-    "id": "st-bitcoin-falls-below-83-000-a",
-    "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T11:21:11.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-    "type": "News",
-    "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
-  },
-  {
-    "id": "st-global-financial-watchdog-ca",
-    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T11:02:38.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-    "type": "News",
-    "summary": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T04:41:33.108Z"
+    "imported_at": "2026-10-13T08:43:02.310Z"
   },
   {
     "id": "st-meta-releases-its-first-fron",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.896Z"
   },
   {
     "id": "st-windborne-wins-a-hefty-us-ai",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.897Z"
   },
   {
     "id": "st-honeyjar-offers-ai-tools-to",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.897Z"
   },
   {
     "id": "st-microsoft-president-says-uk",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.897Z"
   },
   {
     "id": "st-this-ai-startup-says-it-can",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.897Z"
   },
   {
     "id": "st-smart-ring-maker-ultrahuman",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.897Z"
   },
   {
     "id": "st-techcrunch-disrupt-2026-star",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.596Z"
+    "imported_at": "2026-10-13T08:43:02.897Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -349,7 +349,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T04:41:33.495Z"
+    "imported_at": "2026-10-13T08:43:02.786Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T05:51:31.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T08:43:02.440Z"
+  },
+  {
+    "id": "st-blur-is-shutting-down-its-we",
+    "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T05:38:37.000Z",
+    "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Blur’s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T08:43:02.441Z"
+  },
+  {
+    "id": "st-binance-to-shut-down-crypto",
+    "title": "Binance to shut down crypto mining pool services in November",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T05:23:26.000Z",
+    "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T08:43:02.441Z"
   },
   {
     "id": "st-south-korea-moves-to-block-2",
@@ -365,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
+    "imported_at": "2026-10-13T08:43:02.441Z"
   },
   {
     "id": "st-meta-claims-new-muse-wonder",
@@ -381,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
+    "imported_at": "2026-10-13T08:43:02.441Z"
   },
   {
     "id": "st-aptos-rolls-out-encrypted-me",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
+    "imported_at": "2026-10-13T08:43:02.441Z"
   },
   {
     "id": "st-ftx-s-crypto-mining-venture",
@@ -413,23 +461,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T19:26:13.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
+    "imported_at": "2026-10-13T08:43:02.441Z"
   },
   {
     "id": "st-crypto-pacs-report-2-7m-spen",
@@ -445,39 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
-  },
-  {
-    "id": "st-us-accounting-overhaul-could",
-    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T18:38:14.000Z",
-    "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
-  },
-  {
-    "id": "st-bitcoin-miners-face-widening",
-    "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T16:51:05.000Z",
-    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T04:41:33.253Z"
+    "imported_at": "2026-10-13T08:43:02.441Z"
   },
   {
     "id": "st-elon-musk-has-donated-over-2",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.585Z"
+    "imported_at": "2026-10-13T08:43:03.916Z"
   },
   {
     "id": "st-android-is-the-best-and-wors",
@@ -509,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.586Z"
+    "imported_at": "2026-10-13T08:43:03.916Z"
   },
   {
     "id": "st-the-oneplus-16-is-the-compan",
@@ -525,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.586Z"
+    "imported_at": "2026-10-13T08:43:03.916Z"
   },
   {
     "id": "st-meta-has-some-wonder-full-ne",
@@ -541,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.585Z"
+    "imported_at": "2026-10-13T08:43:03.916Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -573,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
@@ -589,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -605,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.437Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -621,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.438Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -637,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
   },
   {
     "id": "st-treasury-backs-down-on-biden",
@@ -653,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.438Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -685,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.437Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.438Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.004Z"
+    "imported_at": "2026-10-13T08:43:03.310Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.437Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -749,6 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T04:41:34.437Z"
+    "imported_at": "2026-10-13T08:43:03.798Z"
   }
 ]

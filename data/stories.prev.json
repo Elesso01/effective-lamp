@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
+  },
+  {
+    "id": "st-bitcoin-rebounds-above-83-00",
+    "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T04:18:20.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+    "type": "News",
+    "summary": "Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday’s US CPI report.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-palantir-s-europe-head-warns",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.987Z"
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-tom-lee-sees-2-trillion-weal",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.988Z"
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-tokenized-catastrophe-bonds",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.988Z"
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-ledger-claims-cryptobilis-ca",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.988Z"
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-bitcoin-falls-below-83-000-a",
@@ -93,7 +109,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.988Z"
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-global-financial-watchdog-ca",
@@ -109,23 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.988Z"
-  },
-  {
-    "id": "st-south-korea-just-got-its-fir",
-    "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-12T10:57:37.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-    "type": "News",
-    "summary": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T00:51:45.988Z"
+    "imported_at": "2026-10-13T04:41:33.108Z"
   },
   {
     "id": "st-meta-releases-its-first-fron",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.734Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-windborne-wins-a-hefty-us-ai",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.734Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-honeyjar-offers-ai-tools-to",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.734Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-microsoft-president-says-uk",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.734Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-this-ai-startup-says-it-can",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.734Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-smart-ring-maker-ultrahuman",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.735Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-techcrunch-disrupt-2026-star",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.735Z"
+    "imported_at": "2026-10-13T04:41:33.596Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -349,7 +349,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T00:51:46.652Z"
+    "imported_at": "2026-10-13T04:41:33.495Z"
+  },
+  {
+    "id": "st-south-korea-moves-to-block-2",
+    "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T02:41:30.000Z",
+    "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T04:41:33.253Z"
+  },
+  {
+    "id": "st-meta-claims-new-muse-wonder",
+    "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T01:54:31.000Z",
+    "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T04:41:33.253Z"
+  },
+  {
+    "id": "st-aptos-rolls-out-encrypted-me",
+    "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T00:52:52.000Z",
+    "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T04:41:33.253Z"
   },
   {
     "id": "st-ftx-s-crypto-mining-venture",
@@ -365,7 +413,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
+    "imported_at": "2026-10-13T04:41:33.253Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
+    "imported_at": "2026-10-13T04:41:33.253Z"
   },
   {
     "id": "st-crypto-pacs-report-2-7m-spen",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
+    "imported_at": "2026-10-13T04:41:33.253Z"
   },
   {
     "id": "st-us-accounting-overhaul-could",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
+    "imported_at": "2026-10-13T04:41:33.253Z"
   },
   {
     "id": "st-bitcoin-miners-face-widening",
@@ -429,55 +477,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
-  },
-  {
-    "id": "st-bitcoin-drops-2-2-as-ukraine",
-    "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T16:30:21.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
-  },
-  {
-    "id": "st-xrp-treasury-evernorth-s-sha",
-    "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T14:18:49.000Z",
-    "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Evernorth’s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
-  },
-  {
-    "id": "st-ledger-implant-tests-bitcoin",
-    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T14:07:00.000Z",
-    "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T00:51:46.169Z"
+    "imported_at": "2026-10-13T04:41:33.253Z"
   },
   {
     "id": "st-elon-musk-has-donated-over-2",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.989Z"
+    "imported_at": "2026-10-13T04:41:34.585Z"
   },
   {
     "id": "st-android-is-the-best-and-wors",
@@ -509,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.990Z"
+    "imported_at": "2026-10-13T04:41:34.586Z"
   },
   {
     "id": "st-the-oneplus-16-is-the-compan",
@@ -525,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.990Z"
+    "imported_at": "2026-10-13T04:41:34.586Z"
   },
   {
     "id": "st-meta-has-some-wonder-full-ne",
@@ -541,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.989Z"
+    "imported_at": "2026-10-13T04:41:34.585Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -573,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
@@ -589,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -605,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.437Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -621,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.438Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -637,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
   },
   {
     "id": "st-treasury-backs-down-on-biden",
@@ -653,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.438Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -685,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.437Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.438Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.258Z"
+    "imported_at": "2026-10-13T04:41:34.004Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.437Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -749,6 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T00:51:47.837Z"
+    "imported_at": "2026-10-13T04:41:34.437Z"
   }
 ]
