@@ -1,14 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:51:48.075Z",
-  "count": 1,
-  "alerts": [
-    {
-      "id": "st-south-korea-just-got-its-fir",
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-12T10:57:37.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin"
-    }
-  ]
+  "generated_at": "2026-10-13T04:41:34.679Z",
+  "count": 0,
+  "alerts": []
 }

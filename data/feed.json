@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-10-13T00:51:48.052Z",
+  "generated_at": "2026-10-13T04:41:34.655Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 43
+    "familiar": 3,
+    "discovery": 44
   },
   "items": [
-    {
-      "id": "st-south-korea-just-got-its-fir",
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
     {
       "id": "st-microsoft-president-says-uk",
       "title": "Microsoft president says UK is best placed to drive AI regulation",
@@ -49,6 +40,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-rebounds-above-83-00",
+      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-palantir-s-europe-head-warns",
@@ -222,6 +222,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-south-korea-moves-to-block-2",
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-claims-new-muse-wonder",
+      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-aptos-rolls-out-encrypted-me",
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ftx-s-crypto-mining-venture",
       "title": "FTX’s crypto mining venture is now used to advance AI",
       "category": "Crypto and AI intersections",
@@ -253,33 +280,6 @@
       "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-drops-2-2-as-ukraine",
-      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-xrp-treasury-evernorth-s-sha",
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-implant-tests-bitcoin",
-      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

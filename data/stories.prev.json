@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.258Z"
   },
   {
     "id": "st-palantir-s-europe-head-warns",
@@ -29,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.858Z"
+    "imported_at": "2026-10-13T00:51:45.987Z"
   },
   {
     "id": "st-tom-lee-sees-2-trillion-weal",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.858Z"
+    "imported_at": "2026-10-13T00:51:45.988Z"
   },
   {
     "id": "st-tokenized-catastrophe-bonds",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.858Z"
+    "imported_at": "2026-10-13T00:51:45.988Z"
   },
   {
     "id": "st-ledger-claims-cryptobilis-ca",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.859Z"
+    "imported_at": "2026-10-13T00:51:45.988Z"
   },
   {
     "id": "st-bitcoin-falls-below-83-000-a",
@@ -93,7 +93,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.859Z"
+    "imported_at": "2026-10-13T00:51:45.988Z"
   },
   {
     "id": "st-global-financial-watchdog-ca",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.859Z"
+    "imported_at": "2026-10-13T00:51:45.988Z"
   },
   {
     "id": "st-south-korea-just-got-its-fir",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-12T20:39:31.859Z"
+    "imported_at": "2026-10-13T00:51:45.988Z"
   },
   {
     "id": "st-meta-releases-its-first-fron",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.165Z"
+    "imported_at": "2026-10-13T00:51:46.734Z"
   },
   {
     "id": "st-windborne-wins-a-hefty-us-ai",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.165Z"
+    "imported_at": "2026-10-13T00:51:46.734Z"
   },
   {
     "id": "st-honeyjar-offers-ai-tools-to",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.166Z"
+    "imported_at": "2026-10-13T00:51:46.734Z"
   },
   {
     "id": "st-microsoft-president-says-uk",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.166Z"
+    "imported_at": "2026-10-13T00:51:46.734Z"
   },
   {
     "id": "st-this-ai-startup-says-it-can",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.166Z"
+    "imported_at": "2026-10-13T00:51:46.734Z"
   },
   {
     "id": "st-smart-ring-maker-ultrahuman",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.166Z"
+    "imported_at": "2026-10-13T00:51:46.735Z"
   },
   {
     "id": "st-techcrunch-disrupt-2026-star",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.166Z"
+    "imported_at": "2026-10-13T00:51:46.735Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.095Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.095Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.095Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.096Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.096Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.096Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
   },
   {
     "id": "st-radisson-hotel-group-brings",
@@ -349,7 +349,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-12T20:39:32.096Z"
+    "imported_at": "2026-10-13T00:51:46.652Z"
+  },
+  {
+    "id": "st-ftx-s-crypto-mining-venture",
+    "title": "FTX’s crypto mining venture is now used to advance AI",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-12T21:11:26.000Z",
+    "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.965Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-crypto-pacs-report-2-7m-spen",
@@ -381,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.965Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-us-accounting-overhaul-could",
@@ -397,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.965Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-bitcoin-miners-face-widening",
@@ -413,7 +429,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.966Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-bitcoin-drops-2-2-as-ukraine",
@@ -429,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.966Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-xrp-treasury-evernorth-s-sha",
@@ -445,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.966Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-ledger-implant-tests-bitcoin",
@@ -461,23 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.966Z"
-  },
-  {
-    "id": "st-strategy-adds-250-bitcoin-as",
-    "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-12T12:31:51.000Z",
-    "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-12T20:39:31.966Z"
+    "imported_at": "2026-10-13T00:51:46.169Z"
   },
   {
     "id": "st-elon-musk-has-donated-over-2",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.193Z"
+    "imported_at": "2026-10-13T00:51:47.989Z"
   },
   {
     "id": "st-android-is-the-best-and-wors",
@@ -509,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.193Z"
+    "imported_at": "2026-10-13T00:51:47.990Z"
   },
   {
     "id": "st-the-oneplus-16-is-the-compan",
@@ -525,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.193Z"
+    "imported_at": "2026-10-13T00:51:47.990Z"
   },
   {
     "id": "st-meta-has-some-wonder-full-ne",
@@ -541,23 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.193Z"
-  },
-  {
-    "id": "st-a-year-on-bitcoin-languishes",
-    "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-    "source": "WSJ",
-    "sourceId": "rss-wsj",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-12T05:42:55.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOU",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.989Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -573,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.258Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -589,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.258Z"
   },
   {
     "id": "st-opinion-better-protection-ne",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.258Z"
   },
   {
     "id": "st-grounded-reasoning-and-artif",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.121Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -637,7 +621,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.122Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
+  },
+  {
+    "id": "st-a-year-on-bitcoin-languishes",
+    "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+    "source": "WSJ",
+    "sourceId": "rss-wsj",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-09T15:45:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOU",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T00:51:47.258Z"
+  },
+  {
+    "id": "st-treasury-backs-down-on-biden",
+    "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
+    "source": "Reason Magazine",
+    "sourceId": "rss-reason-magazine",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-09T14:24:50.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5\" targ",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-13T00:51:47.258Z"
   },
   {
     "id": "st-new-state-honor-recognizes-i",
@@ -653,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.121Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -669,23 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.121Z"
-  },
-  {
-    "id": "st-cmf-s-first-wireless-speaker",
-    "title": "CMF’s first wireless speakers look like musical milk cartons",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-08T20:06:53.000Z",
-    "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
-    "type": "News",
-    "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, th",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.193Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.121Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.258Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.121Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
   },
   {
     "id": "st-georgia-tech-announces-new-o",
@@ -749,22 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:33.121Z"
-  },
-  {
-    "id": "st-fincen-reverses-course-on-cr",
-    "title": "FinCEN Reverses Course on Cryptocurrency Mixing",
-    "source": "ACAMS",
-    "sourceId": "rss-acams",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-05T20:47:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVazdFZEd1dUtYY1lQU3JoUjdYSmFkd0IyNmFrd3JHcE5WVl92OS1jLXFaWWI0eHBSWUc3UjgyTGRqNl9oSFlCU2RVZV8xbmlEVzhiNC1VZ3pOd1c4dzBBOXhBVWRnSWQ5OWVlTE5TQUpsbkFJSFY4TVBCck1HMmM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBVazdFZEd1dUtYY1lQU3JoUjdYSmFkd0IyNmFrd3JHcE5WVl92OS1jLXFaWWI0eHBSWUc3UjgyTGRqNl9oSFlCU2RVZV8xbmlEVzhiNC1VZ3pOd1c4dzBBOXhBVWRnSWQ5OWVlTE5TQUpsbkFJSFY4TVBCck1HMmM?oc=5\" target=\"_blank\">FinCEN Reverses Course on Cryptocurr",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-12T20:39:32.671Z"
+    "imported_at": "2026-10-13T00:51:47.837Z"
   }
 ]
