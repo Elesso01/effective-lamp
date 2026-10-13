@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-10-13T08:43:04.043Z",
-  "count": 1,
+  "generated_at": "2026-10-13T12:50:07.801Z",
+  "count": 2,
   "alerts": [
     {
-      "id": "st-once-largest-ethereum-nft-ma",
-      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "id": "st-south-korea-blocks-27-crypto",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-13T04:43:18.000Z",
-      "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99"
+      "published_at": "2026-10-13T11:58:04.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin"
+    },
+    {
+      "id": "st-federated-hermes-joins-wall",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-13T11:56:04.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares"
     }
   ]
 }

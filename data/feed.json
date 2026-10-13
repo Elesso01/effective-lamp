@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-13T08:43:04.008Z",
+  "generated_at": "2026-10-13T12:50:07.766Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 43
+    "familiar": 8,
+    "discovery": 40
   },
   "items": [
     {
-      "id": "st-once-largest-ethereum-nft-ma",
-      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "id": "st-south-korea-blocks-27-crypto",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-federated-hermes-joins-wall",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -20,6 +29,24 @@
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ens-seeks-dao-approval-to-ac",
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-chinese-fraud-victims-lose-k",
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,6 +69,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-character-ai-files-for-bankr",
+      "title": "Character.AI files for bankruptcy",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-elon-musk-has-donated-over-2",
       "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
       "category": "Regulation and policy",
@@ -51,8 +87,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-whale-that-sat-throu",
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "id": "st-stacks-stx-a-bitcoin-layer-2",
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -60,8 +96,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tokenized-sandisk-bets-saw-m",
-      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "id": "st-bitcoin-ether-slip-and-rebou",
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-russia-s-largest-bank-sberba",
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-bitcoin-continu",
+      "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,38 +123,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-rebounds-above-83-00",
-      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
-      "category": "Markets and business",
+      "id": "st-bitcoin-diverges-from-south",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ledger-says-spy-chip-inside",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-palantir-s-europe-head-warns",
-      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "id": "st-giraffe-bio-aims-its-bespoke",
+      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tom-lee-sees-2-trillion-weal",
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tokenized-catastrophe-bonds",
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-just-5-years-in-interactive",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -134,24 +188,6 @@
     {
       "id": "st-this-ai-startup-says-it-can",
       "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-smart-ring-maker-ultrahuman",
-      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-disrupt-2026-star",
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -222,8 +258,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-blur-is-shutting-down-its-we",
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "id": "st-russia-clears-sberbank-for-c",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-metaplanet-to-issue-329m-con",
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -231,8 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-to-shut-down-crypto",
-      "title": "Binance to shut down crypto mining pool services in November",
+      "id": "st-mediamarktsaturn-pulls-ledge",
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,8 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-south-korea-moves-to-block-2",
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "id": "st-bitcoin-hits-84k-resistance",
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -249,53 +294,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-claims-new-muse-wonder",
-      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "id": "st-ledger-details-lte-enabled-s",
+      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-aptos-rolls-out-encrypted-me",
-      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ftx-s-crypto-mining-venture",
-      "title": "FTX’s crypto mining venture is now used to advance AI",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-pacs-report-2-7m-spen",
-      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-android-is-the-best-and-wors",
       "title": "Android is the best and worst thing about Googlebooks",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-oneplus-16-is-the-compan",
-      "title": "The OnePlus 16 is the company’s most interesting phone in years",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -366,19 +384,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-treasury-backs-down-on-biden",
-      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
+      "id": "st-arkansas-cryptocurrency-deve",
+      "title": "Arkansas cryptocurrency developer indicted for alleged multi-million-dollar fraud scheme",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-new-state-honor-recognizes-i",
-      "title": "New state honor recognizes intentional use of artificial intelligence in higher ed",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
