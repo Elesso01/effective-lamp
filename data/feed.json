@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T12:50:07.766Z",
+  "generated_at": "2026-10-13T16:41:22.172Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 40
+    "familiar": 5,
+    "discovery": 45
   },
   "items": [
     {
@@ -24,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-microsoft-president-says-uk",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "id": "st-bumble-agrees-to-a-1-3b-acqu",
+      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -33,27 +33,18 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ens-seeks-dao-approval-to-ac",
-      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-chinese-fraud-victims-lose-k",
-      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ens-seeks-dao-approval-to-ac",
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -69,22 +60,22 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-character-ai-files-for-bankr",
-      "title": "Character.AI files for bankruptcy",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "id": "st-crypto-exchange-mnx-takes-on",
+      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-elon-musk-has-donated-over-2",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "id": "st-uk-crypto-trader-says-almost",
+      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-stacks-stx-a-bitcoin-layer-2",
@@ -114,8 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-continu",
-      "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
+      "id": "st-live-updates-bitcoin-trading",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -123,26 +114,44 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-diverges-from-south",
-      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-satlyt-founded-by-a-former-g",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ledger-says-spy-chip-inside",
-      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "id": "st-the-2026-startup-battlefield",
+      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-spotify-users-on-ios-27-can",
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-giraffe-bio-aims-its-bespoke",
-      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+      "id": "st-techcrunch-disrupt-2026-day",
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-spacexsi-bundles-x-premium-g",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -150,35 +159,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-just-5-years-in-interactive",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-releases-its-first-fron",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-windborne-wins-a-hefty-us-ai",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-honeyjar-offers-ai-tools-to",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "id": "st-apple-refreshes-its-homepod",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -186,10 +168,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-this-ai-startup-says-it-can",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "category": "Startups and companies",
-      "bucket": "ai",
+      "id": "st-apple-s-new-smart-home-lineu",
+      "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -258,6 +240,51 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-strive-reports-208m-in-warra",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-keeps-up-pressure-on",
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-warns-ai-worms-may",
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-is-bitcoin-kidding-itself-ab",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-digital-cash-offers-cash-lik",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-russia-clears-sberbank-for-c",
       "title": "Russia clears Sberbank for crypto trading ahead of December launch",
       "category": "Products and applications",
@@ -267,44 +294,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-metaplanet-to-issue-329m-con",
-      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
-      "category": "Markets and business",
+      "id": "st-hands-on-with-the-apple-home",
+      "title": "Hands-on with the Apple Home Collection",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-mediamarktsaturn-pulls-ledge",
-      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
-      "category": "Markets and business",
+      "id": "st-apple-s-homepod-mini-2-is-av",
+      "title": "Apple’s HomePod Mini 2 is available to preorder",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-hits-84k-resistance",
-      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-details-lte-enabled-s",
-      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "id": "st-buying-apple-s-wall-mounted",
+      "title": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -312,17 +321,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-android-is-the-best-and-wors",
-      "title": "Android is the best and worst thing about Googlebooks",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-has-some-wonder-full-ne",
-      "title": "Meta has some Wonder Full new AI models",
+      "id": "st-here-are-all-the-new-homepod",
+      "title": "Here are all the new HomePod Mini 2 colors",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -330,8 +330,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nevada-city-council-to-discu",
-      "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
+      "id": "st-epic-shifts-to-ai-accelerate",
+      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-dlss-5-gets-toned-down-for-i",
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-finally-releases-gemi",
+      "title": "Google finally releases Gemini 4 Argon",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-i-did-a-crypto-heist-rockvil",
+      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -377,15 +404,6 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-arkansas-cryptocurrency-deve",
-      "title": "Arkansas cryptocurrency developer indicted for alleged multi-million-dollar fraud scheme",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
