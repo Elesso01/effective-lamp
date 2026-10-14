@@ -13,7 +13,71 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
+  },
+  {
+    "id": "st-proposed-french-tax-on-regul",
+    "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T08:48:11.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+    "type": "News",
+    "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T08:56:15.298Z"
+  },
+  {
+    "id": "st-standard-chartered-unlocks-d",
+    "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T08:10:07.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "type": "News",
+    "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T08:56:15.298Z"
+  },
+  {
+    "id": "st-coinbase-which-holds-5-of-al",
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T05:44:51.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "type": "News",
+    "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T08:56:15.298Z"
+  },
+  {
+    "id": "st-ripple-adds-stripe-owned-wal",
+    "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T05:24:12.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+    "type": "News",
+    "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T08:56:15.298Z"
   },
   {
     "id": "st-bitcoin-climbs-toward-84-000",
@@ -29,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.462Z"
+    "imported_at": "2026-10-14T08:56:15.299Z"
   },
   {
     "id": "st-largest-philippines-crypto-e",
@@ -45,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.462Z"
+    "imported_at": "2026-10-14T08:56:15.299Z"
   },
   {
     "id": "st-strive-raising-500-million-t",
@@ -61,71 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.462Z"
-  },
-  {
-    "id": "st-bny-citadel-securities-test",
-    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T21:52:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-    "type": "News",
-    "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.462Z"
-  },
-  {
-    "id": "st-crypto-exchange-mnx-takes-on",
-    "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T15:52:09.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-    "type": "News",
-    "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.462Z"
-  },
-  {
-    "id": "st-uk-crypto-trader-says-almost",
-    "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T15:24:52.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-    "type": "News",
-    "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.463Z"
-  },
-  {
-    "id": "st-south-korea-blocks-27-crypto",
-    "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T11:58:04.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-    "type": "News",
-    "summary": "The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T04:54:12.463Z"
+    "imported_at": "2026-10-14T08:56:15.299Z"
   },
   {
     "id": "st-justice-department-says-nort",
@@ -141,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.776Z"
+    "imported_at": "2026-10-14T08:56:15.551Z"
   },
   {
     "id": "st-cerebras-ceo-says-we-re-near",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.776Z"
+    "imported_at": "2026-10-14T08:56:15.551Z"
   },
   {
     "id": "st-cerebras-ceo-pushes-back-on",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.776Z"
+    "imported_at": "2026-10-14T08:56:15.551Z"
   },
   {
     "id": "st-fbi-arrests-openai-employee",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.776Z"
+    "imported_at": "2026-10-14T08:56:15.551Z"
   },
   {
     "id": "st-judge-orders-openai-to-turn",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.776Z"
+    "imported_at": "2026-10-14T08:56:15.551Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.730Z"
+    "imported_at": "2026-10-14T08:56:15.477Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.731Z"
+    "imported_at": "2026-10-14T08:56:15.478Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.731Z"
+    "imported_at": "2026-10-14T08:56:15.478Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.731Z"
+    "imported_at": "2026-10-14T08:56:15.478Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.731Z"
+    "imported_at": "2026-10-14T08:56:15.478Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.731Z"
+    "imported_at": "2026-10-14T08:56:15.478Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -317,7 +317,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T04:54:12.731Z"
+    "imported_at": "2026-10-14T08:56:15.478Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-14T05:35:52.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-14T08:56:15.346Z"
+  },
+  {
+    "id": "st-starknet-introduces-wallet-p",
+    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-14T05:32:14.000Z",
+    "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-14T08:56:15.346Z"
+  },
+  {
+    "id": "st-fed-s-williams-sees-ai-suppl",
+    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-14T05:30:10.000Z",
+    "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-14T08:56:15.347Z"
   },
   {
     "id": "st-bitwise-s-hougan-says-q3-cha",
@@ -333,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.551Z"
+    "imported_at": "2026-10-14T08:56:15.347Z"
   },
   {
     "id": "st-ledger-asks-resellers-to-hal",
@@ -349,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.551Z"
+    "imported_at": "2026-10-14T08:56:15.347Z"
   },
   {
     "id": "st-most-tokenized-stock-trading",
@@ -365,23 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.551Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T19:33:57.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.552Z"
+    "imported_at": "2026-10-14T08:56:15.347Z"
   },
   {
     "id": "st-trezor-reduces-resellers-as",
@@ -397,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.552Z"
+    "imported_at": "2026-10-14T08:56:15.347Z"
   },
   {
     "id": "st-how-the-sec-s-lack-of-leader",
@@ -413,39 +445,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.552Z"
+    "imported_at": "2026-10-14T08:56:15.347Z"
   },
   {
-    "id": "st-strive-reports-208m-in-warra",
-    "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T15:57:55.000Z",
-    "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-cryptocurrency-kiosks-are-fu",
+    "title": "Cryptocurrency Kiosks Are Fueling Fraud in Oregon. Join our Fight to Stop Them",
+    "source": "AARP",
+    "sourceId": "rss-aarp",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-14T01:53:56.000Z",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk5KYXA2X0hUY2dHblNvTk45Q3hmYkxONDVRNllLWktsVnpRTnNYRkNCUGFwTXE1V2Q1NEY0c3BIdGhNMWpaSWY2eU1BM3l2bS1IZGpvRm0tb0FGUlJ0cmFQMkZ4UFl4UGpUZ3lFZXNBYjZ6YzRHNVFsSjBFV2lUSDZIOGtUc2NQZ2lzN0ln?oc=5",
     "type": "News",
-    "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk5KYXA2X0hUY2dHblNvTk45Q3hmYkxONDVRNllLWktsVnpRTnNYRkNCUGFwTXE1V2Q1NEY0c3BIdGhNMWpaSWY2eU1BM3l2bS1IZGpvRm0tb0FGUlJ0cmFQMkZ4UFl4UGpUZ3lFZXNBYjZ6YzRHNVFsSjBFV2lUSDZIOGtUc2NQZ2lzN0ln?oc=5\" target=\"_blank\">Cryptocurrency ",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.552Z"
-  },
-  {
-    "id": "st-bitcoin-keeps-up-pressure-on",
-    "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T15:27:32.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T04:54:12.552Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -461,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-openai-employee-arrested-for",
@@ -477,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.736Z"
+    "imported_at": "2026-10-14T08:56:16.498Z"
   },
   {
     "id": "st-rivian-partner-mind-robotics",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.736Z"
+    "imported_at": "2026-10-14T08:56:16.498Z"
   },
   {
     "id": "st-shopify-opens-its-catalog-up",
@@ -509,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.736Z"
+    "imported_at": "2026-10-14T08:56:16.498Z"
   },
   {
     "id": "st-it-looks-like-apple-music-is",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.736Z"
+    "imported_at": "2026-10-14T08:56:16.498Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.670Z"
+    "imported_at": "2026-10-14T08:56:16.473Z"
   },
   {
     "id": "st-xbox-is-officially-embracing",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.736Z"
+    "imported_at": "2026-10-14T08:56:16.498Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.670Z"
+    "imported_at": "2026-10-14T08:56:16.472Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -589,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.671Z"
+    "imported_at": "2026-10-14T08:56:16.473Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -621,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -637,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -653,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -669,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.671Z"
+    "imported_at": "2026-10-14T08:56:16.473Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -685,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.671Z"
+    "imported_at": "2026-10-14T08:56:16.473Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -701,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.671Z"
+    "imported_at": "2026-10-14T08:56:16.473Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.197Z"
+    "imported_at": "2026-10-14T08:56:15.985Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,6 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T04:54:13.670Z"
+    "imported_at": "2026-10-14T08:56:16.473Z"
   }
 ]
