@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T01:03:44.389Z",
+  "generated_at": "2026-10-14T04:54:13.819Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 39
+    "familiar": 6,
+    "discovery": 40
   },
   "items": [
     {
@@ -17,15 +17,6 @@
     {
       "id": "st-south-korea-blocks-27-crypto",
       "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-federated-hermes-joins-wall",
-      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -78,6 +69,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-bitcoin-climbs-toward-84-000",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-strive-raising-500-million-t",
       "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
       "category": "Markets and business",
@@ -114,11 +114,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stacks-stx-a-bitcoin-layer-2",
-      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-      "category": "Markets and business",
+      "id": "st-justice-department-says-nort",
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -154,15 +154,6 @@
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cambridge-heavy-industries-h",
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -231,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bitwise-s-hougan-says-q3-cha",
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ledger-asks-resellers-to-hal",
       "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
       "category": "Products and applications",
@@ -262,15 +262,6 @@
       "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-warns-ai-worms-may",
-      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -366,10 +357,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-nevada-city-council-to-discu",
+      "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-better-cryptocurrency-to-buy",
       "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-barrett-introduces-legislati",
+      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -388,15 +397,6 @@
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-greece-prepares-to-levy-10-c",
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.197Z"
+  },
+  {
+    "id": "st-bitcoin-climbs-toward-84-000",
+    "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T03:50:54.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+    "type": "News",
+    "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T04:54:12.462Z"
   },
   {
     "id": "st-largest-philippines-crypto-e",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.603Z"
+    "imported_at": "2026-10-14T04:54:12.462Z"
   },
   {
     "id": "st-strive-raising-500-million-t",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.603Z"
+    "imported_at": "2026-10-14T04:54:12.462Z"
   },
   {
     "id": "st-bny-citadel-securities-test",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.603Z"
+    "imported_at": "2026-10-14T04:54:12.462Z"
   },
   {
     "id": "st-crypto-exchange-mnx-takes-on",
@@ -77,7 +93,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.603Z"
+    "imported_at": "2026-10-14T04:54:12.462Z"
   },
   {
     "id": "st-uk-crypto-trader-says-almost",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.603Z"
+    "imported_at": "2026-10-14T04:54:12.463Z"
   },
   {
     "id": "st-south-korea-blocks-27-crypto",
@@ -109,39 +125,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.604Z"
+    "imported_at": "2026-10-14T04:54:12.463Z"
   },
   {
-    "id": "st-federated-hermes-joins-wall",
-    "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T11:56:04.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "id": "st-justice-department-says-nort",
+    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-14T01:30:42.000Z",
+    "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
     "type": "News",
-    "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
-    "category": "Regulation and policy",
+    "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.604Z"
-  },
-  {
-    "id": "st-stacks-stx-a-bitcoin-layer-2",
-    "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T11:26:45.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-    "type": "News",
-    "summary": "Your day-ahead look for Oct. 13, 2026",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T01:03:42.604Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-14T04:54:12.776Z"
   },
   {
     "id": "st-cerebras-ceo-says-we-re-near",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:43.160Z"
+    "imported_at": "2026-10-14T04:54:12.776Z"
   },
   {
     "id": "st-cerebras-ceo-pushes-back-on",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:43.160Z"
+    "imported_at": "2026-10-14T04:54:12.776Z"
   },
   {
     "id": "st-fbi-arrests-openai-employee",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:43.160Z"
+    "imported_at": "2026-10-14T04:54:12.776Z"
   },
   {
     "id": "st-judge-orders-openai-to-turn",
@@ -205,23 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:43.160Z"
-  },
-  {
-    "id": "st-cambridge-heavy-industries-h",
-    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T20:13:53.000Z",
-    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-    "type": "News",
-    "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:43.160Z"
+    "imported_at": "2026-10-14T04:54:12.776Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.730Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.731Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.731Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.731Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.731Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.731Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -333,7 +317,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T01:03:42.929Z"
+    "imported_at": "2026-10-14T04:54:12.731Z"
+  },
+  {
+    "id": "st-bitwise-s-hougan-says-q3-cha",
+    "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-14T02:19:56.000Z",
+    "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-14T04:54:12.551Z"
   },
   {
     "id": "st-ledger-asks-resellers-to-hal",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
+    "imported_at": "2026-10-14T04:54:12.551Z"
   },
   {
     "id": "st-most-tokenized-stock-trading",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
+    "imported_at": "2026-10-14T04:54:12.551Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
+    "imported_at": "2026-10-14T04:54:12.552Z"
   },
   {
     "id": "st-trezor-reduces-resellers-as",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
+    "imported_at": "2026-10-14T04:54:12.552Z"
   },
   {
     "id": "st-how-the-sec-s-lack-of-leader",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
+    "imported_at": "2026-10-14T04:54:12.552Z"
   },
   {
     "id": "st-strive-reports-208m-in-warra",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
+    "imported_at": "2026-10-14T04:54:12.552Z"
   },
   {
     "id": "st-bitcoin-keeps-up-pressure-on",
@@ -445,23 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.735Z"
-  },
-  {
-    "id": "st-anthropic-warns-ai-worms-may",
-    "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T13:55:09.000Z",
-    "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T01:03:42.736Z"
+    "imported_at": "2026-10-14T04:54:12.552Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -477,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.197Z"
   },
   {
     "id": "st-openai-employee-arrested-for",
@@ -493,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.318Z"
+    "imported_at": "2026-10-14T04:54:13.736Z"
   },
   {
     "id": "st-rivian-partner-mind-robotics",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.318Z"
+    "imported_at": "2026-10-14T04:54:13.736Z"
   },
   {
     "id": "st-shopify-opens-its-catalog-up",
@@ -525,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.318Z"
+    "imported_at": "2026-10-14T04:54:13.736Z"
   },
   {
     "id": "st-it-looks-like-apple-music-is",
@@ -541,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.318Z"
+    "imported_at": "2026-10-14T04:54:13.736Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -557,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.181Z"
+    "imported_at": "2026-10-14T04:54:13.670Z"
   },
   {
     "id": "st-xbox-is-officially-embracing",
@@ -573,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.318Z"
+    "imported_at": "2026-10-14T04:54:13.736Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.181Z"
+    "imported_at": "2026-10-14T04:54:13.670Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.197Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.182Z"
+    "imported_at": "2026-10-14T04:54:13.671Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -637,7 +621,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.197Z"
+  },
+  {
+    "id": "st-nevada-city-council-to-discu",
+    "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
+    "source": "KCCI",
+    "sourceId": "rss-kcci",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-11T22:41:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal83UHlkeUgxclBFSnAybi1CNU5nSFk?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-14T04:54:13.197Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -653,7 +653,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.197Z"
+  },
+  {
+    "id": "st-barrett-introduces-legislati",
+    "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
+    "source": "Representative Tom Barrett | (.gov)",
+    "sourceId": "rss-representative-tom-barrett-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-09T16:28:33.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm9id2ozV0h5c2pTY21DMHB3YlowTUpFeXM?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-14T04:54:13.671Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -669,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.181Z"
+    "imported_at": "2026-10-14T04:54:13.671Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -685,23 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.182Z"
-  },
-  {
-    "id": "st-greece-prepares-to-levy-10-c",
-    "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-08T09:17:18.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.671Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:43.664Z"
+    "imported_at": "2026-10-14T04:54:13.197Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -733,6 +733,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T01:03:44.181Z"
+    "imported_at": "2026-10-14T04:54:13.670Z"
   }
 ]

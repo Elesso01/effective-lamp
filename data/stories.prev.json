@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-13T20:54:40.829Z"
+    "imported_at": "2026-10-14T01:03:43.664Z"
+  },
+  {
+    "id": "st-largest-philippines-crypto-e",
+    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T01:00:00.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+    "type": "News",
+    "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T01:03:42.603Z"
+  },
+  {
+    "id": "st-strive-raising-500-million-t",
+    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T23:23:05.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "type": "News",
+    "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T01:03:42.603Z"
+  },
+  {
+    "id": "st-bny-citadel-securities-test",
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-13T21:52:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "type": "News",
+    "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T01:03:42.603Z"
   },
   {
     "id": "st-crypto-exchange-mnx-takes-on",
@@ -29,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.966Z"
+    "imported_at": "2026-10-14T01:03:42.603Z"
   },
   {
     "id": "st-uk-crypto-trader-says-almost",
@@ -45,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
+    "imported_at": "2026-10-14T01:03:42.603Z"
   },
   {
     "id": "st-south-korea-blocks-27-crypto",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
+    "imported_at": "2026-10-14T01:03:42.604Z"
   },
   {
     "id": "st-federated-hermes-joins-wall",
@@ -77,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
+    "imported_at": "2026-10-14T01:03:42.604Z"
   },
   {
     "id": "st-stacks-stx-a-bitcoin-layer-2",
@@ -93,55 +141,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
+    "imported_at": "2026-10-14T01:03:42.604Z"
   },
   {
-    "id": "st-bitcoin-ether-slip-and-rebou",
-    "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T11:06:39.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+    "id": "st-cerebras-ceo-says-we-re-near",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T23:05:34.000Z",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
     "type": "News",
-    "summary": "Investors are positioning ahead of today's bank earnings reports and Wednesday’s U.S. inflation data.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
-  },
-  {
-    "id": "st-russia-s-largest-bank-sberba",
-    "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T11:02:47.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-    "type": "News",
-    "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
     "category": "Products and applications",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-14T01:03:43.160Z"
   },
   {
-    "id": "st-live-updates-bitcoin-trading",
-    "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T10:46:57.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+    "id": "st-cerebras-ceo-pushes-back-on",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T22:36:59.000Z",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
     "type": "News",
-    "summary": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-13T20:54:39.967Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-14T01:03:43.160Z"
+  },
+  {
+    "id": "st-fbi-arrests-openai-employee",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-13T20:59:11.000Z",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "type": "News",
+    "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-14T01:03:43.160Z"
   },
   {
     "id": "st-judge-orders-openai-to-turn",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.371Z"
+    "imported_at": "2026-10-14T01:03:43.160Z"
   },
   {
     "id": "st-cambridge-heavy-industries-h",
@@ -173,71 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.371Z"
-  },
-  {
-    "id": "st-niobia-takes-the-guesswork-o",
-    "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-    "type": "News",
-    "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.371Z"
-  },
-  {
-    "id": "st-rivian-s-startup-mind-roboti",
-    "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T18:30:03.000Z",
-    "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-    "type": "News",
-    "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.371Z"
-  },
-  {
-    "id": "st-flox-intelligence-is-buildin",
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T18:30:00.000Z",
-    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "type": "News",
-    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.371Z"
-  },
-  {
-    "id": "st-facebook-is-giving-users-mor",
-    "title": "Facebook is giving users more control over their algorithm",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T18:05:24.000Z",
-    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "type": "News",
-    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.371Z"
+    "imported_at": "2026-10-14T01:03:43.160Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
   },
   {
     "id": "st-helping-teens-learn-plan-and",
@@ -349,7 +333,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-13T20:54:40.242Z"
+    "imported_at": "2026-10-14T01:03:42.929Z"
+  },
+  {
+    "id": "st-ledger-asks-resellers-to-hal",
+    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-13T23:28:19.000Z",
+    "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-most-tokenized-stock-trading",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-trezor-reduces-resellers-as",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-how-the-sec-s-lack-of-leader",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-strive-reports-208m-in-warra",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-bitcoin-keeps-up-pressure-on",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.735Z"
   },
   {
     "id": "st-anthropic-warns-ai-worms-may",
@@ -461,23 +461,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "imported_at": "2026-10-14T01:03:42.736Z"
   },
   {
-    "id": "st-is-bitcoin-kidding-itself-ab",
-    "title": "Is Bitcoin kidding itself about the Lightning Network?",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-cryptocurrency-exchange-foun",
+    "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
+    "source": "The Guardian",
+    "sourceId": "rss-the-guardian",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-13T23:01:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUE9FUjVUWWZRXzJyS1hHTmJCQlZlUVhKTC1YaFMyem5RQlpFeHJCVHBBSkotTkxWOXVZTTBHNGxtbjQ4WDVJNUMzci1iUTFBYUp6Ykg1VFlZaF9FVXplX0xuSnBLQ0RmMXhJNENuV1VyMzY3am15bGw1T2FmOTU5SnpPN29LNzZ6Q3NpSWxMVFh1bXdWRXBiRjExZWlFZUZmSFlrdldKX0RGMG1wZWZxVk9pYmUyVG5xbFE?oc=5",
     "type": "News",
-    "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUE9FUjVUWWZRXzJyS1hHTmJCQlZlUVhKTC1YaFMyem5RQlpFeHJCVHBBSkotTkxWOXVZTTBHNGxtbjQ4WDVJNUMzci1iUTFBYUp6Ykg1VFlZaF9FVXplX0xuSnBLQ0RmMXhJNENuV1VyMzY3am15bGw1T2FmOTU5SnpPN29LNzZ6Q3NpSWxMVFh1bXdWRXBiRjExZWlFZUZmSFlrdldKX0RGMG",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-13T20:54:40.063Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-14T01:03:43.664Z"
   },
   {
     "id": "st-openai-employee-arrested-for",
@@ -485,15 +485,15 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-13T20:50:53.000Z",
+    "published_at": "2026-10-13T21:36:13.000Z",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
     "type": "News",
-    "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to ",
+    "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to ",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.449Z"
+    "imported_at": "2026-10-14T01:03:44.318Z"
   },
   {
     "id": "st-rivian-partner-mind-robotics",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.449Z"
+    "imported_at": "2026-10-14T01:03:44.318Z"
   },
   {
     "id": "st-shopify-opens-its-catalog-up",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.449Z"
+    "imported_at": "2026-10-14T01:03:44.318Z"
   },
   {
     "id": "st-it-looks-like-apple-music-is",
@@ -541,7 +541,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.449Z"
+    "imported_at": "2026-10-14T01:03:44.318Z"
+  },
+  {
+    "id": "st-the-new-york-times-artificia",
+    "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
+    "source": "Facebook",
+    "sourceId": "rss-facebook",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-13T19:30:06.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5\" target=\"_bla",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-14T01:03:44.181Z"
   },
   {
     "id": "st-xbox-is-officially-embracing",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.449Z"
+    "imported_at": "2026-10-14T01:03:44.318Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.415Z"
+    "imported_at": "2026-10-14T01:03:44.181Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -589,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:40.829Z"
+    "imported_at": "2026-10-14T01:03:43.664Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.415Z"
+    "imported_at": "2026-10-14T01:03:44.182Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -621,23 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:40.829Z"
-  },
-  {
-    "id": "st-nevada-city-council-to-discu",
-    "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
-    "source": "KCCI",
-    "sourceId": "rss-kcci",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-11T22:41:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal83UHlkeUgxclBFSnAybi1CNU5nSFk?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:40.829Z"
+    "imported_at": "2026-10-14T01:03:43.664Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -653,39 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:40.829Z"
-  },
-  {
-    "id": "st-barrett-introduces-legislati",
-    "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
-    "source": "Representative Tom Barrett | (.gov)",
-    "sourceId": "rss-representative-tom-barrett-gov",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-09T16:28:33.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm9id2ozV0h5c2pTY21DMHB3YlowTUpFeXM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.415Z"
-  },
-  {
-    "id": "st-a-year-on-bitcoin-languishes",
-    "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-    "source": "WSJ",
-    "sourceId": "rss-wsj",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-09T15:45:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOU",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:40.829Z"
+    "imported_at": "2026-10-14T01:03:43.664Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -701,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.415Z"
+    "imported_at": "2026-10-14T01:03:44.181Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -717,7 +685,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.415Z"
+    "imported_at": "2026-10-14T01:03:44.182Z"
+  },
+  {
+    "id": "st-greece-prepares-to-levy-10-c",
+    "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-08T09:17:18.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-14T01:03:43.664Z"
   },
   {
     "id": "st-europol-urges-early-action-t",
@@ -733,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:40.829Z"
+    "imported_at": "2026-10-14T01:03:43.664Z"
   },
   {
     "id": "st-can-artificial-intelligence",
@@ -749,6 +733,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-13T20:54:41.415Z"
+    "imported_at": "2026-10-14T01:03:44.181Z"
   }
 ]
