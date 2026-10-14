@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T16:55:57.074Z",
+  "generated_at": "2026-10-14T20:52:04.299Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 43
+    "familiar": 8,
+    "discovery": 41
   },
   "items": [
     {
@@ -42,6 +42,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-occ-report-finds-debanking-e",
+      "title": "OCC report finds debanking efforts tied to crypto activities",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-canada-crypto-remittances-to",
       "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
       "category": "Regulation and policy",
@@ -58,6 +67,24 @@
       "score": 9,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-microsoft-and-japan-took-dow",
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-now-that-character-ai-is-goi",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-kalshi-ceo-says-state-led-ov",
@@ -105,17 +132,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-deezer-will-soon-let-you-fil",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "category": "Products and applications",
+      "id": "st-electric-vehicle-sales-in-th",
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-save-50-on-your-techcrunch-d",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "id": "st-timeteller-puts-our-internal",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -123,8 +150,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-zenzap-raises-44m-for-its-ai",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "id": "st-ambrosia-energy-will-build-a",
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-youtube-music-launches-new-l",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -132,17 +168,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-floqer-s-ai-agents-research",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "category": "Research and development",
+      "id": "st-apate-sends-ai-agents-underc",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-techcrunch-disrupt-2026-day",
-      "title": "TechCrunch Disrupt 2026: Day 2",
+      "id": "st-mosqitter-is-turning-its-mos",
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-amp-puts-ai-agents-to-work-b",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sentinelone-cuts-malware-ana",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -204,11 +258,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-pollo-ai-turns-creative-idea",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-eu-authority-classifies-circ",
+      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-authorities-dismantle-cry",
+      "title": "US authorities dismantle crypto scam network that stole tens of millions",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -240,53 +303,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-qivalis-wins-dutch-e-money-l",
-      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kraken-parent-to-buy-lithuan",
-      "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-can-crypto-users-trust-the-s",
-      "title": "Can crypto users trust the supply chain behind hardware wallets?",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-claims-an-ex-employee",
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-has-a-new-machine",
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-now-you-can-call-anyone-with",
-      "title": "Now you can call anyone with WhatsApp, even if they don’t have WhatsApp",
+      "id": "st-as-a-tv-enthusiast-i-was-hop",
+      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -294,17 +312,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-s-self-replicating",
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-android-is-using-ai-to-suss",
-      "title": "Android is using AI to suss out scammers in Google Messages",
+      "id": "st-youtube-sticks-new-labels-on",
+      "title": "YouTube sticks new labels on AI-generated songs",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -330,10 +339,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-square-s-new-kiosk-lets-you",
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-cryptocurrency-kiosks-are-fu",
+      "title": "Cryptocurrency Kiosks Are Fueling Fraud in Oregon. Join our Fight to Stop Them",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -384,15 +393,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-i-did-a-crypto-heist-rockvil",
-      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-nevada-city-council-to-discu",
       "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
       "category": "Markets and business",
@@ -402,17 +402,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-better-cryptocurrency-to-buy",
-      "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-barrett-introduces-legislati",
+      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-barrett-introduces-legislati",
-      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
+      "id": "st-trump-anyone-saying-ai-is-th",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -433,6 +433,15 @@
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-greece-prepares-to-levy-10-c",
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
