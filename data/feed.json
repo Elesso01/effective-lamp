@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-13T20:54:41.544Z",
+  "generated_at": "2026-10-14T01:03:44.389Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 41
+    "familiar": 7,
+    "discovery": 39
   },
   "items": [
+    {
+      "id": "st-largest-philippines-crypto-e",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-south-korea-blocks-27-crypto",
       "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
@@ -69,6 +78,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-strive-raising-500-million-t",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bny-citadel-securities-test",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-crypto-exchange-mnx-takes-on",
       "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
       "category": "Crypto and AI intersections",
@@ -96,29 +123,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-ether-slip-and-rebou",
-      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-russia-s-largest-bank-sberba",
-      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "id": "st-cerebras-ceo-says-we-re-near",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-trading",
-      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-cerebras-ceo-pushes-back-on",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-fbi-arrests-openai-employee",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -136,42 +163,6 @@
       "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-niobia-takes-the-guesswork-o",
-      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-rivian-s-startup-mind-roboti",
-      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-flox-intelligence-is-buildin",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-facebook-is-giving-users-mor",
-      "title": "Facebook is giving users more control over their algorithm",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -240,6 +231,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-ledger-asks-resellers-to-hal",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-trezor-reduces-resellers-as",
       "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
       "category": "Markets and business",
@@ -276,11 +276,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-is-bitcoin-kidding-itself-ab",
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "id": "st-cryptocurrency-exchange-foun",
+      "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -307,6 +307,15 @@
       "title": "It looks like Apple Music is getting a new icon",
       "category": "Products and applications",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-new-york-times-artificia",
+      "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -357,35 +366,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nevada-city-council-to-discu",
-      "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-better-cryptocurrency-to-buy",
       "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-barrett-introduces-legislati",
-      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-year-on-bitcoin-languishes",
-      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -406,6 +388,15 @@
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-greece-prepares-to-levy-10-c",
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
