@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-10-14T13:04:06.079Z",
+  "generated_at": "2026-10-14T16:55:57.074Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 42
+    "familiar": 5,
+    "discovery": 43
   },
   "items": [
     {
-      "id": "st-dutch-central-bank-grants-qi",
-      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+      "id": "st-blackrock-s-crypto-etf-asset",
+      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-former-ftx-europe-chief-targ",
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-america-s-growing-digital-ec",
+      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -19,15 +46,6 @@
       "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-sam-bankman-fried-s-lawyer-l",
-      "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
-      "category": "Regulation and policy",
-      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -42,71 +60,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-shopify-opens-its-catalog-up",
-      "title": "Shopify opens its catalog up to more AI agents",
-      "category": "Regulation and policy",
+      "id": "st-kalshi-ceo-says-state-led-ov",
+      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+      "category": "Markets and business",
       "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-u-s-september-cpi-comes-in-h",
-      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-how-analysts-see-u-s",
-      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-holds-above-83-000-a",
-      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-s-p-500-options-are-the-hott",
-      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-live-updates-bitcoin-tumbles",
-      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-proposed-31-4-french-tax-on",
-      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-standard-chartered-unlocks-d",
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+      "id": "st-ai-agents-make-138-million-c",
+      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -114,8 +78,44 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-scimplify-raises-25m-to-chal",
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "id": "st-crypto-long-short-why-gold-a",
+      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-easya-hits-1-1-billion-valua",
+      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kraken-parent-payward-to-bec",
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-deezer-will-soon-let-you-fil",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-save-50-on-your-techcrunch-d",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -123,10 +123,37 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-justice-department-says-nort",
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "category": "Security and privacy",
-      "bucket": "crypto",
+      "id": "st-zenzap-raises-44m-for-its-ai",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-floqer-s-ai-agents-research",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-techcrunch-disrupt-2026-day",
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-third-moment-research-ru",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "category": "Research and development",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -134,33 +161,6 @@
     {
       "id": "st-the-eu-s-next-chapter-in-ai",
       "title": "The EU’s next chapter in AI is agentic",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cerebras-ceo-says-we-re-near",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cerebras-ceo-pushes-back-on",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fbi-arrests-openai-employee",
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -177,8 +177,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sophos-cuts-threat-investiga",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "id": "st-asana-cuts-model-costs-76x-i",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -186,8 +186,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-asana-cuts-model-costs-76x-i",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "id": "st-sophos-cuts-threat-investiga",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -213,17 +213,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-disrupting-ai-enabled-false",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-standard-chartered-pushes-2t",
+      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-qivalis-receives-emi-authori",
-      "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
+      "id": "st-bitcoin-price-dips-below-82k",
+      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bunker-mode-won-t-protect-yo",
+      "title": "‘Bunker mode’ won’t protect your crypto, critics say",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-qivalis-wins-dutch-e-money-l",
+      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -249,28 +267,46 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptoquant-s-3-charts-keepi",
-      "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-openai-claims-an-ex-employee",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-will-become-less-vol",
-      "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-microsoft-has-a-new-machine",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-lansing-considers-new-rules",
-      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
-      "category": "Markets and business",
+      "id": "st-now-you-can-call-anyone-with",
+      "title": "Now you can call anyone with WhatsApp, even if they don’t have WhatsApp",
+      "category": "Products and applications",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-s-self-replicating",
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-android-is-using-ai-to-suss",
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -285,28 +321,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fairphone-s-latest-repairabl",
-      "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-      "category": "Products and applications",
+      "id": "st-lansing-considers-new-rules",
+      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-employee-arrested-for",
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "id": "st-square-s-new-kiosk-lets-you",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-it-looks-like-apple-music-is",
-      "title": "It looks like Apple Music is getting a new icon",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -325,6 +352,15 @@
       "title": "What My Son Is Learning From Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-zcash-continues-to-outperfor",
+      "title": "Zcash Continues to Outperform Every Other Major Cryptocurrency This Year. So Is ZEC Now a Buy?",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -384,15 +420,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-anyone-saying-ai-is-th",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-trump-says-anyone-who-does-n",
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
@@ -406,15 +433,6 @@
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-greece-prepares-to-levy-10-c",
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
