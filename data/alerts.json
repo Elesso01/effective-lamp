@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-14T08:56:16.619Z",
+  "generated_at": "2026-10-14T13:04:06.113Z",
   "count": 1,
   "alerts": [
     {
-      "id": "st-largest-philippines-crypto-e",
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "id": "st-dutch-central-bank-grants-qi",
+      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-14T01:00:00.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
+      "published_at": "2026-10-14T11:12:36.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T08:56:16.585Z",
+  "generated_at": "2026-10-14T13:04:06.079Z",
   "mix": {
-    "familiar": 5,
+    "familiar": 4,
     "discovery": 42
   },
   "items": [
     {
-      "id": "st-largest-philippines-crypto-e",
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "id": "st-dutch-central-bank-grants-qi",
+      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,8 +15,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-canada-crypto-remittances-to",
+      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -24,19 +24,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-most-tokenized-stock-trading",
-      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "id": "st-sam-bankman-fried-s-lawyer-l",
+      "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-how-the-sec-s-lack-of-leader",
-      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -60,8 +51,53 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-proposed-french-tax-on-regul",
-      "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+      "id": "st-u-s-september-cpi-comes-in-h",
+      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-here-s-how-analysts-see-u-s",
+      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-holds-above-83-000-a",
+      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-s-p-500-options-are-the-hott",
+      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-bitcoin-tumbles",
+      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-proposed-31-4-french-tax-on",
+      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -78,38 +114,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-coinbase-which-holds-5-of-al",
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ripple-adds-stripe-owned-wal",
-      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-climbs-toward-84-000",
-      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-strive-raising-500-million-t",
-      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-scimplify-raises-25m-to-chal",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -118,6 +127,15 @@
       "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
       "category": "Security and privacy",
       "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-eu-s-next-chapter-in-ai",
+      "title": "The EU’s next chapter in AI is agentic",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -143,15 +161,6 @@
     {
       "id": "st-fbi-arrests-openai-employee",
       "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-judge-orders-openai-to-turn",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -213,17 +222,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-helping-teens-learn-plan-and",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-starknet-introduces-wallet-p",
-      "title": "Starknet introduces wallet privacy feature for DeFi activity",
+      "id": "st-qivalis-receives-emi-authori",
+      "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -231,17 +231,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fed-s-williams-sees-ai-suppl",
-      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-      "category": "Products and applications",
+      "id": "st-kraken-parent-to-buy-lithuan",
+      "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitwise-s-hougan-says-q3-cha",
-      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "id": "st-can-crypto-users-trust-the-s",
+      "title": "Can crypto users trust the supply chain behind hardware wallets?",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cryptoquant-s-3-charts-keepi",
+      "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -249,17 +258,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ledger-asks-resellers-to-hal",
-      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trezor-reduces-resellers-as",
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "id": "st-bitcoin-will-become-less-vol",
+      "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -267,8 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-kiosks-are-fu",
-      "title": "Cryptocurrency Kiosks Are Fueling Fraud in Oregon. Join our Fight to Stop Them",
+      "id": "st-lansing-considers-new-rules",
+      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -285,18 +285,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-employee-arrested-for",
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "id": "st-fairphone-s-latest-repairabl",
+      "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-rivian-partner-mind-robotics",
-      "title": "Rivian partner Mind Robotics hires Doug Field as president",
-      "category": "Startups and companies",
+      "id": "st-openai-employee-arrested-for",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -314,15 +314,6 @@
     {
       "id": "st-the-new-york-times-artificia",
       "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-xbox-is-officially-embracing",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -393,6 +384,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-trump-anyone-saying-ai-is-th",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-trump-says-anyone-who-does-n",
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
@@ -411,19 +411,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-europol-urges-early-action-t",
-      "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
+      "id": "st-greece-prepares-to-levy-10-c",
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-can-artificial-intelligence",
-      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-      "category": "Markets and business",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

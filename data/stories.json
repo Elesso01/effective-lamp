@@ -13,11 +13,107 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   },
   {
-    "id": "st-proposed-french-tax-on-regul",
-    "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+    "id": "st-u-s-september-cpi-comes-in-h",
+    "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T12:33:56.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+    "type": "News",
+    "summary": "The news could put multiple rate hikes by the Federal Reserve back into play.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T13:04:04.514Z"
+  },
+  {
+    "id": "st-here-s-how-analysts-see-u-s",
+    "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T11:15:00.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+    "type": "News",
+    "summary": "Your day-ahead look for Oct. 14, 2026",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T13:04:04.514Z"
+  },
+  {
+    "id": "st-dutch-central-bank-grants-qi",
+    "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T11:12:36.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+    "type": "News",
+    "summary": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T13:04:04.515Z"
+  },
+  {
+    "id": "st-bitcoin-holds-above-83-000-a",
+    "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T10:51:39.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+    "type": "News",
+    "summary": "Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T13:04:04.515Z"
+  },
+  {
+    "id": "st-s-p-500-options-are-the-hott",
+    "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T10:38:47.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+    "type": "News",
+    "summary": "Hypercall, an exchange built on Hyperliquid, says most of its $640 million in volume since June has come from the index.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T13:04:04.515Z"
+  },
+  {
+    "id": "st-live-updates-bitcoin-tumbles",
+    "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-14T09:45:53.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+    "type": "News",
+    "summary": "Bond yields and Fed rate hike expectations are jumping higher after the September CPI report was hotter than expected at both the headline and core levels.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-14T13:04:04.515Z"
+  },
+  {
+    "id": "st-proposed-31-4-french-tax-on",
+    "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
@@ -29,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.298Z"
+    "imported_at": "2026-10-14T13:04:04.515Z"
   },
   {
     "id": "st-standard-chartered-unlocks-d",
@@ -45,87 +141,23 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.298Z"
+    "imported_at": "2026-10-14T13:04:04.515Z"
   },
   {
-    "id": "st-coinbase-which-holds-5-of-al",
-    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T05:44:51.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "id": "st-scimplify-raises-25m-to-chal",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-14T11:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
     "type": "News",
-    "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "category": "Startups and companies",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.298Z"
-  },
-  {
-    "id": "st-ripple-adds-stripe-owned-wal",
-    "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T05:24:12.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-    "type": "News",
-    "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.298Z"
-  },
-  {
-    "id": "st-bitcoin-climbs-toward-84-000",
-    "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T03:50:54.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-    "type": "News",
-    "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.299Z"
-  },
-  {
-    "id": "st-largest-philippines-crypto-e",
-    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T01:00:00.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-    "type": "News",
-    "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.299Z"
-  },
-  {
-    "id": "st-strive-raising-500-million-t",
-    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-13T23:23:05.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-    "type": "News",
-    "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-14T08:56:15.299Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-14T13:04:04.774Z"
   },
   {
     "id": "st-justice-department-says-nort",
@@ -141,7 +173,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.551Z"
+    "imported_at": "2026-10-14T13:04:04.774Z"
+  },
+  {
+    "id": "st-the-eu-s-next-chapter-in-ai",
+    "title": "The EU’s next chapter in AI is agentic",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-14T00:00:00.000Z",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "type": "News",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-14T13:04:04.711Z"
   },
   {
     "id": "st-cerebras-ceo-says-we-re-near",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.551Z"
+    "imported_at": "2026-10-14T13:04:04.774Z"
   },
   {
     "id": "st-cerebras-ceo-pushes-back-on",
@@ -173,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.551Z"
+    "imported_at": "2026-10-14T13:04:04.774Z"
   },
   {
     "id": "st-fbi-arrests-openai-employee",
@@ -189,23 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.551Z"
-  },
-  {
-    "id": "st-judge-orders-openai-to-turn",
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-13T20:36:44.000Z",
-    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "type": "News",
-    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.551Z"
+    "imported_at": "2026-10-14T13:04:04.774Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -221,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.477Z"
+    "imported_at": "2026-10-14T13:04:04.712Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -237,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.478Z"
+    "imported_at": "2026-10-14T13:04:04.712Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -253,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.478Z"
+    "imported_at": "2026-10-14T13:04:04.712Z"
   },
   {
     "id": "st-how-oracle-turns-days-of-wor",
@@ -269,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.478Z"
+    "imported_at": "2026-10-14T13:04:04.712Z"
   },
   {
     "id": "st-pollo-ai-turns-creative-idea",
@@ -285,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.478Z"
+    "imported_at": "2026-10-14T13:04:04.712Z"
   },
   {
     "id": "st-disrupting-ai-enabled-false",
@@ -301,167 +333,135 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.478Z"
+    "imported_at": "2026-10-14T13:04:04.712Z"
   },
   {
-    "id": "st-helping-teens-learn-plan-and",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-07T12:00:00.000Z",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "type": "News",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T08:56:15.478Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
+    "id": "st-canada-crypto-remittances-to",
+    "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-14T05:35:52.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T13:00:00.000Z",
+    "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.346Z"
+    "imported_at": "2026-10-14T13:04:04.583Z"
   },
   {
-    "id": "st-starknet-introduces-wallet-p",
-    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "id": "st-qivalis-receives-emi-authori",
+    "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-14T05:32:14.000Z",
-    "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T12:53:41.000Z",
+    "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+    "summary": "Qivalis said the EMI authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.346Z"
+    "imported_at": "2026-10-14T13:04:04.583Z"
   },
   {
-    "id": "st-fed-s-williams-sees-ai-suppl",
-    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "id": "st-kraken-parent-to-buy-lithuan",
+    "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-14T05:30:10.000Z",
-    "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T12:26:05.000Z",
+    "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
-    "category": "Products and applications",
+    "summary": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.347Z"
+    "imported_at": "2026-10-14T13:04:04.583Z"
   },
   {
-    "id": "st-bitwise-s-hougan-says-q3-cha",
-    "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+    "id": "st-can-crypto-users-trust-the-s",
+    "title": "Can crypto users trust the supply chain behind hardware wallets?",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-14T02:19:56.000Z",
-    "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T11:59:42.000Z",
+    "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+    "summary": "Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-14T13:04:04.583Z"
+  },
+  {
+    "id": "st-cryptoquant-s-3-charts-keepi",
+    "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-14T10:38:22.000Z",
+    "url": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in early October as demand weathered external headwinds.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.347Z"
+    "imported_at": "2026-10-14T13:04:04.583Z"
   },
   {
-    "id": "st-ledger-asks-resellers-to-hal",
-    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "id": "st-sam-bankman-fried-s-lawyer-l",
+    "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-13T23:28:19.000Z",
-    "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T10:29:47.000Z",
+    "url": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.347Z"
-  },
-  {
-    "id": "st-most-tokenized-stock-trading",
-    "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T19:48:06.000Z",
-    "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
+    "summary": "Should US high court justices grant review of the case, they could release a decision as early as June 2027.",
     "category": "Regulation and policy",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.347Z"
+    "imported_at": "2026-10-14T13:04:04.584Z"
   },
   {
-    "id": "st-trezor-reduces-resellers-as",
-    "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+    "id": "st-bitcoin-will-become-less-vol",
+    "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-13T19:07:04.000Z",
-    "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T10:25:53.000Z",
+    "url": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.",
+    "summary": "Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.347Z"
+    "imported_at": "2026-10-14T13:04:04.584Z"
   },
   {
-    "id": "st-how-the-sec-s-lack-of-leader",
-    "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-13T16:51:25.000Z",
-    "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T08:56:15.347Z"
-  },
-  {
-    "id": "st-cryptocurrency-kiosks-are-fu",
-    "title": "Cryptocurrency Kiosks Are Fueling Fraud in Oregon. Join our Fight to Stop Them",
-    "source": "AARP",
-    "sourceId": "rss-aarp",
+    "id": "st-lansing-considers-new-rules",
+    "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+    "source": "WKAR",
+    "sourceId": "rss-wkar",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-14T01:53:56.000Z",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk5KYXA2X0hUY2dHblNvTk45Q3hmYkxONDVRNllLWktsVnpRTnNYRkNCUGFwTXE1V2Q1NEY0c3BIdGhNMWpaSWY2eU1BM3l2bS1IZGpvRm0tb0FGUlJ0cmFQMkZ4UFl4UGpUZ3lFZXNBYjZ6YzRHNVFsSjBFV2lUSDZIOGtUc2NQZ2lzN0ln?oc=5",
+    "published_at": "2026-10-14T12:04:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdEtBZnBwLVFrTGUwZw?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk5KYXA2X0hUY2dHblNvTk45Q3hmYkxONDVRNllLWktsVnpRTnNYRkNCUGFwTXE1V2Q1NEY0c3BIdGhNMWpaSWY2eU1BM3l2bS1IZGpvRm0tb0FGUlJ0cmFQMkZ4UFl4UGpUZ3lFZXNBYjZ6YzRHNVFsSjBFV2lUSDZIOGtUc2NQZ2lzN0ln?oc=5\" target=\"_blank\">Cryptocurrency ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdE",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -469,7 +469,7 @@
     "source": "The Guardian",
     "sourceId": "rss-the-guardian",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-13T23:01:00.000Z",
+    "published_at": "2026-10-14T09:34:00.000Z",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUE9FUjVUWWZRXzJyS1hHTmJCQlZlUVhKTC1YaFMyem5RQlpFeHJCVHBBSkotTkxWOXVZTTBHNGxtbjQ4WDVJNUMzci1iUTFBYUp6Ykg1VFlZaF9FVXplX0xuSnBLQ0RmMXhJNENuV1VyMzY3am15bGw1T2FmOTU5SnpPN29LNzZ6Q3NpSWxMVFh1bXdWRXBiRjExZWlFZUZmSFlrdldKX0RGMG1wZWZxVk9pYmUyVG5xbFE?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUE9FUjVUWWZRXzJyS1hHTmJCQlZlUVhKTC1YaFMyem5RQlpFeHJCVHBBSkotTkxWOXVZTTBHNGxtbjQ4WDVJNUMzci1iUTFBYUp6Ykg1VFlZaF9FVXplX0xuSnBLQ0RmMXhJNENuV1VyMzY3am15bGw1T2FmOTU5SnpPN29LNzZ6Q3NpSWxMVFh1bXdWRXBiRjExZWlFZUZmSFlrdldKX0RGMG",
@@ -477,7 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
+  },
+  {
+    "id": "st-fairphone-s-latest-repairabl",
+    "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-14T09:05:24.000Z",
+    "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+    "type": "News",
+    "summary": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a U",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-14T13:04:05.977Z"
   },
   {
     "id": "st-openai-employee-arrested-for",
@@ -493,23 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.498Z"
-  },
-  {
-    "id": "st-rivian-partner-mind-robotics",
-    "title": "Rivian partner Mind Robotics hires Doug Field as president",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-13T20:49:48.000Z",
-    "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-    "type": "News",
-    "summary": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Proje",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.498Z"
+    "imported_at": "2026-10-14T13:04:05.977Z"
   },
   {
     "id": "st-shopify-opens-its-catalog-up",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.498Z"
+    "imported_at": "2026-10-14T13:04:05.977Z"
   },
   {
     "id": "st-it-looks-like-apple-music-is",
@@ -541,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.498Z"
+    "imported_at": "2026-10-14T13:04:05.977Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -557,23 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.473Z"
-  },
-  {
-    "id": "st-xbox-is-officially-embracing",
-    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-13T19:10:43.000Z",
-    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "type": "News",
-    "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.498Z"
+    "imported_at": "2026-10-14T13:04:05.874Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.472Z"
+    "imported_at": "2026-10-14T13:04:05.874Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.473Z"
+    "imported_at": "2026-10-14T13:04:05.874Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -637,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -653,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   },
   {
     "id": "st-better-cryptocurrency-to-buy",
@@ -669,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -685,7 +669,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.473Z"
+    "imported_at": "2026-10-14T13:04:05.874Z"
+  },
+  {
+    "id": "st-trump-anyone-saying-ai-is-th",
+    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+    "source": "Axios",
+    "sourceId": "rss-axios",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-08T20:58:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-14T13:04:05.874Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.473Z"
+    "imported_at": "2026-10-14T13:04:05.874Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -717,38 +717,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.473Z"
+    "imported_at": "2026-10-14T13:04:05.874Z"
   },
   {
-    "id": "st-europol-urges-early-action-t",
-    "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
-    "source": "Europol",
-    "sourceId": "rss-europol",
+    "id": "st-greece-prepares-to-levy-10-c",
+    "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-07T10:05:57.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXh1UFhKa1VqTGFDZWF5NUR0THFaTC1WM3JZZWFLRm5xMG42NmRwWnZTTWxIaEhqelprbHdDX2ZxZFJDaW56a19VazZtOFFWVk94Z212aG9qUk4wc1hITlJ6STBsRUI4dUJ1YmNzZG8xNVdMYUVQcXd6MTNtSkVNcDJSYjJlcUt4VF9keXRmQnBOM2NibnNiLVZaNmEtaXVuVVdZeHFPNFgtam9pZzJ2eEpXMmo0U255VUk5a1FFS241OGlpb0tmc18zYkFIVkRZNTF6VzVfVzg0ZFRwbnc?oc=5",
+    "published_at": "2026-10-08T09:17:18.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXh1UFhKa1VqTGFDZWF5NUR0THFaTC1WM3JZZWFLRm5xMG42NmRwWnZTTWxIaEhqelprbHdDX2ZxZFJDaW56a19VazZtOFFWVk94Z212aG9qUk4wc1hITlJ6STBsRUI4dUJ1YmNzZG8xNVdMYUVQcXd6MTNtSkVNcDJSYjJlcUt4VF9keXRmQnBOM2NibnNiLVZaNmEtaXVuVVdZeHFPNFgtam",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:15.985Z"
-  },
-  {
-    "id": "st-can-artificial-intelligence",
-    "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-    "source": "The New York Times",
-    "sourceId": "rss-the-new-york-times",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-07T09:00:09.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5\" target=\"_blank\">Can ",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-14T08:56:16.473Z"
+    "imported_at": "2026-10-14T13:04:05.303Z"
   }
 ]
