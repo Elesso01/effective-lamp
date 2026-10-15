@@ -1,6 +1,6 @@
 # Weekly digest — week of 2026-10-15
 
-6 stories briefed · feed mix 8 familiar / 44 discovery.
+6 stories briefed · feed mix 7 familiar / 44 discovery.
 
 ## Top stories
 1. **Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide** (Regulation and policy · CoinDesk) — A top crypto development today

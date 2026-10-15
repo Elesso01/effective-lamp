@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-10-15T04:53:05.841Z",
+  "generated_at": "2026-10-15T08:57:06.279Z",
   "mix": {
-    "familiar": 8,
+    "familiar": 7,
     "discovery": 44
   },
   "items": [
     {
       "id": "st-nearly-1-billion-in-crypto-b",
       "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-blackrock-s-crypto-etf-asset",
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -42,22 +33,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-occ-report-finds-debanking-e",
-      "title": "OCC report finds debanking efforts tied to crypto activities",
+      "id": "st-australia-seeks-feedback-on",
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-greece-plans-10-cryptocurren",
-      "title": "Greece plans 10% cryptocurrency capital gains tax",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-eight-states-sue-openai-sayi",
@@ -267,6 +249,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bitcoin-etfs-shed-261m-as-xr",
+      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korea-plans-cybersecur",
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-miners-plunge-up-to",
       "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
       "category": "Crypto and AI intersections",
@@ -294,26 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-eu-authority-classifies-circ",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-us-authorities-dismantle-cry",
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fsb-finalises-sound-practice",
-      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "id": "st-sound-practices-for-responsi",
+      "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -429,17 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nevada-city-council-to-discu",
-      "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
+      "id": "st-i-did-a-crypto-heist-rockvil",
+      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -469,6 +442,24 @@
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-most-americans-think-artific",
+      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-greece-prepares-to-levy-10-c",
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T04:53:05.871Z",
-  "count": 2,
+  "generated_at": "2026-10-15T08:57:06.307Z",
+  "count": 1,
   "alerts": [
     {
       "id": "st-nearly-1-billion-in-crypto-b",
@@ -9,14 +9,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-15T04:25:15.000Z",
       "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide"
-    },
-    {
-      "id": "st-blackrock-s-crypto-etf-asset",
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-14T14:31:14.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak"
     }
   ]
 }

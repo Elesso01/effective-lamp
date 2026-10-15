@@ -1,21 +1,5 @@
 [
   {
-    "id": "st-greece-plans-10-cryptocurren",
-    "title": "Greece plans 10% cryptocurrency capital gains tax",
-    "source": "Reuters",
-    "sourceId": "rss-reuters",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-08T07:19:33.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXM5OWRKZ3dGVlc3N1A3UjBXYWNrd3FrcERoUmdBcGRpZXpzRF9CYTRGREVzOE5TWEtQS2hpNXhBSzgxcmlNdjI5SUJIQUVwS3lzVGQ3cEVJdWJoMUM1YTBtY0VJYXFwYmRUNzJkWThTbHhpRFNRMlFSblBFR2ZqRXlzYW9Qb25yd2paMXlPMFVuakh1SmFPS1htMk5tbi1yc0tj?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXM5OWRKZ3dGVlc3N1A3UjBXYWNrd3FrcERoUmdBcGRpZXpzRF9CYTRGREVzOE5TWEtQS2hpNXhBSzgxcmlNdjI5SUJIQUVwS3lzVGQ3cEVJdWJoMUM1YTBtY0VJYXFwYmRUNzJkWThTbHhpRFNRMlFSblBFR2ZqRXlzYW9Qb25yd2paMXlPMFVuakh1SmFPS1htMk5tbi1yc0tj?oc=5\" tar",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.9,
-    "imported_at": "2026-10-15T04:53:05.178Z"
-  },
-  {
     "id": "st-nearly-1-billion-in-crypto-b",
     "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
     "source": "CoinDesk",
@@ -29,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-bitcoin-mining-pool-once-han",
@@ -45,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-bitcoin-wilts-as-fed-rate-un",
@@ -61,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-kalshi-ceo-says-state-led-ov",
@@ -77,7 +61,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-ai-agents-make-138-million-c",
@@ -93,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-crypto-long-short-why-gold-a",
@@ -109,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-easya-hits-1-1-billion-valua",
@@ -125,23 +109,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
-  },
-  {
-    "id": "st-blackrock-s-crypto-etf-asset",
-    "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T14:31:14.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-    "type": "News",
-    "summary": "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-15T04:53:04.427Z"
+    "imported_at": "2026-10-15T08:57:04.842Z"
   },
   {
     "id": "st-figma-announces-new-features",
@@ -157,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-ricursive-intelligence-is-be",
@@ -173,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-meet-the-five-companies-comp",
@@ -189,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-gudea-leverages-ai-to-help-o",
@@ -205,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-intero-biosystems-wants-drug",
@@ -221,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-cedardb-wants-one-database-t",
@@ -237,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-ambani-s-jio-seeks-to-raise",
@@ -253,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.713Z"
+    "imported_at": "2026-10-15T08:57:05.143Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -269,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -285,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -301,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-how-block-is-building-ai-pow",
@@ -317,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-the-eu-s-next-chapter-in-ai",
@@ -333,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -349,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -365,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -381,7 +349,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T04:53:04.642Z"
+    "imported_at": "2026-10-15T08:57:05.083Z"
+  },
+  {
+    "id": "st-bitcoin-etfs-shed-261m-as-xr",
+    "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T07:23:43.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-15T08:57:04.915Z"
+  },
+  {
+    "id": "st-south-korea-plans-cybersecur",
+    "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T05:52:21.000Z",
+    "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-15T08:57:04.916Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T05:49:17.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-15T08:57:04.916Z"
+  },
+  {
+    "id": "st-australia-seeks-feedback-on",
+    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T05:00:40.000Z",
+    "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, custody and trading standards for crypto platforms.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-15T08:57:04.916Z"
   },
   {
     "id": "st-bitcoin-miners-plunge-up-to",
@@ -397,7 +429,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
+    "imported_at": "2026-10-15T08:57:04.916Z"
   },
   {
     "id": "st-vaneck-seeks-to-withdraw-app",
@@ -413,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
+    "imported_at": "2026-10-15T08:57:04.916Z"
   },
   {
     "id": "st-organizations-join-forces-to",
@@ -429,87 +461,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
+    "imported_at": "2026-10-15T08:57:04.916Z"
   },
   {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T19:13:24.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
-  },
-  {
-    "id": "st-eu-authority-classifies-circ",
-    "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T19:03:52.000Z",
-    "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
-  },
-  {
-    "id": "st-us-authorities-dismantle-cry",
-    "title": "US authorities dismantle crypto scam network that stole tens of millions",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T17:56:45.000Z",
-    "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
-  },
-  {
-    "id": "st-occ-report-finds-debanking-e",
-    "title": "OCC report finds debanking efforts tied to crypto activities",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T17:03:20.000Z",
-    "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T04:53:04.536Z"
-  },
-  {
-    "id": "st-fsb-finalises-sound-practice",
-    "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+    "id": "st-sound-practices-for-responsi",
+    "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses",
     "source": "Financial Stability Board",
     "sourceId": "rss-financial-stability-board",
     "author": "Google News (AI)",
     "published_at": "2026-10-15T04:00:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFl6MzRpNks5bGt0cE1adGdqbVhEX1hpUFBwSGlsSnhnM1FTd0RNUXVYZ3NqRjdrZDduazBRR1VFa2xhdElsdnRkTjlJLTI0VVlFMFFfd2RCOU1DM2RDUms0bmhLT0p3YVdIX0psdkFXT181dVM1TzBpS05LeHJvblRfXzY2V290TmRGUTNLWXFtOHB5d0RQaHFqckxfNzRjOXdyR0d2aFBud0tGRkVhQVQ0RnRnZ196czJSb2pobEpTeGpjLWR0ZFZSZWNwUVE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFl6MzRpNks5bGt0cE1adGdqbVhEX1hpUFBwSGlsSnhnM1FTd0RNUXVYZ3NqRjdrZDduazBRR1VFa2xhdElsdnRkTjlJLTI0VVlFMFFfd2RCOU1DM2RDUms0bmhLT0p3YVdIX0psdkFXT181dVM1TzBpS05LeHJvblRfXzY2V290TmRGUTNLWXFtOHB5d0RQaHFqckxfNzRjOXdyR0d2aFBud0",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.721Z"
+    "imported_at": "2026-10-15T08:57:06.128Z"
   },
   {
     "id": "st-mckinsey-is-making-job-appli",
@@ -525,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-the-best-feature-of-apple-s",
@@ -541,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-as-a-tv-enthusiast-i-was-hop",
@@ -557,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-eight-states-sue-openai-sayi",
@@ -573,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-microsoft-and-japan-took-dow",
@@ -589,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-now-that-character-ai-is-goi",
@@ -605,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-youtube-sticks-new-labels-on",
@@ -621,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.761Z"
+    "imported_at": "2026-10-15T08:57:06.200Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -637,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-lansing-considers-new-rules",
@@ -653,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-cryptocurrency-kiosks-are-fu",
@@ -669,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -685,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.721Z"
+    "imported_at": "2026-10-15T08:57:06.128Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -701,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.721Z"
+    "imported_at": "2026-10-15T08:57:06.128Z"
   },
   {
     "id": "st-zcash-continues-to-outperfor",
@@ -717,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -733,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -749,39 +717,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.721Z"
+    "imported_at": "2026-10-15T08:57:06.128Z"
   },
   {
-    "id": "st-the-evolution-of-artificial",
-    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-    "source": "CancerNetwork",
-    "sourceId": "rss-cancernetwork",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T00:17:23.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.721Z"
-  },
-  {
-    "id": "st-nevada-city-council-to-discu",
-    "title": "Nevada city council to discuss moratorium on data centers and cryptocurrency projects",
-    "source": "KCCI",
-    "sourceId": "rss-kcci",
+    "id": "st-i-did-a-crypto-heist-rockvil",
+    "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+    "source": "WUSA9",
+    "sourceId": "rss-wusa9",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-11T22:41:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal83UHlkeUgxclBFSnAybi1CNU5nSFk?oc=5",
+    "published_at": "2026-10-12T11:44:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aTllbEtOMjgyNV81dERQdlI1WnpqdllZVE55bW1PVXdOTjJPSEdXWmREQUVIbTFxbjliM1dLSlVNdGdSY2wzeld0SUJiNnM1MXZicDlHRlIwbHJxWXJHamVETzdGbnJ2MDdldTFWQWN5R0w?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdSc1BUdlV6dXN3d1pWTm1ibTlyOXRsaHNLUWI4RlViV0ZlSi0xNmZCNUd4NXFmeDhDbXhoVWp0MXdBcUI4YVNzMVFUcmZZNFVsNUxldTBSMXBlLWczeFhvM1k2c1dBUFoyYzNlLUpxc0kzRTZUb2VFX3c1NXF0cnE3T0FfamN5TmtaaVlKOXZKNTF1OXBKTlZkNVdZZUxpdHkxQzU4ckdaal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aT",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -797,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.721Z"
+    "imported_at": "2026-10-15T08:57:06.128Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -813,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.178Z"
+    "imported_at": "2026-10-15T08:57:05.609Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -829,6 +781,38 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T04:53:05.722Z"
+    "imported_at": "2026-10-15T08:57:06.128Z"
+  },
+  {
+    "id": "st-most-americans-think-artific",
+    "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+    "source": "AP News",
+    "sourceId": "rss-ap-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-08T10:23:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS2",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-15T08:57:06.128Z"
+  },
+  {
+    "id": "st-greece-prepares-to-levy-10-c",
+    "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-08T09:17:18.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-15T08:57:05.609Z"
   }
 ]
