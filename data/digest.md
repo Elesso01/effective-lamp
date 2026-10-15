@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-10-14
+# Weekly digest — week of 2026-10-15
 
-6 stories briefed · feed mix 8 familiar / 41 discovery.
+6 stories briefed · feed mix 9 familiar / 43 discovery.
 
 ## Top stories
 1. **Crypto Long & Short: Why gold and bitcoin belong in the same portfolio** (Markets and business · CoinDesk) — A top crypto development today
-2. **BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak** (Regulation and policy · CoinDesk) — A top crypto development today
-3. **Electric vehicle sales in the US are showing signs of life** (Markets and business · TechCrunch) — A top AI development today
-4. **TimeTeller puts our internal clocks at the center of personalized medicine** (Startups and companies · TechCrunch) — A top AI development today
+2. **Organizations join forces to fight Illinois crypto tax, after 6-month pause** (Markets and business · Cointelegraph) — A top crypto development today
+3. **Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026** (Startups and companies · TechCrunch) — A top AI development today
+4. **Gudea leverages AI to help organizations prevent social media crises before they erupt** (Products and applications · TechCrunch) — A top AI development today
 5. **AI agents make 138 million crypto payments as U.S. dominates spending on AI models** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers** (Startups and companies · TechCrunch) — Outside your usual reads — worth a skim
+6. **Intero Biosystems wants drugmakers to test on mini human intestines, not animals** (Regulation and policy · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers.
+- Discovery pick of the week: Intero Biosystems wants drugmakers to test on mini human intestines, not animals.
 
 _News, not investment advice._

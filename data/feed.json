@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T20:52:04.299Z",
+  "generated_at": "2026-10-15T01:01:22.613Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 41
+    "familiar": 9,
+    "discovery": 43
   },
   "items": [
     {
@@ -33,6 +33,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-intero-biosystems-wants-drug",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
@@ -51,15 +60,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-canada-crypto-remittances-to",
-      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-greece-plans-10-cryptocurren",
       "title": "Greece plans 10% cryptocurrency capital gains tax",
       "category": "Markets and business",
@@ -67,6 +67,15 @@
       "score": 9,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-eight-states-sue-openai-sayi",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-microsoft-and-japan-took-dow",
@@ -132,17 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-electric-vehicle-sales-in-th",
-      "title": "Electric vehicle sales in the US are showing signs of life",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-timeteller-puts-our-internal",
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "id": "st-meet-the-five-companies-comp",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -150,8 +150,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ambrosia-energy-will-build-a",
-      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "id": "st-gudea-leverages-ai-to-help-o",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cedardb-wants-one-database-t",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ambani-s-jio-seeks-to-raise",
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -159,26 +177,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-youtube-music-launches-new-l",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apate-sends-ai-agents-underc",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-mosqitter-is-turning-its-mos",
-      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "id": "st-colossal-biosciences-announc",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -207,6 +207,15 @@
       "id": "st-how-third-moment-research-ru",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-block-is-building-ai-pow",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -249,11 +258,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-oracle-turns-days-of-wor",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-organizations-join-forces-to",
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -299,6 +308,24 @@
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-mckinsey-is-making-job-appli",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-best-feature-of-apple-s",
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -384,6 +411,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-human-artificial-intelligenc",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-the-evolution-of-artificial",
       "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
@@ -411,10 +447,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-anyone-saying-ai-is-th",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-a-year-on-bitcoin-languishes",
+      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -433,15 +469,6 @@
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-greece-prepares-to-levy-10-c",
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
