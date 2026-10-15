@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-15T01:01:21.879Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
+  },
+  {
+    "id": "st-nearly-1-billion-in-crypto-b",
+    "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-15T04:25:15.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "type": "News",
+    "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-15T04:53:04.427Z"
+  },
+  {
+    "id": "st-bitcoin-mining-pool-once-han",
+    "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-15T04:13:56.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+    "type": "News",
+    "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-15T04:53:04.427Z"
+  },
+  {
+    "id": "st-bitcoin-wilts-as-fed-rate-un",
+    "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-15T03:57:45.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+    "type": "News",
+    "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-15T04:53:04.427Z"
   },
   {
     "id": "st-kalshi-ceo-says-state-led-ov",
@@ -29,7 +77,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.978Z"
+    "imported_at": "2026-10-15T04:53:04.427Z"
   },
   {
     "id": "st-ai-agents-make-138-million-c",
@@ -45,7 +93,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
+    "imported_at": "2026-10-15T04:53:04.427Z"
   },
   {
     "id": "st-crypto-long-short-why-gold-a",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
+    "imported_at": "2026-10-15T04:53:04.427Z"
   },
   {
     "id": "st-easya-hits-1-1-billion-valua",
@@ -77,7 +125,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
+    "imported_at": "2026-10-15T04:53:04.427Z"
   },
   {
     "id": "st-blackrock-s-crypto-etf-asset",
@@ -93,55 +141,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
+    "imported_at": "2026-10-15T04:53:04.427Z"
   },
   {
-    "id": "st-former-ftx-europe-chief-targ",
-    "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T14:08:43.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+    "id": "st-figma-announces-new-features",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-15T04:30:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "type": "News",
-    "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
-    "category": "Regulation and policy",
+    "summary": "Figma is also releasing its code layers feature in open beta.",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
-    "id": "st-america-s-growing-digital-ec",
-    "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T13:51:12.000Z",
-    "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+    "id": "st-ricursive-intelligence-is-be",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-15T01:01:32.000Z",
+    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
     "type": "News",
-    "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
-    "category": "Regulation and policy",
+    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+    "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
-  },
-  {
-    "id": "st-kraken-parent-payward-to-bec",
-    "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-14T13:07:45.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-    "type": "News",
-    "summary": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-15T01:01:20.979Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
     "id": "st-meet-the-five-companies-comp",
@@ -157,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.362Z"
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
     "id": "st-gudea-leverages-ai-to-help-o",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.362Z"
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
     "id": "st-intero-biosystems-wants-drug",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.362Z"
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
     "id": "st-cedardb-wants-one-database-t",
@@ -205,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.362Z"
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
     "id": "st-ambani-s-jio-seeks-to-raise",
@@ -221,23 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.362Z"
-  },
-  {
-    "id": "st-colossal-biosciences-announc",
-    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-14T21:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-    "type": "News",
-    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.362Z"
+    "imported_at": "2026-10-15T04:53:04.713Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-how-block-is-building-ai-pow",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-the-eu-s-next-chapter-in-ai",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -333,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -349,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.237Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -365,7 +381,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T01:01:21.238Z"
+    "imported_at": "2026-10-15T04:53:04.642Z"
+  },
+  {
+    "id": "st-bitcoin-miners-plunge-up-to",
+    "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T03:29:22.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-10-15T04:53:04.536Z"
+  },
+  {
+    "id": "st-vaneck-seeks-to-withdraw-app",
+    "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T01:21:52.000Z",
+    "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-15T04:53:04.536Z"
   },
   {
     "id": "st-organizations-join-forces-to",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
+    "imported_at": "2026-10-15T04:53:04.536Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
+    "imported_at": "2026-10-15T04:53:04.536Z"
   },
   {
     "id": "st-eu-authority-classifies-circ",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
+    "imported_at": "2026-10-15T04:53:04.536Z"
   },
   {
     "id": "st-us-authorities-dismantle-cry",
@@ -429,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
+    "imported_at": "2026-10-15T04:53:04.536Z"
   },
   {
     "id": "st-occ-report-finds-debanking-e",
@@ -445,55 +493,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
+    "imported_at": "2026-10-15T04:53:04.536Z"
   },
   {
-    "id": "st-standard-chartered-pushes-2t",
-    "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T16:26:31.000Z",
-    "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-fsb-finalises-sound-practice",
+    "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+    "source": "Financial Stability Board",
+    "sourceId": "rss-financial-stability-board",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-15T04:00:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
     "type": "News",
-    "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
-  },
-  {
-    "id": "st-bitcoin-price-dips-below-82k",
-    "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T14:21:15.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
-  },
-  {
-    "id": "st-bunker-mode-won-t-protect-yo",
-    "title": "‘Bunker mode’ won’t protect your crypto, critics say",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Even if Justin Drake’s prediction that AI could break cryptography proves correct, critics say “bunker mode” is an impractical suggestion that’s unlikely to protect your crypto.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T01:01:21.098Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-15T04:53:05.721Z"
   },
   {
     "id": "st-mckinsey-is-making-job-appli",
@@ -509,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.519Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-the-best-feature-of-apple-s",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.519Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-as-a-tv-enthusiast-i-was-hop",
@@ -541,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.520Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-eight-states-sue-openai-sayi",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.519Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-microsoft-and-japan-took-dow",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.520Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-now-that-character-ai-is-goi",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.520Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-youtube-sticks-new-labels-on",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.520Z"
+    "imported_at": "2026-10-15T04:53:05.761Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -621,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-lansing-considers-new-rules",
@@ -637,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-cryptocurrency-kiosks-are-fu",
@@ -653,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -669,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.437Z"
+    "imported_at": "2026-10-15T04:53:05.721Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -685,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.437Z"
+    "imported_at": "2026-10-15T04:53:05.721Z"
   },
   {
     "id": "st-zcash-continues-to-outperfor",
@@ -701,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -717,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -733,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.437Z"
+    "imported_at": "2026-10-15T04:53:05.721Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -749,7 +765,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.438Z"
+    "imported_at": "2026-10-15T04:53:05.721Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -765,7 +781,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -781,7 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.437Z"
+    "imported_at": "2026-10-15T04:53:05.721Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -797,7 +813,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:21.880Z"
+    "imported_at": "2026-10-15T04:53:05.178Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -813,22 +829,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.437Z"
-  },
-  {
-    "id": "st-most-americans-think-artific",
-    "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
-    "source": "AP News",
-    "sourceId": "rss-ap-news",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-08T10:23:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS2",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-15T01:01:22.437Z"
+    "imported_at": "2026-10-15T04:53:05.722Z"
   }
 ]

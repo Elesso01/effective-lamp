@@ -1,33 +1,24 @@
 {
-  "generated_at": "2026-10-15T01:01:22.613Z",
+  "generated_at": "2026-10-15T04:53:05.841Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 43
+    "familiar": 8,
+    "discovery": 44
   },
   "items": [
+    {
+      "id": "st-nearly-1-billion-in-crypto-b",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-blackrock-s-crypto-etf-asset",
       "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-former-ftx-europe-chief-targ",
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-america-s-growing-digital-ec",
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "category": "Regulation and policy",
-      "bucket": "ai",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -96,6 +87,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-bitcoin-mining-pool-once-han",
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-wilts-as-fed-rate-un",
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-kalshi-ceo-says-state-led-ov",
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
       "category": "Markets and business",
@@ -132,11 +141,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-kraken-parent-payward-to-bec",
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "category": "Markets and business",
+      "id": "st-figma-announces-new-features",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ricursive-intelligence-is-be",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -171,15 +189,6 @@
       "id": "st-ambani-s-jio-seeks-to-raise",
       "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-colossal-biosciences-announc",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -258,6 +267,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bitcoin-miners-plunge-up-to",
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-vaneck-seeks-to-withdraw-app",
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-organizations-join-forces-to",
       "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
       "category": "Markets and business",
@@ -285,29 +312,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-standard-chartered-pushes-2t",
-      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-price-dips-below-82k",
-      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bunker-mode-won-t-protect-yo",
-      "title": "‘Bunker mode’ won’t protect your crypto, critics say",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
+      "id": "st-fsb-finalises-sound-practice",
+      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -458,15 +467,6 @@
     {
       "id": "st-trump-says-anyone-who-does-n",
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-most-americans-think-artific",
-      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

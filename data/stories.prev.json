@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.879Z"
   },
   {
     "id": "st-kalshi-ceo-says-state-led-ov",
@@ -29,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.644Z"
+    "imported_at": "2026-10-15T01:01:20.978Z"
   },
   {
     "id": "st-ai-agents-make-138-million-c",
@@ -45,7 +45,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.644Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
     "id": "st-crypto-long-short-why-gold-a",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.644Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
     "id": "st-easya-hits-1-1-billion-valua",
@@ -77,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.644Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
     "id": "st-blackrock-s-crypto-etf-asset",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.645Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
     "id": "st-former-ftx-europe-chief-targ",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.645Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
     "id": "st-america-s-growing-digital-ec",
@@ -125,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.645Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
     "id": "st-kraken-parent-payward-to-bec",
@@ -141,103 +141,103 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-14T20:52:02.645Z"
+    "imported_at": "2026-10-15T01:01:20.979Z"
   },
   {
-    "id": "st-electric-vehicle-sales-in-th",
-    "title": "Electric vehicle sales in the US are showing signs of life",
+    "id": "st-meet-the-five-companies-comp",
+    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-14T20:12:07.000Z",
-    "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+    "published_at": "2026-10-15T00:30:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
     "type": "News",
-    "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:03.083Z"
-  },
-  {
-    "id": "st-timeteller-puts-our-internal",
-    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-14T20:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-    "type": "News",
-    "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+    "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
     "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:03.083Z"
+    "imported_at": "2026-10-15T01:01:21.362Z"
   },
   {
-    "id": "st-ambrosia-energy-will-build-a",
-    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "id": "st-gudea-leverages-ai-to-help-o",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-14T19:51:34.000Z",
-    "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+    "published_at": "2026-10-15T00:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "type": "News",
-    "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-15T01:01:21.362Z"
+  },
+  {
+    "id": "st-intero-biosystems-wants-drug",
+    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-14T23:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+    "type": "News",
+    "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-15T01:01:21.362Z"
+  },
+  {
+    "id": "st-cedardb-wants-one-database-t",
+    "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-14T22:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+    "type": "News",
+    "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-15T01:01:21.362Z"
+  },
+  {
+    "id": "st-ambani-s-jio-seeks-to-raise",
+    "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-14T21:48:20.000Z",
+    "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+    "type": "News",
+    "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
     "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:03.083Z"
+    "imported_at": "2026-10-15T01:01:21.362Z"
   },
   {
-    "id": "st-youtube-music-launches-new-l",
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "id": "st-colossal-biosciences-announc",
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-14T18:23:46.000Z",
-    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "published_at": "2026-10-14T21:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
     "type": "News",
-    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:03.083Z"
-  },
-  {
-    "id": "st-apate-sends-ai-agents-underc",
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-14T18:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "type": "News",
-    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:03.083Z"
-  },
-  {
-    "id": "st-mosqitter-is-turning-its-mos",
-    "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-14T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-    "type": "News",
-    "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:03.083Z"
+    "imported_at": "2026-10-15T01:01:21.362Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.936Z"
+    "imported_at": "2026-10-15T01:01:21.237Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.936Z"
+    "imported_at": "2026-10-15T01:01:21.237Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -285,7 +285,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.936Z"
+    "imported_at": "2026-10-15T01:01:21.237Z"
+  },
+  {
+    "id": "st-how-block-is-building-ai-pow",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-14T07:00:00.000Z",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "type": "News",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-15T01:01:21.237Z"
   },
   {
     "id": "st-the-eu-s-next-chapter-in-ai",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.936Z"
+    "imported_at": "2026-10-15T01:01:21.237Z"
   },
   {
     "id": "st-higgsfield-takes-ai-video-fr",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.936Z"
+    "imported_at": "2026-10-15T01:01:21.237Z"
   },
   {
     "id": "st-asana-cuts-model-costs-76x-i",
@@ -333,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.937Z"
+    "imported_at": "2026-10-15T01:01:21.237Z"
   },
   {
     "id": "st-sophos-cuts-threat-investiga",
@@ -349,23 +365,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.937Z"
+    "imported_at": "2026-10-15T01:01:21.238Z"
   },
   {
-    "id": "st-how-oracle-turns-days-of-wor",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-08T16:00:00.000Z",
-    "url": "https://openai.com/index/oracle",
+    "id": "st-organizations-join-forces-to",
+    "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-14T20:56:22.000Z",
+    "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-14T20:52:02.937Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-eu-authority-classifies-circ",
@@ -397,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-us-authorities-dismantle-cry",
@@ -413,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-occ-report-finds-debanking-e",
@@ -429,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-standard-chartered-pushes-2t",
@@ -445,7 +461,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-bitcoin-price-dips-below-82k",
@@ -461,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
     "id": "st-bunker-mode-won-t-protect-yo",
@@ -477,23 +493,71 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "imported_at": "2026-10-15T01:01:21.098Z"
   },
   {
-    "id": "st-canada-crypto-remittances-to",
-    "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-14T13:00:00.000Z",
-    "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-mckinsey-is-making-job-appli",
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-14T22:53:31.000Z",
+    "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
     "type": "News",
-    "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
-    "category": "Regulation and policy",
+    "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKins",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-15T01:01:22.519Z"
+  },
+  {
+    "id": "st-the-best-feature-of-apple-s",
+    "title": "The best feature of Apple’s HomeView might be its simplicity",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-14T22:52:14.000Z",
+    "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+    "type": "News",
+    "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the righ",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-14T20:52:02.800Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-15T01:01:22.519Z"
+  },
+  {
+    "id": "st-as-a-tv-enthusiast-i-was-hop",
+    "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-14T22:26:08.000Z",
+    "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+    "type": "News",
+    "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-15T01:01:22.520Z"
+  },
+  {
+    "id": "st-eight-states-sue-openai-sayi",
+    "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-14T21:17:29.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "type": "News",
+    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizon",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-15T01:01:22.519Z"
   },
   {
     "id": "st-microsoft-and-japan-took-dow",
@@ -509,23 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.210Z"
-  },
-  {
-    "id": "st-as-a-tv-enthusiast-i-was-hop",
-    "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-14T19:46:41.000Z",
-    "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-    "type": "News",
-    "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.210Z"
+    "imported_at": "2026-10-15T01:01:22.520Z"
   },
   {
     "id": "st-now-that-character-ai-is-goi",
@@ -541,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.210Z"
+    "imported_at": "2026-10-15T01:01:22.520Z"
   },
   {
     "id": "st-youtube-sticks-new-labels-on",
@@ -557,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.210Z"
+    "imported_at": "2026-10-15T01:01:22.520Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -573,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
   },
   {
     "id": "st-lansing-considers-new-rules",
@@ -589,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
   },
   {
     "id": "st-cryptocurrency-kiosks-are-fu",
@@ -605,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -621,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.090Z"
+    "imported_at": "2026-10-15T01:01:22.437Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -637,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.090Z"
+    "imported_at": "2026-10-15T01:01:22.437Z"
   },
   {
     "id": "st-zcash-continues-to-outperfor",
@@ -653,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -669,7 +717,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
+  },
+  {
+    "id": "st-human-artificial-intelligenc",
+    "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+    "source": "Nature",
+    "sourceId": "rss-nature",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-13T10:23:20.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5\" target=\"_blank\">Human–artificial intelligence collaboration for comanaging epilepsy in real tim",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-15T01:01:22.437Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -685,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.091Z"
+    "imported_at": "2026-10-15T01:01:22.438Z"
   },
   {
     "id": "st-nevada-city-council-to-discu",
@@ -701,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -717,23 +781,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.091Z"
+    "imported_at": "2026-10-15T01:01:22.437Z"
   },
   {
-    "id": "st-trump-anyone-saying-ai-is-th",
-    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-    "source": "Axios",
-    "sourceId": "rss-axios",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-08T20:58:57.000Z",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+    "id": "st-a-year-on-bitcoin-languishes",
+    "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+    "source": "WSJ",
+    "sourceId": "rss-wsj",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-09T15:45:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOU",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.091Z"
+    "imported_at": "2026-10-15T01:01:21.880Z"
   },
   {
     "id": "st-trump-says-anyone-who-does-n",
@@ -749,7 +813,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.090Z"
+    "imported_at": "2026-10-15T01:01:22.437Z"
   },
   {
     "id": "st-most-americans-think-artific",
@@ -765,22 +829,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:04.091Z"
-  },
-  {
-    "id": "st-greece-prepares-to-levy-10-c",
-    "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-08T09:17:18.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXM1Uk5JWUNaRXRlcDRJZXpydUIyQlVPUl9KeXVod0FwVkdFNUpXaUxfNXpvVmJUbldxd0xsbXJtSGItOHZTaV9GcnBXX2FPSnFuclNEU0YyVlQ0dWRDb1pScFhYbUlReU1lU09Uc0lWQzFPSXhQc0UtRFNjMTkxemIyTHJEV1J0SlE5aGp1cHRwMDg1ODhlRTZYaElVSkltWVNEU1hpUTE?oc",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-14T20:52:03.524Z"
+    "imported_at": "2026-10-15T01:01:22.437Z"
   }
 ]

@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-15T01:01:22.647Z",
+  "generated_at": "2026-10-15T04:53:05.871Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-nearly-1-billion-in-crypto-b",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-15T04:25:15.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide"
+    },
     {
       "id": "st-blackrock-s-crypto-etf-asset",
       "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-14T14:31:14.000Z",
       "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak"
-    },
-    {
-      "id": "st-former-ftx-europe-chief-targ",
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-14T14:08:43.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption"
     }
   ]
 }

@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-15
 
-6 stories briefed · feed mix 9 familiar / 43 discovery.
+6 stories briefed · feed mix 8 familiar / 44 discovery.
 
 ## Top stories
-1. **Crypto Long & Short: Why gold and bitcoin belong in the same portfolio** (Markets and business · CoinDesk) — A top crypto development today
-2. **Organizations join forces to fight Illinois crypto tax, after 6-month pause** (Markets and business · Cointelegraph) — A top crypto development today
-3. **Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026** (Startups and companies · TechCrunch) — A top AI development today
-4. **Gudea leverages AI to help organizations prevent social media crises before they erupt** (Products and applications · TechCrunch) — A top AI development today
-5. **AI agents make 138 million crypto payments as U.S. dominates spending on AI models** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Intero Biosystems wants drugmakers to test on mini human intestines, not animals** (Regulation and policy · TechCrunch) — Outside your usual reads — worth a skim
+1. **Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide** (Regulation and policy · CoinDesk) — A top crypto development today
+2. **Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%** (Markets and business · CoinDesk) — A top crypto development today
+3. **Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis** (Startups and companies · TechCrunch) — A top AI development today
+4. **Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026** (Startups and companies · TechCrunch) — A top AI development today
+5. **Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July** (Crypto and AI intersections · Cointelegraph) — A major development affecting both AI and blockchain
+6. **Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Intero Biosystems wants drugmakers to test on mini human intestines, not animals.
+- Discovery pick of the week: Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%.
 
 _News, not investment advice._
