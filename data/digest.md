@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-15
 
-6 stories briefed · feed mix 7 familiar / 44 discovery.
+6 stories briefed · feed mix 4 familiar / 50 discovery.
 
 ## Top stories
-1. **Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide** (Regulation and policy · CoinDesk) — A top crypto development today
-2. **Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%** (Markets and business · CoinDesk) — A top crypto development today
-3. **Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis** (Startups and companies · TechCrunch) — A top AI development today
-4. **Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026** (Startups and companies · TechCrunch) — A top AI development today
-5. **Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July** (Crypto and AI intersections · Cointelegraph) — A major development affecting both AI and blockchain
-6. **Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers** (Markets and business · CoinDesk) — A top crypto development today
+2. **Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone** (Markets and business · CoinDesk) — A top crypto development today
+3. **Amazon’s Bee launches two new personal AI devices, starting at $75** (Products and applications · TechCrunch) — A top AI development today
+4. **Google launches its ‘universal’ online shopping cart ahead of the holidays** (Products and applications · The Verge) — A top AI development today
+5. **Bitcoin, copper, stocks, yields all fall; gold rises** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+6. **Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%.
+- Discovery pick of the week: Bitcoin, copper, stocks, yields all fall; gold rises.
 
 _News, not investment advice._
