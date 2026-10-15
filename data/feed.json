@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T16:56:40.082Z",
+  "generated_at": "2026-10-15T20:52:33.754Z",
   "mix": {
-    "familiar": 4,
+    "familiar": 3,
     "discovery": 48
   },
   "items": [
@@ -15,24 +15,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-australia-s-financial-watchd",
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-can-the-sec-and-cftc-s-pro-c",
-      "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
@@ -40,6 +22,24 @@
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ex-trump-crypto-adviser-prof",
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-at-the-white-house-crypto-po",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-crypto-for-advisors-wall-str",
@@ -88,7 +88,7 @@
     },
     {
       "id": "st-live-updates-bitcoin-bounces",
-      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,8 +96,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-agents-are-coming-to-rivi",
-      "title": "AI agents are coming to Rivian’s cars",
+      "id": "st-amazon-devices-chief-panos-p",
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-launches-an-open-weight",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -105,17 +114,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ramp-reaches-60b-valuation-a",
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "category": "Startups and companies",
+      "id": "st-amazon-devices-chief-panos-p",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-s-universal-cart-shop",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "id": "st-bluesky-wants-to-make-it-eas",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-is-letting-metr-re",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bluesky-expands-its-ai-power",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -127,33 +154,6 @@
       "title": "Teaching students to think and learn through questions",
       "category": "Research and development",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-s-bee-launches-two-ne",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-citizen-lab-says-governments",
-      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-figma-announces-new-features",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -222,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-binance-us-seeks-1b-valuatio",
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-sweden-revisits-digital-kron",
       "title": "Sweden revisits digital krona as ECB advances digital euro plans",
       "category": "Markets and business",
@@ -267,64 +276,46 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hex-token-sellers-erase-160m",
-      "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+      "id": "st-bluesky-s-ai-tool-now-lets-y",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-is-making-inline-link",
+      "title": "Google is making inline links more prominent in AI responses",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-and-apple-team-up-to-ma",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-alienware-s-latest-34-inch-q",
+      "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-e-ink-upgraded-the-screen-fo",
-      "title": "E Ink upgraded the screen found in most color e-readers",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-friends-don-t-let-friends-fe",
-      "title": "Friends don’t let friends feed their data to AI agents",
+      "id": "st-volvo-will-use-nvidia-s-tech",
+      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-windows-is-being-optimiz",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-best-reason-to-care-abou",
-      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-shelly-s-new-presence-sensor",
-      "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-s-new-photos-app-c",
-      "title": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -465,8 +456,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-says-anyone-who-does-n",
-      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
+      "id": "st-trump-anyone-saying-ai-is-th",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
