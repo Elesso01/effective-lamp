@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T13:06:17.056Z",
+  "generated_at": "2026-10-16T16:54:00.723Z",
   "mix": {
     "familiar": 1,
-    "discovery": 50
+    "discovery": 45
   },
   "items": [
     {
@@ -13,6 +13,15 @@
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-big-tech-s-ai-auditors-will",
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-circle-targets-40-new-market",
@@ -60,17 +69,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-steady",
-      "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-u-s-judge-rejects-gemini-s-a",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "id": "st-live-updates-crypto-gives-up",
+      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -78,17 +78,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-replit-s-ceo-says-the-future",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "category": "Products and applications",
+      "id": "st-a-nvidia-insider-turned-vc-o",
+      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-even-benchmark-thinks-ai-is",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "id": "st-elorian-s-first-ai-model-wan",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
       "category": "Research and development",
       "bucket": "ai",
       "score": 8,
@@ -96,8 +96,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tesla-reveals-spacex-powered",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "id": "st-jev-is-vercel-s-fastest-adop",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -105,8 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-when-it-came-to-cal-ai-s-vir",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "id": "st-mark-wahlberg-on-using-ai-in",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -114,36 +114,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-and-the-winner-of-startup-ba",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "id": "st-veritas-expands-its-anti-cou",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-devices-chief-panos-p",
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-launches-an-open-weight",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-devices-chief-panos-p",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,6 +195,42 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-crypto-biz-wall-street-close",
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-price-steadies-aroun",
+      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ledger-s-early-implant-warni",
+      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-deutsche-bank-prepares-germa",
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-solana-s-liu-says-shanghai-e",
       "title": "Solana’s Liu says Shanghai event postponed over registration surge",
       "category": "Markets and business",
@@ -240,73 +249,46 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-may-seek-20-month-tr",
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "id": "st-the-new-apple-tv-4k-just-got",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-incredible-flying-tesla",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-s-homeview-has-an-app",
+      "title": "Apple’s HomeView has an app problem",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-s-new-terms-may-allow-i",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-this-stretchy-magsafe-storag",
+      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-capital-b-reports-78m-h1-los",
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-judge-rejects-cftc-gemini-bi",
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-model-helped-itself-t",
-      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-sony-xperia-10-vi-won-t",
-      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-first-vibe-coded-gun-is",
-      "title": "The first vibe-coded gun is here",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-surface-laptop-ultra-review",
-      "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-iphone-duo-is-now-availa",
-      "title": "The iPhone Duo is now available to preorder at $1,999",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -314,24 +296,6 @@
     {
       "id": "st-the-evolution-of-artificial",
       "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-steam-can-now-show-game-achi",
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chatgpt-can-peek-at-your-chr",
-      "title": "ChatGPT can peek at your Chrome tabs now",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -357,15 +321,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-15-minute-markets-for-crypto",
-      "title": "15-Minute Markets For Cryptocurrency Prices Are Surging in Popularity. It's Easy to Predict What Happens Next.",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-this-popular-cryptocurrency",
       "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
       "category": "Markets and business",
@@ -377,6 +332,15 @@
     {
       "id": "st-fsb-finalises-sound-practice",
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-join-discerning-ai-exploring",
+      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -420,6 +384,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-ledger-says-hardware-implant",
+      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-human-artificial-intelligenc",
       "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
       "category": "Products and applications",
@@ -440,24 +413,6 @@
     {
       "id": "st-cryptocurrency-kidnapping-pl",
       "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-barrett-introduces-legislati",
-      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-year-on-bitcoin-languishes",
-      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
