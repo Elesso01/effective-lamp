@@ -1,5 +1,37 @@
 [
   {
+    "id": "st-an-openai-agent-ran-out-of-e",
+    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T04:29:19.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+    "type": "News",
+    "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T04:54:32.791Z"
+  },
+  {
+    "id": "st-bitcoin-buyers-snap-up-a-bri",
+    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T04:14:22.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+    "type": "News",
+    "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T04:54:32.792Z"
+  },
+  {
     "id": "st-at-the-white-house-crypto-po",
     "title": "At the White House, crypto policy vacancy looms large",
     "source": "CoinDesk",
@@ -13,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.479Z"
+    "imported_at": "2026-10-16T04:54:32.792Z"
   },
   {
     "id": "st-crypto-for-advisors-wall-str",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.479Z"
+    "imported_at": "2026-10-16T04:54:32.792Z"
   },
   {
     "id": "st-how-brooklyn-prosecutors-and",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.479Z"
+    "imported_at": "2026-10-16T04:54:32.792Z"
   },
   {
     "id": "st-under-pressure-ledger-unveil",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.479Z"
+    "imported_at": "2026-10-16T04:54:32.792Z"
   },
   {
     "id": "st-bitcoin-copper-stocks-yields",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.480Z"
+    "imported_at": "2026-10-16T04:54:32.792Z"
   },
   {
     "id": "st-altcoins-lead-crypto-decline",
@@ -93,39 +125,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.480Z"
+    "imported_at": "2026-10-16T04:54:32.792Z"
   },
   {
-    "id": "st-live-updates-bitcoin-bounces",
-    "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-15T10:16:15.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+    "id": "st-tesla-reveals-spacex-powered",
+    "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-16T01:17:43.000Z",
+    "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
     "type": "News",
-    "summary": "Stocks also turned positive after big early losses, helped by sharply lower bond yields.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.480Z"
-  },
-  {
-    "id": "st-hyperliquid-founder-wants-u",
-    "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-15T10:00:56.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
-    "type": "News",
-    "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T01:00:55.480Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-when-it-came-to-cal-ai-s-vir",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.048Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-and-the-winner-of-startup-ba",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.048Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-amazon-devices-chief-panos-p",
@@ -173,7 +189,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.048Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-meta-launches-an-open-weight",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.048Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-amazon-devices-chief-panos-p",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.048Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-bluesky-wants-to-make-it-eas",
@@ -221,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.048Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-anthropic-is-letting-metr-re",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.049Z"
+    "imported_at": "2026-10-16T04:54:32.993Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -253,23 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
-  },
-  {
-    "id": "st-bluesky-expands-its-ai-power",
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-15T18:56:46.000Z",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "type": "News",
-    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:56.049Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-how-block-is-building-ai-pow",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-the-eu-s-next-chapter-in-ai",
@@ -381,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T01:00:55.931Z"
+    "imported_at": "2026-10-16T04:54:32.953Z"
   },
   {
     "id": "st-australia-releases-draft-bil",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.655Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
   },
   {
     "id": "st-scammer-loses-4-8m-stored-on",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.655Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
   },
   {
     "id": "st-binance-us-seeks-1b-valuatio",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.655Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.656Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
   },
   {
     "id": "st-ex-trump-crypto-adviser-prof",
@@ -461,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.656Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
   },
   {
     "id": "st-sweden-revisits-digital-kron",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.656Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
   },
   {
     "id": "st-mastercard-brings-stablecoin",
@@ -493,7 +493,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T01:00:55.656Z"
+    "imported_at": "2026-10-16T04:54:32.837Z"
+  },
+  {
+    "id": "st-the-evolution-of-artificial",
+    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+    "source": "CancerNetwork",
+    "sourceId": "rss-cancernetwork",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-15T23:31:30.000Z",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
     "id": "st-steam-can-now-show-game-achi",
@@ -509,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.179Z"
+    "imported_at": "2026-10-16T04:54:33.932Z"
   },
   {
     "id": "st-chatgpt-can-peek-at-your-chr",
@@ -525,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.179Z"
+    "imported_at": "2026-10-16T04:54:33.932Z"
   },
   {
     "id": "st-sega-pulls-total-war-shogun",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.179Z"
+    "imported_at": "2026-10-16T04:54:33.932Z"
   },
   {
     "id": "st-the-tech-backlash-is-now-in",
@@ -557,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.179Z"
+    "imported_at": "2026-10-16T04:54:33.933Z"
   },
   {
     "id": "st-trump-posts-ai-edited-photo",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.179Z"
+    "imported_at": "2026-10-16T04:54:33.933Z"
   },
   {
     "id": "st-bluesky-s-ai-tool-now-lets-y",
@@ -589,23 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.179Z"
-  },
-  {
-    "id": "st-meta-and-apple-team-up-to-ma",
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T18:15:36.000Z",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "type": "News",
-    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.180Z"
+    "imported_at": "2026-10-16T04:54:33.933Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -621,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.425Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -637,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.424Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -653,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.069Z"
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.069Z"
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -685,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.424Z"
   },
   {
     "id": "st-lansing-considers-new-rules",
@@ -701,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.424Z"
   },
   {
     "id": "st-cryptocurrency-kiosks-are-fu",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.425Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.069Z"
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -749,23 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.069Z"
-  },
-  {
-    "id": "st-ledger-says-hardware-implant",
-    "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-    "source": "The Record from Recorded Future News",
-    "sourceId": "rss-the-record-from-recorded-future-news",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-13T13:31:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNGo4TGwza2pwVWs0emRJNzc4ZTFRcEx2V3poYkhRMHpEcWNzQzhQV0xObVBJUUU5X01sS3UtMXNYYi1RX3RQOGNOeGNrWElzVExkQzZTZHB1TXdldk10S1JwTHZKVjlzWGx2WVpaNFJpMENG?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNGo4TGwza2pwVWs0emRJNzc4ZTFRcEx2V3poYkhRMHpEcWNzQzhQV0xObVBJUUU5X01sS3UtMXNYYi1RX3RQOGNOeGNrWElzVExkQzZTZHB1TXdldk10S1JwTHZKVjlzWGx2WVpaNFJpMENG?oc=5\" target=\"_blank\">Ledger says hardware implant in cryptocurrency wall",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -781,23 +765,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.068Z"
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
-    "id": "st-the-evolution-of-artificial",
-    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-    "source": "CancerNetwork",
-    "sourceId": "rss-cancernetwork",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T00:17:23.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
+    "id": "st-i-did-a-crypto-heist-rockvil",
+    "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+    "source": "WUSA9",
+    "sourceId": "rss-wusa9",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-12T11:44:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aTllbEtOMjgyNV81dERQdlI1WnpqdllZVE55bW1PVXdOTjJPSEdXWmREQUVIbTFxbjliM1dLSlVNdGdSY2wzeld0SUJiNnM1MXZicDlHRlIwbHJxWXJHamVETzdGbnJ2MDdldTFWQWN5R0w?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aT",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.069Z"
+    "imported_at": "2026-10-16T04:54:33.425Z"
   },
   {
     "id": "st-cryptocurrency-kidnapping-pl",
@@ -813,7 +797,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.589Z"
+    "imported_at": "2026-10-16T04:54:33.425Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -829,7 +813,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:57.069Z"
+    "imported_at": "2026-10-16T04:54:33.891Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -845,6 +829,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T01:00:56.588Z"
+    "imported_at": "2026-10-16T04:54:33.424Z"
   }
 ]

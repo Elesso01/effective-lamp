@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T04:54:34.027Z",
+  "generated_at": "2026-10-16T08:56:05.787Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 48
+    "familiar": 3,
+    "discovery": 47
   },
   "items": [
     {
@@ -11,15 +11,6 @@
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-australia-releases-draft-bil",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -33,13 +24,22 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ex-trump-crypto-adviser-prof",
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "id": "st-australia-releases-draft-bil",
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-xrp-has-failed-to-make-holde",
+      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-bitcoin-buyers-snap-up-a-bri",
@@ -87,20 +87,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-copper-stocks-yields",
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-altcoins-lead-crypto-decline",
-      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-even-benchmark-thinks-ai-is",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -162,15 +153,6 @@
       "id": "st-bluesky-wants-to-make-it-eas",
       "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-is-letting-metr-re",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -249,26 +231,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-scammer-loses-4-8m-stored-on",
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-us-seeks-1b-valuatio",
-      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sweden-revisits-digital-kron",
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "id": "st-capital-b-reports-78m-h1-los",
+      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,8 +240,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-mastercard-brings-stablecoin",
-      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "id": "st-judge-rejects-cftc-gemini-bi",
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-model-helped-itself-t",
+      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-scammer-loses-4-8m-stored-on",
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -375,6 +357,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ai-cls-columbia-law-school-s",
       "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
@@ -386,24 +377,6 @@
     {
       "id": "st-cryptocurrency-exchange-foun",
       "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lansing-considers-new-rules",
-      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cryptocurrency-kiosks-are-fu",
-      "title": "Cryptocurrency Kiosks Are Fueling Fraud in Oregon. Join our Fight to Stop Them",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -438,8 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-i-did-a-crypto-heist-rockvil",
-      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+      "id": "st-opinion-better-protection-ne",
+      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -447,8 +420,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-kidnapping-pl",
-      "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
+      "id": "st-8-benefits-of-cryptocurrency",
+      "title": "8 Benefits of Cryptocurrency & Why You Should Use It",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -467,6 +440,15 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-treasury-backs-down-on-biden",
+      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
