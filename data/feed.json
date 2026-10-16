@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T01:00:57.252Z",
+  "generated_at": "2026-10-16T04:54:34.027Z",
   "mix": {
     "familiar": 4,
-    "discovery": 49
+    "discovery": 48
   },
   "items": [
     {
-      "id": "st-hyperliquid-founder-wants-u",
-      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
+      "id": "st-an-openai-agent-ran-out-of-e",
+      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -40,6 +40,15 @@
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-buyers-snap-up-a-bri",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-at-the-white-house-crypto-po",
@@ -96,11 +105,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-bounces",
-      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-tesla-reveals-spacex-powered",
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -171,15 +180,6 @@
       "id": "st-bringing-gpt-rosalind-to-aca",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bluesky-expands-its-ai-power",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -285,6 +285,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-steam-can-now-show-game-achi",
       "title": "Steam can now show game achievements in separate ‘sets’",
       "category": "Products and applications",
@@ -332,15 +341,6 @@
     {
       "id": "st-bluesky-s-ai-tool-now-lets-y",
       "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-and-apple-team-up-to-ma",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -429,15 +429,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ledger-says-hardware-implant",
-      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-human-artificial-intelligenc",
       "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
       "category": "Products and applications",
@@ -447,10 +438,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-i-did-a-crypto-heist-rockvil",
+      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

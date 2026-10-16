@@ -1,14 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:00:57.277Z",
-  "count": 1,
-  "alerts": [
-    {
-      "id": "st-hyperliquid-founder-wants-u",
-      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-15T10:00:56.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain"
-    }
-  ]
+  "generated_at": "2026-10-16T04:54:34.061Z",
+  "count": 0,
+  "alerts": []
 }

@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.700Z"
+    "imported_at": "2026-10-16T01:00:55.479Z"
   },
   {
     "id": "st-crypto-for-advisors-wall-str",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.700Z"
+    "imported_at": "2026-10-16T01:00:55.479Z"
   },
   {
     "id": "st-how-brooklyn-prosecutors-and",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.700Z"
+    "imported_at": "2026-10-16T01:00:55.479Z"
   },
   {
     "id": "st-under-pressure-ledger-unveil",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.701Z"
+    "imported_at": "2026-10-16T01:00:55.479Z"
   },
   {
     "id": "st-bitcoin-copper-stocks-yields",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.701Z"
+    "imported_at": "2026-10-16T01:00:55.480Z"
   },
   {
     "id": "st-altcoins-lead-crypto-decline",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.701Z"
+    "imported_at": "2026-10-16T01:00:55.480Z"
   },
   {
     "id": "st-live-updates-bitcoin-bounces",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.701Z"
+    "imported_at": "2026-10-16T01:00:55.480Z"
   },
   {
     "id": "st-hyperliquid-founder-wants-u",
@@ -125,7 +125,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-15T20:52:29.701Z"
+    "imported_at": "2026-10-16T01:00:55.480Z"
+  },
+  {
+    "id": "st-when-it-came-to-cal-ai-s-vir",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-15T23:44:56.000Z",
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "type": "News",
+    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-16T01:00:56.048Z"
+  },
+  {
+    "id": "st-and-the-winner-of-startup-ba",
+    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-15T23:33:45.000Z",
+    "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+    "type": "News",
+    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-16T01:00:56.048Z"
   },
   {
     "id": "st-amazon-devices-chief-panos-p",
@@ -141,7 +173,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.196Z"
+    "imported_at": "2026-10-16T01:00:56.048Z"
   },
   {
     "id": "st-meta-launches-an-open-weight",
@@ -157,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.197Z"
+    "imported_at": "2026-10-16T01:00:56.048Z"
   },
   {
     "id": "st-amazon-devices-chief-panos-p",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.197Z"
+    "imported_at": "2026-10-16T01:00:56.048Z"
   },
   {
     "id": "st-bluesky-wants-to-make-it-eas",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.197Z"
+    "imported_at": "2026-10-16T01:00:56.048Z"
   },
   {
     "id": "st-anthropic-is-letting-metr-re",
@@ -205,7 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.197Z"
+    "imported_at": "2026-10-16T01:00:56.049Z"
+  },
+  {
+    "id": "st-bringing-gpt-rosalind-to-aca",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-15T19:00:00.000Z",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "type": "News",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
     "id": "st-bluesky-expands-its-ai-power",
@@ -221,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.197Z"
+    "imported_at": "2026-10-16T01:00:56.049Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -237,7 +285,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "imported_at": "2026-10-16T01:00:55.931Z"
+  },
+  {
+    "id": "st-sullivan-cromwell-brings-leg",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-15T00:00:00.000Z",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "type": "News",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -253,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -269,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -285,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
     "id": "st-how-block-is-building-ai-pow",
@@ -301,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
     "id": "st-the-eu-s-next-chapter-in-ai",
@@ -317,39 +381,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "imported_at": "2026-10-16T01:00:55.931Z"
   },
   {
-    "id": "st-higgsfield-takes-ai-video-fr",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-13T12:00:00.000Z",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "id": "st-australia-releases-draft-bil",
+    "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T23:34:19.000Z",
+    "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-16T01:00:55.655Z"
   },
   {
-    "id": "st-asana-cuts-model-costs-76x-i",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00.000Z",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "id": "st-scammer-loses-4-8m-stored-on",
+    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-15T22:42:58.000Z",
+    "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
     "category": "Products and applications",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-15T20:52:30.054Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-16T01:00:55.655Z"
   },
   {
     "id": "st-binance-us-seeks-1b-valuatio",
@@ -365,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "imported_at": "2026-10-16T01:00:55.655Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "imported_at": "2026-10-16T01:00:55.656Z"
   },
   {
     "id": "st-ex-trump-crypto-adviser-prof",
@@ -397,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "imported_at": "2026-10-16T01:00:55.656Z"
   },
   {
     "id": "st-sweden-revisits-digital-kron",
@@ -413,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "imported_at": "2026-10-16T01:00:55.656Z"
   },
   {
     "id": "st-mastercard-brings-stablecoin",
@@ -429,55 +493,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "imported_at": "2026-10-16T01:00:55.656Z"
   },
   {
-    "id": "st-bitcoin-slips-under-80k-afte",
-    "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-15T15:10:44.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-steam-can-now-show-game-achi",
+    "title": "Steam can now show game achievements in separate ‘sets’",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-15T23:22:54.000Z",
+    "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
     "type": "News",
-    "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
-    "category": "Markets and business",
+    "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"Bu",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-16T01:00:57.179Z"
   },
   {
-    "id": "st-russia-to-ban-direct-peer-to",
-    "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-15T14:22:43.000Z",
-    "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-chatgpt-can-peek-at-your-chr",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-15T22:43:23.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
     "type": "News",
-    "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT'",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-16T01:00:57.179Z"
   },
   {
-    "id": "st-nasdaq-listed-tron-sets-up-2",
-    "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-15T14:16:55.000Z",
-    "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-sega-pulls-total-war-shogun",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-15T22:35:55.000Z",
+    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
     "type": "News",
-    "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
-    "category": "Markets and business",
+    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, an",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T01:00:57.179Z"
+  },
+  {
+    "id": "st-the-tech-backlash-is-now-in",
+    "title": "The tech backlash is now in theaters",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-15T21:39:52.000Z",
+    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "type": "News",
+    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose am",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-15T20:52:29.843Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-16T01:00:57.179Z"
+  },
+  {
+    "id": "st-trump-posts-ai-edited-photo",
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-15T21:32:54.000Z",
+    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+    "type": "News",
+    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Go",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T01:00:57.179Z"
   },
   {
     "id": "st-bluesky-s-ai-tool-now-lets-y",
@@ -493,23 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.657Z"
-  },
-  {
-    "id": "st-google-is-making-inline-link",
-    "title": "Google is making inline links more prominent in AI responses",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T19:02:15.000Z",
-    "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
-    "type": "News",
-    "summary": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but ",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.657Z"
+    "imported_at": "2026-10-16T01:00:57.179Z"
   },
   {
     "id": "st-meta-and-apple-team-up-to-ma",
@@ -525,39 +605,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.657Z"
+    "imported_at": "2026-10-16T01:00:57.180Z"
   },
   {
-    "id": "st-alienware-s-latest-34-inch-q",
-    "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T17:11:20.000Z",
-    "url": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale",
+    "id": "st-expert-examines-what-drives",
+    "title": "Expert examines what drives cryptocurrency returns",
+    "source": "Tech Xplore",
+    "sourceId": "rss-tech-xplore",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T16:20:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5",
     "type": "News",
-    "summary": "The Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a couple months ago, and is equi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5\" target=\"_blank\">Expert examines what drives cryptocurrency returns</a>&nb",
     "category": "Markets and business",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.657Z"
-  },
-  {
-    "id": "st-volvo-will-use-nvidia-s-tech",
-    "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T16:39:04.000Z",
-    "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-    "type": "News",
-    "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesl",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.657Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -573,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.739Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -589,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
+    "imported_at": "2026-10-16T01:00:57.069Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -605,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
+    "imported_at": "2026-10-16T01:00:57.069Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -621,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.738Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   },
   {
     "id": "st-lansing-considers-new-rules",
@@ -637,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.739Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   },
   {
     "id": "st-cryptocurrency-kiosks-are-fu",
@@ -653,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.739Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -669,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
+    "imported_at": "2026-10-16T01:00:57.069Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -685,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
+    "imported_at": "2026-10-16T01:00:57.069Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -701,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.739Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -717,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
+    "imported_at": "2026-10-16T01:00:57.068Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -733,23 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
-  },
-  {
-    "id": "st-i-did-a-crypto-heist-rockvil",
-    "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
-    "source": "WUSA9",
-    "sourceId": "rss-wusa9",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-12T11:44:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aTllbEtOMjgyNV81dERQdlI1WnpqdllZVE55bW1PVXdOTjJPSEdXWmREQUVIbTFxbjliM1dLSlVNdGdSY2wzeld0SUJiNnM1MXZicDlHRlIwbHJxWXJHamVETzdGbnJ2MDdldTFWQWN5R0w?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aT",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.739Z"
+    "imported_at": "2026-10-16T01:00:57.069Z"
   },
   {
     "id": "st-cryptocurrency-kidnapping-pl",
@@ -765,7 +813,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.739Z"
+    "imported_at": "2026-10-16T01:00:56.589Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -781,7 +829,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.568Z"
+    "imported_at": "2026-10-16T01:00:57.069Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -797,22 +845,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:30.738Z"
-  },
-  {
-    "id": "st-trump-anyone-saying-ai-is-th",
-    "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-    "source": "Axios",
-    "sourceId": "rss-axios",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-08T20:58:57.000Z",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5\" target=\"_blank\">Trump: Anyone saying \"AI\" is \"THE ENEMY!",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-15T20:52:33.569Z"
+    "imported_at": "2026-10-16T01:00:56.588Z"
   }
 ]
