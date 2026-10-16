@@ -1,115 +1,131 @@
 [
   {
-    "id": "st-xrp-has-failed-to-make-holde",
-    "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+    "id": "st-circle-targets-40-new-market",
+    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-10-16T05:53:58.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "published_at": "2026-10-16T10:54:35.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
     "type": "News",
-    "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
+    "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.598Z"
+    "imported_at": "2026-10-16T13:06:15.651Z"
   },
   {
-    "id": "st-an-openai-agent-ran-out-of-e",
-    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+    "id": "st-quantum-alliance-forms-amid",
+    "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-10-16T04:29:19.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+    "published_at": "2026-10-16T10:52:26.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
     "type": "News",
-    "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.",
+    "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T13:06:15.651Z"
+  },
+  {
+    "id": "st-tokenized-tesla-surges-as-el",
+    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T10:48:49.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+    "type": "News",
+    "summary": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T13:06:15.651Z"
+  },
+  {
+    "id": "st-altcoins-outpace-bitcoin-as",
+    "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T10:41:03.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+    "type": "News",
+    "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T13:06:15.651Z"
+  },
+  {
+    "id": "st-scammer-gets-scammed-in-ledg",
+    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T10:24:30.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+    "type": "News",
+    "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T13:06:15.651Z"
+  },
+  {
+    "id": "st-live-updates-bitcoin-steady",
+    "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T09:48:14.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+    "type": "News",
+    "summary": "Crypto held to its bounce following bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-16T13:06:15.651Z"
+  },
+  {
+    "id": "st-u-s-judge-rejects-gemini-s-a",
+    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-16T09:36:21.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+    "type": "News",
+    "summary": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
     "category": "Crypto and AI intersections",
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.599Z"
+    "imported_at": "2026-10-16T13:06:15.651Z"
   },
   {
-    "id": "st-bitcoin-buyers-snap-up-a-bri",
-    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-16T04:14:22.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+    "id": "st-replit-s-ceo-says-the-future",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-16T12:55:09.000Z",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
     "type": "News",
-    "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.599Z"
-  },
-  {
-    "id": "st-at-the-white-house-crypto-po",
-    "title": "At the White House, crypto policy vacancy looms large",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-15T18:48:02.000Z",
-    "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-    "type": "News",
-    "summary": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.599Z"
-  },
-  {
-    "id": "st-crypto-for-advisors-wall-str",
-    "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-15T15:00:00.000Z",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-    "type": "News",
-    "summary": "",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.599Z"
-  },
-  {
-    "id": "st-how-brooklyn-prosecutors-and",
-    "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-15T12:35:24.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-    "type": "News",
-    "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.599Z"
-  },
-  {
-    "id": "st-under-pressure-ledger-unveil",
-    "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-15T12:00:00.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-    "type": "News",
-    "summary": "Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-16T08:56:04.599Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-even-benchmark-thinks-ai-is",
@@ -125,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-tesla-reveals-spacex-powered",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-when-it-came-to-cal-ai-s-vir",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-and-the-winner-of-startup-ba",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-amazon-devices-chief-panos-p",
@@ -189,7 +205,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-meta-launches-an-open-weight",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-amazon-devices-chief-panos-p",
@@ -221,23 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
-  },
-  {
-    "id": "st-bluesky-wants-to-make-it-eas",
-    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-15T19:29:05.000Z",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-    "type": "News",
-    "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.846Z"
+    "imported_at": "2026-10-16T13:06:15.916Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.813Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-how-block-is-building-ai-pow",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
   },
   {
     "id": "st-the-eu-s-next-chapter-in-ai",
@@ -365,7 +365,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T08:56:04.814Z"
+    "imported_at": "2026-10-16T13:06:15.865Z"
+  },
+  {
+    "id": "st-solana-s-liu-says-shanghai-e",
+    "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-16T11:22:47.000Z",
+    "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-16T13:06:15.742Z"
+  },
+  {
+    "id": "st-connect-recap-liquidity-is-t",
+    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-16T10:27:18.000Z",
+    "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-16T13:06:15.742Z"
+  },
+  {
+    "id": "st-bitcoin-may-seek-20-month-tr",
+    "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-16T09:22:13.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-16T13:06:15.742Z"
   },
   {
     "id": "st-capital-b-reports-78m-h1-los",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T08:56:04.666Z"
+    "imported_at": "2026-10-16T13:06:15.742Z"
   },
   {
     "id": "st-judge-rejects-cftc-gemini-bi",
@@ -397,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T08:56:04.666Z"
+    "imported_at": "2026-10-16T13:06:15.742Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T08:56:04.666Z"
+    "imported_at": "2026-10-16T13:06:15.742Z"
   },
   {
     "id": "st-openai-model-helped-itself-t",
@@ -429,39 +477,71 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-16T08:56:04.666Z"
+    "imported_at": "2026-10-16T13:06:15.742Z"
   },
   {
-    "id": "st-australia-releases-draft-bil",
-    "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-15T23:34:19.000Z",
-    "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-the-sony-xperia-10-vi-won-t",
+    "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T12:36:11.000Z",
+    "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
     "type": "News",
-    "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-16T08:56:04.666Z"
-  },
-  {
-    "id": "st-scammer-loses-4-8m-stored-on",
-    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-15T22:42:58.000Z",
-    "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+    "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-16T08:56:04.666Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-16T13:06:16.969Z"
+  },
+  {
+    "id": "st-the-first-vibe-coded-gun-is",
+    "title": "The first vibe-coded gun is here",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T12:27:31.000Z",
+    "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+    "type": "News",
+    "summary": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP. I stood about 20 fee",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T13:06:16.969Z"
+  },
+  {
+    "id": "st-surface-laptop-ultra-review",
+    "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T11:45:05.000Z",
+    "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+    "type": "News",
+    "summary": "After setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBook Pro-like design or blown away by its bright display. I was trying to work out what I'd actually do with a $5,900 laptop. This isn't just any regular Windo",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T13:06:16.969Z"
+  },
+  {
+    "id": "st-the-iphone-duo-is-now-availa",
+    "title": "The iPhone Duo is now available to preorder at $1,999",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T11:41:35.000Z",
+    "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
+    "type": "News",
+    "summary": "Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models. Apple's first foldable has a 5.4-inch outer scr",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T13:06:16.969Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -477,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.677Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
     "id": "st-steam-can-now-show-game-achi",
@@ -493,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.695Z"
+    "imported_at": "2026-10-16T13:06:16.969Z"
   },
   {
     "id": "st-chatgpt-can-peek-at-your-chr",
@@ -509,71 +589,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.695Z"
+    "imported_at": "2026-10-16T13:06:16.969Z"
   },
   {
-    "id": "st-sega-pulls-total-war-shogun",
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T22:35:55.000Z",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "id": "st-top-cryptocurrency-white-hou",
+    "title": "Top cryptocurrency White House adviser announces departure from the administration",
+    "source": "WXLV",
+    "sourceId": "rss-wxlv",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T19:09:48.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEphQWFqZDMxU2p0RGdXSGNfLWtwNmZkcFhTUjRTT0pRRS01REtmbFdjMy0wUHJSUDdYVHdZUk1ELTVnNlI2cmFKdFB4SWNKN0l1akdiSWVJZ2dNc2UtRkU5ak03Zmxad3llNmZLa0pyUWwtZGt6TEZNQlhDd1p6YTlOYzJmSURCS0Z5TWtuS0hjSEZEQVI3MzFWNU94Mjc1YXV6N0Vmc2MtWnhwa0lHcjNKa2xLMTZGbnVabU5oNVhRZFlrbFJaVHdiamcxVUUtU0hSVHNR?oc=5",
     "type": "News",
-    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, an",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.696Z"
-  },
-  {
-    "id": "st-the-tech-backlash-is-now-in",
-    "title": "The tech backlash is now in theaters",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T21:39:52.000Z",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "type": "News",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose am",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEphQWFqZDMxU2p0RGdXSGNfLWtwNmZkcFhTUjRTT0pRRS01REtmbFdjMy0wUHJSUDdYVHdZUk1ELTVnNlI2cmFKdFB4SWNKN0l1akdiSWVJZ2dNc2UtRkU5ak03Zmxad3llNmZLa0pyUWwtZGt6TEZNQlhDd1p6YTlOYzJmSURCS0Z5TWtuS0hjSEZEQVI3MzFWNU94Mjc1YXV6N0Vmc2MtWn",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.696Z"
-  },
-  {
-    "id": "st-trump-posts-ai-edited-photo",
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T21:32:54.000Z",
-    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "type": "News",
-    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Go",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.696Z"
-  },
-  {
-    "id": "st-bluesky-s-ai-tool-now-lets-y",
-    "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-15T19:57:16.000Z",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "type": "News",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.696Z"
+    "imported_at": "2026-10-16T13:06:16.359Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -589,7 +621,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.358Z"
+  },
+  {
+    "id": "st-15-minute-markets-for-crypto",
+    "title": "15-Minute Markets For Cryptocurrency Prices Are Surging in Popularity. It's Easy to Predict What Happens Next.",
+    "source": "The Motley Fool",
+    "sourceId": "rss-the-motley-fool",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T11:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWVWWGZfR3laR2NTTlRLNldLUHg0YXE4dUdDU0RxSFFsYTI4SHpXazFBeVExX3R0bFpmZU4wUWJuaVFvLVI0SGNvTVhBMlhqeTlLRTZSQjhjODBCclM5ZVFuZmg4bE1vQWlMMjAwTnhmaVo4bzNVcWNZT0tpQzN3RDBVSTl4bUxXQk9hcVF0N1FxcHdkR2tVNg?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWVWWGZfR3laR2NTTlRLNldLUHg0YXE4dUdDU0RxSFFsYTI4SHpXazFBeVExX3R0bFpmZU4wUWJuaVFvLVI0SGNvTVhBMlhqeTlLRTZSQjhjODBCclM5ZVFuZmg4bE1vQWlMMjAwTnhmaVo4bzNVcWNZT0tpQzN3RDBVSTl4bUxXQk9hcVF0N1FxcHdkR2tVNg?oc=5\" target=\"_blank\">1",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T13:06:16.359Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -605,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.358Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -621,23 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.677Z"
-  },
-  {
-    "id": "st-today-s-crypto-news-bitcoin",
-    "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-    "source": "Investing News Network",
-    "sourceId": "rss-investing-news-network",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-14T21:05:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5\" target=\"_blank\">Today's Crypto News: Bitcoin, Ether and Altcoin Insights</a>&nbsp;&nbsp;",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -653,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.677Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -669,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.358Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -685,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.677Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -701,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.676Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -717,39 +749,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.677Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
-    "id": "st-opinion-better-protection-ne",
-    "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
-    "source": "South China Morning Post",
-    "sourceId": "rss-south-china-morning-post",
+    "id": "st-i-did-a-crypto-heist-rockvil",
+    "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+    "source": "WUSA9",
+    "sourceId": "rss-wusa9",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-10T08:30:05.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcWM0THphekU2WWZGZjQyYVh1RkhZVdIBvwFBVV95cUxQczItaVgyOUVRckJmcmF5ZXYzRVVlUDBMbnNrbFpFcGpQT0RrQmFIeC1SYlVRczRudDdzTTRwRGZPakxQLTVZT2hYZ2YwZ0FKd0V2RWtDOWpCVkNrYzh3R3RFSm50dm9HMENTY0VDQS0yU2RpcmNZNkpPdTFtLTV5Rld3VnR6UkEyUzVyQlpOZDU3VV96RV85N3A2bXNwS2tfWmNtTlBHbjZLbGxVeEtkOVl1enhxRG5XSTBNVk1Sdw?oc=5",
+    "published_at": "2026-10-12T11:44:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aTllbEtOMjgyNV81dERQdlI1WnpqdllZVE55bW1PVXdOTjJPSEdXWmREQUVIbTFxbjliM1dLSlVNdGdSY2wzeld0SUJiNnM1MXZicDlHRlIwbHJxWXJHamVETzdGbnJ2MDdldTFWQWN5R0w?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBGVGhFZ0VWeEdiZjVkeW5aNmpHazZweEM2VWhudmZQanhWVm4ydjY5U2s0bkJIVmF2REh4c2FrR25Ha2daalcxU0lEbzAzc0RCOVZ2ejI2VUtqVmNmU0lSOWpzdjhEdEtNbDdTLUl5Q1VjemxLdHpYNS14NkkwMmpnRVlEeWRpcjBKRWVEUUVLTlNYLUN6ckF1WkVUS1lyTnF1dkFzRnlUcW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aT",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.358Z"
   },
   {
-    "id": "st-8-benefits-of-cryptocurrency",
-    "title": "8 Benefits of Cryptocurrency & Why You Should Use It",
-    "source": "The Motley Fool",
-    "sourceId": "rss-the-motley-fool",
+    "id": "st-cryptocurrency-kidnapping-pl",
+    "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
+    "source": "OregonLive.com",
+    "sourceId": "rss-oregonlive-com",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-09T20:52:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1VrNFM2Z25TOXRlLWhoM1dpX2FoWHNXRjFiS1pFV016Si1lRDlfSl9CbFY0dW45RDhMdlpmd2NOOEpwTTVmU2x1UnFaLXdoaml3bC1GSDFTZFp6OHpCZi10VHg3NzhET3d1WHpEd25tTVRvVEJ1QWFuc3psUzhQUVpwcndZdVVJaU5aN2xBeXViMWI5dlVWUFlYRExXZzV5aGdrbVVuRkFpSUNEb3RzYkFZbGozMDJYQVVZ?oc=5",
+    "published_at": "2026-10-09T20:01:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlBrU19Hc0hLNlBHY0ptcHRmbks2VWt4RXFhUlRxTVh5VWFSbVZoTmdEY0tCUzJCbmJCRXBRTFhIcEV5UmtUR1VSc2M0cmFCcjVqXzNNajZDRFF6cERMa3VDYkFsdkg1UEhWTV9kS1UtQl96UFhWZzFYckoydVVYR0I0aHJSX2tQYlRvUWVwSS1ZMzdjeG8wLWZ2MnprSXQtT2FnVV92YjJmMXlWbzkwVm5ocFVmQ2dXSHF0cFAwd0pYTmxuNlFVSFpQbDlDMXNu0gHkAUFVX3lxTE5qSEZlUnZwQm9ja204TFFpNHEtYU8wX1VaZVQ2bFRoeXI4M05DUmZqTTBucFFIZ01WdEotM3RCMEw1TjByTDliX0RUN2JhakZrTUJPUG1TSUxyUXc3QUNPaElaNlU5OXduWElCZzNOaTJtSktvR2lGQjJIMWltMWZDdjIzS0JQWkVEVGRTbE5OOVlkdzFRWUppU0d3bkNncW9GT0FSTHNvUTJNWExZTEZ0VkU1c3NtUVBRV2g5aGFydUhXbHRyenZJN09aeWJSbk1RNU5BT05YTnlHOGVQNVQwME5QeA?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1VrNFM2Z25TOXRlLWhoM1dpX2FoWHNXRjFiS1pFV016Si1lRDlfSl9CbFY0dW45RDhMdlpmd2NOOEpwTTVmU2x1UnFaLXdoaml3bC1GSDFTZFp6OHpCZi10VHg3NzhET3d1WHpEd25tTVRvVEJ1QWFuc3psUzhQUVpwcndZdVVJaU5aN2xBeXViMWI5dlVWUFlYRExXZzV5aGdrbVVuRkFpSU",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlBrU19Hc0hLNlBHY0ptcHRmbks2VWt4RXFhUlRxTVh5VWFSbVZoTmdEY0tCUzJCbmJCRXBRTFhIcEV5UmtUR1VSc2M0cmFCcjVqXzNNajZDRFF6cERMa3VDYkFsdkg1UEhWTV9kS1UtQl96UFhWZzFYckoydVVYR0I0aHJSX2tQYlRvUWVwSS1ZMzdjeG8wLWZ2MnprSXQtT2FnVV92YjJmMX",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.359Z"
   },
   {
     "id": "st-barrett-introduces-legislati",
@@ -765,7 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.677Z"
+    "imported_at": "2026-10-16T13:06:16.899Z"
   },
   {
     "id": "st-a-year-on-bitcoin-languishes",
@@ -781,22 +813,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
-  },
-  {
-    "id": "st-treasury-backs-down-on-biden",
-    "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
-    "source": "Reason Magazine",
-    "sourceId": "rss-reason-magazine",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-09T14:24:50.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXc4endZSWRYRDhoN21uQjRGWUZoSWRNcktYb3ZmdVJTSW0ySkRKWW9qQjMtRUUxcDRNNzQtekZQS25jU0d1cFQ2SFBxb1Z6bkVmU1RGSmdKRDNHWHRfVFlCRzRLLTZoaFU1TEFwbzN6c0s4MlFKWjI0cnl4d2ltT093cTcxRGhHUGtQLTI5Z1lCRU51clBCQi0zZUNTVll5Y1E?oc=5\" targ",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T08:56:05.207Z"
+    "imported_at": "2026-10-16T13:06:16.358Z"
   }
 ]

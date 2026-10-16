@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-10-16T08:56:05.787Z",
+  "generated_at": "2026-10-16T13:06:17.056Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 47
+    "familiar": 1,
+    "discovery": 50
   },
   "items": [
-    {
-      "id": "st-an-openai-agent-ran-out-of-e",
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
@@ -24,17 +15,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-australia-releases-draft-bil",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-xrp-has-failed-to-make-holde",
-      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "id": "st-circle-targets-40-new-market",
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -42,8 +24,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-buyers-snap-up-a-bri",
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "id": "st-quantum-alliance-forms-amid",
+      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tokenized-tesla-surges-as-el",
+      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -51,8 +42,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-at-the-white-house-crypto-po",
-      "title": "At the White House, crypto policy vacancy looms large",
+      "id": "st-altcoins-outpace-bitcoin-as",
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -60,8 +51,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-for-advisors-wall-str",
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "id": "st-scammer-gets-scammed-in-ledg",
+      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-bitcoin-steady",
+      "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,20 +69,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-brooklyn-prosecutors-and",
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-u-s-judge-rejects-gemini-s-a",
+      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-under-pressure-ledger-unveil",
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-replit-s-ceo-says-the-future",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -143,15 +143,6 @@
     {
       "id": "st-amazon-devices-chief-panos-p",
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bluesky-wants-to-make-it-eas",
-      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -231,6 +222,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-solana-s-liu-says-shanghai-e",
+      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-connect-recap-liquidity-is-t",
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-may-seek-20-month-tr",
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-capital-b-reports-78m-h1-los",
       "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
       "category": "Markets and business",
@@ -258,11 +276,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-scammer-loses-4-8m-stored-on",
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "id": "st-the-sony-xperia-10-vi-won-t",
+      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-first-vibe-coded-gun-is",
+      "title": "The first vibe-coded gun is here",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-surface-laptop-ultra-review",
+      "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-iphone-duo-is-now-availa",
+      "title": "The iPhone Duo is now available to preorder at $1,999",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -294,17 +339,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sega-pulls-total-war-shogun",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-tech-backlash-is-now-in",
-      "title": "The tech backlash is now in theaters",
+      "id": "st-top-cryptocurrency-white-hou",
+      "title": "Top cryptocurrency White House adviser announces departure from the administration",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -312,26 +348,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-posts-ai-edited-photo",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bluesky-s-ai-tool-now-lets-y",
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-expert-examines-what-drives",
       "title": "Expert examines what drives cryptocurrency returns",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-15-minute-markets-for-crypto",
+      "title": "15-Minute Markets For Cryptocurrency Prices Are Surging in Popularity. It's Easy to Predict What Happens Next.",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -352,15 +379,6 @@
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,8 +429,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-opinion-better-protection-ne",
-      "title": "Opinion | Better protection needed as violent cryptocurrency robberies surge",
+      "id": "st-i-did-a-crypto-heist-rockvil",
+      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -420,8 +438,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-8-benefits-of-cryptocurrency",
-      "title": "8 Benefits of Cryptocurrency & Why You Should Use It",
+      "id": "st-cryptocurrency-kidnapping-pl",
+      "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -440,15 +458,6 @@
     {
       "id": "st-a-year-on-bitcoin-languishes",
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-treasury-backs-down-on-biden",
-      "title": "Treasury Backs Down on Biden-Era Cryptocurrency Surveillance Proposal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-10-16T08:56:05.819Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-10-16T13:06:17.087Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-scammer-gets-scammed-in-ledg",
+      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "category": "Security and privacy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-16T10:24:30.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin"
+    }
+  ]
 }
