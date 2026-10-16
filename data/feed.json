@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-16T16:54:00.723Z",
+  "generated_at": "2026-10-16T20:51:20.225Z",
   "mix": {
-    "familiar": 1,
-    "discovery": 45
+    "familiar": 2,
+    "discovery": 43
   },
   "items": [
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-pacs-escalate-spendin",
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -69,17 +78,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-crypto-gives-up",
-      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-live-updates-bitcoin-dips-to",
+      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-nvidia-insider-turned-vc-o",
-      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "id": "st-india-becomes-the-latest-cou",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-an-nvidia-insider-turned-vc",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 8,
@@ -105,18 +123,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-mark-wahlberg-on-using-ai-in",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "id": "st-stack-overflow-for-agents-tr",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-veritas-expands-its-anti-cou",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -186,11 +195,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-eu-s-next-chapter-in-ai",
-      "title": "The EU’s next chapter in AI is agentic",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-stablecoin-remittances-cost",
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -231,20 +240,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-solana-s-liu-says-shanghai-e",
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7.5,
+      "id": "st-tesla-driver-says-he-was-asl",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-connect-recap-liquidity-is-t",
-      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-      "category": "Markets and business",
+      "id": "st-why-apple-is-finally-making",
+      "title": "Why Apple is finally making its own smart home devices",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,36 +267,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-incredible-flying-tesla",
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-apple-s-homeview-has-an-app",
       "title": "Apple’s HomeView has an app problem",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-s-new-terms-may-allow-i",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-this-stretchy-magsafe-storag",
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -366,6 +348,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-lansing-considers-new-rules",
+      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-the-new-york-times-artificia",
       "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
       "category": "Products and applications",
@@ -375,8 +366,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-my-son-is-learning-from",
-      "title": "What My Son Is Learning From Artificial Intelligence",
+      "id": "st-as-data-centers-remain-poten",
+      "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -402,17 +393,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-i-did-a-crypto-heist-rockvil",
-      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-how-artificial-intelligence",
+      "title": "How Artificial Intelligence Can Help With Critical Thinking",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-kidnapping-pl",
-      "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
+      "id": "st-i-did-a-crypto-heist-rockvil",
+      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

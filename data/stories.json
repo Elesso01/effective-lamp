@@ -13,7 +13,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.127Z"
+    "imported_at": "2026-10-16T20:51:18.597Z"
   },
   {
     "id": "st-circle-targets-40-new-market",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.128Z"
+    "imported_at": "2026-10-16T20:51:18.597Z"
   },
   {
     "id": "st-quantum-alliance-forms-amid",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.128Z"
+    "imported_at": "2026-10-16T20:51:18.597Z"
   },
   {
     "id": "st-tokenized-tesla-surges-as-el",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.128Z"
+    "imported_at": "2026-10-16T20:51:18.597Z"
   },
   {
     "id": "st-altcoins-outpace-bitcoin-as",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.129Z"
+    "imported_at": "2026-10-16T20:51:18.598Z"
   },
   {
     "id": "st-scammer-gets-scammed-in-ledg",
@@ -93,27 +93,43 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.129Z"
+    "imported_at": "2026-10-16T20:51:18.598Z"
   },
   {
-    "id": "st-live-updates-crypto-gives-up",
-    "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+    "id": "st-live-updates-bitcoin-dips-to",
+    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
     "published_at": "2026-10-16T09:48:14.000Z",
     "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
     "type": "News",
-    "summary": "Fixed income is again catching a bid on worries about the deflating AI bubble.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
+    "summary": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T16:53:59.129Z"
+    "imported_at": "2026-10-16T20:51:18.598Z"
   },
   {
-    "id": "st-a-nvidia-insider-turned-vc-o",
-    "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "id": "st-india-becomes-the-latest-cou",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-16T17:52:24.000Z",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "type": "News",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-16T20:51:19.074Z"
+  },
+  {
+    "id": "st-an-nvidia-insider-turned-vc",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
@@ -125,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.526Z"
+    "imported_at": "2026-10-16T20:51:19.074Z"
   },
   {
     "id": "st-elorian-s-first-ai-model-wan",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.526Z"
+    "imported_at": "2026-10-16T20:51:19.074Z"
   },
   {
     "id": "st-jev-is-vercel-s-fastest-adop",
@@ -157,39 +173,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.526Z"
+    "imported_at": "2026-10-16T20:51:19.074Z"
   },
   {
-    "id": "st-mark-wahlberg-on-using-ai-in",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-16T14:26:51.000Z",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "id": "st-stack-overflow-for-agents-tr",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00.000Z",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "type": "News",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.526Z"
-  },
-  {
-    "id": "st-veritas-expands-its-anti-cou",
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-16T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "type": "News",
-    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.526Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
     "id": "st-how-block-is-building-ai-pow",
@@ -301,23 +301,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "imported_at": "2026-10-16T20:51:18.949Z"
   },
   {
-    "id": "st-the-eu-s-next-chapter-in-ai",
-    "title": "The EU’s next chapter in AI is agentic",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-14T00:00:00.000Z",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-16T19:17:04.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-16T16:53:59.478Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-16T20:51:18.726Z"
+  },
+  {
+    "id": "st-crypto-pacs-escalate-spendin",
+    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-16T17:30:09.000Z",
+    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-16T20:51:18.726Z"
+  },
+  {
+    "id": "st-stablecoin-remittances-cost",
+    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-16T17:21:45.000Z",
+    "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-16T20:51:18.726Z"
   },
   {
     "id": "st-crypto-biz-wall-street-close",
@@ -333,7 +365,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
+    "imported_at": "2026-10-16T20:51:18.726Z"
   },
   {
     "id": "st-bitcoin-price-steadies-aroun",
@@ -349,23 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T13:56:15.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
+    "imported_at": "2026-10-16T20:51:18.726Z"
   },
   {
     "id": "st-ledger-s-early-implant-warni",
@@ -381,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
+    "imported_at": "2026-10-16T20:51:18.726Z"
   },
   {
     "id": "st-deutsche-bank-prepares-germa",
@@ -397,39 +413,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
+    "imported_at": "2026-10-16T20:51:18.726Z"
   },
   {
-    "id": "st-solana-s-liu-says-shanghai-e",
-    "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T11:22:47.000Z",
-    "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-tesla-driver-says-he-was-asl",
+    "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T20:49:04.000Z",
+    "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
     "type": "News",
-    "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
-  },
-  {
-    "id": "st-connect-recap-liquidity-is-t",
-    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T10:27:18.000Z",
-    "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-    "category": "Markets and business",
+    "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-16T16:53:59.354Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-16T20:51:20.149Z"
+  },
+  {
+    "id": "st-why-apple-is-finally-making",
+    "title": "Why Apple is finally making its own smart home devices",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T19:37:04.000Z",
+    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+    "type": "News",
+    "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electro",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T20:51:20.149Z"
   },
   {
     "id": "st-the-new-apple-tv-4k-just-got",
@@ -445,23 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.634Z"
-  },
-  {
-    "id": "st-the-incredible-flying-tesla",
-    "title": "The incredible flying Tesla Roadster is just for show",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-16T16:32:30.000Z",
-    "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-    "type": "News",
-    "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying c",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.634Z"
+    "imported_at": "2026-10-16T20:51:20.149Z"
   },
   {
     "id": "st-apple-s-homeview-has-an-app",
@@ -477,39 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.634Z"
-  },
-  {
-    "id": "st-meta-s-new-terms-may-allow-i",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-16T15:22:13.000Z",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "type": "News",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outs",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.634Z"
-  },
-  {
-    "id": "st-this-stretchy-magsafe-storag",
-    "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-16T13:33:21.000Z",
-    "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-    "type": "News",
-    "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit c",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.634Z"
+    "imported_at": "2026-10-16T20:51:20.149Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -525,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.065Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -541,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.062Z"
+    "imported_at": "2026-10-16T20:51:19.559Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -557,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.061Z"
+    "imported_at": "2026-10-16T20:51:19.559Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -573,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.061Z"
+    "imported_at": "2026-10-16T20:51:19.559Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -589,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.064Z"
   },
   {
     "id": "st-join-discerning-ai-exploring",
@@ -605,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.065Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -621,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.065Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -637,7 +605,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.061Z"
+    "imported_at": "2026-10-16T20:51:19.559Z"
+  },
+  {
+    "id": "st-lansing-considers-new-rules",
+    "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+    "source": "WKAR",
+    "sourceId": "rss-wkar",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-14T12:04:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdEtBZnBwLVFrTGUwZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdE",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T20:51:19.559Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -653,23 +637,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.065Z"
   },
   {
-    "id": "st-what-my-son-is-learning-from",
-    "title": "What My Son Is Learning From Artificial Intelligence",
-    "source": "Greater Good: The Science of a Meaningful Life",
-    "sourceId": "rss-greater-good-the-science-of-a-meaningful-life",
+    "id": "st-as-data-centers-remain-poten",
+    "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
+    "source": "Wisconsin Watch",
+    "sourceId": "rss-wisconsin-watch",
     "author": "Google News (AI)",
-    "published_at": "2026-10-13T17:09:40.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
+    "published_at": "2026-10-13T18:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOWo1WlQzLWdkZnY5amE3STdmZWkwV1hlOU9C?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5\" target=\"",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOW",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.065Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -685,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.061Z"
+    "imported_at": "2026-10-16T20:51:19.559Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -701,7 +685,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.603Z"
+    "imported_at": "2026-10-16T20:51:20.064Z"
+  },
+  {
+    "id": "st-how-artificial-intelligence",
+    "title": "How Artificial Intelligence Can Help With Critical Thinking",
+    "source": "Greater Good: The Science of a Meaningful Life",
+    "sourceId": "rss-greater-good-the-science-of-a-meaningful-life",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-12T19:16:19.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRyeXZvdHEtSXdXV1Y4T3UxZzk3UEY1ZjN5RzhoMld1RHQ5MWxqNWtkOXhiVklVam4xUE0ySDR5NkxnT1VYakd6MUpFNjkzQjdMOXJaWERiWUQ3T2hEcHh6LTVVSHI3bWVlYWdIMUdOYzU5QW94V0Q5Mm5WNllGMFlUdFFWRU9vaXdyRlEtRlZ4MUdsZXlKN2NkVXBoaFd1YVVvVlNvM3pBZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRyeXZvdHEtSXdXV1Y4T3UxZzk3UEY1ZjN5RzhoMld1RHQ5MWxqNWtkOXhiVklVam4xUE0ySDR5NkxnT1VYakd6MUpFNjkzQjdMOXJaWERiWUQ3T2hEcHh6LTVVSHI3bWVlYWdIMUdOYzU5QW94V0Q5Mm5WNllGMFlUdFFWRU9vaXdyRlEtRlZ4MUdsZXlKN2NkVXBoaFd1YVVvVlNvM3pBZw",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-16T20:51:20.065Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -717,22 +717,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.061Z"
-  },
-  {
-    "id": "st-cryptocurrency-kidnapping-pl",
-    "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
-    "source": "OregonLive.com",
-    "sourceId": "rss-oregonlive-com",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-09T20:01:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlBrU19Hc0hLNlBHY0ptcHRmbks2VWt4RXFhUlRxTVh5VWFSbVZoTmdEY0tCUzJCbmJCRXBRTFhIcEV5UmtUR1VSc2M0cmFCcjVqXzNNajZDRFF6cERMa3VDYkFsdkg1UEhWTV9kS1UtQl96UFhWZzFYckoydVVYR0I0aHJSX2tQYlRvUWVwSS1ZMzdjeG8wLWZ2MnprSXQtT2FnVV92YjJmMXlWbzkwVm5ocFVmQ2dXSHF0cFAwd0pYTmxuNlFVSFpQbDlDMXNu0gHkAUFVX3lxTE5qSEZlUnZwQm9ja204TFFpNHEtYU8wX1VaZVQ2bFRoeXI4M05DUmZqTTBucFFIZ01WdEotM3RCMEw1TjByTDliX0RUN2JhakZrTUJPUG1TSUxyUXc3QUNPaElaNlU5OXduWElCZzNOaTJtSktvR2lGQjJIMWltMWZDdjIzS0JQWkVEVGRTbE5OOVlkdzFRWUppU0d3bkNncW9GT0FSTHNvUTJNWExZTEZ0VkU1c3NtUVBRV2g5aGFydUhXbHRyenZJN09aeWJSbk1RNU5BT05YTnlHOGVQNVQwME5QeA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlBrU19Hc0hLNlBHY0ptcHRmbks2VWt4RXFhUlRxTVh5VWFSbVZoTmdEY0tCUzJCbmJCRXBRTFhIcEV5UmtUR1VSc2M0cmFCcjVqXzNNajZDRFF6cERMa3VDYkFsdkg1UEhWTV9kS1UtQl96UFhWZzFYckoydVVYR0I0aHJSX2tQYlRvUWVwSS1ZMzdjeG8wLWZ2MnprSXQtT2FnVV92YjJmMX",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T16:54:00.061Z"
+    "imported_at": "2026-10-16T20:51:19.559Z"
   }
 ]
