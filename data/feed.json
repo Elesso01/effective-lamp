@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T20:52:33.754Z",
+  "generated_at": "2026-10-16T01:00:57.252Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 48
+    "familiar": 4,
+    "discovery": 49
   },
   "items": [
     {
@@ -11,6 +11,15 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-australia-releases-draft-bil",
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -96,6 +105,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-when-it-came-to-cal-ai-s-vir",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-and-the-winner-of-startup-ba",
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-amazon-devices-chief-panos-p",
       "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
       "category": "Products and applications",
@@ -141,6 +168,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bringing-gpt-rosalind-to-aca",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bluesky-expands-its-ai-power",
       "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
       "category": "Products and applications",
@@ -153,6 +189,15 @@
       "id": "st-teaching-students-to-think-a",
       "title": "Teaching students to think and learn through questions",
       "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sullivan-cromwell-brings-leg",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -204,20 +249,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-higgsfield-takes-ai-video-fr",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "id": "st-scammer-loses-4-8m-stored-on",
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-asana-cuts-model-costs-76x-i",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -249,35 +285,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-slips-under-80k-afte",
-      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-      "category": "Markets and business",
+      "id": "st-steam-can-now-show-game-achi",
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-russia-to-ban-direct-peer-to",
-      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nasdaq-listed-tron-sets-up-2",
-      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bluesky-s-ai-tool-now-lets-y",
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "id": "st-chatgpt-can-peek-at-your-chr",
+      "title": "ChatGPT can peek at your Chrome tabs now",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -285,8 +303,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-is-making-inline-link",
-      "title": "Google is making inline links more prominent in AI responses",
+      "id": "st-sega-pulls-total-war-shogun",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-tech-backlash-is-now-in",
+      "title": "The tech backlash is now in theaters",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trump-posts-ai-edited-photo",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bluesky-s-ai-tool-now-lets-y",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,19 +348,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-alienware-s-latest-34-inch-q",
-      "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
+      "id": "st-expert-examines-what-drives",
+      "title": "Expert examines what drives cryptocurrency returns",
       "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-volvo-will-use-nvidia-s-tech",
-      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -420,15 +456,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-i-did-a-crypto-heist-rockvil",
-      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-cryptocurrency-kidnapping-pl",
       "title": "Cryptocurrency kidnapping plot left Portland man naked, tied to post",
       "category": "Markets and business",
@@ -451,15 +478,6 @@
       "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-anyone-saying-ai-is-th",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
