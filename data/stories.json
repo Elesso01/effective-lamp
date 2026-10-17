@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-wow-it-s-a-real-discovery-cl",
+    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-17T06:39:48.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+    "type": "News",
+    "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-17T08:48:54.455Z"
+  },
+  {
     "id": "st-satoshi-era-bitcoin-faces-a",
     "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.862Z"
+    "imported_at": "2026-10-17T08:48:54.455Z"
   },
   {
     "id": "st-big-tech-s-ai-auditors-will",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.863Z"
+    "imported_at": "2026-10-17T08:48:54.455Z"
   },
   {
     "id": "st-circle-targets-40-new-market",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.863Z"
+    "imported_at": "2026-10-17T08:48:54.455Z"
   },
   {
     "id": "st-quantum-alliance-forms-amid",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.863Z"
+    "imported_at": "2026-10-17T08:48:54.456Z"
   },
   {
     "id": "st-tokenized-tesla-surges-as-el",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.863Z"
+    "imported_at": "2026-10-17T08:48:54.456Z"
   },
   {
     "id": "st-altcoins-outpace-bitcoin-as",
@@ -93,23 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.863Z"
-  },
-  {
-    "id": "st-scammer-gets-scammed-in-ledg",
-    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-16T10:24:30.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-    "type": "News",
-    "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-17T04:50:41.863Z"
+    "imported_at": "2026-10-17T08:48:54.456Z"
   },
   {
     "id": "st-mark-wahlberg-wants-to-take",
@@ -125,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.108Z"
+    "imported_at": "2026-10-17T08:48:54.682Z"
   },
   {
     "id": "st-replit-is-no-longer-working",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.108Z"
+    "imported_at": "2026-10-17T08:48:54.682Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
     "id": "st-india-becomes-the-latest-cou",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.108Z"
+    "imported_at": "2026-10-17T08:48:54.683Z"
   },
   {
     "id": "st-an-nvidia-insider-turned-vc",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.108Z"
+    "imported_at": "2026-10-17T08:48:54.683Z"
   },
   {
     "id": "st-elorian-s-first-ai-model-wan",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.108Z"
+    "imported_at": "2026-10-17T08:48:54.683Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -221,7 +221,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
+  },
+  {
+    "id": "st-benefit-street-partners-answ",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00.000Z",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "type": "News",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -301,23 +317,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "imported_at": "2026-10-17T08:48:54.647Z"
   },
   {
-    "id": "st-how-third-moment-research-ru",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-14T07:00:00.000Z",
-    "url": "https://openai.com/index/third-moment-research",
+    "id": "st-bitget-to-discontinue-servic",
+    "title": "Bitget to discontinue services for some users in one-off exercise",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-17T07:26:57.000Z",
+    "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "category": "Research and development",
-    "bucket": "ai",
+    "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-17T04:50:42.076Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-17T08:48:54.523Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -333,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
+    "imported_at": "2026-10-17T08:48:54.523Z"
   },
   {
     "id": "st-crypto-pacs-escalate-spendin",
@@ -349,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
+    "imported_at": "2026-10-17T08:48:54.523Z"
   },
   {
     "id": "st-stablecoin-remittances-cost",
@@ -365,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
+    "imported_at": "2026-10-17T08:48:54.523Z"
   },
   {
     "id": "st-crypto-biz-wall-street-close",
@@ -381,7 +397,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
+    "imported_at": "2026-10-17T08:48:54.523Z"
   },
   {
     "id": "st-bitcoin-price-steadies-aroun",
@@ -397,39 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
-  },
-  {
-    "id": "st-ledger-s-early-implant-warni",
-    "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T13:51:35.000Z",
-    "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
-  },
-  {
-    "id": "st-deutsche-bank-prepares-germa",
-    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T13:33:40.000Z",
-    "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-17T04:50:41.925Z"
+    "imported_at": "2026-10-17T08:48:54.523Z"
   },
   {
     "id": "st-why-apple-is-finally-making",
@@ -445,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T04:50:55.131Z"
+    "imported_at": "2026-10-17T08:48:55.607Z"
   },
   {
     "id": "st-apple-s-updated-app-store-ru",
@@ -461,7 +445,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T04:50:55.131Z"
+    "imported_at": "2026-10-17T08:48:55.607Z"
+  },
+  {
+    "id": "st-cryptocurrency-regulations-m",
+    "title": "Cryptocurrency Regulations Move",
+    "source": "Michigan Legislative Consultants",
+    "sourceId": "rss-michigan-legislative-consultants",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-16T22:52:31.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LYVRhUnhHWEdOR2NBWEsyUUhVZ3Zua1BfLUpuUlJPWFBhZElnOXBGellwUlRjWjM4azF2RXVSNnlEVHcxSFZ6SmJHVXhvU1JrOHFLSzNIaFViMmk0ZWxF?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LYVRhUnhHWEdOR2NBWEsyUUhVZ3Zua1BfLUpuUlJPWFBhZElnOXBGellwUlRjWjM4azF2RXVSNnlEVHcxSFZ6SmJHVXhvU1JrOHFLSzNIaFViMmk0ZWxF?oc=5\" target=\"_blank\">Cryptocurrency Regulations Move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan L",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.099Z"
   },
   {
     "id": "st-tesla-driver-says-he-was-asl",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T04:50:55.131Z"
+    "imported_at": "2026-10-17T08:48:55.607Z"
   },
   {
     "id": "st-the-new-apple-tv-4k-just-got",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T04:50:55.131Z"
+    "imported_at": "2026-10-17T08:48:55.607Z"
   },
   {
     "id": "st-apple-s-homeview-has-an-app",
@@ -509,6 +509,230 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T04:50:55.131Z"
+    "imported_at": "2026-10-17T08:48:55.607Z"
+  },
+  {
+    "id": "st-the-evolution-of-artificial",
+    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+    "source": "CancerNetwork",
+    "sourceId": "rss-cancernetwork",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-15T23:31:30.000Z",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.545Z"
+  },
+  {
+    "id": "st-expert-examines-what-drives",
+    "title": "Expert examines what drives cryptocurrency returns",
+    "source": "Tech Xplore",
+    "sourceId": "rss-tech-xplore",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T16:20:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5\" target=\"_blank\">Expert examines what drives cryptocurrency returns</a>&nb",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.100Z"
+  },
+  {
+    "id": "st-this-popular-cryptocurrency",
+    "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
+    "source": "Yahoo Finance",
+    "sourceId": "rss-yahoo-finance",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T10:45:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmFyZXhDR3dnWjg5aHFZcFRZdi1Mcm9DWnVXVmprb2VwZVM4cmgtTUdrRGlibURSYUdfVDFraVFfY0JLTS1GY1R6WXZWRkIxTjhrUGx5UTEwT3o3NVFncTFhTVUyXzlUZzVuRHJkVXhwRW5HRkk4NlBJbXR5MDZoajhSZjVHckxfdDZvWHhMTnVPVXJYRXlEZzBvcUZmWnlyNVVmT2hMTEdvNGJ2?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmFyZXhDR3dnWjg5aHFZcFRZdi1Mcm9DWnVXVmprb2VwZVM4cmgtTUdrRGlibURSYUdfVDFraVFfY0JLTS1GY1R6WXZWRkIxTjhrUGx5UTEwT3o3NVFncTFhTVUyXzlUZzVuRHJkVXhwRW5HRkk4NlBJbXR5MDZoajhSZjVHckxfdDZvWHhMTnVPVXJYRXlEZzBvcUZmWnlyNVVmT2hMTEdvNG",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.099Z"
+  },
+  {
+    "id": "st-top-cryptocurrency-white-hou",
+    "title": "Top cryptocurrency White House adviser announces departure from the administration",
+    "source": "wtvcfox",
+    "sourceId": "rss-wtvcfox",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T07:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzNvOGxMVmZLTHdNRWZqM3pEckJNbFgzbVJWam9Wd3lEZVJlN0thS2Zmdm1kOGRldk5rSmdIQW0tb2V2YUlVWnZ3TG9sNHN1TUJuVkR2SEQtYjFjOU5OSDVfY2hWaWNoNlY2LWM1TlkxWlBpZkZ1UzdJUzNFUjNod2N4aW03VS1pY1FQSVM1a011U295emNqWGdsV2ZTdFExb0h0WmVBZnU5MlcyalVSUVl3cHF4ME1OU2ozMDZLdFBpc0tVOWU2SkZodERBMGxDSXJqZVRQcEMydGNpMURMVlRn?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzNvOGxMVmZLTHdNRWZqM3pEckJNbFgzbVJWam9Wd3lEZVJlN0thS2Zmdm1kOGRldk5rSmdIQW0tb2V2YUlVWnZ3TG9sNHN1TUJuVkR2SEQtYjFjOU5OSDVfY2hWaWNoNlY2LWM1TlkxWlBpZkZ1UzdJUzNFUjNod2N4aW03VS1pY1FQSVM1a011U295emNqWGdsV2ZTdFExb0h0WmVBZnU5Ml",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.100Z"
+  },
+  {
+    "id": "st-fsb-finalises-sound-practice",
+    "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+    "source": "Financial Stability Board",
+    "sourceId": "rss-financial-stability-board",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-15T04:00:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.544Z"
+  },
+  {
+    "id": "st-using-artificial-intelligenc",
+    "title": "Using artificial intelligence in your job search",
+    "source": "Chemical & Engineering News",
+    "sourceId": "rss-chemical-engineering-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-14T20:49:15.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExhQXJpYTFSM2F1MkFxZVFsNUhfeS1fNTZqN0FKaXFVQ0RfNDBQQVUzNGRKckpKajNMa2huMDNBQ0NDX3lGRzd1OGtYM01feFpsVFBrR3lsREhTNlYtY0twZnhuVW5uS3dsZ3dZSFM3eFduOGhYLTA0WWxBbkxkam5pRUU1bWc2MlZLbUw5RUItalg4SUlpMGhQYW8?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExhQXJpYTFSM2F1MkFxZVFsNUhfeS1fNTZqN0FKaXFVQ0RfNDBQQVUzNGRKckpKajNMa2huMDNBQ0NDX3lGRzd1OGtYM01feFpsVFBrR3lsREhTNlYtY0twZnhuVW5uS3dsZ3dZSFM3eFduOGhYLTA0WWxBbkxkam5pRUU1bWc2MlZLbUw5RUItalg4SUlpMGhQYW8?oc=5\" target=\"_bla",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.545Z"
+  },
+  {
+    "id": "st-join-discerning-ai-exploring",
+    "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
+    "source": "Marquette Today",
+    "sourceId": "rss-marquette-today",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-14T18:31:35.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.545Z"
+  },
+  {
+    "id": "st-ai-cls-columbia-law-school-s",
+    "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
+    "source": "Columbia Law School",
+    "sourceId": "rss-columbia-law-school",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-14T14:53:52.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.545Z"
+  },
+  {
+    "id": "st-lansing-considers-new-rules",
+    "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+    "source": "WKAR",
+    "sourceId": "rss-wkar",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-14T12:04:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdEtBZnBwLVFrTGUwZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdE",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.100Z"
+  },
+  {
+    "id": "st-cryptocurrency-exchange-foun",
+    "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
+    "source": "The Guardian",
+    "sourceId": "rss-the-guardian",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-13T23:01:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUE9FUjVUWWZRXzJyS1hHTmJCQlZlUVhKTC1YaFMyem5RQlpFeHJCVHBBSkotTkxWOXVZTTBHNGxtbjQ4WDVJNUMzci1iUTFBYUp6Ykg1VFlZaF9FVXplX0xuSnBLQ0RmMXhJNENuV1VyMzY3am15bGw1T2FmOTU5SnpPN29LNzZ6Q3NpSWxMVFh1bXdWRXBiRjExZWlFZUZmSFlrdldKX0RGMG1wZWZxVk9pYmUyVG5xbFE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUE9FUjVUWWZRXzJyS1hHTmJCQlZlUVhKTC1YaFMyem5RQlpFeHJCVHBBSkotTkxWOXVZTTBHNGxtbjQ4WDVJNUMzci1iUTFBYUp6Ykg1VFlZaF9FVXplX0xuSnBLQ0RmMXhJNENuV1VyMzY3am15bGw1T2FmOTU5SnpPN29LNzZ6Q3NpSWxMVFh1bXdWRXBiRjExZWlFZUZmSFlrdldKX0RGMG",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.099Z"
+  },
+  {
+    "id": "st-the-new-york-times-artificia",
+    "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
+    "source": "Facebook",
+    "sourceId": "rss-facebook",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-13T19:30:06.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5\" target=\"_bla",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.544Z"
+  },
+  {
+    "id": "st-human-artificial-intelligenc",
+    "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+    "source": "Nature",
+    "sourceId": "rss-nature",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-13T10:23:20.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5\" target=\"_blank\">Human–artificial intelligence collaboration for comanaging epilepsy in real tim",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.544Z"
+  },
+  {
+    "id": "st-how-artificial-intelligence",
+    "title": "How Artificial Intelligence Can Help With Critical Thinking",
+    "source": "Greater Good: The Science of a Meaningful Life",
+    "sourceId": "rss-greater-good-the-science-of-a-meaningful-life",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-12T19:16:19.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRyeXZvdHEtSXdXV1Y4T3UxZzk3UEY1ZjN5RzhoMld1RHQ5MWxqNWtkOXhiVklVam4xUE0ySDR5NkxnT1VYakd6MUpFNjkzQjdMOXJaWERiWUQ3T2hEcHh6LTVVSHI3bWVlYWdIMUdOYzU5QW94V0Q5Mm5WNllGMFlUdFFWRU9vaXdyRlEtRlZ4MUdsZXlKN2NkVXBoaFd1YVVvVlNvM3pBZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRyeXZvdHEtSXdXV1Y4T3UxZzk3UEY1ZjN5RzhoMld1RHQ5MWxqNWtkOXhiVklVam4xUE0ySDR5NkxnT1VYakd6MUpFNjkzQjdMOXJaWERiWUQ3T2hEcHh6LTVVSHI3bWVlYWdIMUdOYzU5QW94V0Q5Mm5WNllGMFlUdFFWRU9vaXdyRlEtRlZ4MUdsZXlKN2NkVXBoaFd1YVVvVlNvM3pBZw",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.544Z"
+  },
+  {
+    "id": "st-i-did-a-crypto-heist-rockvil",
+    "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+    "source": "WUSA9",
+    "sourceId": "rss-wusa9",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-12T11:44:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aTllbEtOMjgyNV81dERQdlI1WnpqdllZVE55bW1PVXdOTjJPSEdXWmREQUVIbTFxbjliM1dLSlVNdGdSY2wzeld0SUJiNnM1MXZicDlHRlIwbHJxWXJHamVETzdGbnJ2MDdldTFWQWN5R0w?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1hvc2tXQnE0aEhRb0lGWWZiRHZUSlMwV0s2MnJOQTZ1dkpVOC1XQm81Umc3Zno5MF9zTTlfVkk1bXZYQzhOOGlDZU1OTGRycG1nbl9SXzhhWDRFZ0VfUVRtTXRwVVMyNkgtU21pQ1VLcERjSGZYZDRKSDBBd2RkXzBLLXQ2c1MyNm5KS2JRSi1mQjE3YWlWMG1YMVNrQ09aRF9EZzB2TjF4aT",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T08:48:55.100Z"
   }
 ]

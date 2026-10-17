@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T04:50:55.205Z",
+  "generated_at": "2026-10-17T08:48:55.702Z",
   "mix": {
-    "familiar": 2,
-    "discovery": 30
+    "familiar": 3,
+    "discovery": 43
   },
   "items": [
     {
@@ -22,6 +22,24 @@
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-cryptocurrency-regulations-m",
+      "title": "Cryptocurrency Regulations Move",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-wow-it-s-a-real-discovery-cl",
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-satoshi-era-bitcoin-faces-a",
@@ -72,15 +90,6 @@
       "id": "st-altcoins-outpace-bitcoin-as",
       "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-scammer-gets-scammed-in-ledg",
-      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
@@ -150,6 +159,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-benefit-street-partners-answ",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bringing-gpt-rosalind-to-aca",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "category": "Research and development",
@@ -195,11 +213,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-third-moment-research-ru",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-bitget-to-discontinue-servic",
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -225,24 +243,6 @@
       "id": "st-bitcoin-price-steadies-aroun",
       "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-s-early-implant-warni",
-      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-deutsche-bank-prepares-germa",
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -288,6 +288,132 @@
       "id": "st-apple-s-homeview-has-an-app",
       "title": "Apple’s HomeView has an app problem",
       "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-expert-examines-what-drives",
+      "title": "Expert examines what drives cryptocurrency returns",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-this-popular-cryptocurrency",
+      "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-top-cryptocurrency-white-hou",
+      "title": "Top cryptocurrency White House adviser announces departure from the administration",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-fsb-finalises-sound-practice",
+      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-using-artificial-intelligenc",
+      "title": "Using artificial intelligence in your job search",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-join-discerning-ai-exploring",
+      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-cls-columbia-law-school-s",
+      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-lansing-considers-new-rules",
+      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cryptocurrency-exchange-foun",
+      "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-new-york-times-artificia",
+      "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-human-artificial-intelligenc",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-artificial-intelligence",
+      "title": "How Artificial Intelligence Can Help With Critical Thinking",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-i-did-a-crypto-heist-rockvil",
+      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
