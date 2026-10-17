@@ -13,7 +13,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.597Z"
+    "imported_at": "2026-10-17T01:02:31.569Z"
   },
   {
     "id": "st-circle-targets-40-new-market",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.597Z"
+    "imported_at": "2026-10-17T01:02:31.570Z"
   },
   {
     "id": "st-quantum-alliance-forms-amid",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.597Z"
+    "imported_at": "2026-10-17T01:02:31.570Z"
   },
   {
     "id": "st-tokenized-tesla-surges-as-el",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.597Z"
+    "imported_at": "2026-10-17T01:02:31.571Z"
   },
   {
     "id": "st-altcoins-outpace-bitcoin-as",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.598Z"
+    "imported_at": "2026-10-17T01:02:31.571Z"
   },
   {
     "id": "st-scammer-gets-scammed-in-ledg",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.598Z"
+    "imported_at": "2026-10-17T01:02:31.571Z"
   },
   {
     "id": "st-live-updates-bitcoin-dips-to",
@@ -109,7 +109,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-16T20:51:18.598Z"
+    "imported_at": "2026-10-17T01:02:31.571Z"
+  },
+  {
+    "id": "st-replit-is-no-longer-working",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-16T21:22:28.000Z",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "type": "News",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-17T01:02:31.955Z"
+  },
+  {
+    "id": "st-how-ita-is-building-generati",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-16T19:00:00.000Z",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "type": "News",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-17T01:02:31.863Z"
   },
   {
     "id": "st-india-becomes-the-latest-cou",
@@ -125,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:19.074Z"
+    "imported_at": "2026-10-17T01:02:31.956Z"
   },
   {
     "id": "st-an-nvidia-insider-turned-vc",
@@ -141,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:19.074Z"
+    "imported_at": "2026-10-17T01:02:31.956Z"
   },
   {
     "id": "st-elorian-s-first-ai-model-wan",
@@ -157,23 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:19.074Z"
-  },
-  {
-    "id": "st-jev-is-vercel-s-fastest-adop",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-16T15:33:49.000Z",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "type": "News",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:19.074Z"
+    "imported_at": "2026-10-17T01:02:31.956Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.863Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.863Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -221,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.863Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.863Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.864Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.864Z"
   },
   {
     "id": "st-how-third-moment-research-ru",
@@ -285,23 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
-  },
-  {
-    "id": "st-how-block-is-building-ai-pow",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-14T07:00:00.000Z",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "type": "News",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-16T20:51:18.949Z"
+    "imported_at": "2026-10-17T01:02:31.864Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -317,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.679Z"
   },
   {
     "id": "st-crypto-pacs-escalate-spendin",
@@ -333,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.680Z"
   },
   {
     "id": "st-stablecoin-remittances-cost",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.680Z"
   },
   {
     "id": "st-crypto-biz-wall-street-close",
@@ -365,7 +365,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.680Z"
   },
   {
     "id": "st-bitcoin-price-steadies-aroun",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.680Z"
   },
   {
     "id": "st-ledger-s-early-implant-warni",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.680Z"
   },
   {
     "id": "st-deutsche-bank-prepares-germa",
@@ -413,7 +413,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-16T20:51:18.726Z"
+    "imported_at": "2026-10-17T01:02:31.680Z"
+  },
+  {
+    "id": "st-why-apple-is-finally-making",
+    "title": "Why Apple is finally making its own smart home devices",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-17T00:57:58.000Z",
+    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+    "type": "News",
+    "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electro",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T01:02:33.070Z"
+  },
+  {
+    "id": "st-apple-s-updated-app-store-ru",
+    "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T23:00:58.000Z",
+    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+    "type": "News",
+    "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexual",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T01:02:33.070Z"
+  },
+  {
+    "id": "st-cryptocurrency-regulations-m",
+    "title": "Cryptocurrency Regulations Move",
+    "source": "Michigan Legislative Consultants",
+    "sourceId": "rss-michigan-legislative-consultants",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-16T22:52:31.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LYVRhUnhHWEdOR2NBWEsyUUhVZ3Zua1BfLUpuUlJPWFBhZElnOXBGellwUlRjWjM4azF2RXVSNnlEVHcxSFZ6SmJHVXhvU1JrOHFLSzNIaFViMmk0ZWxF?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LYVRhUnhHWEdOR2NBWEsyUUhVZ3Zua1BfLUpuUlJPWFBhZElnOXBGellwUlRjWjM4azF2RXVSNnlEVHcxSFZ6SmJHVXhvU1JrOHFLSzNIaFViMmk0ZWxF?oc=5\" target=\"_blank\">Cryptocurrency Regulations Move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan L",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T01:02:32.484Z"
   },
   {
     "id": "st-tesla-driver-says-he-was-asl",
@@ -429,23 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.149Z"
-  },
-  {
-    "id": "st-why-apple-is-finally-making",
-    "title": "Why Apple is finally making its own smart home devices",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-16T19:37:04.000Z",
-    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-    "type": "News",
-    "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electro",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.149Z"
+    "imported_at": "2026-10-17T01:02:33.070Z"
   },
   {
     "id": "st-the-new-apple-tv-4k-just-got",
@@ -461,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.149Z"
+    "imported_at": "2026-10-17T01:02:33.070Z"
   },
   {
     "id": "st-apple-s-homeview-has-an-app",
@@ -477,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.149Z"
+    "imported_at": "2026-10-17T01:02:33.070Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -493,23 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.065Z"
-  },
-  {
-    "id": "st-top-cryptocurrency-white-hou",
-    "title": "Top cryptocurrency White House adviser announces departure from the administration",
-    "source": "The National Desk",
-    "sourceId": "rss-the-national-desk",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-15T19:02:01.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdzZoSG1VWlZpdnJvUXNFWEp4TG42Z3kwTFhlRUdHcFd3cl9KRXY1UmM0LUdSOFl3NmdGZzBNd2JFbU5JRWNmVTQ4VUNkSTg2TjkyODltT1kzendLbmtacWMyekFOOGhhZ2J5VjcxQ2thNnlvM01kNEFLbFphd20zN3RLVnZXWmNLckFkMlFEZ2V5Ml9HQWRCTS13cjRDdkMwSks2VG8xLW45NzA2SS1XWW1sbjNOOENBMXY2Y1ZPVmxtN3ZoZ2N4STF3QlZnZWY5VWJmd25vak9HZW81djJCN1BGa05sNkdMZ2c?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdzZoSG1VWlZpdnJvUXNFWEp4TG42Z3kwTFhlRUdHcFd3cl9KRXY1UmM0LUdSOFl3NmdGZzBNd2JFbU5JRWNmVTQ4VUNkSTg2TjkyODltT1kzendLbmtacWMyekFOOGhhZ2J5VjcxQ2thNnlvM01kNEFLbFphd20zN3RLVnZXWmNLckFkMlFEZ2V5Ml9HQWRCTS13cjRDdkMwSks2VG8xLW45Nz",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
+    "imported_at": "2026-10-17T01:02:33.005Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
+    "imported_at": "2026-10-17T01:02:32.484Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -541,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
+    "imported_at": "2026-10-17T01:02:32.484Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -557,7 +573,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.064Z"
+    "imported_at": "2026-10-17T01:02:33.005Z"
+  },
+  {
+    "id": "st-using-artificial-intelligenc",
+    "title": "Using artificial intelligence in your job search",
+    "source": "Chemical & Engineering News",
+    "sourceId": "rss-chemical-engineering-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-14T20:49:15.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExhQXJpYTFSM2F1MkFxZVFsNUhfeS1fNTZqN0FKaXFVQ0RfNDBQQVUzNGRKckpKajNMa2huMDNBQ0NDX3lGRzd1OGtYM01feFpsVFBrR3lsREhTNlYtY0twZnhuVW5uS3dsZ3dZSFM3eFduOGhYLTA0WWxBbkxkam5pRUU1bWc2MlZLbUw5RUItalg4SUlpMGhQYW8?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExhQXJpYTFSM2F1MkFxZVFsNUhfeS1fNTZqN0FKaXFVQ0RfNDBQQVUzNGRKckpKajNMa2huMDNBQ0NDX3lGRzd1OGtYM01feFpsVFBrR3lsREhTNlYtY0twZnhuVW5uS3dsZ3dZSFM3eFduOGhYLTA0WWxBbkxkam5pRUU1bWc2MlZLbUw5RUItalg4SUlpMGhQYW8?oc=5\" target=\"_bla",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T01:02:33.006Z"
   },
   {
     "id": "st-join-discerning-ai-exploring",
@@ -573,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.065Z"
+    "imported_at": "2026-10-17T01:02:33.006Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -589,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.065Z"
+    "imported_at": "2026-10-17T01:02:33.005Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -605,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
+    "imported_at": "2026-10-17T01:02:32.484Z"
   },
   {
     "id": "st-lansing-considers-new-rules",
@@ -621,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
+    "imported_at": "2026-10-17T01:02:32.484Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -637,23 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.065Z"
-  },
-  {
-    "id": "st-as-data-centers-remain-poten",
-    "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
-    "source": "Wisconsin Watch",
-    "sourceId": "rss-wisconsin-watch",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T18:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOWo1WlQzLWdkZnY5amE3STdmZWkwV1hlOU9C?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOW",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.065Z"
+    "imported_at": "2026-10-17T01:02:33.005Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -669,23 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
-  },
-  {
-    "id": "st-human-artificial-intelligenc",
-    "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-    "source": "Nature",
-    "sourceId": "rss-nature",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T10:23:20.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5\" target=\"_blank\">Human–artificial intelligence collaboration for comanaging epilepsy in real tim",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.064Z"
+    "imported_at": "2026-10-17T01:02:32.484Z"
   },
   {
     "id": "st-how-artificial-intelligence",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:20.065Z"
+    "imported_at": "2026-10-17T01:02:33.005Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -717,6 +717,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-16T20:51:19.559Z"
+    "imported_at": "2026-10-17T01:02:32.484Z"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T20:51:20.225Z",
+  "generated_at": "2026-10-17T01:02:33.148Z",
   "mix": {
-    "familiar": 2,
-    "discovery": 43
+    "familiar": 3,
+    "discovery": 42
   },
   "items": [
     {
@@ -20,6 +20,15 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-cryptocurrency-regulations-m",
+      "title": "Cryptocurrency Regulations Move",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -87,6 +96,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-replit-is-no-longer-working",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-ita-is-building-generati",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-india-becomes-the-latest-cou",
       "title": "India becomes the latest country to report rogue AI agent activity",
       "category": "Products and applications",
@@ -108,15 +135,6 @@
       "id": "st-elorian-s-first-ai-model-wan",
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jev-is-vercel-s-fastest-adop",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -186,15 +204,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-block-is-building-ai-pow",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-stablecoin-remittances-cost",
       "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
       "category": "Markets and business",
@@ -240,8 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tesla-driver-says-he-was-asl",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "id": "st-why-apple-is-finally-making",
+      "title": "Why Apple is finally making its own smart home devices",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -249,8 +258,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-why-apple-is-finally-making",
-      "title": "Why Apple is finally making its own smart home devices",
+      "id": "st-apple-s-updated-app-store-ru",
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tesla-driver-says-he-was-asl",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -285,15 +303,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-top-cryptocurrency-white-hou",
-      "title": "Top cryptocurrency White House adviser announces departure from the administration",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-expert-examines-what-drives",
       "title": "Expert examines what drives cryptocurrency returns",
       "category": "Markets and business",
@@ -314,6 +323,15 @@
     {
       "id": "st-fsb-finalises-sound-practice",
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-using-artificial-intelligenc",
+      "title": "Using artificial intelligence in your job search",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -366,28 +384,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-as-data-centers-remain-poten",
-      "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-ledger-says-hardware-implant",
       "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-human-artificial-intelligenc",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
