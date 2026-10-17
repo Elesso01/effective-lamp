@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:48:55.702Z",
+  "generated_at": "2026-10-17T12:56:12.172Z",
   "mix": {
     "familiar": 3,
     "discovery": 43
@@ -31,6 +31,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-banks-could-slow-stablecoin",
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-wow-it-s-a-real-discovery-cl",
@@ -80,15 +89,6 @@
     {
       "id": "st-tokenized-tesla-surges-as-el",
       "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-altcoins-outpace-bitcoin-as",
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -213,6 +213,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-circle-s-allaire-says-stable",
+      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitget-to-discontinue-servic",
       "title": "Bitget to discontinue services for some users in one-off exercise",
       "category": "Markets and business",
@@ -267,6 +276,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-usccb-appoints-charles-camos",
+      "title": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-tesla-driver-says-he-was-asl",
       "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
       "category": "Products and applications",
@@ -280,15 +298,6 @@
       "title": "The new Apple TV 4K just got its first (very small) discount",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-s-homeview-has-an-app",
-      "title": "Apple’s HomeView has an app problem",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -339,15 +348,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-using-artificial-intelligenc",
-      "title": "Using artificial intelligence in your job search",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-join-discerning-ai-exploring",
       "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
       "category": "Products and applications",
@@ -361,15 +361,6 @@
       "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lansing-considers-new-rules",
-      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -393,8 +384,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-human-artificial-intelligenc",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "id": "st-what-my-son-is-learning-from",
+      "title": "What My Son Is Learning From Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -402,8 +393,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-artificial-intelligence",
-      "title": "How Artificial Intelligence Can Help With Critical Thinking",
+      "id": "st-ledger-says-hardware-implant",
+      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-human-artificial-intelligenc",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
