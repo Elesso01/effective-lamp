@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T16:47:44.096Z",
+  "generated_at": "2026-10-17T20:46:33.513Z",
   "mix": {
     "familiar": 4,
-    "discovery": 41
+    "discovery": 40
   },
   "items": [
     {
@@ -40,6 +40,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-goldman-wells-fargo-morgan-s",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-citrini-sees-a-tokenization",
@@ -87,11 +96,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-circle-targets-40-new-market",
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-anthropic-says-its-workforce",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-replit-is-no-longer-working",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -108,15 +126,6 @@
       "id": "st-mark-wahlberg-wants-to-take",
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-replit-is-no-longer-working",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -144,15 +153,6 @@
       "id": "st-an-nvidia-insider-turned-vc",
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-elorian-s-first-ai-model-wan",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -258,18 +258,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-removes-language-that-m",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "id": "st-tiktok-bans-musk-documentary",
+      "title": "TikTok bans Musk documentary account",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bose-s-new-wired-earbuds-are",
-      "title": "Bose’s new wired earbuds are simple in the best way",
-      "category": "Markets and business",
+      "id": "st-meta-removes-language-that-m",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -357,6 +357,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-lansing-considers-new-rules",
+      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-cryptocurrency-exchange-foun",
       "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
       "category": "Markets and business",
@@ -377,24 +386,6 @@
     {
       "id": "st-what-my-son-is-learning-from",
       "title": "What My Son Is Learning From Artificial Intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-says-hardware-implant",
-      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-human-artificial-intelligenc",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
