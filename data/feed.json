@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T01:02:33.148Z",
+  "generated_at": "2026-10-17T04:50:55.205Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 42
+    "familiar": 2,
+    "discovery": 30
   },
   "items": [
     {
@@ -24,13 +24,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cryptocurrency-regulations-m",
-      "title": "Cryptocurrency Regulations Move",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "id": "st-satoshi-era-bitcoin-faces-a",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-big-tech-s-ai-auditors-will",
@@ -87,11 +87,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-dips-to",
-      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-mark-wahlberg-wants-to-take",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -288,123 +288,6 @@
       "id": "st-apple-s-homeview-has-an-app",
       "title": "Apple’s HomeView has an app problem",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-expert-examines-what-drives",
-      "title": "Expert examines what drives cryptocurrency returns",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-this-popular-cryptocurrency",
-      "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fsb-finalises-sound-practice",
-      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-using-artificial-intelligenc",
-      "title": "Using artificial intelligence in your job search",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-join-discerning-ai-exploring",
-      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-cls-columbia-law-school-s",
-      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cryptocurrency-exchange-foun",
-      "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lansing-considers-new-rules",
-      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-new-york-times-artificia",
-      "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-says-hardware-implant",
-      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-artificial-intelligence",
-      "title": "How Artificial Intelligence Can Help With Critical Thinking",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-i-did-a-crypto-heist-rockvil",
-      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
