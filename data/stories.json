@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-citrini-sees-a-tokenization",
+    "title": "Citrini sees a tokenization boom. The harder question is who profits",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-17T15:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+    "type": "News",
+    "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-17T16:47:42.613Z"
+  },
+  {
     "id": "st-banks-could-slow-stablecoin",
     "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.908Z"
+    "imported_at": "2026-10-17T16:47:42.613Z"
   },
   {
     "id": "st-wow-it-s-a-real-discovery-cl",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.909Z"
+    "imported_at": "2026-10-17T16:47:42.614Z"
   },
   {
     "id": "st-satoshi-era-bitcoin-faces-a",
@@ -45,7 +61,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.909Z"
+    "imported_at": "2026-10-17T16:47:42.614Z"
   },
   {
     "id": "st-big-tech-s-ai-auditors-will",
@@ -61,7 +77,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.909Z"
+    "imported_at": "2026-10-17T16:47:42.614Z"
   },
   {
     "id": "st-circle-targets-40-new-market",
@@ -77,39 +93,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.909Z"
+    "imported_at": "2026-10-17T16:47:42.614Z"
   },
   {
-    "id": "st-quantum-alliance-forms-amid",
-    "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-16T10:52:26.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+    "id": "st-ember-s-new-temperature-cont",
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-17T15:30:00.000Z",
+    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
     "type": "News",
-    "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
+    "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.909Z"
-  },
-  {
-    "id": "st-tokenized-tesla-surges-as-el",
-    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-16T10:48:49.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-    "type": "News",
-    "summary": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-17T12:56:10.909Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-17T16:47:42.847Z"
   },
   {
     "id": "st-mark-wahlberg-wants-to-take",
@@ -125,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.132Z"
+    "imported_at": "2026-10-17T16:47:42.847Z"
   },
   {
     "id": "st-replit-is-no-longer-working",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.132Z"
+    "imported_at": "2026-10-17T16:47:42.847Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.087Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
   },
   {
     "id": "st-india-becomes-the-latest-cou",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.132Z"
+    "imported_at": "2026-10-17T16:47:42.847Z"
   },
   {
     "id": "st-an-nvidia-insider-turned-vc",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.132Z"
+    "imported_at": "2026-10-17T16:47:42.847Z"
   },
   {
     "id": "st-elorian-s-first-ai-model-wan",
@@ -205,23 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.132Z"
-  },
-  {
-    "id": "st-stack-overflow-for-agents-tr",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00.000Z",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "type": "News",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.087Z"
+    "imported_at": "2026-10-17T16:47:42.847Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -237,7 +221,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.088Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
+  },
+  {
+    "id": "st-stack-overflow-for-agents-tr",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00.000Z",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "type": "News",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-17T16:47:42.767Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.088Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.088Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.088Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.088Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -317,7 +317,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T12:56:11.088Z"
+    "imported_at": "2026-10-17T16:47:42.767Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-17T13:29:00.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-17T16:47:42.649Z"
   },
   {
     "id": "st-circle-s-allaire-says-stable",
@@ -333,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
+    "imported_at": "2026-10-17T16:47:42.649Z"
   },
   {
     "id": "st-bitget-to-discontinue-servic",
@@ -349,23 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T19:17:04.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
+    "imported_at": "2026-10-17T16:47:42.650Z"
   },
   {
     "id": "st-crypto-pacs-escalate-spendin",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
+    "imported_at": "2026-10-17T16:47:42.650Z"
   },
   {
     "id": "st-stablecoin-remittances-cost",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
+    "imported_at": "2026-10-17T16:47:42.650Z"
   },
   {
     "id": "st-crypto-biz-wall-street-close",
@@ -413,55 +413,55 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
+    "imported_at": "2026-10-17T16:47:42.650Z"
   },
   {
-    "id": "st-bitcoin-price-steadies-aroun",
-    "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T15:45:43.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-17T12:56:10.987Z"
-  },
-  {
-    "id": "st-why-apple-is-finally-making",
-    "title": "Why Apple is finally making its own smart home devices",
+    "id": "st-elon-musk-settles-lawsuits-o",
+    "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-17T12:53:14.000Z",
-    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+    "published_at": "2026-10-17T16:39:44.000Z",
+    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
     "type": "News",
-    "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electro",
-    "category": "Products and applications",
-    "bucket": "crypto",
+    "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agr",
+    "category": "Regulation and policy",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.078Z"
+    "imported_at": "2026-10-17T16:47:44.007Z"
   },
   {
-    "id": "st-apple-s-updated-app-store-ru",
-    "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+    "id": "st-meta-removes-language-that-m",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-16T23:00:58.000Z",
-    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+    "published_at": "2026-10-17T15:04:36.000Z",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "type": "News",
-    "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexual",
+    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such ",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.078Z"
+    "imported_at": "2026-10-17T16:47:44.007Z"
+  },
+  {
+    "id": "st-bose-s-new-wired-earbuds-are",
+    "title": "Bose’s new wired earbuds are simple in the best way",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-17T13:11:08.000Z",
+    "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+    "type": "News",
+    "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T16:47:44.007Z"
   },
   {
     "id": "st-cryptocurrency-regulations-m",
@@ -477,7 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
+  },
+  {
+    "id": "st-websites-are-closing-their-d",
+    "title": "Websites are closing their doors to AI agents",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-16T22:31:39.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "type": "News",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest o",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T16:47:44.007Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -493,39 +509,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.050Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
-    "id": "st-tesla-driver-says-he-was-asl",
-    "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+    "id": "st-pikmin-4-is-20-off-ahead-of",
+    "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-16T20:49:04.000Z",
-    "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+    "published_at": "2026-10-16T19:35:20.000Z",
+    "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
     "type": "News",
-    "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.078Z"
-  },
-  {
-    "id": "st-the-new-apple-tv-4k-just-got",
-    "title": "The new Apple TV 4K just got its first (very small) discount",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-16T16:35:37.000Z",
-    "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-    "type": "News",
-    "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart displa",
-    "category": "Products and applications",
+    "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. Th",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.078Z"
+    "imported_at": "2026-10-17T16:47:44.007Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -541,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.050Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -573,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -589,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -605,23 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.049Z"
-  },
-  {
-    "id": "st-join-discerning-ai-exploring",
-    "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
-    "source": "Marquette Today",
-    "sourceId": "rss-marquette-today",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-14T18:31:35.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.050Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.050Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -653,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -669,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.050Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -685,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.050Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -701,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -717,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:12.049Z"
+    "imported_at": "2026-10-17T16:47:43.931Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -733,6 +717,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T12:56:11.581Z"
+    "imported_at": "2026-10-17T16:47:43.326Z"
   }
 ]

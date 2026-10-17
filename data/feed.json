@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T12:56:12.172Z",
+  "generated_at": "2026-10-17T16:47:44.096Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 43
+    "familiar": 4,
+    "discovery": 41
   },
   "items": [
     {
@@ -24,6 +24,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-elon-musk-settles-lawsuits-o",
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-cryptocurrency-regulations-m",
       "title": "Cryptocurrency Regulations Move",
       "category": "Regulation and policy",
@@ -31,6 +40,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-citrini-sees-a-tokenization",
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-banks-could-slow-stablecoin",
@@ -78,20 +96,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-quantum-alliance-forms-amid",
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "id": "st-ember-s-new-temperature-cont",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tokenized-tesla-surges-as-el",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -150,19 +159,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stack-overflow-for-agents-tr",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "id": "st-benefit-street-partners-answ",
+      "title": "Benefit Street Partners answers questions faster with Codex",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-benefit-street-partners-answ",
-      "title": "Benefit Street Partners answers questions faster with Codex",
+      "id": "st-stack-overflow-for-agents-tr",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -249,26 +258,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-price-steadies-aroun",
-      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-why-apple-is-finally-making",
-      "title": "Why Apple is finally making its own smart home devices",
+      "id": "st-meta-removes-language-that-m",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-updated-app-store-ru",
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "id": "st-bose-s-new-wired-earbuds-are",
+      "title": "Bose’s new wired earbuds are simple in the best way",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-websites-are-closing-their-d",
+      "title": "Websites are closing their doors to AI agents",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -285,18 +294,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tesla-driver-says-he-was-asl",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-new-apple-tv-4k-just-got",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "category": "Products and applications",
+      "id": "st-pikmin-4-is-20-off-ahead-of",
+      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -341,15 +341,6 @@
     {
       "id": "st-fsb-finalises-sound-practice",
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-join-discerning-ai-exploring",
-      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
