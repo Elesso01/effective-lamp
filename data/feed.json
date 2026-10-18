@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-10-18T12:56:01.488Z",
+  "generated_at": "2026-10-18T16:48:42.968Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 41
+    "familiar": 5,
+    "discovery": 39
   },
   "items": [
+    {
+      "id": "st-stablecoin-supply-stalls-but",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-audits-give-investors",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-circle-defends-usdc-economic",
       "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -24,13 +42,40 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-elon-musk-settles-lawsuits-o",
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "id": "st-video-game-ownership-bill-in",
+      "title": "Video game ownership bill introduced in Congress",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-wall-street-freaked-out-frid",
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-latvia-eyes-crypto-tax-payme",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-s-100-000-year-end-h",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-crypto-exchanges-binance-coi",
@@ -51,38 +96,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-goldman-wells-fargo-morgan-s",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-citrini-sees-a-tokenization",
-      "title": "Citrini sees a tokenization boom. The harder question is who profits",
-      "category": "Research and development",
+      "id": "st-disney-agrees-to-hire-the-ma",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "category": "Startups and companies",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-banks-could-slow-stablecoin",
-      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "category": "Research and development",
+      "id": "st-techcrunch-mobility-rivian-s",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wow-it-s-a-real-discovery-cl",
-      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -134,15 +161,6 @@
     {
       "id": "st-how-ita-is-building-generati",
       "title": "How Itaú is building generative AI for its entire customer base",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-india-becomes-the-latest-cou",
-      "title": "India becomes the latest country to report rogue AI agent activity",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -213,6 +231,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-most-americans-polled-oppose",
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-cysic-crypto-bridge-halted-a",
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
       "category": "Markets and business",
@@ -249,15 +276,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitget-to-discontinue-servic",
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-tiktok-bans-musk-documentary",
       "title": "TikTok bans Musk documentary account",
       "category": "Products and applications",
@@ -267,27 +285,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-removes-language-that-m",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-usccb-appoints-charles-camos",
       "title": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-pikmin-4-is-20-off-ahead-of",
-      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,

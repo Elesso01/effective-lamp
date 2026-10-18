@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-crypto-exchanges-binance-coi",
+    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-18T12:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+    "type": "News",
+    "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-18T12:56:00.241Z"
+  },
+  {
     "id": "st-chip-stock-bets-lost-52-mill",
     "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.879Z"
+    "imported_at": "2026-10-18T12:56:00.241Z"
   },
   {
     "id": "st-circle-defends-usdc-economic",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.879Z"
+    "imported_at": "2026-10-18T12:56:00.241Z"
   },
   {
     "id": "st-goldman-wells-fargo-morgan-s",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.879Z"
+    "imported_at": "2026-10-18T12:56:00.241Z"
   },
   {
     "id": "st-citrini-sees-a-tokenization",
@@ -61,7 +77,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.879Z"
+    "imported_at": "2026-10-18T12:56:00.242Z"
   },
   {
     "id": "st-banks-could-slow-stablecoin",
@@ -77,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.879Z"
+    "imported_at": "2026-10-18T12:56:00.242Z"
   },
   {
     "id": "st-wow-it-s-a-real-discovery-cl",
@@ -93,23 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.880Z"
-  },
-  {
-    "id": "st-satoshi-era-bitcoin-faces-a",
-    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-17T02:30:00.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-    "type": "News",
-    "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-18T08:49:16.880Z"
+    "imported_at": "2026-10-18T12:56:00.242Z"
   },
   {
     "id": "st-meta-removes-language-that-r",
@@ -125,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.259Z"
+    "imported_at": "2026-10-18T12:56:00.489Z"
   },
   {
     "id": "st-anthropic-says-its-workforce",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.259Z"
+    "imported_at": "2026-10-18T12:56:00.490Z"
   },
   {
     "id": "st-replit-makes-openai-its-defa",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.259Z"
+    "imported_at": "2026-10-18T12:56:00.490Z"
   },
   {
     "id": "st-ember-s-new-temperature-cont",
@@ -173,7 +173,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.259Z"
+    "imported_at": "2026-10-18T12:56:00.490Z"
   },
   {
     "id": "st-mark-wahlberg-wants-to-take",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.259Z"
+    "imported_at": "2026-10-18T12:56:00.490Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-india-becomes-the-latest-cou",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.259Z"
+    "imported_at": "2026-10-18T12:56:00.490Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -237,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -333,7 +333,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T08:49:17.144Z"
+    "imported_at": "2026-10-18T12:56:00.416Z"
+  },
+  {
+    "id": "st-cysic-crypto-bridge-halted-a",
+    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-18T10:43:12.000Z",
+    "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-18T12:56:00.295Z"
+  },
+  {
+    "id": "st-chinese-suspect-in-75m-inter",
+    "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-18T09:14:26.000Z",
+    "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-18T12:56:00.295Z"
   },
   {
     "id": "st-tether-backs-aisa-as-strateg",
@@ -349,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T08:49:16.966Z"
+    "imported_at": "2026-10-18T12:56:00.295Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T08:49:16.966Z"
+    "imported_at": "2026-10-18T12:56:00.295Z"
   },
   {
     "id": "st-circle-s-allaire-says-stable",
@@ -373,7 +405,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-17T10:00:07.000Z",
+    "published_at": "2026-10-17T10:03:00.000Z",
     "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
@@ -381,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T08:49:16.966Z"
+    "imported_at": "2026-10-18T12:56:00.295Z"
   },
   {
     "id": "st-bitget-to-discontinue-servic",
@@ -389,7 +421,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-17T07:26:57.000Z",
+    "published_at": "2026-10-17T07:28:00.000Z",
     "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
@@ -397,39 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T08:49:16.966Z"
-  },
-  {
-    "id": "st-crypto-pacs-escalate-spendin",
-    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T17:30:09.000Z",
-    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-18T08:49:16.966Z"
-  },
-  {
-    "id": "st-stablecoin-remittances-cost",
-    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-16T17:21:45.000Z",
-    "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-18T08:49:16.966Z"
+    "imported_at": "2026-10-18T12:56:00.295Z"
   },
   {
     "id": "st-tiktok-bans-musk-documentary",
@@ -437,7 +437,7 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-17T19:32:23.000Z",
+    "published_at": "2026-10-18T12:38:14.000Z",
     "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
     "type": "News",
     "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was i",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.238Z"
+    "imported_at": "2026-10-18T12:56:01.398Z"
   },
   {
     "id": "st-elon-musk-settles-lawsuits-o",
@@ -461,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.238Z"
+    "imported_at": "2026-10-18T12:56:01.398Z"
   },
   {
     "id": "st-meta-removes-language-that-m",
@@ -477,23 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.238Z"
-  },
-  {
-    "id": "st-websites-are-closing-their-d",
-    "title": "Websites are closing their doors to AI agents",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-16T22:31:39.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "type": "News",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest o",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.238Z"
+    "imported_at": "2026-10-18T12:56:01.398Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
+    "imported_at": "2026-10-18T12:56:01.359Z"
   },
   {
     "id": "st-pikmin-4-is-20-off-ahead-of",
@@ -525,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.238Z"
+    "imported_at": "2026-10-18T12:56:01.398Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -541,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
+    "imported_at": "2026-10-18T12:56:01.359Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -557,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.695Z"
+    "imported_at": "2026-10-18T12:56:00.873Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -573,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.694Z"
+    "imported_at": "2026-10-18T12:56:00.872Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -589,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.695Z"
+    "imported_at": "2026-10-18T12:56:00.873Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -605,23 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
-  },
-  {
-    "id": "st-join-discerning-ai-exploring",
-    "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
-    "source": "Marquette Today",
-    "sourceId": "rss-marquette-today",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-14T18:31:35.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
+    "imported_at": "2026-10-18T12:56:01.359Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -637,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
+    "imported_at": "2026-10-18T12:56:01.359Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -653,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.695Z"
+    "imported_at": "2026-10-18T12:56:00.873Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -669,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.695Z"
+    "imported_at": "2026-10-18T12:56:00.873Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -685,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
+    "imported_at": "2026-10-18T12:56:01.359Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -701,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:18.209Z"
+    "imported_at": "2026-10-18T12:56:01.359Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -717,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.695Z"
+    "imported_at": "2026-10-18T12:56:00.873Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -733,6 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T08:49:17.695Z"
+    "imported_at": "2026-10-18T12:56:00.873Z"
   }
 ]

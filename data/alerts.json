@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-10-18T12:56:01.520Z",
-  "count": 1,
+  "generated_at": "2026-10-18T16:48:43.000Z",
+  "count": 2,
   "alerts": [
     {
-      "id": "st-circle-defends-usdc-economic",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "id": "st-stablecoin-supply-stalls-but",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-18T01:06:35.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+      "published_at": "2026-10-18T14:00:00.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
+    },
+    {
+      "id": "st-crypto-audits-give-investors",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-18T13:00:00.000Z",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says"
     }
   ]
 }
