@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:51:12.871Z",
+  "generated_at": "2026-10-18T08:49:18.313Z",
   "mix": {
     "familiar": 4,
     "discovery": 42
@@ -42,6 +42,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-chip-stock-bets-lost-52-mill",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-goldman-wells-fargo-morgan-s",
       "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
       "category": "Markets and business",
@@ -80,15 +89,6 @@
     {
       "id": "st-satoshi-era-bitcoin-faces-a",
       "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-big-tech-s-ai-auditors-will",
-      "title": "Big Tech's AI auditors will only see what they're shown",
       "category": "Research and development",
       "bucket": "ai",
       "score": 8.5,
@@ -222,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-tether-backs-aisa-as-strateg",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-circle-s-allaire-says-stable",
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
       "category": "Markets and business",
@@ -244,15 +253,6 @@
       "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-biz-wall-street-close",
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -348,6 +348,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-join-discerning-ai-exploring",
+      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ai-cls-columbia-law-school-s",
       "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
@@ -357,8 +366,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-lansing-considers-new-rules",
-      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+      "id": "st-standard-chartered-unveils-f",
+      "title": "Standard Chartered unveils first-of-its-kind cryptocurrency trading solution for affluent clients",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -397,15 +406,6 @@
       "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-human-artificial-intelligenc",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
