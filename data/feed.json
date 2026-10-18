@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T16:48:42.968Z",
+  "generated_at": "2026-10-18T20:46:16.221Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 39
+    "familiar": 4,
+    "discovery": 38
   },
   "items": [
     {
@@ -17,15 +17,6 @@
     {
       "id": "st-crypto-audits-give-investors",
       "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-circle-defends-usdc-economic",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -49,6 +40,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-the-white-house-s-crypto-chi",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-wall-street-freaked-out-frid",
@@ -96,9 +96,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-anthropic-says-it-s-committi",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-disney-agrees-to-hire-the-ma",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "category": "Startups and companies",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -135,24 +144,6 @@
       "id": "st-replit-makes-openai-its-defa",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ember-s-new-temperature-cont",
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-mark-wahlberg-wants-to-take",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -272,15 +263,6 @@
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tiktok-bans-musk-documentary",
-      "title": "TikTok bans Musk documentary account",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
