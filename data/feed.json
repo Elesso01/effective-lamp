@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T08:49:18.313Z",
+  "generated_at": "2026-10-18T12:56:01.488Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 42
+    "familiar": 3,
+    "discovery": 41
   },
   "items": [
     {
@@ -24,15 +24,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-pacs-escalate-spendin",
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-elon-musk-settles-lawsuits-o",
       "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
       "category": "Regulation and policy",
@@ -40,6 +31,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-exchanges-binance-coi",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-chip-stock-bets-lost-52-mill",
@@ -82,15 +82,6 @@
       "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-satoshi-era-bitcoin-faces-a",
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "category": "Research and development",
-      "bucket": "ai",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -222,6 +213,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-cysic-crypto-bridge-halted-a",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chinese-suspect-in-75m-inter",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-tether-backs-aisa-as-strateg",
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
       "category": "Startups and companies",
@@ -249,15 +258,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stablecoin-remittances-cost",
-      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-tiktok-bans-musk-documentary",
       "title": "TikTok bans Musk documentary account",
       "category": "Products and applications",
@@ -269,15 +269,6 @@
     {
       "id": "st-meta-removes-language-that-m",
       "title": "Meta removes language that may have allowed it to scrape news sites",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-websites-are-closing-their-d",
-      "title": "Websites are closing their doors to AI agents",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -341,15 +332,6 @@
     {
       "id": "st-fsb-finalises-sound-practice",
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-join-discerning-ai-exploring",
-      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
