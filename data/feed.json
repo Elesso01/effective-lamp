@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-18T01:02:51.452Z",
+  "generated_at": "2026-10-18T04:51:12.871Z",
   "mix": {
     "familiar": 4,
-    "discovery": 41
+    "discovery": 42
   },
   "items": [
+    {
+      "id": "st-circle-defends-usdc-economic",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
@@ -28,15 +37,6 @@
       "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-cryptocurrency-regulations-m",
-      "title": "Cryptocurrency Regulations Move",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -352,6 +352,15 @@
       "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-lansing-considers-new-rules",
+      "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

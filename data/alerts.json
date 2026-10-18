@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-10-18T01:02:51.489Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-10-18T04:51:12.898Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-circle-defends-usdc-economic",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-18T01:06:35.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+    }
+  ]
 }
