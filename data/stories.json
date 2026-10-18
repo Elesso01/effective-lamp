@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T20:46:32.151Z"
+    "imported_at": "2026-10-18T01:02:50.067Z"
   },
   {
     "id": "st-citrini-sees-a-tokenization",
@@ -29,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T20:46:32.151Z"
+    "imported_at": "2026-10-18T01:02:50.067Z"
   },
   {
     "id": "st-banks-could-slow-stablecoin",
@@ -45,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T20:46:32.152Z"
+    "imported_at": "2026-10-18T01:02:50.068Z"
   },
   {
     "id": "st-wow-it-s-a-real-discovery-cl",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T20:46:32.152Z"
+    "imported_at": "2026-10-18T01:02:50.068Z"
   },
   {
     "id": "st-satoshi-era-bitcoin-faces-a",
@@ -77,7 +77,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T20:46:32.152Z"
+    "imported_at": "2026-10-18T01:02:50.068Z"
   },
   {
     "id": "st-big-tech-s-ai-auditors-will",
@@ -93,7 +93,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T20:46:32.152Z"
+    "imported_at": "2026-10-18T01:02:50.068Z"
+  },
+  {
+    "id": "st-meta-removes-language-that-r",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-17T21:31:32.000Z",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "type": "News",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-18T01:02:50.328Z"
   },
   {
     "id": "st-anthropic-says-its-workforce",
@@ -109,11 +125,11 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.426Z"
+    "imported_at": "2026-10-18T01:02:50.328Z"
   },
   {
-    "id": "st-replit-is-no-longer-working",
-    "title": "Replit is no longer working with Anthropic, CEO says",
+    "id": "st-replit-makes-openai-its-defa",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
@@ -125,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.427Z"
+    "imported_at": "2026-10-18T01:02:50.329Z"
   },
   {
     "id": "st-ember-s-new-temperature-cont",
@@ -141,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.427Z"
+    "imported_at": "2026-10-18T01:02:50.329Z"
   },
   {
     "id": "st-mark-wahlberg-wants-to-take",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.427Z"
+    "imported_at": "2026-10-18T01:02:50.329Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-india-becomes-the-latest-cou",
@@ -189,23 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.427Z"
-  },
-  {
-    "id": "st-an-nvidia-insider-turned-vc",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-16T16:30:00.000Z",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "type": "News",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs count",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.427Z"
+    "imported_at": "2026-10-18T01:02:50.329Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -221,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T20:46:32.355Z"
+    "imported_at": "2026-10-18T01:02:50.265Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -333,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T20:46:32.197Z"
+    "imported_at": "2026-10-18T01:02:50.147Z"
   },
   {
     "id": "st-circle-s-allaire-says-stable",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T20:46:32.197Z"
+    "imported_at": "2026-10-18T01:02:50.147Z"
   },
   {
     "id": "st-bitget-to-discontinue-servic",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T20:46:32.197Z"
+    "imported_at": "2026-10-18T01:02:50.147Z"
   },
   {
     "id": "st-crypto-pacs-escalate-spendin",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T20:46:32.197Z"
+    "imported_at": "2026-10-18T01:02:50.147Z"
   },
   {
     "id": "st-stablecoin-remittances-cost",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T20:46:32.197Z"
+    "imported_at": "2026-10-18T01:02:50.147Z"
   },
   {
     "id": "st-crypto-biz-wall-street-close",
@@ -413,7 +413,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-17T20:46:32.197Z"
+    "imported_at": "2026-10-18T01:02:50.147Z"
   },
   {
     "id": "st-tiktok-bans-musk-documentary",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.427Z"
+    "imported_at": "2026-10-18T01:02:51.354Z"
   },
   {
     "id": "st-elon-musk-settles-lawsuits-o",
@@ -445,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.427Z"
+    "imported_at": "2026-10-18T01:02:51.354Z"
   },
   {
     "id": "st-meta-removes-language-that-m",
@@ -461,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.427Z"
+    "imported_at": "2026-10-18T01:02:51.354Z"
   },
   {
     "id": "st-cryptocurrency-regulations-m",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:50.788Z"
   },
   {
     "id": "st-websites-are-closing-their-d",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.428Z"
+    "imported_at": "2026-10-18T01:02:51.354Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.325Z"
+    "imported_at": "2026-10-18T01:02:51.320Z"
   },
   {
     "id": "st-pikmin-4-is-20-off-ahead-of",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.428Z"
+    "imported_at": "2026-10-18T01:02:51.354Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -541,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.325Z"
+    "imported_at": "2026-10-18T01:02:51.320Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:50.788Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -573,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:50.788Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -589,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:50.788Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -605,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.325Z"
+    "imported_at": "2026-10-18T01:02:51.320Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -621,23 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.325Z"
-  },
-  {
-    "id": "st-lansing-considers-new-rules",
-    "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
-    "source": "WKAR",
-    "sourceId": "rss-wkar",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-14T12:04:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdEtBZnBwLVFrTGUwZw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdE",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:51.321Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -653,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:50.788Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -669,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.325Z"
+    "imported_at": "2026-10-18T01:02:51.320Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -685,7 +669,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:33.325Z"
+    "imported_at": "2026-10-18T01:02:51.320Z"
+  },
+  {
+    "id": "st-ledger-says-hardware-implant",
+    "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
+    "source": "The Record from Recorded Future News",
+    "sourceId": "rss-the-record-from-recorded-future-news",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-13T13:31:58.000Z",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNGo4TGwza2pwVWs0emRJNzc4ZTFRcEx2V3poYkhRMHpEcWNzQzhQV0xObVBJUUU5X01sS3UtMXNYYi1RX3RQOGNOeGNrWElzVExkQzZTZHB1TXdldk10S1JwTHZKVjlzWGx2WVpaNFJpMENG?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNGo4TGwza2pwVWs0emRJNzc4ZTFRcEx2V3poYkhRMHpEcWNzQzhQV0xObVBJUUU5X01sS3UtMXNYYi1RX3RQOGNOeGNrWElzVExkQzZTZHB1TXdldk10S1JwTHZKVjlzWGx2WVpaNFJpMENG?oc=5\" target=\"_blank\">Ledger says hardware implant in cryptocurrency wall",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-18T01:02:50.788Z"
+  },
+  {
+    "id": "st-human-artificial-intelligenc",
+    "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+    "source": "Nature",
+    "sourceId": "rss-nature",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-13T10:23:20.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5\" target=\"_blank\">Human–artificial intelligence collaboration for comanaging epilepsy in real tim",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-18T01:02:51.320Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -701,6 +717,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T20:46:32.876Z"
+    "imported_at": "2026-10-18T01:02:50.788Z"
   }
 ]

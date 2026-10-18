@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-goldman-wells-fargo-morgan-s",
+    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-17T17:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+    "type": "News",
+    "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-17T20:46:32.151Z"
+  },
+  {
     "id": "st-citrini-sees-a-tokenization",
     "title": "Citrini sees a tokenization boom. The harder question is who profits",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T16:47:42.613Z"
+    "imported_at": "2026-10-17T20:46:32.151Z"
   },
   {
     "id": "st-banks-could-slow-stablecoin",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T16:47:42.613Z"
+    "imported_at": "2026-10-17T20:46:32.152Z"
   },
   {
     "id": "st-wow-it-s-a-real-discovery-cl",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T16:47:42.614Z"
+    "imported_at": "2026-10-17T20:46:32.152Z"
   },
   {
     "id": "st-satoshi-era-bitcoin-faces-a",
@@ -61,7 +77,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T16:47:42.614Z"
+    "imported_at": "2026-10-17T20:46:32.152Z"
   },
   {
     "id": "st-big-tech-s-ai-auditors-will",
@@ -77,23 +93,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-17T16:47:42.614Z"
+    "imported_at": "2026-10-17T20:46:32.152Z"
   },
   {
-    "id": "st-circle-targets-40-new-market",
-    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-16T10:54:35.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+    "id": "st-anthropic-says-its-workforce",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-17T20:21:19.000Z",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
     "type": "News",
-    "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-17T16:47:42.614Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-17T20:46:32.426Z"
+  },
+  {
+    "id": "st-replit-is-no-longer-working",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-17T18:48:08.000Z",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "type": "News",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-17T20:46:32.427Z"
   },
   {
     "id": "st-ember-s-new-temperature-cont",
@@ -109,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.847Z"
+    "imported_at": "2026-10-17T20:46:32.427Z"
   },
   {
     "id": "st-mark-wahlberg-wants-to-take",
@@ -125,23 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.847Z"
-  },
-  {
-    "id": "st-replit-is-no-longer-working",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-16T21:22:28.000Z",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "type": "News",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.847Z"
+    "imported_at": "2026-10-17T20:46:32.427Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-india-becomes-the-latest-cou",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.847Z"
+    "imported_at": "2026-10-17T20:46:32.427Z"
   },
   {
     "id": "st-an-nvidia-insider-turned-vc",
@@ -189,23 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.847Z"
-  },
-  {
-    "id": "st-elorian-s-first-ai-model-wan",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-16T16:01:37.000Z",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "type": "News",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.847Z"
+    "imported_at": "2026-10-17T20:46:32.427Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -221,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-17T16:47:42.767Z"
+    "imported_at": "2026-10-17T20:46:32.355Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -333,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T16:47:42.649Z"
+    "imported_at": "2026-10-17T20:46:32.197Z"
   },
   {
     "id": "st-circle-s-allaire-says-stable",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T16:47:42.649Z"
+    "imported_at": "2026-10-17T20:46:32.197Z"
   },
   {
     "id": "st-bitget-to-discontinue-servic",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T16:47:42.650Z"
+    "imported_at": "2026-10-17T20:46:32.197Z"
   },
   {
     "id": "st-crypto-pacs-escalate-spendin",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T16:47:42.650Z"
+    "imported_at": "2026-10-17T20:46:32.197Z"
   },
   {
     "id": "st-stablecoin-remittances-cost",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-17T16:47:42.650Z"
+    "imported_at": "2026-10-17T20:46:32.197Z"
   },
   {
     "id": "st-crypto-biz-wall-street-close",
@@ -413,7 +413,23 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-17T16:47:42.650Z"
+    "imported_at": "2026-10-17T20:46:32.197Z"
+  },
+  {
+    "id": "st-tiktok-bans-musk-documentary",
+    "title": "TikTok bans Musk documentary account",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-17T19:32:23.000Z",
+    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+    "type": "News",
+    "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was i",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T20:46:33.427Z"
   },
   {
     "id": "st-elon-musk-settles-lawsuits-o",
@@ -429,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:44.007Z"
+    "imported_at": "2026-10-17T20:46:33.427Z"
   },
   {
     "id": "st-meta-removes-language-that-m",
@@ -445,23 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:44.007Z"
-  },
-  {
-    "id": "st-bose-s-new-wired-earbuds-are",
-    "title": "Bose’s new wired earbuds are simple in the best way",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-17T13:11:08.000Z",
-    "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-    "type": "News",
-    "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:44.007Z"
+    "imported_at": "2026-10-17T20:46:33.427Z"
   },
   {
     "id": "st-cryptocurrency-regulations-m",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
+    "imported_at": "2026-10-17T20:46:32.876Z"
   },
   {
     "id": "st-websites-are-closing-their-d",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:44.007Z"
+    "imported_at": "2026-10-17T20:46:33.428Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
+    "imported_at": "2026-10-17T20:46:33.325Z"
   },
   {
     "id": "st-pikmin-4-is-20-off-ahead-of",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:44.007Z"
+    "imported_at": "2026-10-17T20:46:33.428Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -541,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
+    "imported_at": "2026-10-17T20:46:33.325Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
+    "imported_at": "2026-10-17T20:46:32.876Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -573,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
+    "imported_at": "2026-10-17T20:46:32.876Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -589,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
+    "imported_at": "2026-10-17T20:46:32.876Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -605,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
+    "imported_at": "2026-10-17T20:46:33.325Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -621,7 +621,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
+    "imported_at": "2026-10-17T20:46:33.325Z"
+  },
+  {
+    "id": "st-lansing-considers-new-rules",
+    "title": "Lansing considers new rules for cryptocurrency kiosks after scam concerns",
+    "source": "WKAR",
+    "sourceId": "rss-wkar",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-14T12:04:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdEtBZnBwLVFrTGUwZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVkZHhrZnRYeXlMcWdPVGo2RWVDdFRGakJJbzlyTEFFaldsRkVBaFFMSEVjdXhlLXdfSkNneE9pUmI1M2g4WDNMbDU3WVNkNENnWVkxUHpjUFJXVGw0M0RiU1pycG9uS3dkNElGU2FjS2tERnRlLXZjMHZyWW50MEc5TjJrUkJlbzVDaDVra0FMZ0lWS1dQMkdQMHJiQUdJT1N6dUFsUGZGdE",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-17T20:46:32.876Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -637,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
+    "imported_at": "2026-10-17T20:46:32.876Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -653,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
+    "imported_at": "2026-10-17T20:46:33.325Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -669,39 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
-  },
-  {
-    "id": "st-ledger-says-hardware-implant",
-    "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-    "source": "The Record from Recorded Future News",
-    "sourceId": "rss-the-record-from-recorded-future-news",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-13T13:31:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNGo4TGwza2pwVWs0emRJNzc4ZTFRcEx2V3poYkhRMHpEcWNzQzhQV0xObVBJUUU5X01sS3UtMXNYYi1RX3RQOGNOeGNrWElzVExkQzZTZHB1TXdldk10S1JwTHZKVjlzWGx2WVpaNFJpMENG?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNGo4TGwza2pwVWs0emRJNzc4ZTFRcEx2V3poYkhRMHpEcWNzQzhQV0xObVBJUUU5X01sS3UtMXNYYi1RX3RQOGNOeGNrWElzVExkQzZTZHB1TXdldk10S1JwTHZKVjlzWGx2WVpaNFJpMENG?oc=5\" target=\"_blank\">Ledger says hardware implant in cryptocurrency wall",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
-  },
-  {
-    "id": "st-human-artificial-intelligenc",
-    "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-    "source": "Nature",
-    "sourceId": "rss-nature",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T10:23:20.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5\" target=\"_blank\">Human–artificial intelligence collaboration for comanaging epilepsy in real tim",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.931Z"
+    "imported_at": "2026-10-17T20:46:33.325Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -717,6 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-17T16:47:43.326Z"
+    "imported_at": "2026-10-17T20:46:32.876Z"
   }
 ]
