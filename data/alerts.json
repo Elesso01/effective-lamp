@@ -1,14 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:56:45.972Z",
-  "count": 1,
-  "alerts": [
-    {
-      "id": "st-crypto-vault-deposits-top-10",
-      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-19T09:32:38.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
-    }
-  ]
+  "generated_at": "2026-10-19T20:53:34.456Z",
+  "count": 0,
+  "alerts": []
 }
