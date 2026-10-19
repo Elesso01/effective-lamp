@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-19
 
-6 stories briefed · feed mix 3 familiar / 41 discovery.
+6 stories briefed · feed mix 7 familiar / 39 discovery.
 
 ## Top stories
-1. **Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131** (Markets and business · CoinDesk) — A top crypto development today
-2. **Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates** (Markets and business · CoinDesk) — A top crypto development today
-3. **Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics** (Startups and companies · TechCrunch) — A top AI development today
-4. **Zoom adds ‘proof of human’ badges to show you’re not a deepfake** (Products and applications · Cointelegraph) — A top AI development today
-5. **Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears** (Products and applications · CoinDesk) — Outside your usual reads — worth a skim
-6. **Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B** (Markets and business · Cointelegraph) — Outside your usual reads — worth a skim
+1. **Cardano founder Charles Hoskinson is building a new programming language for the network** (Products and applications · CoinDesk) — A top crypto development today
+2. **Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal** (Markets and business · CoinDesk) — A top crypto development today
+3. **Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review** (Products and applications · TechCrunch) — A top AI development today
+4. **Musk pledges to give ‘every kid in America’ one of his SpaceX shares** (Regulation and policy · TechCrunch) — A top AI development today
+5. **Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears.
+- Discovery pick of the week: Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains.
 
 _News, not investment advice._

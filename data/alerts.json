@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-19T09:00:14.071Z",
+  "generated_at": "2026-10-19T13:08:00.769Z",
   "count": 1,
   "alerts": [
     {
-      "id": "st-sec-tokenized-stock-framewor",
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "id": "st-crypto-vault-deposits-top-10",
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-18T23:28:06.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
+      "published_at": "2026-10-19T09:32:38.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
     }
   ]
 }

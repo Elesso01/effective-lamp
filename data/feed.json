@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-19T09:00:14.046Z",
+  "generated_at": "2026-10-19T13:08:00.733Z",
   "mix": {
-    "familiar": 3,
-    "discovery": 41
+    "familiar": 7,
+    "discovery": 39
   },
   "items": [
     {
-      "id": "st-sec-tokenized-stock-framewor",
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "id": "st-jpmorgan-s-jpm-coin-represen",
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-vault-deposits-top-10",
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,9 +24,36 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-musk-pledges-to-give-every-k",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
       "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-strategy-buys-22m-in-bitcoin",
+      "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-world-liberty-s-usd1-stablec",
+      "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-jpmorgan-takes-jpm-coin-to-e",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -33,26 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-whale-moves-34-milli",
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-korea-s-kospi-and-na",
-      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-deutsche-bank-targets-asia-c",
-      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "id": "st-cardano-founder-charles-hosk",
+      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8.5,
@@ -60,8 +78,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-white-house-s-crypto-chi",
-      "title": "The White House's crypto chief departs: State of Crypto",
+      "id": "st-strategy-on-verge-of-golden",
+      "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,11 +87,47 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-wall-street-freaked-out-frid",
-      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+      "id": "st-live-updates-bitcoin-edges-h",
+      "title": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-extends-bounce-above",
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-mining-offshoot-nsca",
+      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cme-s-bitcoin-cash-uniswap-f",
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-updates-guidelines-to",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -116,15 +170,6 @@
     {
       "id": "st-techcrunch-mobility-rivian-s",
       "title": "TechCrunch Mobility: Rivian’s next act",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-removes-language-that-r",
-      "title": "Meta removes language that raised scraping and AI training concerns",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -204,6 +249,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-france-advances-stablecoin-t",
+      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-stocks-rebound-into-key-tech",
+      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-ether-etfs-shed-549m",
       "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
       "category": "Markets and business",
@@ -222,47 +285,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-south-korea-to-meet-crypto-e",
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-qubic-freezes-chain-after-at",
-      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-richard-heart-caught-off-gua",
-      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-most-americans-polled-oppose",
-      "title": "Most Americans polled oppose betting on elections: Reuters",
-      "category": "Markets and business",
+      "id": "st-democrats-think-cracking-dow",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cysic-crypto-bridge-halted-a",
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -271,6 +298,15 @@
       "title": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-irish-police-force-has-its-t",
+      "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -294,15 +330,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-top-cryptocurrency-white-hou",
-      "title": "Top cryptocurrency White House adviser announces departure from the administration",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-expert-examines-what-drives",
       "title": "Expert examines what drives cryptocurrency returns",
       "category": "Markets and business",
@@ -315,6 +342,15 @@
       "id": "st-this-popular-cryptocurrency",
       "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
       "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-top-cryptocurrency-white-hou",
+      "title": "Top cryptocurrency White House adviser announces departure from the administration",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -377,24 +413,6 @@
     {
       "id": "st-ledger-says-hardware-implant",
       "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-human-artificial-intelligenc",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-i-did-a-crypto-heist-rockvil",
-      "title": "'I did a crypto heist' | Rockville man buys rare Pokemon, Magic: The Gathering cards after stealing millions in cryptocurrency",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

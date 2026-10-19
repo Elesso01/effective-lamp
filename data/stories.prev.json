@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-bitcoin-whale-moves-34-milli",
+    "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-19T06:23:16.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+    "type": "News",
+    "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-19T09:00:12.467Z"
+  },
+  {
     "id": "st-bitcoin-korea-s-kospi-and-na",
     "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
+    "imported_at": "2026-10-19T09:00:12.468Z"
   },
   {
     "id": "st-deutsche-bank-targets-asia-c",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
+    "imported_at": "2026-10-19T09:00:12.468Z"
   },
   {
     "id": "st-sec-tokenized-stock-framewor",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
+    "imported_at": "2026-10-19T09:00:12.468Z"
   },
   {
     "id": "st-the-white-house-s-crypto-chi",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
+    "imported_at": "2026-10-19T09:00:12.468Z"
   },
   {
     "id": "st-wall-street-freaked-out-frid",
@@ -77,39 +93,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
+    "imported_at": "2026-10-19T09:00:12.468Z"
   },
   {
-    "id": "st-latvia-eyes-crypto-tax-payme",
-    "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-18T16:00:00.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+    "id": "st-khosla-ventures-doubles-down",
+    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-19T07:30:00.000Z",
+    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
     "type": "News",
-    "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "category": "Startups and companies",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
-  },
-  {
-    "id": "st-stablecoin-supply-stalls-but",
-    "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-18T14:00:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-    "type": "News",
-    "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-19T04:56:13.773Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-19T09:00:12.829Z"
   },
   {
     "id": "st-no-agenda-no-rush-no-leaving",
@@ -125,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:14.024Z"
+    "imported_at": "2026-10-19T09:00:12.830Z"
   },
   {
     "id": "st-anthropic-says-it-s-committi",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:14.024Z"
+    "imported_at": "2026-10-19T09:00:12.830Z"
   },
   {
     "id": "st-disney-agrees-to-hire-the-ma",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:14.024Z"
+    "imported_at": "2026-10-19T09:00:12.830Z"
   },
   {
     "id": "st-techcrunch-mobility-rivian-s",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:14.025Z"
+    "imported_at": "2026-10-19T09:00:12.830Z"
   },
   {
     "id": "st-meta-removes-language-that-r",
@@ -189,23 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:14.025Z"
-  },
-  {
-    "id": "st-anthropic-says-its-workforce",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-17T20:21:19.000Z",
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "type": "News",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:14.025Z"
+    "imported_at": "2026-10-19T09:00:12.830Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -221,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -237,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -333,7 +317,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T04:56:13.947Z"
+    "imported_at": "2026-10-19T09:00:12.740Z"
+  },
+  {
+    "id": "st-bitcoin-ether-etfs-shed-549m",
+    "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T07:54:13.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T09:00:12.555Z"
+  },
+  {
+    "id": "st-zoom-adds-proof-of-human-bad",
+    "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T05:55:44.000Z",
+    "url": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T09:00:12.555Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T05:48:07.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T09:00:12.555Z"
+  },
+  {
+    "id": "st-south-korea-to-meet-crypto-e",
+    "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T05:14:06.000Z",
+    "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T09:00:12.555Z"
   },
   {
     "id": "st-qubic-freezes-chain-after-at",
@@ -349,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.819Z"
+    "imported_at": "2026-10-19T09:00:12.555Z"
   },
   {
     "id": "st-richard-heart-caught-off-gua",
@@ -365,23 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.819Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-18T13:54:00.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.820Z"
+    "imported_at": "2026-10-19T09:00:12.555Z"
   },
   {
     "id": "st-most-americans-polled-oppose",
@@ -397,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.820Z"
+    "imported_at": "2026-10-19T09:00:12.555Z"
   },
   {
     "id": "st-cysic-crypto-bridge-halted-a",
@@ -413,39 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.820Z"
-  },
-  {
-    "id": "st-chinese-suspect-in-75m-inter",
-    "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-18T09:14:26.000Z",
-    "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.820Z"
-  },
-  {
-    "id": "st-tether-backs-aisa-as-strateg",
-    "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-18T06:29:00.000Z",
-    "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The round brings AIsa’s total funding to more than $9 million.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T04:56:13.820Z"
+    "imported_at": "2026-10-19T09:00:12.555Z"
   },
   {
     "id": "st-video-game-ownership-bill-in",
@@ -461,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.096Z"
+    "imported_at": "2026-10-19T09:00:13.977Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -477,23 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.065Z"
-  },
-  {
-    "id": "st-irish-police-force-has-its-t",
-    "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
-    "source": "Bitdefender",
-    "sourceId": "rss-bitdefender",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-16T17:48:13.000Z",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDB5ckJQRWZwa21Tck8wekJWNm1jbG5FZ3N0eXQxc0lXbHNQTFMyLUVmMThib2tpYTNHdVZIOUlPcjBhTmdZS3daTlVEd2x6dnA5UWdWUHNPWHVKczQ5TVBCelRKN0RLNDA0dk5ESE9VcUNDNGIzVnpaV3QtX2o4MmZjMzlMV0JfRldVa1pNS25NUWVXemtDMg?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDB5ckJQRWZwa21Tck8wekJWNm1jbG5FZ3N0eXQxc0lXbHNQTFMyLUVmMThib2tpYTNHdVZIOUlPcjBhTmdZS3daTlVEd2x6dnA5UWdWUHNPWHVKczQ5TVBCelRKN0RLNDA0dk5ESE9VcUNDNGIzVnpaV3QtX2o4MmZjMzlMV0JfRldVa1pNS25NUWVXemtDMg?oc=5\" target=\"_blank\">I",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.501Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.065Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-irish-police-social-media-ac",
@@ -525,7 +509,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.501Z"
+    "imported_at": "2026-10-19T09:00:13.322Z"
+  },
+  {
+    "id": "st-top-cryptocurrency-white-hou",
+    "title": "Top cryptocurrency White House adviser announces departure from the administration",
+    "source": "KTXS",
+    "sourceId": "rss-ktxs",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T19:59:36.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaXRfQm1yalMwMHFYaDA5UjNDN21QenRlajZLOVc5ZGVwS29uTFlhclZjNlJlbTdfeXFHTElhSHdia1E3OUNTQklWWld1UVdJZ0pmWDQ4RndiM0FBVEhiSVo2QnFXS0lmbHRYdENVLTZjdG9CSjJ6eHhGREg5dTdzV2h4TGtyNHhaUnlHdFJQT20xYTRtS0JpaGJmNnVjZ3ZpV0dVbkpZTGdqdWtNSXNQaV9YOWxuSUVaVUIyQXI1X0UxVlRLOW9QNndxQkZHaHVKb1JRVg?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaXRfQm1yalMwMHFYaDA5UjNDN21QenRlajZLOVc5ZGVwS29uTFlhclZjNlJlbTdfeXFHTElhSHdia1E3OUNTQklWWld1UVdJZ0pmWDQ4RndiM0FBVEhiSVo2QnFXS0lmbHRYdENVLTZjdG9CSjJ6eHhGREg5dTdzV2h4TGtyNHhaUnlHdFJQT20xYTRtS0JpaGJmNnVjZ3ZpV0dVbkpZTGdqdW",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-19T09:00:13.322Z"
+  },
+  {
+    "id": "st-expert-examines-what-drives",
+    "title": "Expert examines what drives cryptocurrency returns",
+    "source": "Tech Xplore",
+    "sourceId": "rss-tech-xplore",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-15T16:20:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5\" target=\"_blank\">Expert examines what drives cryptocurrency returns</a>&nb",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-19T09:00:13.322Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -541,23 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.500Z"
-  },
-  {
-    "id": "st-top-cryptocurrency-white-hou",
-    "title": "Top cryptocurrency White House adviser announces departure from the administration",
-    "source": "wtvcfox",
-    "sourceId": "rss-wtvcfox",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-15T07:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzNvOGxMVmZLTHdNRWZqM3pEckJNbFgzbVJWam9Wd3lEZVJlN0thS2Zmdm1kOGRldk5rSmdIQW0tb2V2YUlVWnZ3TG9sNHN1TUJuVkR2SEQtYjFjOU5OSDVfY2hWaWNoNlY2LWM1TlkxWlBpZkZ1UzdJUzNFUjNod2N4aW03VS1pY1FQSVM1a011U295emNqWGdsV2ZTdFExb0h0WmVBZnU5MlcyalVSUVl3cHF4ME1OU2ozMDZLdFBpc0tVOWU2SkZodERBMGxDSXJqZVRQcEMydGNpMURMVlRn?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzNvOGxMVmZLTHdNRWZqM3pEckJNbFgzbVJWam9Wd3lEZVJlN0thS2Zmdm1kOGRldk5rSmdIQW0tb2V2YUlVWnZ3TG9sNHN1TUJuVkR2SEQtYjFjOU5OSDVfY2hWaWNoNlY2LWM1TlkxWlBpZkZ1UzdJUzNFUjNod2N4aW03VS1pY1FQSVM1a011U295emNqWGdsV2ZTdFExb0h0WmVBZnU5Ml",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.501Z"
+    "imported_at": "2026-10-19T09:00:13.322Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -573,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.064Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -589,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.065Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -605,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.501Z"
+    "imported_at": "2026-10-19T09:00:13.322Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -621,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.500Z"
+    "imported_at": "2026-10-19T09:00:13.322Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -637,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.065Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -653,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.064Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -669,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.501Z"
+    "imported_at": "2026-10-19T09:00:13.322Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -685,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:15.064Z"
+    "imported_at": "2026-10-19T09:00:13.867Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -701,6 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T04:56:14.501Z"
+    "imported_at": "2026-10-19T09:00:13.322Z"
   }
 ]
