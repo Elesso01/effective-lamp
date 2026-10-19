@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T13:08:00.733Z",
+  "generated_at": "2026-10-19T16:56:45.937Z",
   "mix": {
     "familiar": 7,
-    "discovery": 39
+    "discovery": 47
   },
   "items": [
     {
-      "id": "st-jpmorgan-s-jpm-coin-represen",
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "id": "st-jpmorgan-brings-jpm-coin-rep",
+      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 10.5,
@@ -24,11 +24,20 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-musk-pledges-to-give-every-k",
-      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "id": "st-made-an-honest-mistake-with",
+      "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
       "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -51,22 +60,31 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-jpmorgan-takes-jpm-coin-to-e",
-      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-video-game-ownership-bill-in",
-      "title": "Video game ownership bill introduced in Congress",
+      "id": "st-elon-musk-promises-to-give-o",
+      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-u-s-cftc-rebuffs-cme-legal-s",
+      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-zerohash-rolls-out-a-new-too",
+      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-cardano-founder-charles-hosk",
@@ -78,8 +96,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-strategy-on-verge-of-golden",
-      "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+      "id": "st-strategy-s-price-chart-is-ab",
+      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -87,10 +105,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-edges-h",
-      "title": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-live-updates-bitcoin-holds-n",
+      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -105,20 +123,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-mining-offshoot-nsca",
-      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-people-are-using-ai-to-make",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cme-s-bitcoin-cash-uniswap-f",
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-nvidia-launches-new-open-mod",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -126,6 +144,15 @@
       "id": "st-apple-updates-guidelines-to",
       "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
       "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-musk-pledges-to-give-every-k",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -152,24 +179,6 @@
     {
       "id": "st-anthropic-says-it-s-committi",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-disney-agrees-to-hire-the-ma",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-mobility-rivian-s",
-      "title": "TechCrunch Mobility: Rivian’s next act",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -249,8 +258,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-france-advances-stablecoin-t",
-      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "id": "st-metaplanet-to-take-93-7-stak",
+      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -258,8 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stocks-rebound-into-key-tech",
-      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "id": "st-strive-buys-335m-in-bitcoin",
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -267,8 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-ether-etfs-shed-549m",
-      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "id": "st-bitcoin-is-rejected-at-83k-a",
+      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,19 +285,73 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-zoom-adds-proof-of-human-bad",
-      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "id": "st-public-companies-object-to-o",
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-teases-macbook-pro-eve",
+      "title": "Apple teases MacBook Pro event next week",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-jb-pritzker-thinks-ai-could",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-democrats-think-cracking-dow",
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "category": "Products and applications",
+      "id": "st-amazon-is-funding-a-new-nucl",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "category": "Startups and companies",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-a-hacker-broke-into-john-dee",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-s-last-gen-mac-mini-wi",
+      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-major-european-mobile-carrie",
+      "title": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-it-s-hard-to-imagine-wireles",
+      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -312,28 +375,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-chatgpt-stole-cryptocurrency",
+      "title": "ChatGPT stole cryptocurrency to secretly fund coding task",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-the-evolution-of-artificial",
       "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-irish-police-social-media-ac",
-      "title": "Irish police social media accounts breached by hackers",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-expert-examines-what-drives",
-      "title": "Expert examines what drives cryptocurrency returns",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -402,6 +456,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-a-new-phase-of-government-ai",
+      "title": "A new phase of government AI adoption could bring a very different budget reality",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-what-my-son-is-learning-from",
       "title": "What My Son Is Learning From Artificial Intelligence",
       "category": "Products and applications",
@@ -415,6 +478,15 @@
       "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-human-artificial-intelligenc",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
