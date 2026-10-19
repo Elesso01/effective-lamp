@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-10-19T04:56:15.191Z",
+  "generated_at": "2026-10-19T09:00:14.046Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 40
+    "familiar": 3,
+    "discovery": 41
   },
   "items": [
     {
       "id": "st-sec-tokenized-stock-framewor",
       "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-stablecoin-supply-stalls-but",
-      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -40,6 +31,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-whale-moves-34-milli",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-bitcoin-korea-s-kospi-and-na",
@@ -78,11 +78,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-latvia-eyes-crypto-tax-payme",
-      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-khosla-ventures-doubles-down",
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -125,15 +125,6 @@
     {
       "id": "st-meta-removes-language-that-r",
       "title": "Meta removes language that raised scraping and AI training concerns",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-says-its-workforce",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -213,6 +204,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bitcoin-ether-etfs-shed-549m",
+      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-zoom-adds-proof-of-human-bad",
+      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korea-to-meet-crypto-e",
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-qubic-freezes-chain-after-at",
       "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
       "category": "Markets and business",
@@ -249,37 +267,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-chinese-suspect-in-75m-inter",
-      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tether-backs-aisa-as-strateg",
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-usccb-appoints-charles-camos",
       "title": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-irish-police-force-has-its-t",
-      "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
-      "category": "Security and privacy",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -303,8 +294,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-this-popular-cryptocurrency",
-      "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
+      "id": "st-top-cryptocurrency-white-hou",
+      "title": "Top cryptocurrency White House adviser announces departure from the administration",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-expert-examines-what-drives",
+      "title": "Expert examines what drives cryptocurrency returns",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -312,9 +312,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-top-cryptocurrency-white-hou",
-      "title": "Top cryptocurrency White House adviser announces departure from the administration",
-      "category": "Products and applications",
+      "id": "st-this-popular-cryptocurrency",
+      "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
