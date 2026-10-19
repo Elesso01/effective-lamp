@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T01:04:43.150Z",
+  "generated_at": "2026-10-19T04:56:15.191Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 38
+    "familiar": 4,
+    "discovery": 40
   },
   "items": [
     {
@@ -17,15 +17,6 @@
     {
       "id": "st-stablecoin-supply-stalls-but",
       "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-crypto-audits-give-investors",
-      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -51,6 +42,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-bitcoin-korea-s-kospi-and-na",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-deutsche-bank-targets-asia-c",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-the-white-house-s-crypto-chi",
       "title": "The White House's crypto chief departs: State of Crypto",
       "category": "Markets and business",
@@ -71,24 +80,6 @@
     {
       "id": "st-latvia-eyes-crypto-tax-payme",
       "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-s-100-000-year-end-h",
-      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-exchanges-binance-coi",
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -222,6 +213,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-qubic-freezes-chain-after-at",
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-richard-heart-caught-off-gua",
       "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
       "category": "Markets and business",
@@ -267,19 +267,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-circle-s-allaire-says-stable",
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-usccb-appoints-charles-camos",
       "title": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-irish-police-force-has-its-t",
+      "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -294,9 +294,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-expert-examines-what-drives",
-      "title": "Expert examines what drives cryptocurrency returns",
-      "category": "Markets and business",
+      "id": "st-irish-police-social-media-ac",
+      "title": "Irish police social media accounts breached by hackers",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -379,6 +379,15 @@
       "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-human-artificial-intelligenc",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

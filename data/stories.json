@@ -1,5 +1,37 @@
 [
   {
+    "id": "st-bitcoin-korea-s-kospi-and-na",
+    "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-19T03:36:58.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "type": "News",
+    "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-19T04:56:13.773Z"
+  },
+  {
+    "id": "st-deutsche-bank-targets-asia-c",
+    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-19T02:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "type": "News",
+    "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-19T04:56:13.773Z"
+  },
+  {
     "id": "st-sec-tokenized-stock-framewor",
     "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
     "source": "CoinDesk",
@@ -13,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
+    "imported_at": "2026-10-19T04:56:13.773Z"
   },
   {
     "id": "st-the-white-house-s-crypto-chi",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
+    "imported_at": "2026-10-19T04:56:13.773Z"
   },
   {
     "id": "st-wall-street-freaked-out-frid",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
+    "imported_at": "2026-10-19T04:56:13.773Z"
   },
   {
     "id": "st-latvia-eyes-crypto-tax-payme",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
+    "imported_at": "2026-10-19T04:56:13.773Z"
   },
   {
     "id": "st-stablecoin-supply-stalls-but",
@@ -77,55 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
-  },
-  {
-    "id": "st-bitcoin-s-100-000-year-end-h",
-    "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-18T13:00:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-    "type": "News",
-    "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
-  },
-  {
-    "id": "st-crypto-audits-give-investors",
-    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-18T13:00:00.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-    "type": "News",
-    "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
-  },
-  {
-    "id": "st-crypto-exchanges-binance-coi",
-    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-18T12:00:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-    "type": "News",
-    "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-19T01:04:40.652Z"
+    "imported_at": "2026-10-19T04:56:13.773Z"
   },
   {
     "id": "st-no-agenda-no-rush-no-leaving",
@@ -141,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.476Z"
+    "imported_at": "2026-10-19T04:56:14.024Z"
   },
   {
     "id": "st-anthropic-says-it-s-committi",
@@ -157,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.476Z"
+    "imported_at": "2026-10-19T04:56:14.024Z"
   },
   {
     "id": "st-disney-agrees-to-hire-the-ma",
@@ -173,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.476Z"
+    "imported_at": "2026-10-19T04:56:14.024Z"
   },
   {
     "id": "st-techcrunch-mobility-rivian-s",
@@ -189,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.476Z"
+    "imported_at": "2026-10-19T04:56:14.025Z"
   },
   {
     "id": "st-meta-removes-language-that-r",
@@ -205,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.476Z"
+    "imported_at": "2026-10-19T04:56:14.025Z"
   },
   {
     "id": "st-anthropic-says-its-workforce",
@@ -221,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.476Z"
+    "imported_at": "2026-10-19T04:56:14.025Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -253,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -349,7 +333,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T01:04:41.202Z"
+    "imported_at": "2026-10-19T04:56:13.947Z"
+  },
+  {
+    "id": "st-qubic-freezes-chain-after-at",
+    "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T01:03:27.000Z",
+    "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T04:56:13.819Z"
   },
   {
     "id": "st-richard-heart-caught-off-gua",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.930Z"
+    "imported_at": "2026-10-19T04:56:13.819Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.930Z"
+    "imported_at": "2026-10-19T04:56:13.820Z"
   },
   {
     "id": "st-most-americans-polled-oppose",
@@ -397,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.930Z"
+    "imported_at": "2026-10-19T04:56:13.820Z"
   },
   {
     "id": "st-cysic-crypto-bridge-halted-a",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.930Z"
+    "imported_at": "2026-10-19T04:56:13.820Z"
   },
   {
     "id": "st-chinese-suspect-in-75m-inter",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.930Z"
+    "imported_at": "2026-10-19T04:56:13.820Z"
   },
   {
     "id": "st-tether-backs-aisa-as-strateg",
@@ -445,23 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.931Z"
-  },
-  {
-    "id": "st-circle-s-allaire-says-stable",
-    "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-17T10:03:00.000Z",
-    "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T01:04:40.931Z"
+    "imported_at": "2026-10-19T04:56:13.820Z"
   },
   {
     "id": "st-video-game-ownership-bill-in",
@@ -477,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:43.063Z"
+    "imported_at": "2026-10-19T04:56:15.096Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -493,7 +477,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:42.669Z"
+    "imported_at": "2026-10-19T04:56:15.065Z"
+  },
+  {
+    "id": "st-irish-police-force-has-its-t",
+    "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
+    "source": "Bitdefender",
+    "sourceId": "rss-bitdefender",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-16T17:48:13.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDB5ckJQRWZwa21Tck8wekJWNm1jbG5FZ3N0eXQxc0lXbHNQTFMyLUVmMThib2tpYTNHdVZIOUlPcjBhTmdZS3daTlVEd2x6dnA5UWdWUHNPWHVKczQ5TVBCelRKN0RLNDA0dk5ESE9VcUNDNGIzVnpaV3QtX2o4MmZjMzlMV0JfRldVa1pNS25NUWVXemtDMg?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDB5ckJQRWZwa21Tck8wekJWNm1jbG5FZ3N0eXQxc0lXbHNQTFMyLUVmMThib2tpYTNHdVZIOUlPcjBhTmdZS3daTlVEd2x6dnA5UWdWUHNPWHVKczQ5TVBCelRKN0RLNDA0dk5ESE9VcUNDNGIzVnpaV3QtX2o4MmZjMzlMV0JfRldVa1pNS25NUWVXemtDMg?oc=5\" target=\"_blank\">I",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-19T04:56:14.501Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -509,39 +509,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:42.669Z"
+    "imported_at": "2026-10-19T04:56:15.065Z"
   },
   {
-    "id": "st-expert-examines-what-drives",
-    "title": "Expert examines what drives cryptocurrency returns",
-    "source": "Tech Xplore",
-    "sourceId": "rss-tech-xplore",
+    "id": "st-irish-police-social-media-ac",
+    "title": "Irish police social media accounts breached by hackers",
+    "source": "BBC",
+    "sourceId": "rss-bbc",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-15T16:20:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5",
+    "published_at": "2026-10-15T22:10:47.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdHRwT2lmWnk2RUduSEIwbVVRQW13OTJiNUgwQVdISVN0ZlBRUmRmc0dJaEpDV2tManNORkwyRmlGY0JnMDVOelU5QjdkdE9RZlhNNDh6azk5R1k?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTXJsa25vaklGTmxPaVQ0YVZlelhna0FvWmViYkN5OXNBV25EQkVKTjhIQUhzNnVFNUl4NjdDYmstVHVJSnJ1dm5URkRYa1Fma1FOVnJEdU1mV1l0a1JNWXNWLWNfUWlOWlRKMlJOUQ?oc=5\" target=\"_blank\">Expert examines what drives cryptocurrency returns</a>&nb",
-    "category": "Markets and business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdHRwT2lmWnk2RUduSEIwbVVRQW13OTJiNUgwQVdISVN0ZlBRUmRmc0dJaEpDV2tManNORkwyRmlGY0JnMDVOelU5QjdkdE9RZlhNNDh6azk5R1k?oc=5\" target=\"_blank\">Irish police social media accounts breached by hackers</a>&nbsp;&nbsp;<font color=\"#",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.501Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
     "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
-    "source": "Yahoo Finance",
-    "sourceId": "rss-yahoo-finance",
+    "source": "The Motley Fool",
+    "sourceId": "rss-the-motley-fool",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-15T10:45:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmFyZXhDR3dnWjg5aHFZcFRZdi1Mcm9DWnVXVmprb2VwZVM4cmgtTUdrRGlibURSYUdfVDFraVFfY0JLTS1GY1R6WXZWRkIxTjhrUGx5UTEwT3o3NVFncTFhTVUyXzlUZzVuRHJkVXhwRW5HRkk4NlBJbXR5MDZoajhSZjVHckxfdDZvWHhMTnVPVXJYRXlEZzBvcUZmWnlyNVVmT2hMTEdvNGJ2?oc=5",
+    "published_at": "2026-10-15T11:25:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3Bxb1FYaFdiM0xDdURGUGhITV9oSldGQ3VtdWhfSjAySXhCSDczWGdUOE1NX2lEdGNnVThMNERhTnZuTjBFQmxzTG1LLTlxenNLZlJvQ0VFYmFpMTllbUZzb2hnckFfSGU0Tl83Y1ZGcHRkQlM4enhzTGI3STFvV2wzRjVJYThnYnlRQmw3Ql9hODlic1lZ?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmFyZXhDR3dnWjg5aHFZcFRZdi1Mcm9DWnVXVmprb2VwZVM4cmgtTUdrRGlibURSYUdfVDFraVFfY0JLTS1GY1R6WXZWRkIxTjhrUGx5UTEwT3o3NVFncTFhTVUyXzlUZzVuRHJkVXhwRW5HRkk4NlBJbXR5MDZoajhSZjVHckxfdDZvWHhMTnVPVXJYRXlEZzBvcUZmWnlyNVVmT2hMTEdvNG",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3Bxb1FYaFdiM0xDdURGUGhITV9oSldGQ3VtdWhfSjAySXhCSDczWGdUOE1NX2lEdGNnVThMNERhTnZuTjBFQmxzTG1LLTlxenNLZlJvQ0VFYmFpMTllbUZzb2hnckFfSGU0Tl83Y1ZGcHRkQlM4enhzTGI3STFvV2wzRjVJYThnYnlRQmw3Ql9hODlic1lZ?oc=5\" target=\"_blank\">Thi",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.500Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.501Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -573,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:42.669Z"
+    "imported_at": "2026-10-19T04:56:15.064Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -589,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:42.669Z"
+    "imported_at": "2026-10-19T04:56:15.065Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -605,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.501Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -621,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.500Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -637,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:42.669Z"
+    "imported_at": "2026-10-19T04:56:15.065Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -653,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:42.669Z"
+    "imported_at": "2026-10-19T04:56:15.064Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -669,7 +669,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.501Z"
+  },
+  {
+    "id": "st-human-artificial-intelligenc",
+    "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+    "source": "Nature",
+    "sourceId": "rss-nature",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-13T10:23:20.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnU1bkhVSTJicWdwdkFpNC01LTY2MTZlVnZST1pqNUdsWVRtZFA3OGhMZHhaQWlwSmE1TG1YVG9naFc5SEZNc2xiWXNOeENoMGVqMG9rT0YxdmZPeDlV?oc=5\" target=\"_blank\">Human–artificial intelligence collaboration for comanaging epilepsy in real tim",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-19T04:56:15.064Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -685,6 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T01:04:41.907Z"
+    "imported_at": "2026-10-19T04:56:14.501Z"
   }
 ]
