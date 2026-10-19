@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-18T20:46:16.221Z",
+  "generated_at": "2026-10-19T01:04:43.150Z",
   "mix": {
-    "familiar": 4,
+    "familiar": 5,
     "discovery": 38
   },
   "items": [
+    {
+      "id": "st-sec-tokenized-stock-framewor",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-stablecoin-supply-stalls-but",
       "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
@@ -52,7 +61,7 @@
     },
     {
       "id": "st-wall-street-freaked-out-frid",
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -87,11 +96,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-chip-stock-bets-lost-52-mill",
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "category": "Markets and business",
+      "id": "st-no-agenda-no-rush-no-leaving",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "category": "Research and development",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -134,15 +143,6 @@
     {
       "id": "st-anthropic-says-its-workforce",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-replit-makes-openai-its-defa",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -218,6 +218,15 @@
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-richard-heart-caught-off-gua",
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },

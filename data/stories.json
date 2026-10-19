@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-sec-tokenized-stock-framewor",
+    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-18T23:28:06.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+    "type": "News",
+    "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-19T01:04:40.652Z"
+  },
+  {
     "id": "st-the-white-house-s-crypto-chi",
     "title": "The White House's crypto chief departs: State of Crypto",
     "source": "CoinDesk",
@@ -13,23 +29,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.671Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
     "id": "st-wall-street-freaked-out-frid",
-    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+    "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
     "published_at": "2026-10-18T16:33:00.000Z",
     "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
     "type": "News",
-    "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+    "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
     "id": "st-latvia-eyes-crypto-tax-payme",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
     "id": "st-stablecoin-supply-stalls-but",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
     "id": "st-bitcoin-s-100-000-year-end-h",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
     "id": "st-crypto-audits-give-investors",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
     "id": "st-crypto-exchanges-binance-coi",
@@ -109,23 +125,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "imported_at": "2026-10-19T01:04:40.652Z"
   },
   {
-    "id": "st-chip-stock-bets-lost-52-mill",
-    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-18T07:13:32.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+    "id": "st-no-agenda-no-rush-no-leaving",
+    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-18T21:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
     "type": "News",
-    "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
-    "category": "Markets and business",
+    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-18T20:46:14.672Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-19T01:04:41.476Z"
   },
   {
     "id": "st-anthropic-says-it-s-committi",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:15.038Z"
+    "imported_at": "2026-10-19T01:04:41.476Z"
   },
   {
     "id": "st-disney-agrees-to-hire-the-ma",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:15.039Z"
+    "imported_at": "2026-10-19T01:04:41.476Z"
   },
   {
     "id": "st-techcrunch-mobility-rivian-s",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:15.039Z"
+    "imported_at": "2026-10-19T01:04:41.476Z"
   },
   {
     "id": "st-meta-removes-language-that-r",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:15.039Z"
+    "imported_at": "2026-10-19T01:04:41.476Z"
   },
   {
     "id": "st-anthropic-says-its-workforce",
@@ -205,23 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:15.039Z"
-  },
-  {
-    "id": "st-replit-makes-openai-its-defa",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-17T18:48:08.000Z",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "type": "News",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:15.039Z"
+    "imported_at": "2026-10-19T01:04:41.476Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -253,7 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -349,7 +349,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-18T20:46:14.953Z"
+    "imported_at": "2026-10-19T01:04:41.202Z"
+  },
+  {
+    "id": "st-richard-heart-caught-off-gua",
+    "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-18T22:58:17.000Z",
+    "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T01:04:40.930Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T20:46:14.782Z"
+    "imported_at": "2026-10-19T01:04:40.930Z"
   },
   {
     "id": "st-most-americans-polled-oppose",
@@ -381,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T20:46:14.782Z"
+    "imported_at": "2026-10-19T01:04:40.930Z"
   },
   {
     "id": "st-cysic-crypto-bridge-halted-a",
@@ -397,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T20:46:14.782Z"
+    "imported_at": "2026-10-19T01:04:40.930Z"
   },
   {
     "id": "st-chinese-suspect-in-75m-inter",
@@ -413,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T20:46:14.782Z"
+    "imported_at": "2026-10-19T01:04:40.930Z"
   },
   {
     "id": "st-tether-backs-aisa-as-strateg",
@@ -429,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T20:46:14.782Z"
+    "imported_at": "2026-10-19T01:04:40.931Z"
   },
   {
     "id": "st-circle-s-allaire-says-stable",
@@ -445,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-18T20:46:14.782Z"
+    "imported_at": "2026-10-19T01:04:40.931Z"
   },
   {
     "id": "st-video-game-ownership-bill-in",
@@ -461,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.133Z"
+    "imported_at": "2026-10-19T01:04:43.063Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -477,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.040Z"
+    "imported_at": "2026-10-19T01:04:42.669Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.040Z"
+    "imported_at": "2026-10-19T01:04:42.669Z"
   },
   {
     "id": "st-expert-examines-what-drives",
@@ -509,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -541,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.040Z"
+    "imported_at": "2026-10-19T01:04:42.669Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.040Z"
+    "imported_at": "2026-10-19T01:04:42.669Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -589,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -605,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.040Z"
+    "imported_at": "2026-10-19T01:04:42.669Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -637,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:16.040Z"
+    "imported_at": "2026-10-19T01:04:42.669Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -653,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   },
   {
     "id": "st-i-did-a-crypto-heist-rockvil",
@@ -669,6 +685,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-18T20:46:15.526Z"
+    "imported_at": "2026-10-19T01:04:41.907Z"
   }
 ]
