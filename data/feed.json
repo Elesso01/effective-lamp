@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-10-20T04:53:18.672Z",
+  "generated_at": "2026-10-20T08:56:32.478Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 48
+    "familiar": 2,
+    "discovery": 50
   },
   "items": [
-    {
-      "id": "st-jpmorgan-brings-jpm-coin-rep",
-      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
     {
       "id": "st-mamdani-says-feds-have-abdic",
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -33,13 +24,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-market-participants-weigh-in",
-      "title": "Market participants weigh in on SEC’s proposed crypto regulations",
-      "category": "Regulation and policy",
+      "id": "st-bitcoin-etfs-just-saw-their",
+      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-tether-senator-s-investigati",
@@ -105,6 +96,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-blackwall-quadruples-valuati",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-walmart-s-flipkart-is-quietl",
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
       "category": "Products and applications",
@@ -154,15 +154,6 @@
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tolan-snags-30m-for-its-ai-c",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -240,6 +231,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-blackrock-files-for-third-bi",
+      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-bitcoin-etfs-draw-527m-in",
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sophon-sets-nov-25-withdrawa",
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-rally-could-revive-t",
       "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
       "category": "Markets and business",
@@ -267,20 +285,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-visa-mesh-partner-to-enable",
-      "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-mastercard-launches-stableco",
-      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -379,15 +388,6 @@
       "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-evolution-of-artificial",
-      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

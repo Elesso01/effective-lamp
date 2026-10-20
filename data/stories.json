@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-bitcoin-etfs-just-saw-their",
+    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-20T08:24:01.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+    "type": "News",
+    "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-20T08:56:30.971Z"
+  },
+  {
     "id": "st-tether-senator-s-investigati",
     "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.272Z"
+    "imported_at": "2026-10-20T08:56:30.971Z"
   },
   {
     "id": "st-u-s-cftc-rebuffs-cme-legal-s",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.272Z"
+    "imported_at": "2026-10-20T08:56:30.971Z"
   },
   {
     "id": "st-zerohash-rolls-out-a-new-too",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.272Z"
+    "imported_at": "2026-10-20T08:56:30.971Z"
   },
   {
     "id": "st-cardano-founder-charles-hosk",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.272Z"
+    "imported_at": "2026-10-20T08:56:30.971Z"
   },
   {
     "id": "st-strategy-s-price-chart-is-ab",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.273Z"
+    "imported_at": "2026-10-20T08:56:30.972Z"
   },
   {
     "id": "st-live-updates-bitcoin-holds-n",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.273Z"
+    "imported_at": "2026-10-20T08:56:30.972Z"
   },
   {
     "id": "st-bitcoin-extends-bounce-above",
@@ -109,23 +125,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.273Z"
+    "imported_at": "2026-10-20T08:56:30.972Z"
   },
   {
-    "id": "st-jpmorgan-brings-jpm-coin-rep",
-    "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-19T10:03:47.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+    "id": "st-blackwall-quadruples-valuati",
+    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-20T07:01:00.000Z",
+    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
     "type": "News",
-    "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+    "category": "Startups and companies",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-20T04:53:17.273Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-20T08:56:31.198Z"
   },
   {
     "id": "st-walmart-s-flipkart-is-quietl",
@@ -141,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.602Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-mamdani-says-feds-have-abdic",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-nscale-and-anthropic-are-rep",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-embedded-ai-evaluators-won-t",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-microsoft-says-ai-agents-are",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-amazon-is-taking-its-biggest",
@@ -221,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-hackers-hit-ai-coding-tool-o",
@@ -237,23 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
-  },
-  {
-    "id": "st-tolan-snags-30m-for-its-ai-c",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-19T19:00:12.000Z",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "type": "News",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.603Z"
+    "imported_at": "2026-10-20T08:56:31.199Z"
   },
   {
     "id": "st-advancing-coding-in-low-reso",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.547Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -301,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -381,7 +381,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T04:53:17.548Z"
+    "imported_at": "2026-10-20T08:56:31.165Z"
+  },
+  {
+    "id": "st-blackrock-files-for-third-bi",
+    "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T08:12:57.000Z",
+    "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-20T08:56:31.023Z"
+  },
+  {
+    "id": "st-us-bitcoin-etfs-draw-527m-in",
+    "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T05:39:20.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-20T08:56:31.023Z"
+  },
+  {
+    "id": "st-sophon-sets-nov-25-withdrawa",
+    "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T05:14:11.000Z",
+    "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-10-20T08:56:31.023Z"
   },
   {
     "id": "st-bitcoin-rally-could-revive-t",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
+    "imported_at": "2026-10-20T08:56:31.023Z"
   },
   {
     "id": "st-solana-treasury-firm-skyai-s",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
+    "imported_at": "2026-10-20T08:56:31.023Z"
   },
   {
     "id": "st-crypto-pac-pours-362k-into-c",
@@ -429,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
+    "imported_at": "2026-10-20T08:56:31.023Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -445,55 +493,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
+    "imported_at": "2026-10-20T08:56:31.024Z"
   },
   {
-    "id": "st-market-participants-weigh-in",
-    "title": "Market participants weigh in on SEC’s proposed crypto regulations",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T19:54:38.000Z",
-    "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-the-evolution-of-artificial",
+    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+    "source": "CancerNetwork",
+    "sourceId": "rss-cancernetwork",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-20T07:48:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
     "type": "News",
-    "summary": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
-  },
-  {
-    "id": "st-visa-mesh-partner-to-enable",
-    "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T19:16:19.000Z",
-    "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
-  },
-  {
-    "id": "st-mastercard-launches-stableco",
-    "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T19:03:23.000Z",
-    "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
     "category": "Products and applications",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T04:53:17.356Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-i-tried-a-99-plug-that-promi",
@@ -509,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.577Z"
+    "imported_at": "2026-10-20T08:56:32.328Z"
   },
   {
     "id": "st-coreweave-s-debt-is-becoming",
@@ -525,7 +541,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.577Z"
+    "imported_at": "2026-10-20T08:56:32.328Z"
   },
   {
     "id": "st-wolcott-man-pleads-guilty-to",
@@ -541,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.015Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-ai-task-force-recommendation",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-baseus-new-security-camera-h",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.577Z"
+    "imported_at": "2026-10-20T08:56:32.328Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-apple-teases-macbook-pro-eve",
@@ -605,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.577Z"
+    "imported_at": "2026-10-20T08:56:32.328Z"
   },
   {
     "id": "st-amazon-is-funding-a-new-nucl",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.577Z"
+    "imported_at": "2026-10-20T08:56:32.328Z"
   },
   {
     "id": "st-the-ai-doom-scenario-you-ve",
@@ -637,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-is-ether-the-market-s-best-p",
@@ -653,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.016Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-irish-police-force-has-its-t",
@@ -669,23 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.016Z"
-  },
-  {
-    "id": "st-the-evolution-of-artificial",
-    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-    "source": "CancerNetwork",
-    "sourceId": "rss-cancernetwork",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-15T23:31:30.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -701,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.015Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.015Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -749,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.015Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -765,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.015Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -781,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -797,7 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -813,7 +813,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.016Z"
+    "imported_at": "2026-10-20T08:56:31.630Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -829,6 +829,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T04:53:18.533Z"
+    "imported_at": "2026-10-20T08:56:32.244Z"
   }
 ]
