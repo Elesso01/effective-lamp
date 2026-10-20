@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-20T13:07:09.050Z",
-  "count": 1,
+  "generated_at": "2026-10-20T16:54:08.801Z",
+  "count": 2,
   "alerts": [
+    {
+      "id": "st-kazakhstan-court-bars-coinba",
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-20T13:35:08.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre"
+    },
     {
       "id": "st-microsoft-alphabet-and-goldm",
       "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
