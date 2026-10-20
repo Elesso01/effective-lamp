@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T01:06:18.282Z",
+  "generated_at": "2026-10-20T04:53:18.672Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 47
+    "familiar": 4,
+    "discovery": 48
   },
   "items": [
     {
@@ -15,17 +15,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-nscale-and-anthropic-are-rep",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-tenstorrent-hits-6-2b-valuat",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "id": "st-mamdani-says-feds-have-abdic",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -114,6 +105,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-walmart-s-flipkart-is-quietl",
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nscale-and-anthropic-are-rep",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-embedded-ai-evaluators-won-t",
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
       "category": "Research and development",
@@ -159,15 +168,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-replika-s-founder-built-the",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-advancing-coding-in-low-reso",
       "title": "Advancing coding in low‑resource programming languages",
       "category": "Research and development",
@@ -186,19 +186,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stack-overflow-for-agents-tr",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "id": "st-benefit-street-partners-answ",
+      "title": "Benefit Street Partners answers questions faster with Codex",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-benefit-street-partners-answ",
-      "title": "Benefit Street Partners answers questions faster with Codex",
+      "id": "st-stack-overflow-for-agents-tr",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -240,6 +240,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bitcoin-rally-could-revive-t",
+      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-solana-treasury-firm-skyai-s",
       "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
       "category": "Products and applications",
@@ -270,24 +279,6 @@
       "id": "st-mastercard-launches-stableco",
       "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-revolut-secures-gibraltar-cr",
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-metaplanet-to-take-93-7-stak",
-      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -330,6 +321,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-baseus-new-security-camera-h",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uc-san-diego-artificial-inte",
+      "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-apple-teases-macbook-pro-eve",
       "title": "Apple teases MacBook Pro event next week",
       "category": "Products and applications",
@@ -357,10 +366,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-last-gen-mac-mini-wi",
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "id": "st-is-ether-the-market-s-best-p",
+      "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
       "category": "Markets and business",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -404,15 +413,6 @@
     {
       "id": "st-fsb-finalises-sound-practice",
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-cls-columbia-law-school-s",
-      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.272Z"
   },
   {
     "id": "st-u-s-cftc-rebuffs-cme-legal-s",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.272Z"
   },
   {
     "id": "st-zerohash-rolls-out-a-new-too",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.272Z"
   },
   {
     "id": "st-cardano-founder-charles-hosk",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.272Z"
   },
   {
     "id": "st-strategy-s-price-chart-is-ab",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.273Z"
   },
   {
     "id": "st-live-updates-bitcoin-holds-n",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.273Z"
   },
   {
     "id": "st-bitcoin-extends-bounce-above",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.427Z"
+    "imported_at": "2026-10-20T04:53:17.273Z"
   },
   {
     "id": "st-jpmorgan-brings-jpm-coin-rep",
@@ -125,23 +125,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T01:06:15.428Z"
+    "imported_at": "2026-10-20T04:53:17.273Z"
+  },
+  {
+    "id": "st-walmart-s-flipkart-is-quietl",
+    "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-20T02:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+    "type": "News",
+    "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T04:53:17.602Z"
+  },
+  {
+    "id": "st-mamdani-says-feds-have-abdic",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-20T01:27:03.000Z",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "type": "News",
+    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-nscale-and-anthropic-are-rep",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
     "published_at": "2026-10-19T23:39:38.000Z",
     "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "type": "News",
-    "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
-    "category": "Regulation and policy",
+    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.835Z"
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-embedded-ai-evaluators-won-t",
@@ -152,12 +184,12 @@
     "published_at": "2026-10-19T22:49:27.000Z",
     "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "type": "News",
-    "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, sa",
+    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of ",
     "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.835Z"
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-microsoft-says-ai-agents-are",
@@ -168,12 +200,12 @@
     "published_at": "2026-10-19T22:04:28.000Z",
     "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "type": "News",
-    "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.835Z"
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-amazon-is-taking-its-biggest",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.836Z"
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-hackers-hit-ai-coding-tool-o",
@@ -205,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.836Z"
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-tolan-snags-30m-for-its-ai-c",
@@ -221,39 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.836Z"
-  },
-  {
-    "id": "st-replika-s-founder-built-the",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-19T18:49:04.000Z",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "type": "News",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.836Z"
-  },
-  {
-    "id": "st-tenstorrent-hits-6-2b-valuat",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-19T18:37:27.000Z",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "type": "News",
-    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:16.836Z"
+    "imported_at": "2026-10-20T04:53:17.603Z"
   },
   {
     "id": "st-advancing-coding-in-low-reso",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.547Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -285,23 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
-  },
-  {
-    "id": "st-stack-overflow-for-agents-tr",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00.000Z",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "type": "News",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.548Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -317,7 +301,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.548Z"
+  },
+  {
+    "id": "st-stack-overflow-for-agents-tr",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00.000Z",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "type": "News",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T04:53:17.548Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.548Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.548Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.548Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -381,7 +381,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T01:06:15.802Z"
+    "imported_at": "2026-10-20T04:53:17.548Z"
+  },
+  {
+    "id": "st-bitcoin-rally-could-revive-t",
+    "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T01:35:00.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "“A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-solana-treasury-firm-skyai-s",
@@ -397,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-crypto-pac-pours-362k-into-c",
@@ -413,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -429,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-market-participants-weigh-in",
@@ -445,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-visa-mesh-partner-to-enable",
@@ -461,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-mastercard-launches-stableco",
@@ -477,39 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
-  },
-  {
-    "id": "st-revolut-secures-gibraltar-cr",
-    "title": "Revolut secures Gibraltar crypto license to support global expansion",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T17:24:49.000Z",
-    "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
-  },
-  {
-    "id": "st-metaplanet-to-take-93-7-stak",
-    "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T16:41:55.000Z",
-    "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T01:06:15.601Z"
+    "imported_at": "2026-10-20T04:53:17.356Z"
   },
   {
     "id": "st-i-tried-a-99-plug-that-promi",
@@ -525,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.197Z"
+    "imported_at": "2026-10-20T04:53:18.577Z"
   },
   {
     "id": "st-coreweave-s-debt-is-becoming",
@@ -541,7 +525,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.197Z"
+    "imported_at": "2026-10-20T04:53:18.577Z"
   },
   {
     "id": "st-wolcott-man-pleads-guilty-to",
@@ -557,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.015Z"
   },
   {
     "id": "st-ai-task-force-recommendation",
@@ -573,7 +557,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.064Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
+  },
+  {
+    "id": "st-baseus-new-security-camera-h",
+    "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-19T18:12:45.000Z",
+    "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+    "type": "News",
+    "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a moto",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-20T04:53:18.577Z"
+  },
+  {
+    "id": "st-uc-san-diego-artificial-inte",
+    "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
+    "source": "UC San Diego Today",
+    "sourceId": "rss-uc-san-diego-today",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-19T16:26:03.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1R2NU5DMEFudy1aQkU2bkY2b1BMREQ5RVhpQ0tud1hkVHc5SGV4Q082UlNzeTVzWWJ1T0pwa0VzdGNtVGpyRGprUFNvMFVQdGl3TVg3V2RjeGhwNDlIMDMzX21RTHNzSjdzQmNEZFJGQ01halJvd0FtOUMxdm9hMWRBRDEtS25ITmxiSFU3b1pHcFM0YUlOZHRzb24wNVpFSlU5TUlCTUtncVpPTW01XzBRM1lFUQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1R2NU5DMEFudy1aQkU2bkY2b1BMREQ5RVhpQ0tud1hkVHc5SGV4Q082UlNzeTVzWWJ1T0pwa0VzdGNtVGpyRGprUFNvMFVQdGl3TVg3V2RjeGhwNDlIMDMzX21RTHNzSjdzQmNEZFJGQ01halJvd0FtOUMxdm9hMWRBRDEtS25ITmxiSFU3b1pHcFM0YUlOZHRzb24wNVpFSlU5TUlCTUtncV",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-20T04:53:18.533Z"
   },
   {
     "id": "st-apple-teases-macbook-pro-eve",
@@ -589,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.197Z"
+    "imported_at": "2026-10-20T04:53:18.577Z"
   },
   {
     "id": "st-amazon-is-funding-a-new-nucl",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.197Z"
+    "imported_at": "2026-10-20T04:53:18.577Z"
   },
   {
     "id": "st-the-ai-doom-scenario-you-ve",
@@ -621,23 +637,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.065Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
   },
   {
-    "id": "st-apple-s-last-gen-mac-mini-wi",
-    "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-19T14:42:13.000Z",
-    "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+    "id": "st-is-ether-the-market-s-best-p",
+    "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
+    "source": "Forbes",
+    "sourceId": "rss-forbes",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-19T13:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZfY1hzQkl0dUFwV2QxMHYyM0hZVUI5cWl4cmVHTFJDUjNxbFBoSmw2VjYzR1ZaQVBRNV9rS1V3MXA4TWNFYWxjUFZvNzBSNDdTVTEwaXc1RllfREo1Y2hDcjduLUZpMWNid2U3aXVRbTA5SVc0MWFhZVRhTmp5cS1tTE5PWlpycm55WW5tQ0hielVzV0tkWENIMEFkaUtGajJ3bkZDODk5WW8?oc=5",
     "type": "News",
-    "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZfY1hzQkl0dUFwV2QxMHYyM0hZVUI5cWl4cmVHTFJDUjNxbFBoSmw2VjYzR1ZaQVBRNV9rS1V3MXA4TWNFYWxjUFZvNzBSNDdTVTEwaXc1RllfREo1Y2hDcjduLUZpMWNid2U3aXVRbTA5SVc0MWFhZVRhTmp5cS1tTE5PWlpycm55WW5tQ0hielVzV0tkWENIMEFkaUtGajJ3bkZDODk5WW",
     "category": "Markets and business",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.197Z"
+    "imported_at": "2026-10-20T04:53:18.016Z"
   },
   {
     "id": "st-irish-police-force-has-its-t",
@@ -653,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.016Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -669,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.064Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -685,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.015Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -701,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.015Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -717,23 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.064Z"
-  },
-  {
-    "id": "st-ai-cls-columbia-law-school-s",
-    "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
-    "source": "Columbia Law School",
-    "sourceId": "rss-columbia-law-school",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-14T14:53:52.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.065Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -749,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.015Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -765,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.015Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -781,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.064Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -797,7 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.064Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -813,7 +813,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:17.371Z"
+    "imported_at": "2026-10-20T04:53:18.016Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -829,6 +829,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T01:06:18.064Z"
+    "imported_at": "2026-10-20T04:53:18.533Z"
   }
 ]
