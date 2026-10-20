@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-10-20T08:56:32.507Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-10-20T13:07:09.050Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-microsoft-alphabet-and-goldm",
+      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-20T12:40:17.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading"
+    }
+  ]
 }

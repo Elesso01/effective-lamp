@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-20T08:56:32.478Z",
+  "generated_at": "2026-10-20T13:07:09.022Z",
   "mix": {
-    "familiar": 2,
-    "discovery": 50
+    "familiar": 5,
+    "discovery": 43
   },
   "items": [
     {
-      "id": "st-mamdani-says-feds-have-abdic",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "id": "st-microsoft-alphabet-and-goldm",
+      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
       "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "bucket": "crypto",
+      "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -24,6 +24,87 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-lloyds-and-barclays-among-uk",
+      "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-kazakhstan-court-orders-curb",
+      "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-xrp-30-day-exchange-inflows",
+      "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-france-s-parliament-approves",
+      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-equity-weakness-could-damp-d",
+      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-jpmorgan-sees-10-annual-bitc",
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-drops-to-81-400-as-a",
+      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-market-nervousn",
+      "title": "Live updates: Market nervousness persists as the AI selloff deepens",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korean-ipo-slump-adds",
+      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-etfs-just-saw-their",
       "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
       "category": "Markets and business",
@@ -33,65 +114,47 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tether-senator-s-investigati",
-      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-eka-is-worth-1-45b-thanks-to",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-u-s-cftc-rebuffs-cme-legal-s",
-      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-zerohash-rolls-out-a-new-too",
-      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "id": "st-spotify-launches-paid-podcas",
+      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cardano-founder-charles-hosk",
-      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+      "id": "st-oura-adds-new-fitness-metric",
+      "title": "Oura adds new fitness metrics to show how workouts impact your body",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-strategy-s-price-chart-is-ab",
-      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-yelp-can-now-call-on-your-be",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-holds-n",
-      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-extends-bounce-above",
-      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-otter-ai-raises-320-million",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -108,51 +171,6 @@
       "id": "st-walmart-s-flipkart-is-quietl",
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nscale-and-anthropic-are-rep",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-embedded-ai-evaluators-won-t",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-says-ai-agents-are",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-is-taking-its-biggest",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hackers-hit-ai-coding-tool-o",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 8,
       "familiar": false,
@@ -231,44 +249,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-blackrock-files-for-third-bi",
-      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-      "category": "Markets and business",
+      "id": "st-drift-exploiter-sends-61m-et",
+      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-bitcoin-etfs-draw-527m-in",
-      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sophon-sets-nov-25-withdrawa",
-      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-rally-could-revive-t",
-      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-solana-treasury-firm-skyai-s",
-      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "id": "st-tx-launches-ustx-stablecoin",
+      "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,11 +267,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-pac-pours-362k-into-c",
-      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
-      "category": "Markets and business",
+      "id": "st-some-google-home-speakers-ca",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-antigravity-just-halved-the",
+      "title": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -294,19 +294,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-i-tried-a-99-plug-that-promi",
-      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-      "category": "Products and applications",
+      "id": "st-nc-woman-loses-savings-to-cr",
+      "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-coreweave-s-debt-is-becoming",
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -348,24 +339,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-teases-macbook-pro-eve",
-      "title": "Apple teases MacBook Pro event next week",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-is-funding-a-new-nucl",
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-the-ai-doom-scenario-you-ve",
       "title": "The AI doom scenario you've never heard of may be the hardest to stop",
       "category": "Products and applications",
@@ -384,9 +357,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-irish-police-force-has-its-t",
-      "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
-      "category": "Security and privacy",
+      "id": "st-spotify-s-new-podcast-member",
+      "title": "Spotify’s new podcast memberships let you pay for extra perks",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -460,15 +433,6 @@
       "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-human-artificial-intelligenc",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
