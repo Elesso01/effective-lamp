@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-tether-senator-s-investigati",
+    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-19T20:21:13.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+    "type": "News",
+    "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-19T20:53:32.938Z"
+  },
+  {
     "id": "st-u-s-cftc-rebuffs-cme-legal-s",
     "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.707Z"
+    "imported_at": "2026-10-19T20:53:32.938Z"
   },
   {
     "id": "st-zerohash-rolls-out-a-new-too",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "imported_at": "2026-10-19T20:53:32.938Z"
   },
   {
     "id": "st-cardano-founder-charles-hosk",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "imported_at": "2026-10-19T20:53:32.938Z"
   },
   {
     "id": "st-strategy-s-price-chart-is-ab",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "imported_at": "2026-10-19T20:53:32.938Z"
   },
   {
     "id": "st-live-updates-bitcoin-holds-n",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "imported_at": "2026-10-19T20:53:32.938Z"
   },
   {
     "id": "st-bitcoin-extends-bounce-above",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "imported_at": "2026-10-19T20:53:32.938Z"
   },
   {
     "id": "st-jpmorgan-brings-jpm-coin-rep",
@@ -109,135 +125,103 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "imported_at": "2026-10-19T20:53:32.939Z"
   },
   {
-    "id": "st-crypto-vault-deposits-top-10",
-    "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-19T09:32:38.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+    "id": "st-amazon-is-taking-its-biggest",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-19T20:09:24.000Z",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "type": "News",
-    "summary": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
-    "category": "Regulation and policy",
+    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-19T20:53:33.211Z"
+  },
+  {
+    "id": "st-hackers-hit-ai-coding-tool-o",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-19T19:28:34.000Z",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "type": "News",
+    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-19T16:56:43.708Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-19T20:53:33.212Z"
   },
   {
-    "id": "st-people-are-using-ai-to-make",
-    "title": "People are using AI to make their smart TVs dumb again",
+    "id": "st-tolan-snags-30m-for-its-ai-c",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-19T16:13:22.000Z",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "published_at": "2026-10-19T19:00:12.000Z",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
     "type": "News",
-    "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
+    "imported_at": "2026-10-19T20:53:33.212Z"
   },
   {
-    "id": "st-nvidia-launches-new-open-mod",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "id": "st-replika-s-founder-built-the",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-19T15:37:09.000Z",
-    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "published_at": "2026-10-19T18:49:04.000Z",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
     "type": "News",
-    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
-  },
-  {
-    "id": "st-apple-updates-guidelines-to",
-    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-19T12:56:14.000Z",
-    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-    "type": "News",
-    "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
-  },
-  {
-    "id": "st-musk-pledges-to-give-every-k",
-    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-19T12:42:55.000Z",
-    "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
-    "type": "News",
-    "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
     "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
+    "imported_at": "2026-10-19T20:53:33.212Z"
   },
   {
-    "id": "st-khosla-ventures-doubles-down",
-    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+    "id": "st-tenstorrent-hits-6-2b-valuat",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-19T07:30:00.000Z",
-    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "published_at": "2026-10-19T18:37:27.000Z",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
     "type": "News",
-    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-    "category": "Startups and companies",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
+    "imported_at": "2026-10-19T20:53:33.212Z"
   },
   {
-    "id": "st-no-agenda-no-rush-no-leaving",
-    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+    "id": "st-ai-assistant-startup-town-na",
+    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-18T21:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+    "published_at": "2026-10-19T18:00:39.000Z",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
     "type": "News",
-    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
-  },
-  {
-    "id": "st-anthropic-says-it-s-committi",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-18T20:37:40.000Z",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "type": "News",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.982Z"
+    "imported_at": "2026-10-19T20:53:33.212Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -269,7 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-sullivan-cromwell-brings-leg",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-amp-puts-ai-agents-to-work-b",
@@ -349,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
   },
   {
     "id": "st-sentinelone-cuts-malware-ana",
@@ -365,7 +349,103 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-19T16:56:43.936Z"
+    "imported_at": "2026-10-19T20:53:33.122Z"
+  },
+  {
+    "id": "st-crypto-pac-pours-362k-into-c",
+    "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T20:22:41.000Z",
+    "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T20:53:32.991Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T20:02:30.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T20:53:32.991Z"
+  },
+  {
+    "id": "st-market-participants-weigh-in",
+    "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T19:54:38.000Z",
+    "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T20:53:32.991Z"
+  },
+  {
+    "id": "st-visa-mesh-partner-to-enable",
+    "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T19:16:19.000Z",
+    "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T20:53:32.991Z"
+  },
+  {
+    "id": "st-mastercard-launches-stableco",
+    "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T19:03:23.000Z",
+    "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T20:53:32.991Z"
+  },
+  {
+    "id": "st-revolut-secures-gibraltar-cr",
+    "title": "Revolut secures Gibraltar crypto license to support global expansion",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-19T17:24:49.000Z",
+    "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-19T20:53:32.992Z"
   },
   {
     "id": "st-metaplanet-to-take-93-7-stak",
@@ -381,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.761Z"
+    "imported_at": "2026-10-19T20:53:32.992Z"
   },
   {
     "id": "st-strive-buys-335m-in-bitcoin",
@@ -397,103 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.761Z"
+    "imported_at": "2026-10-19T20:53:32.992Z"
   },
   {
-    "id": "st-bitcoin-is-rejected-at-83k-a",
-    "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T16:05:57.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-elon-musk-promises-to-give-o",
+    "title": "Elon Musk promises to give one SpaceX share to every child in the US",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-19T18:51:37.000Z",
+    "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
     "type": "News",
-    "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.761Z"
-  },
-  {
-    "id": "st-made-an-honest-mistake-with",
-    "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers.",
+    "summary": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX a",
     "category": "Regulation and policy",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.762Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T13:19:50.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.762Z"
-  },
-  {
-    "id": "st-public-companies-object-to-o",
-    "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T13:13:53.000Z",
-    "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without issuer consent.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.762Z"
-  },
-  {
-    "id": "st-strategy-buys-22m-in-bitcoin",
-    "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T12:30:00.000Z",
-    "url": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.762Z"
-  },
-  {
-    "id": "st-world-liberty-s-usd1-stablec",
-    "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-19T11:57:58.000Z",
-    "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-19T16:56:43.762Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-19T20:53:34.331Z"
   },
   {
     "id": "st-apple-teases-macbook-pro-eve",
@@ -509,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
+    "imported_at": "2026-10-19T20:53:34.330Z"
   },
   {
     "id": "st-jb-pritzker-thinks-ai-could",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
+    "imported_at": "2026-10-19T20:53:34.331Z"
   },
   {
     "id": "st-amazon-is-funding-a-new-nucl",
@@ -541,23 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
-  },
-  {
-    "id": "st-a-hacker-broke-into-john-dee",
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-19T14:42:18.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "type": "News",
-    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkN",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
+    "imported_at": "2026-10-19T20:53:34.330Z"
   },
   {
     "id": "st-apple-s-last-gen-mac-mini-wi",
@@ -573,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
+    "imported_at": "2026-10-19T20:53:34.331Z"
   },
   {
     "id": "st-major-european-mobile-carrie",
@@ -589,23 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
-  },
-  {
-    "id": "st-elon-musk-promises-to-give-o",
-    "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-19T14:20:11.000Z",
-    "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-    "type": "News",
-    "summary": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX a",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
+    "imported_at": "2026-10-19T20:53:34.331Z"
   },
   {
     "id": "st-it-s-hard-to-imagine-wireles",
@@ -621,7 +589,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.842Z"
+    "imported_at": "2026-10-19T20:53:34.331Z"
+  },
+  {
+    "id": "st-is-ether-the-market-s-best-p",
+    "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
+    "source": "Forbes",
+    "sourceId": "rss-forbes",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-19T13:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZfY1hzQkl0dUFwV2QxMHYyM0hZVUI5cWl4cmVHTFJDUjNxbFBoSmw2VjYzR1ZaQVBRNV9rS1V3MXA4TWNFYWxjUFZvNzBSNDdTVTEwaXc1RllfREo1Y2hDcjduLUZpMWNid2U3aXVRbTA5SVc0MWFhZVRhTmp5cS1tTE5PWlpycm55WW5tQ0hielVzV0tkWENIMEFkaUtGajJ3bkZDODk5WW8?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZfY1hzQkl0dUFwV2QxMHYyM0hZVUI5cWl4cmVHTFJDUjNxbFBoSmw2VjYzR1ZaQVBRNV9rS1V3MXA4TWNFYWxjUFZvNzBSNDdTVTEwaXc1RllfREo1Y2hDcjduLUZpMWNid2U3aXVRbTA5SVc0MWFhZVRhTmp5cS1tTE5PWlpycm55WW5tQ0hielVzV0tkWENIMEFkaUtGajJ3bkZDODk5WW",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-usccb-appoints-charles-camos",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.171Z"
   },
   {
     "id": "st-irish-police-force-has-its-t",
@@ -653,23 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
-  },
-  {
-    "id": "st-chatgpt-stole-cryptocurrency",
-    "title": "ChatGPT stole cryptocurrency to secretly fund coding task",
-    "source": "The Independent",
-    "sourceId": "rss-the-independent",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-16T16:26:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEEtQXNRLWM5U203aDRYZWFKZ012NVhPdFV5ckN0Q204TWR0OUNnQUN1Yjl0Zi14bTBwOTY1d1Y5VmpkeEk5LUR1SGZTWmZfX0JfVzNqNkxRMy1YNnJHUU9SOUY4UEVfczVrS3A3cmZIZy13MmQ2dkZ2RWdpdWlUSk00dFBzeXpqbDBRM3BZWnlOQQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEEtQXNRLWM5U203aDRYZWFKZ012NVhPdFV5ckN0Q204TWR0OUNnQUN1Yjl0Zi14bTBwOTY1d1Y5VmpkeEk5LUR1SGZTWmZfX0JfVzNqNkxRMy1YNnJHUU9SOUY4UEVfczVrS3A3cmZIZy13MmQ2dkZ2RWdpdWlUSk00dFBzeXpqbDBRM3BZWnlOQQ?oc=5\" target=\"_blank\">ChatGPT s",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -685,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.171Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -701,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-top-cryptocurrency-white-hou",
@@ -717,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -733,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.068Z"
+    "imported_at": "2026-10-19T20:53:34.170Z"
   },
   {
     "id": "st-ai-cls-columbia-law-school-s",
@@ -749,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.171Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -765,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -781,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-the-new-york-times-artificia",
@@ -797,7 +765,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.170Z"
   },
   {
     "id": "st-a-new-phase-of-government-ai",
@@ -813,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.171Z"
   },
   {
     "id": "st-what-my-son-is-learning-from",
@@ -829,7 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.170Z"
   },
   {
     "id": "st-ledger-says-hardware-implant",
@@ -845,7 +813,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:44.447Z"
+    "imported_at": "2026-10-19T20:53:33.656Z"
   },
   {
     "id": "st-human-artificial-intelligenc",
@@ -861,6 +829,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-19T16:56:45.069Z"
+    "imported_at": "2026-10-19T20:53:34.170Z"
   }
 ]

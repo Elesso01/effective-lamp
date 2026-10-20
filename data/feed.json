@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:53:34.420Z",
+  "generated_at": "2026-10-20T01:06:18.282Z",
   "mix": {
     "familiar": 5,
     "discovery": 47
@@ -11,6 +11,15 @@
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-nscale-and-anthropic-are-rep",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -38,15 +47,6 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-elon-musk-promises-to-give-o",
-      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -114,6 +114,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-embedded-ai-evaluators-won-t",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-microsoft-says-ai-agents-are",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-amazon-is-taking-its-biggest",
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "category": "Products and applications",
@@ -150,9 +168,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-assistant-startup-town-na",
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "category": "Products and applications",
+      "id": "st-advancing-coding-in-low-reso",
+      "title": "Advancing coding in low‑resource programming languages",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -168,19 +186,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-benefit-street-partners-answ",
-      "title": "Benefit Street Partners answers questions faster with Codex",
+      "id": "st-stack-overflow-for-agents-tr",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stack-overflow-for-agents-tr",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "id": "st-benefit-street-partners-answ",
+      "title": "Benefit Street Partners answers questions faster with Codex",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -222,11 +240,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sentinelone-cuts-malware-ana",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "id": "st-solana-treasury-firm-skyai-s",
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -276,11 +294,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-strive-buys-335m-in-bitcoin",
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "id": "st-i-tried-a-99-plug-that-promi",
+      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-coreweave-s-debt-is-becoming",
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-wolcott-man-pleads-guilty-to",
+      "title": "Wolcott man pleads guilty to $1M cryptocurrency fraud scheme",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-task-force-recommendation",
+      "title": "AI Task Force recommendations guide Marquette’s next steps on artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -289,15 +334,6 @@
       "title": "Apple teases MacBook Pro event next week",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jb-pritzker-thinks-ai-could",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -312,45 +348,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-last-gen-mac-mini-wi",
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "category": "Markets and business",
+      "id": "st-the-ai-doom-scenario-you-ve",
+      "title": "The AI doom scenario you've never heard of may be the hardest to stop",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-major-european-mobile-carrie",
-      "title": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-it-s-hard-to-imagine-wireles",
-      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-is-ether-the-market-s-best-p",
-      "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
+      "id": "st-apple-s-last-gen-mac-mini-wi",
+      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-usccb-appoints-charles-camos",
-      "title": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -431,15 +440,6 @@
     {
       "id": "st-the-new-york-times-artificia",
       "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-new-phase-of-government-ai",
-      "title": "A new phase of government AI adoption could bring a very different budget reality",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
