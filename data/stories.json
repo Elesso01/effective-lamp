@@ -1,5 +1,37 @@
 [
   {
+    "id": "st-okx-ice-co-chair-andrew-cuom",
+    "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-20T18:26:29.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+    "type": "News",
+    "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-20T20:53:44.998Z"
+  },
+  {
+    "id": "st-the-coinbase-allegations-exp",
+    "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-20T17:02:31.000Z",
+    "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+    "type": "News",
+    "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-20T20:53:44.998Z"
+  },
+  {
     "id": "st-blackrock-seeks-to-shield-bi",
     "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
     "source": "CoinDesk",
@@ -13,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.260Z"
+    "imported_at": "2026-10-20T20:53:44.998Z"
   },
   {
     "id": "st-kazakhstan-court-bars-coinba",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
+    "imported_at": "2026-10-20T20:53:44.999Z"
   },
   {
     "id": "st-microsoft-alphabet-and-goldm",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
+    "imported_at": "2026-10-20T20:53:44.999Z"
   },
   {
     "id": "st-france-s-parliament-approves",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
+    "imported_at": "2026-10-20T20:53:44.999Z"
   },
   {
     "id": "st-equity-weakness-could-damp-d",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
+    "imported_at": "2026-10-20T20:53:44.999Z"
   },
   {
     "id": "st-jpmorgan-sees-10-annual-bitc",
@@ -93,151 +125,135 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
+    "imported_at": "2026-10-20T20:53:44.999Z"
   },
   {
-    "id": "st-bitcoin-drops-to-81-400-as-a",
-    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-20T10:22:55.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-    "type": "News",
-    "summary": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
-  },
-  {
-    "id": "st-live-updates-bitcoin-cuts-lo",
-    "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-20T10:14:19.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-    "type": "News",
-    "summary": "Oil quickly plunged, but then reversed higher, on conflicting reports about the state of the war in Iran.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-20T16:54:07.261Z"
-  },
-  {
-    "id": "st-ex-nvidia-turned-vc-amulya-v",
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+    "id": "st-spacex-s-ai-business-is-beat",
+    "title": "SpaceX’s AI business is beating expectations",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-20T16:20:06.000Z",
-    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "published_at": "2026-10-20T20:40:41.000Z",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "type": "News",
-    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.547Z"
-  },
-  {
-    "id": "st-streaming-guide-justwatch-be",
-    "title": "Streaming guide JustWatch becomes a streamer itself",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-20T16:01:24.000Z",
-    "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-    "type": "News",
-    "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.547Z"
-  },
-  {
-    "id": "st-plants-can-speak-using-elect",
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-20T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "type": "News",
-    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.547Z"
-  },
-  {
-    "id": "st-tiktok-staff-raised-child-sa",
-    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-20T15:03:41.000Z",
-    "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-    "type": "News",
-    "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+    "summary": "SpaceX’s data centers and Grok agents have been more profitable than investors expected in second quarter of the year, as the company leaves its roots as a space company behind to focus on artificial intelligence, which now makes up 52% of its income. Elon Musk’s deep conglomerat",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.547Z"
+    "imported_at": "2026-10-20T20:53:45.398Z"
   },
   {
-    "id": "st-spacex-alum-s-aviation-start",
-    "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+    "id": "st-openai-acquires-startup-orch",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-20T13:17:36.000Z",
-    "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+    "published_at": "2026-10-20T20:35:10.000Z",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
     "type": "News",
-    "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-    "category": "Startups and companies",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.547Z"
+    "imported_at": "2026-10-20T20:53:45.399Z"
   },
   {
-    "id": "st-us-orders-federal-agencies-t",
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "id": "st-google-is-bringing-a-more-pe",
+    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-20T13:07:24.000Z",
-    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "published_at": "2026-10-20T20:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
     "type": "News",
-    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.548Z"
+    "imported_at": "2026-10-20T20:53:45.399Z"
   },
   {
-    "id": "st-eka-is-worth-1-45b-thanks-to",
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "id": "st-google-has-joined-amazon-in",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-20T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "published_at": "2026-10-20T18:38:24.000Z",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "type": "News",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.548Z"
+    "imported_at": "2026-10-20T20:53:45.399Z"
+  },
+  {
+    "id": "st-chatgpt-now-lets-you-lock-yo",
+    "title": "ChatGPT now lets you lock your chats",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-20T18:36:53.000Z",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "type": "News",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T20:53:45.399Z"
+  },
+  {
+    "id": "st-eric-schmidt-reportedly-owns",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-20T17:55:12.000Z",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "type": "News",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T20:53:45.399Z"
+  },
+  {
+    "id": "st-meta-s-muse-hits-10m-u-s-dow",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-20T17:12:48.000Z",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "type": "News",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T20:53:45.399Z"
+  },
+  {
+    "id": "st-franchisee-reconciles-cash-i",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-20T10:00:00.000Z",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "type": "News",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
     "id": "st-advancing-coding-in-low-reso",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.492Z"
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
     "id": "st-how-ita-is-building-generati",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.492Z"
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
     "id": "st-benefit-street-partners-answ",
@@ -285,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.492Z"
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
     "id": "st-stack-overflow-for-agents-tr",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.492Z"
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
     "id": "st-bringing-gpt-rosalind-to-aca",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.493Z"
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
     "id": "st-teaching-students-to-think-a",
@@ -333,39 +349,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.493Z"
+    "imported_at": "2026-10-20T20:53:45.301Z"
   },
   {
-    "id": "st-sullivan-cromwell-brings-leg",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-15T00:00:00.000Z",
-    "url": "https://openai.com/index/sullivan-cromwell",
+    "id": "st-bitwise-hyperliquid-seek-sec",
+    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T20:38:00.000Z",
+    "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.493Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-20T20:53:45.105Z"
   },
   {
-    "id": "st-amp-puts-ai-agents-to-work-b",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-14T12:00:00.000Z",
-    "url": "https://openai.com/index/amp-beyond-coding",
+    "id": "st-crypto-s-2026-shutdown-wave",
+    "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T19:59:39.000Z",
+    "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-20T16:54:07.493Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-20T20:53:45.105Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T19:17:40.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-20T20:53:45.105Z"
+  },
+  {
+    "id": "st-strive-closes-630m-sats-ipo",
+    "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-20T17:40:00.000Z",
+    "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-20T20:53:45.105Z"
   },
   {
     "id": "st-injective-bdacs-plan-korean",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.369Z"
+    "imported_at": "2026-10-20T20:53:45.106Z"
   },
   {
     "id": "st-stablecoin-transfers-quadrup",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
+    "imported_at": "2026-10-20T20:53:45.106Z"
   },
   {
     "id": "st-alphabet-microsoft-add-objec",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
+    "imported_at": "2026-10-20T20:53:45.106Z"
   },
   {
     "id": "st-bitcoin-price-spikes-to-83-3",
@@ -429,183 +477,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
+    "imported_at": "2026-10-20T20:53:45.106Z"
   },
   {
-    "id": "st-agents-can-trade-24-7-but-ya",
-    "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-20T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-spacex-says-big-ai-growth-fu",
+    "title": "SpaceX says big AI growth fueled revenue jump",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-20T20:35:53.000Z",
+    "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
     "type": "News",
-    "summary": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
-  },
-  {
-    "id": "st-finma-approves-switzerland-s",
-    "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-20T13:04:28.000Z",
-    "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
+    "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income f",
     "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-20T12:50:13.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
-  },
-  {
-    "id": "st-drift-exploiter-sends-61m-et",
-    "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-20T12:38:28.000Z",
-    "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-20T16:54:07.370Z"
-  },
-  {
-    "id": "st-amd-is-bringing-fsr-4-1-to-x",
-    "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-20T16:34:06.000Z",
-    "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
-    "type": "News",
-    "summary": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as ",
-    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
+    "imported_at": "2026-10-20T20:53:46.506Z"
   },
   {
-    "id": "st-spotify-pulled-50-million-ai",
-    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "id": "st-logitech-s-refurbished-g-pro",
+    "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-20T15:53:21.000Z",
-    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "published_at": "2026-10-20T20:32:38.000Z",
+    "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
     "type": "News",
-    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music ma",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
-  },
-  {
-    "id": "st-the-gospel-according-to-pete",
-    "title": "The Gospel according to Peter (Thiel)",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-20T15:39:16.000Z",
-    "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-    "type": "News",
-    "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anth",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
-  },
-  {
-    "id": "st-over-963-000-worth-of-graded",
-    "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-20T15:31:24.000Z",
-    "url": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex",
-    "type": "News",
-    "summary": "Last week over 200 packages of graded trading cards being shipped back to their owners were stolen from a FedEx truck parked outside the headquarters of Professional Sports Authenticator (PSA) in Santa Ana, California, according to a report by The Athletic. PSA is one of the larg",
+    "summary": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but ",
     "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
+    "imported_at": "2026-10-20T20:53:46.506Z"
   },
   {
-    "id": "st-arturia-s-minifreak-49-makes",
-    "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
+    "id": "st-oura-adds-two-new-cardiovasc",
+    "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-20T14:10:58.000Z",
-    "url": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer",
+    "published_at": "2026-10-20T20:26:04.000Z",
+    "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
     "type": "News",
-    "summary": "Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak, but it adds a number of more professional features and some interface improvements. The most noticeable change is that, rathe",
+    "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio E",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
+    "imported_at": "2026-10-20T20:53:46.506Z"
   },
   {
-    "id": "st-adobe-lightroom-mobile-can-n",
-    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-20T13:12:02.000Z",
-    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "id": "st-wolcott-man-pleads-guilty-in",
+    "title": "Wolcott man pleads guilty in $1.16M cryptocurrency fraud scheme",
+    "source": "Hartford Business Journal",
+    "sourceId": "rss-hartford-business-journal",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-20T13:43:21.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclY3akEzUkdidW14M2pHNmM5UW9NSTFRV3NqUndic0pQdXU1cmZscW1yU3pJOVU1M1JjN0J1RnNEQ2xESUh3LWF2VG5ZVHNLaWlHTXllRVlOQ0l5d0dLcUh0TE9BWUY4c3V0ZFRVNHA3UEJjRk91TnBVT2RtSTBJZ1JrQzZ2U3NDQnZHMmFzcndBTkxiSDJiSDNDZWhvM1JoOVE?oc=5",
     "type": "News",
-    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will au",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOclY3akEzUkdidW14M2pHNmM5UW9NSTFRV3NqUndic0pQdXU1cmZscW1yU3pJOVU1M1JjN0J1RnNEQ2xESUh3LWF2VG5ZVHNLaWlHTXllRVlOQ0l5d0dLcUh0TE9BWUY4c3V0ZFRVNHA3UEJjRk91TnBVT2RtSTBJZ1JrQzZ2U3NDQnZHMmFzcndBTkxiSDJiSDNDZWhvM1JoOVE?oc=5\" targ",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   },
   {
-    "id": "st-tiktok-employees-said-they-k",
-    "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-20T13:11:23.000Z",
-    "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+    "id": "st-ct-man-admits-to-scamming-cr",
+    "title": "CT man admits to scamming cryptocurrency investors out of $1.1M for online gambling funds",
+    "source": "Hartford Courant",
+    "sourceId": "rss-hartford-courant",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-20T13:34:28.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnJFVTFlUkU5dHZUYVh2MnozQVJmWmpORDUwR0hBZUlBT012UjNIcm1lc3BSRUhCaWpuMlhoNTdHc0FUeTU5MFloY0pCazZNNkNLVHlMNnlGbGlCT1RnaUtwRlByWDl1U0dkZjVidk43OEdRcXdMSUg3RFlqQ0RoN3p2WWFFcXJWZEZTcVlPeTJ6R1FmUmNSYzlZdDdBOTZQcFBIU3hITWxneWIzQlJzXzVxTW1ERl90U213Y1FXYVZXUQ?oc=5",
     "type": "News",
-    "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, includi",
-    "category": "Regulation and policy",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnJFVTFlUkU5dHZUYVh2MnozQVJmWmpORDUwR0hBZUlBT012UjNIcm1lc3BSRUhCaWpuMlhoNTdHc0FUeTU5MFloY0pCazZNNkNLVHlMNnlGbGlCT1RnaUtwRlByWDl1U0dkZjVidk43OEdRcXdMSUg3RFlqQ0RoN3p2WWFFcXJWZEZTcVlPeTJ6R1FmUmNSYzlZdDdBOTZQcFBIU3hITWxneW",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.677Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -621,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
+    "imported_at": "2026-10-20T20:53:46.389Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -637,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.114Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   },
   {
     "id": "st-wolcott-man-pleads-guilty-to",
@@ -653,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.114Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   },
   {
     "id": "st-ai-task-force-recommendation",
@@ -669,13 +621,13 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
+    "imported_at": "2026-10-20T20:53:46.389Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
     "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
-    "source": "UC San Diego Today",
-    "sourceId": "rss-uc-san-diego-today",
+    "source": "University of California San Diego",
+    "sourceId": "rss-university-of-california-san-diego",
     "author": "Google News (AI)",
     "published_at": "2026-10-19T16:26:03.000Z",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1R2NU5DMEFudy1aQkU2bkY2b1BMREQ5RVhpQ0tud1hkVHc5SGV4Q082UlNzeTVzWWJ1T0pwa0VzdGNtVGpyRGprUFNvMFVQdGl3TVg3V2RjeGhwNDlIMDMzX21RTHNzSjdzQmNEZFJGQ01halJvd0FtOUMxdm9hMWRBRDEtS25ITmxiSFU3b1pHcFM0YUlOZHRzb24wNVpFSlU5TUlCTUtncVpPTW01XzBRM1lFUQ?oc=5",
@@ -685,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
+    "imported_at": "2026-10-20T20:53:46.389Z"
   },
   {
     "id": "st-the-ai-doom-scenario-you-ve",
@@ -701,39 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
-  },
-  {
-    "id": "st-is-ether-the-market-s-best-p",
-    "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
-    "source": "Forbes",
-    "sourceId": "rss-forbes",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-19T13:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZfY1hzQkl0dUFwV2QxMHYyM0hZVUI5cWl4cmVHTFJDUjNxbFBoSmw2VjYzR1ZaQVBRNV9rS1V3MXA4TWNFYWxjUFZvNzBSNDdTVTEwaXc1RllfREo1Y2hDcjduLUZpMWNid2U3aXVRbTA5SVc0MWFhZVRhTmp5cS1tTE5PWlpycm55WW5tQ0hielVzV0tkWENIMEFkaUtGajJ3bkZDODk5WW8?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZfY1hzQkl0dUFwV2QxMHYyM0hZVUI5cWl4cmVHTFJDUjNxbFBoSmw2VjYzR1ZaQVBRNV9rS1V3MXA4TWNFYWxjUFZvNzBSNDdTVTEwaXc1RllfREo1Y2hDcjduLUZpMWNid2U3aXVRbTA5SVc0MWFhZVRhTmp5cS1tTE5PWlpycm55WW5tQ0hielVzV0tkWENIMEFkaUtGajJ3bkZDODk5WW",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.115Z"
-  },
-  {
-    "id": "st-irish-police-force-has-its-t",
-    "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
-    "source": "Bitdefender",
-    "sourceId": "rss-bitdefender",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-16T17:48:13.000Z",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDB5ckJQRWZwa21Tck8wekJWNm1jbG5FZ3N0eXQxc0lXbHNQTFMyLUVmMThib2tpYTNHdVZIOUlPcjBhTmdZS3daTlVEd2x6dnA5UWdWUHNPWHVKczQ5TVBCelRKN0RLNDA0dk5ESE9VcUNDNGIzVnpaV3QtX2o4MmZjMzlMV0JfRldVa1pNS25NUWVXemtDMg?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDB5ckJQRWZwa21Tck8wekJWNm1jbG5FZ3N0eXQxc0lXbHNQTFMyLUVmMThib2tpYTNHdVZIOUlPcjBhTmdZS3daTlVEd2x6dnA5UWdWUHNPWHVKczQ5TVBCelRKN0RLNDA0dk5ESE9VcUNDNGIzVnpaV3QtX2o4MmZjMzlMV0JfRldVa1pNS25NUWVXemtDMg?oc=5\" target=\"_blank\">I",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.114Z"
+    "imported_at": "2026-10-20T20:53:46.389Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -749,23 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.114Z"
-  },
-  {
-    "id": "st-top-cryptocurrency-white-hou",
-    "title": "Top cryptocurrency White House adviser announces departure from the administration",
-    "source": "wtvcfox",
-    "sourceId": "rss-wtvcfox",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-15T07:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzNvOGxMVmZLTHdNRWZqM3pEckJNbFgzbVJWam9Wd3lEZVJlN0thS2Zmdm1kOGRldk5rSmdIQW0tb2V2YUlVWnZ3TG9sNHN1TUJuVkR2SEQtYjFjOU5OSDVfY2hWaWNoNlY2LWM1TlkxWlBpZkZ1UzdJUzNFUjNod2N4aW03VS1pY1FQSVM1a011U295emNqWGdsV2ZTdFExb0h0WmVBZnU5MlcyalVSUVl3cHF4ME1OU2ozMDZLdFBpc0tVOWU2SkZodERBMGxDSXJqZVRQcEMydGNpMURMVlRn?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzNvOGxMVmZLTHdNRWZqM3pEckJNbFgzbVJWam9Wd3lEZVJlN0thS2Zmdm1kOGRldk5rSmdIQW0tb2V2YUlVWnZ3TG9sNHN1TUJuVkR2SEQtYjFjOU5OSDVfY2hWaWNoNlY2LWM1TlkxWlBpZkZ1UzdJUzNFUjNod2N4aW03VS1pY1FQSVM1a011U295emNqWGdsV2ZTdFExb0h0WmVBZnU5Ml",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.115Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   },
   {
     "id": "st-fsb-finalises-sound-practice",
@@ -781,7 +685,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
+    "imported_at": "2026-10-20T20:53:46.389Z"
+  },
+  {
+    "id": "st-ai-cls-columbia-law-school-s",
+    "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
+    "source": "Columbia Law School",
+    "sourceId": "rss-columbia-law-school",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-14T14:53:52.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-20T20:53:46.389Z"
   },
   {
     "id": "st-standard-chartered-unveils-f",
@@ -797,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.115Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   },
   {
     "id": "st-cryptocurrency-exchange-foun",
@@ -813,38 +733,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.114Z"
-  },
-  {
-    "id": "st-the-new-york-times-artificia",
-    "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-    "source": "Facebook",
-    "sourceId": "rss-facebook",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T19:30:06.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5\" target=\"_bla",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
-  },
-  {
-    "id": "st-what-my-son-is-learning-from",
-    "title": "What My Son Is Learning From Artificial Intelligence",
-    "source": "Greater Good: The Science of a Meaningful Life",
-    "sourceId": "rss-greater-good-the-science-of-a-meaningful-life",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-13T17:09:40.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5\" target=\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-20T16:54:08.639Z"
+    "imported_at": "2026-10-20T20:53:45.879Z"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T16:54:08.768Z",
+  "generated_at": "2026-10-20T20:53:46.583Z",
   "mix": {
     "familiar": 7,
-    "discovery": 46
+    "discovery": 39
   },
   "items": [
     {
@@ -24,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-tiktok-staff-raised-child-sa",
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "id": "st-spacex-s-ai-business-is-beat",
+      "title": "SpaceX’s AI business is beating expectations",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -33,17 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-injective-bdacs-plan-korean",
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-finma-approves-switzerland-s",
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "id": "st-bitwise-hyperliquid-seek-sec",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -60,13 +51,40 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-tiktok-employees-said-they-k",
-      "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+      "id": "st-injective-bdacs-plan-korean",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-spacex-says-big-ai-growth-fu",
+      "title": "SpaceX says big AI growth fueled revenue jump",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-okx-ice-co-chair-andrew-cuom",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-coinbase-allegations-exp",
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-blackrock-seeks-to-shield-bi",
@@ -105,26 +123,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-drops-to-81-400-as-a",
-      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-openai-acquires-startup-orch",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-cuts-lo",
-      "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ex-nvidia-turned-vc-amulya-v",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "id": "st-google-is-bringing-a-more-pe",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -132,35 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-streaming-guide-justwatch-be",
-      "title": "Streaming guide JustWatch becomes a streamer itself",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-plants-can-speak-using-elect",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-spacex-alum-s-aviation-start",
-      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-us-orders-federal-agencies-t",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "id": "st-google-has-joined-amazon-in",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -168,8 +150,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-eka-is-worth-1-45b-thanks-to",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "id": "st-chatgpt-now-lets-you-lock-yo",
+      "title": "ChatGPT now lets you lock your chats",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-eric-schmidt-reportedly-owns",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-s-muse-hits-10m-u-s-dow",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-franchisee-reconciles-cash-i",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -231,20 +240,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sullivan-cromwell-brings-leg",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-crypto-s-2026-shutdown-wave",
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amp-puts-ai-agents-to-work-b",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-strive-closes-630m-sats-ipo",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -276,53 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-agents-can-trade-24-7-but-ya",
-      "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-drift-exploiter-sends-61m-et",
-      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amd-is-bringing-fsr-4-1-to-x",
-      "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-spotify-pulled-50-million-ai",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-gospel-according-to-pete",
-      "title": "The Gospel according to Peter (Thiel)",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-over-963-000-worth-of-graded",
-      "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
+      "id": "st-logitech-s-refurbished-g-pro",
+      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
@@ -330,8 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-arturia-s-minifreak-49-makes",
-      "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
+      "id": "st-oura-adds-two-new-cardiovasc",
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -339,10 +303,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-adobe-lightroom-mobile-can-n",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-wolcott-man-pleads-guilty-in",
+      "title": "Wolcott man pleads guilty in $1.16M cryptocurrency fraud scheme",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ct-man-admits-to-scamming-cr",
+      "title": "CT man admits to scamming cryptocurrency investors out of $1.1M for online gambling funds",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -402,24 +375,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-is-ether-the-market-s-best-p",
-      "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-irish-police-force-has-its-t",
-      "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-this-popular-cryptocurrency",
       "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
       "category": "Markets and business",
@@ -429,17 +384,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-top-cryptocurrency-white-hou",
-      "title": "Top cryptocurrency White House adviser announces departure from the administration",
+      "id": "st-fsb-finalises-sound-practice",
+      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fsb-finalises-sound-practice",
-      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "id": "st-ai-cls-columbia-law-school-s",
+      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -460,24 +415,6 @@
       "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-new-york-times-artificia",
-      "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-what-my-son-is-learning-from",
-      "title": "What My Son Is Learning From Artificial Intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
