@@ -1,28 +1,10 @@
 {
-  "generated_at": "2026-10-21T01:06:04.420Z",
+  "generated_at": "2026-10-21T09:26:13.260Z",
   "mix": {
-    "familiar": 8,
+    "familiar": 6,
     "discovery": 39
   },
   "items": [
-    {
-      "id": "st-kazakhstan-court-bars-coinba",
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-microsoft-alphabet-and-goldm",
-      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
     {
       "id": "st-anthropic-pitches-ai-safety",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -42,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitwise-hyperliquid-seek-sec",
-      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "id": "st-ether-etf-outflows-continue",
+      "title": "Ether ETF outflows continue, pass $1B in October so far",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -60,8 +42,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-injective-bdacs-plan-korean",
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "id": "st-bitwise-hyperliquid-seek-sec",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -78,8 +60,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-u-s-cftc-sets-agenda-for-ai",
-      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "id": "st-spacex-and-tesla-explore-mer",
+      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-monero-futures-are-again-hea",
+      "title": "Monero futures are again heating with leverage, raising volatility risks",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 8.5,
@@ -87,8 +78,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-okx-ice-co-chair-andrew-cuom",
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "id": "st-tether-leads-15-million-fund",
+      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ripple-brings-wall-street-in",
+      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-a-company-that-vouches-for-w",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,37 +105,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-coinbase-allegations-exp",
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-blackrock-seeks-to-shield-bi",
-      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-france-s-parliament-approves",
-      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-equity-weakness-could-damp-d",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-bitcoin-hovers-around-83-000",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -213,19 +195,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-benefit-street-partners-answ",
-      "title": "Benefit Street Partners answers questions faster with Codex",
+      "id": "st-stack-overflow-for-agents-tr",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stack-overflow-for-agents-tr",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "id": "st-benefit-street-partners-answ",
+      "title": "Benefit Street Partners answers questions faster with Codex",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -236,6 +218,24 @@
       "category": "Research and development",
       "bucket": "ai",
       "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-malaysia-central-bank-launch",
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-musk-says-spacex-tesla-merge",
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -253,33 +253,6 @@
       "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
       "category": "Markets and business",
       "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-s-2026-shutdown-wave",
-      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-strive-closes-630m-sats-ipo",
-      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-stablecoin-transfers-quadrup",
-      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -321,8 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-wolcott-man-pleads-guilty-in",
-      "title": "Wolcott man pleads guilty in $1.16M cryptocurrency fraud scheme",
+      "id": "st-got-500-1-cryptocurrency-to",
+      "title": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in 2027",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -330,8 +303,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ct-man-admits-to-scamming-cr",
-      "title": "CT man admits to scamming cryptocurrency investors out of $1.1M for online gambling funds",
+      "id": "st-wolcott-man-pleads-guilty-in",
+      "title": "Wolcott man pleads guilty in $1.16M cryptocurrency fraud scheme",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -393,10 +366,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-is-ether-the-market-s-best-p",
+      "title": "Is Ether The Market’s Best-Positioned Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-this-popular-cryptocurrency",
       "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-college-holds-community-roun",
+      "title": "College holds community ‘roundtable discussion and listening session’ on artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -415,15 +406,6 @@
       "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-standard-chartered-unveils-f",
-      "title": "Standard Chartered unveils first-of-its-kind cryptocurrency trading solution for affluent clients",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
