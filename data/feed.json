@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-10-21T09:26:13.260Z",
+  "generated_at": "2026-10-21T17:22:05.625Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 39
+    "familiar": 8,
+    "discovery": 41
   },
   "items": [
+    {
+      "id": "st-crypto-long-short-why-real-w",
+      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-why-centralized-exchanges-re",
+      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-blacksmith-hits-unicorn-valu",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-anthropic-pitches-ai-safety",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -15,17 +42,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-spacex-s-ai-business-is-beat",
-      "title": "SpaceX’s AI business is beating expectations",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-ether-etf-outflows-continue",
-      "title": "Ether ETF outflows continue, pass $1B in October so far",
+      "id": "st-chainlink-cardano-other-bloc",
+      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,8 +60,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitwise-hyperliquid-seek-sec",
-      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "id": "st-standard-chartered-signs-def",
+      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -51,17 +69,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-judge-dismisses-sam-altman-s",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "id": "st-cryptocurrency-companies-can",
+      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-spacex-and-tesla-explore-mer",
-      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+      "id": "st-trump-to-throw-spotlight-on",
+      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,47 +87,119 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-monero-futures-are-again-hea",
-      "title": "Monero futures are again heating with leverage, raising volatility risks",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tether-leads-15-million-fund",
-      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ripple-brings-wall-street-in",
-      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-company-that-vouches-for-w",
-      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-hovers-around-83-000",
-      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "id": "st-how-a16z-backed-data-is-reth",
+      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-japanese-visitors-may-be-abl",
+      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-dogecoin-wallet-app-teams-un",
+      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-risk-management-grow",
+      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-foursquare-co-founder-says-e",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-promises-productivity-but",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-heat-pump-tech-is-170-years",
+      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chatgpt-ads-expands-to-26-ne",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-mach9-raises-34m-after-pivot",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-models-are-coming-to",
+      "title": "OpenAI models are coming to Google Cloud",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-patch-the-planet-global-resp",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-we-built-chatgpt-s-novel",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-using-thousands-of-ai-agents",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -118,42 +208,6 @@
       "title": "SpaceX and Tesla boards form special committees to review merger",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hugging-face-ceo-warns-that",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-s-cloud-partnershi",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-acquires-startup-orch",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-is-bringing-a-more-pe",
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -177,53 +231,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-advancing-coding-in-low-reso",
-      "title": "Advancing coding in low‑resource programming languages",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-ita-is-building-generati",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-stack-overflow-for-agents-tr",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-benefit-street-partners-answ",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "category": "Products and applications",
+      "id": "st-bitcoin-price-tags-84-6k-as",
+      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bringing-gpt-rosalind-to-aca",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-malaysia-central-bank-launch",
-      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "id": "st-solana-s-alpenglow-launches",
+      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -231,29 +249,74 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-musk-says-spacex-tesla-merge",
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-qubic-restarts-blockchain-op",
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "category": "Security and privacy",
+      "id": "st-big-tech-s-emudhra-fixes-may",
+      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-utah-ag-sues-kalshi-pursues",
-      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "id": "st-5-alternatives-to-ledger-to",
+      "title": "5 alternatives to Ledger to store your Bitcoin",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-occ-finalizes-genius-act-rul",
+      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-supernatural-s-comeback-star",
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-says-it-only-has-limit",
+      "title": "Apple says it only has ‘limited’ iPhone Duo units for in-store sales",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-blink-brings-4k-to-its-low-c",
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-samsung-s-5k-monitor-has-goo",
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
       "category": "Markets and business",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-conversational-gemini-naviga",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -261,33 +324,6 @@
       "id": "st-council-passes-law-to-requir",
       "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-s-more-personalized-g",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-is-giving-nick-shirley",
-      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-spacex-will-try-catching-sta",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -375,6 +411,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-doe-explains-artificial-inte",
+      "title": "DOE Explains...Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-can-we-apply-artificial",
+      "title": "How Can We Apply Artificial Intelligence?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-this-popular-cryptocurrency",
       "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
       "category": "Markets and business",
@@ -384,26 +438,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-college-holds-community-roun",
-      "title": "College holds community ‘roundtable discussion and listening session’ on artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-fsb-finalises-sound-practice",
       "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-cls-columbia-law-school-s",
-      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

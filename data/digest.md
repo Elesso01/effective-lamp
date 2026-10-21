@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-21
 
-6 stories briefed · feed mix 6 familiar / 39 discovery.
+6 stories briefed · feed mix 8 familiar / 41 discovery.
 
 ## Top stories
-1. **SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin** (Markets and business · CoinDesk) — A top crypto development today
-2. **A company that vouches for websites had secret keys so weak that 8 of them were cracked** (Markets and business · CoinDesk) — A top crypto development today
-3. **Monero futures are again heating with leverage, raising volatility risks** (Markets and business · CoinDesk) — A top AI development today
-4. **Tether leads $15 million funding round for AI-focused payment startup Mural** (Startups and companies · CoinDesk) — A top AI development today
-5. **Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Trump to throw spotlight on overseas crypto abuses at White House event** (Markets and business · CoinDesk) — A top crypto development today
+2. **Crypto Long & Short: Why real-world assets need fixed-rate loans onchain** (Regulation and policy · CoinDesk) — A top crypto development today
+3. **Blacksmith hits unicorn valuation after Sequoia leads Series C** (Regulation and policy · TechCrunch) — A top AI development today
+4. **Foursquare co-founder says equity holders saw no returns from the company’s acquisition** (Startups and companies · TechCrunch) — A top AI development today
+5. **How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin.
+- Discovery pick of the week: Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity.
 
 _News, not investment advice._
