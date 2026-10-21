@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T20:53:46.583Z",
+  "generated_at": "2026-10-21T01:06:04.420Z",
   "mix": {
-    "familiar": 7,
+    "familiar": 8,
     "discovery": 39
   },
   "items": [
@@ -20,6 +20,15 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-anthropic-pitches-ai-safety",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -60,13 +69,22 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-spacex-says-big-ai-growth-fu",
-      "title": "SpaceX says big AI growth fueled revenue jump",
+      "id": "st-judge-dismisses-sam-altman-s",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-u-s-cftc-sets-agenda-for-ai",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-okx-ice-co-chair-andrew-cuom",
@@ -114,11 +132,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-jpmorgan-sees-10-annual-bitc",
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "category": "Research and development",
+      "id": "st-spacex-and-tesla-boards-form",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-hugging-face-ceo-warns-that",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-s-cloud-partnershi",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "category": "Startups and companies",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -141,45 +177,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-has-joined-amazon-in",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chatgpt-now-lets-you-lock-yo",
-      "title": "ChatGPT now lets you lock your chats",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-eric-schmidt-reportedly-owns",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-s-muse-hits-10m-u-s-dow",
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-franchisee-reconciles-cash-i",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-terminal-x-matches-senior-in",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -231,11 +240,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-teaching-students-to-think-a",
-      "title": "Teaching students to think and learn through questions",
-      "category": "Research and development",
+      "id": "st-qubic-restarts-blockchain-op",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-utah-ag-sues-kalshi-pursues",
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "category": "Markets and business",
       "bucket": "ai",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -267,35 +285,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-alphabet-microsoft-add-objec",
-      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+      "id": "st-council-passes-law-to-requir",
+      "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-price-spikes-to-83-3",
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-logitech-s-refurbished-g-pro",
-      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-      "category": "Markets and business",
+      "id": "st-google-s-more-personalized-g",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-oura-adds-two-new-cardiovasc",
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "id": "st-trump-is-giving-nick-shirley",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-spacex-will-try-catching-sta",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -404,15 +422,6 @@
     {
       "id": "st-standard-chartered-unveils-f",
       "title": "Standard Chartered unveils first-of-its-kind cryptocurrency trading solution for affluent clients",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cryptocurrency-exchange-foun",
-      "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
