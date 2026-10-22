@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-22T20:12:25.022Z",
+  "generated_at": "2026-10-22T23:27:39.842Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 41
+    "familiar": 6,
+    "discovery": 42
   },
   "items": [
+    {
+      "id": "st-senate-s-top-democratic-inve",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-crypto-custody-specialist-fi",
       "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
@@ -24,33 +33,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-elon-musk-made-a-1-billion-i",
-      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-irish-cenbank-fines-coinbase",
-      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-fireblocks-disputes-report-o",
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
@@ -60,11 +42,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-sure-let-s-smoosh-spacex-and",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "id": "st-irish-cenbank-fines-coinbase",
+      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 9,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -114,11 +96,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-slides-below-82-000",
-      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-warhound-raises-200m-to-engi",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-as-blockchain-investing-fall",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-working-on-new-30b-ra",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-rivian-buys-world-model-star",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -152,33 +161,6 @@
     {
       "id": "st-canva-releases-its-first-ima",
       "title": "Canva releases its first image generation model",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-makes-its-jev-competi",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-s-mustafa-suleyman",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-former-openai-science-lead-l",
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -240,6 +222,42 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-using-thousands-of-ai-agents",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-new-deepseek-ban-in-us-swiss",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-circle-shareholder-sues-trum",
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-dune-launches-real-time-data",
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-winklevoss-pac-moves-into-te",
       "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
       "category": "Crypto and AI intersections",
@@ -267,35 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-circles-81-5k-etf-co",
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cryptoquant-ceo-calls-rising",
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-teenage-engineering-launched",
-      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-discord-now-formats-markdown",
-      "title": "Discord now formats Markdown previews right",
+      "id": "st-canva-s-first-ai-image-model",
+      "title": "Canva’s first AI image model plans designs before generating them",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,19 +294,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-new-fire-tv-stick-4k-is",
-      "title": "The new Fire TV Stick 4K is already half off",
-      "category": "Products and applications",
-      "bucket": "crypto",
+      "id": "st-pc-shipments-dropped-over-20",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "category": "Research and development",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-refurbished-ps5-consoles-inc",
-      "title": "Refurbished PS5 consoles include second controller for an extra $18",
+      "id": "st-meta-turns-muse-sharing-back",
+      "title": "Meta turns Muse sharing back on",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-s-ai-could-still-scrape",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -348,6 +348,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-huds-expands-artificial-inte",
+      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-the-best-cybersecurity-lies",
       "title": "The Best Cybersecurity Lies In Artificial Intelligence",
       "category": "Products and applications",
@@ -375,9 +384,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-stoc",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing - U.S. News",
-      "category": "Markets and business",
+      "id": "st-awareness-and-understanding",
+      "title": "Awareness and Understanding of Artificial Intelligence and Super Intelligence",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -386,6 +395,15 @@
     {
       "id": "st-artificial-intelligence-the",
       "title": "Artificial Intelligence: The Church Responds",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-evolution-of-artificial",
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -411,35 +429,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-wolcott-man-pleads-guilty-to",
-      "title": "Wolcott man pleads guilty to $1M cryptocurrency fraud scheme",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-task-force-recommendation",
-      "title": "AI Task Force recommendations guide Marquette’s next steps on artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-uc-san-diego-artificial-inte",
       "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-doe-explains-artificial-inte",
-      "title": "DOE Explains...Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
