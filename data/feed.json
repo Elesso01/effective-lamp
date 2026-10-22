@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-22T05:02:55.589Z",
+  "generated_at": "2026-10-22T13:54:44.814Z",
   "mix": {
-    "familiar": 12,
-    "discovery": 35
+    "familiar": 8,
+    "discovery": 42
   },
   "items": [
     {
-      "id": "st-bitcoin-etfs-attract-1-08-bi",
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "id": "st-ethereum-s-four-minute-settl",
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-traders-price-india-t",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-long-short-why-real-w",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "id": "st-china-seeks-to-seize-61-800",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -24,17 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-why-centralized-exchanges-re",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-tesla-says-it-will-start-sel",
-      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "id": "st-deepseek-reportedly-raises-1",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -42,8 +42,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-year-old-ai-lab-flapping-air",
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "id": "st-tesla-says-it-will-start-sel",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -60,38 +60,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cardano-foundation-urges-eu",
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "id": "st-thailand-sec-says-several-co",
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-uk-financial-watchdog-opens",
-      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-flying-roadsters-can-t-lift",
-      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-meta-says-it-would-ve-made-o",
-      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -105,26 +78,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-billionaire-david-tepper-s-a",
-      "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bitcoin-gives-back-its-run-a",
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-to-throw-spotlight-on",
-      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+      "id": "st-crypto-is-making-a-splash-in",
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -132,11 +87,56 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-a16z-backed-data-is-reth",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+      "id": "st-crypto-traders-seek-shelter",
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-slides-below-82-000",
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-bitcoin-slumps",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-asian-stocks-tumble-bitcoin",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-claude-duet-app-is-anthropic",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nirva-raises-33m-for-a-penda",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -159,26 +159,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-says-muse-has-over-10m",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-broad-access-through-consist",
       "title": "Broad access through consistent standards",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tesla-starts-optimus-robot-p",
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -222,15 +204,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-we-built-chatgpt-s-novel",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-using-thousands-of-ai-agents",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "category": "Research and development",
@@ -249,8 +222,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-american-bankers-association",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "id": "st-cryptoquant-ceo-calls-rising",
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -258,8 +231,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tether-backs-bolivian-fintec",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "id": "st-sofi-unveils-bank-issued-tok",
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-etf-buyers-are-trend",
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-uk-needs-a-workable-rout",
+      "title": "The UK needs a workable route to regulated DeFi access",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -267,8 +258,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-didn-t-mention-crypto",
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "id": "st-coindcx-admits-operational-l",
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,8 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-treasury-secretary-bessent-l",
-      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+      "id": "st-bitcoin-corrects-below-82k-a",
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,10 +276,73 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-data-centers-could-erase-dec",
-      "title": "Data centers could erase decades of air quality gains",
+      "id": "st-apple-will-label-apps-that-a",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-atari-vcs-saga-will-come",
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-just-because-tesla-s-optimus",
+      "title": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-experts-how-are-climate-scie",
+      "title": "Experts: How are climate scientists using artificial intelligence?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-1password-lets-ai-agents-use",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-is-this-cryptocurrency-a-pot",
+      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-judges-explore-artificial-in",
+      "title": "Judges explore Artificial Intelligence but keep decision-making human",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ordinance-banning-cryptocurr",
+      "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -303,19 +357,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-to-create-a-new-class-o",
-      "title": "Meta to create a new class of shares to fund AI push",
+      "id": "st-birdbuddy-s-nook-is-a-compac",
+      "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-php-the-three-letters-that-s",
-      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "id": "st-insta360-launches-a-cheaper",
+      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -330,8 +384,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-best-cybersecurity-lies",
-      "title": "The Best Cybersecurity Lies In Artificial Intelligence",
+      "id": "st-huds-expands-artificial-inte",
+      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -339,10 +393,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-italy-targets-crypto-money-l",
-      "title": "Italy Targets Crypto Money-Laundering Ring Across Europe",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-the-best-cybersecurity-lies",
+      "title": "The Best Cybersecurity Lies In Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -393,35 +447,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-task-force-recommendation",
-      "title": "AI Task Force recommendations guide Marquette’s next steps on artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-uc-san-diego-artificial-inte",
       "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-this-popular-cryptocurrency",
-      "title": "This Popular Cryptocurrency Could Go Parabolic in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-college-holds-community-roun",
-      "title": "College holds community ‘roundtable discussion and listening session’ on artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

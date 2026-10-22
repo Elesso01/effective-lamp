@@ -1,5 +1,37 @@
 [
   {
+    "id": "st-bitcoin-etfs-attract-1-08-bi",
+    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-22T04:41:59.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "type": "News",
+    "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-22T05:02:54.525Z"
+  },
+  {
+    "id": "st-bitcoin-gives-back-its-run-a",
+    "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-22T03:51:34.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+    "type": "News",
+    "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-22T05:02:54.525Z"
+  },
+  {
     "id": "st-trump-to-throw-spotlight-on",
     "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
     "source": "CoinDesk",
@@ -13,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.210Z"
+    "imported_at": "2026-10-22T05:02:54.525Z"
   },
   {
     "id": "st-how-a16z-backed-data-is-reth",
@@ -29,7 +61,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.211Z"
+    "imported_at": "2026-10-22T05:02:54.526Z"
   },
   {
     "id": "st-crypto-long-short-why-real-w",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.211Z"
+    "imported_at": "2026-10-22T05:02:54.526Z"
   },
   {
     "id": "st-why-centralized-exchanges-re",
@@ -61,55 +93,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.211Z"
+    "imported_at": "2026-10-22T05:02:54.526Z"
   },
   {
-    "id": "st-japanese-visitors-may-be-abl",
-    "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-21T12:10:39.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+    "id": "st-tesla-says-it-will-start-sel",
+    "title": "Tesla says it will start selling Cybercabs by end of year",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-22T00:17:54.000Z",
+    "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
     "type": "News",
-    "summary": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. Duri",
+    "category": "Regulation and policy",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.211Z"
-  },
-  {
-    "id": "st-dogecoin-wallet-app-teams-un",
-    "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-21T12:00:00.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-    "type": "News",
-    "summary": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.211Z"
-  },
-  {
-    "id": "st-bitcoin-risk-management-grow",
-    "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-21T11:15:00.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-    "type": "News",
-    "summary": "Your day-ahead look for Oct. 21, 2026",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-21T23:26:59.211Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-22T05:02:54.917Z"
   },
   {
     "id": "st-blackstone-s-jas-khaira-says",
@@ -125,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.440Z"
+    "imported_at": "2026-10-22T05:02:54.917Z"
   },
   {
     "id": "st-meta-wants-to-pay-for-its-br",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.440Z"
+    "imported_at": "2026-10-22T05:02:54.917Z"
   },
   {
     "id": "st-meta-says-muse-has-over-10m",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.440Z"
+    "imported_at": "2026-10-22T05:02:54.917Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-year-old-ai-lab-flapping-air",
@@ -184,12 +184,12 @@
     "published_at": "2026-10-21T20:57:40.000Z",
     "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
     "type": "News",
-    "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+    "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.440Z"
+    "imported_at": "2026-10-22T05:02:54.917Z"
   },
   {
     "id": "st-tesla-starts-optimus-robot-p",
@@ -205,23 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.440Z"
-  },
-  {
-    "id": "st-recursive-launches-flint-a-l",
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-21T20:27:41.000Z",
-    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "type": "News",
-    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.440Z"
+    "imported_at": "2026-10-22T05:02:54.917Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-chatgpt-ads-expands-to-26-ne",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-openai-models-are-coming-to",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-patch-the-planet-global-resp",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-how-we-built-chatgpt-s-novel",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-using-thousands-of-ai-agents",
@@ -317,23 +301,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
-    "id": "st-democratic-governance-of-fro",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "id": "st-cloudflare-links-vulnerabili",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
     "source": "OpenAI Blog",
     "sourceId": "rss-openai-blog",
     "author": "OpenAI Blog",
     "published_at": "2026-10-21T00:00:00.000Z",
-    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "url": "https://openai.com/index/cloudflare-cyber",
     "type": "News",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-21T23:26:59.409Z"
+    "imported_at": "2026-10-22T05:02:54.816Z"
   },
   {
     "id": "st-american-bankers-association",
@@ -349,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.281Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-tether-backs-bolivian-fintec",
@@ -365,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.281Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-trump-didn-t-mention-crypto",
@@ -381,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.281Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -397,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.281Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-cardano-foundation-urges-eu",
@@ -413,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.281Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-uk-financial-watchdog-opens",
@@ -429,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.282Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-treasury-secretary-bessent-l",
@@ -445,23 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.282Z"
-  },
-  {
-    "id": "st-chainlink-cardano-other-bloc",
-    "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-21T16:09:26.000Z",
-    "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-21T23:26:59.282Z"
+    "imported_at": "2026-10-22T05:02:54.629Z"
   },
   {
     "id": "st-flying-roadsters-can-t-lift",
@@ -477,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.567Z"
+    "imported_at": "2026-10-22T05:02:55.515Z"
   },
   {
     "id": "st-data-centers-could-erase-dec",
@@ -493,7 +461,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.567Z"
+    "imported_at": "2026-10-22T05:02:55.515Z"
+  },
+  {
+    "id": "st-cryptocurrency-in-family-law",
+    "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
+    "source": "Blank Rome LLP",
+    "sourceId": "rss-blank-rome-llp",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-21T22:30:47.000Z",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjlUOVlBa0dZWkJLY0EwLWRmM0xCbkgzWVFBS3JGZVpJMFFaWGpxVlZNU0xPMGJCOG9vMXhMY0ZzSGxiSDlvNm9kSnJ5d2g5dnJPT0I2Mkswdjl5RUdPRk9IZHRsU0FIRGlOdmNpangwQzZtMGlGUkczbEdSNVZVZlBnMDZ2YTcxeWI0aFdLMkxTbWRyaEZtazZiSC1TWTk3UUt6ZGhicHFwSG94?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjlUOVlBa0dZWkJLY0EwLWRmM0xCbkgzWVFBS3JGZVpJMFFaWGpxVlZNU0xPMGJCOG9vMXhMY0ZzSGxiSDlvNm9kSnJ5d2g5dnJPT0I2Mkswdjl5RUdPRk9IZHRsU0FIRGlOdmNpangwQzZtMGlGUkczbEdSNVZVZlBnMDZ2YTcxeWI0aFdLMkxTbWRyaEZtazZiSC1TWTk3UUt6ZGhicHFwSG",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-22T05:02:55.411Z"
   },
   {
     "id": "st-meta-to-create-a-new-class-o",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.567Z"
+    "imported_at": "2026-10-22T05:02:55.515Z"
   },
   {
     "id": "st-meta-says-it-would-ve-made-o",
@@ -525,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.567Z"
+    "imported_at": "2026-10-22T05:02:55.515Z"
   },
   {
     "id": "st-php-the-three-letters-that-s",
@@ -541,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.567Z"
+    "imported_at": "2026-10-22T05:02:55.515Z"
   },
   {
     "id": "st-lessons-from-cryptocurrency",
@@ -549,7 +533,7 @@
     "source": "JD Supra",
     "sourceId": "rss-jd-supra",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-21T19:53:39.000Z",
+    "published_at": "2026-10-21T20:09:42.000Z",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpaTZubnIzWTFneS1YTDVkYkRCVDJTSjZoRlg4V2UxWkRVZ0dWV3A2b2dfdWpkcExpNHAwYUstS3Rpd1ZmMVpQV0I1UFhVZE9ROEFYYnJnV2huRDNjblNEajFJUmFkcnhuQjFfSVZIb1RsUXdqNzBLUWxR?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBpaTZubnIzWTFneS1YTDVkYkRCVDJTSjZoRlg4V2UxWkRVZ0dWV3A2b2dfdWpkcExpNHAwYUstS3Rpd1ZmMVpQV0I1UFhVZE9ROEFYYnJnV2huRDNjblNEajFJUmFkcnhuQjFfSVZIb1RsUXdqNzBLUWxR?oc=5\" target=\"_blank\">Lessons from Cryptocurrency Insolvencies fo",
@@ -557,23 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
-  },
-  {
-    "id": "st-huds-expands-artificial-inte",
-    "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-    "source": "The Harvard Crimson",
-    "sourceId": "rss-the-harvard-crimson",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-21T18:49:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5\" target=\"_blank\">HUDS Expands Artificial Intelligence System to R",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.469Z"
+    "imported_at": "2026-10-22T05:02:55.411Z"
   },
   {
     "id": "st-cryptocurrency-companies-can",
@@ -589,7 +557,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
+    "imported_at": "2026-10-22T05:02:55.411Z"
+  },
+  {
+    "id": "st-the-best-cybersecurity-lies",
+    "title": "The Best Cybersecurity Lies In Artificial Intelligence",
+    "source": "Cybercrime Magazine",
+    "sourceId": "rss-cybercrime-magazine",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-21T13:20:23.000Z",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXVXY1FSX1p2UkZpQXJtcEFNcHk1Qi1HODl2dEk2dFU4WkJwSHdkMEFKQXBiTUNoY01VZkEwVGRISWhEN1RZOWtfRDhrdncwN0hKWmZXaDFWQjd3bC1hYlpyUHJTSk5sZGt5bElIZkRHaU5DZWYzdTBvMDhhTEQyNUVXd19jMHBES2IwRDQ2dGdKbFk?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXVXY1FSX1p2UkZpQXJtcEFNcHk1Qi1HODl2dEk2dFU4WkJwSHdkMEFKQXBiTUNoY01VZkEwVGRISWhEN1RZOWtfRDhrdncwN0hKWmZXaDFWQjd3bC1hYlpyUHJTSk5sZGt5bElIZkRHaU5DZWYzdTBvMDhhTEQyNUVXd19jMHBES2IwRDQ2dGdKbFk?oc=5\" target=\"_blank\">The Best",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-22T05:02:55.430Z"
+  },
+  {
+    "id": "st-italy-targets-crypto-money-l",
+    "title": "Italy Targets Crypto Money-Laundering Ring Across Europe",
+    "source": "Bloomberg.com",
+    "sourceId": "rss-bloomberg-com",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-21T11:15:16.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamFtb24xSFVocGpwUFNjY1FENzUwNEZnekRRZFhBdW51c2JVNGpXdDZLMzVfTHlpQVVmNDlJTFpnUUZlQmhXNmQyWm9BNnh5cGcwdHgzcXBTSGFfV05SeUJkRF9NUXZaSG1EMnh4RTRHbmE2aWN4VG5SM0FJUjVIandPS3NYRVBuYnM3ZVRfRWhmLWVGSTY5dVJNakliclBBdGFWQ2lJek94bm8?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamFtb24xSFVocGpwUFNjY1FENzUwNEZnekRRZFhBdW51c2JVNGpXdDZLMzVfTHlpQVVmNDlJTFpnUUZlQmhXNmQyWm9BNnh5cGcwdHgzcXBTSGFfV05SeUJkRF9NUXZaSG1EMnh4RTRHbmE2aWN4VG5SM0FJUjVIandPS3NYRVBuYnM3ZVRfRWhmLWVGSTY5dVJNakliclBBdGFWQ2lJek94bm",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-22T05:02:55.411Z"
   },
   {
     "id": "st-council-passes-law-to-requir",
@@ -605,39 +605,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
+    "imported_at": "2026-10-22T05:02:55.411Z"
   },
   {
-    "id": "st-got-500-1-cryptocurrency-to",
-    "title": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in 2027",
-    "source": "Yahoo Finance",
-    "sourceId": "rss-yahoo-finance",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-20T20:21:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHRXTjh2d0s5TUppMU1uMDd6Y3B2dmtZMzV0bUxvSk1TdUZTSV81S0hKRThJa1lwLXhDLWR6M3B0N0loSXRac3VKa3I2cnJzTUxOUW1zcXRNVW5PR0xZSktuUm1XdFEwc3F5T1FHaElsUVN0dHQ5MEI0WTJmMVJpaGdRUGZoeUt4NjlwV0NKRGl6ZzVVZmQ0dg?oc=5",
+    "id": "st-awareness-and-understanding",
+    "title": "Awareness and Understanding of Artificial Intelligence and Super Intelligence",
+    "source": "Ipsos",
+    "sourceId": "rss-ipsos",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-20T16:00:14.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1RENlNlOXdDWVNkWXEtRTViaWNqb3BxbURlYTFDalBYWVVxQTcxQVZSQjJjRGdkY2t3MFlLRzhqUnFRSGQzdk5mOWZ1WGFIeHF2WUpaakh5ZzJ4Zi1wX1Z6QzBjTnVJblNiZDg5dEVISnNNYVNsWllVV2xMTlA0SS01Skh4S3FwR2FaYUlDS1JnN05jdTRQa2ppUWkzb2VyTjVFRg?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHRXTjh2d0s5TUppMU1uMDd6Y3B2dmtZMzV0bUxvSk1TdUZTSV81S0hKRThJa1lwLXhDLWR6M3B0N0loSXRac3VKa3I2cnJzTUxOUW1zcXRNVW5PR0xZSktuUm1XdFEwc3F5T1FHaElsUVN0dHQ5MEI0WTJmMVJpaGdRUGZoeUt4NjlwV0NKRGl6ZzVVZmQ0dg?oc=5\" target=\"_blank\">G",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1RENlNlOXdDWVNkWXEtRTViaWNqb3BxbURlYTFDalBYWVVxQTcxQVZSQjJjRGdkY2t3MFlLRzhqUnFRSGQzdk5mOWZ1WGFIeHF2WUpaakh5ZzJ4Zi1wX1Z6QzBjTnVJblNiZDg5dEVISnNNYVNsWllVV2xMTlA0SS01Skh4S3FwR2FaYUlDS1JnN05jdTRQa2ppUWkzb2VyTjVFRg?oc=5\" t",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
-  },
-  {
-    "id": "st-wolcott-man-pleads-guilty-in",
-    "title": "Wolcott man pleads guilty in $1.16M cryptocurrency fraud scheme",
-    "source": "Hartford Business Journal",
-    "sourceId": "rss-hartford-business-journal",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-20T13:43:21.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclY3akEzUkdidW14M2pHNmM5UW9NSTFRV3NqUndic0pQdXU1cmZscW1yU3pJOVU1M1JjN0J1RnNEQ2xESUh3LWF2VG5ZVHNLaWlHTXllRVlOQ0l5d0dLcUh0TE9BWUY4c3V0ZFRVNHA3UEJjRk91TnBVT2RtSTBJZ1JrQzZ2U3NDQnZHMmFzcndBTkxiSDJiSDNDZWhvM1JoOVE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOclY3akEzUkdidW14M2pHNmM5UW9NSTFRV3NqUndic0pQdXU1cmZscW1yU3pJOVU1M1JjN0J1RnNEQ2xESUh3LWF2VG5ZVHNLaWlHTXllRVlOQ0l5d0dLcUh0TE9BWUY4c3V0ZFRVNHA3UEJjRk91TnBVT2RtSTBJZ1JrQzZ2U3NDQnZHMmFzcndBTkxiSDJiSDNDZWhvM1JoOVE?oc=5\" targ",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
+    "imported_at": "2026-10-22T05:02:55.430Z"
   },
   {
     "id": "st-the-evolution-of-artificial",
@@ -653,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.469Z"
+    "imported_at": "2026-10-22T05:02:55.430Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -669,7 +653,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
+    "imported_at": "2026-10-22T05:02:55.411Z"
+  },
+  {
+    "id": "st-billionaire-david-tepper-s-a",
+    "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+    "source": "Yahoo Finance",
+    "sourceId": "rss-yahoo-finance",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-19T22:04:01.000Z",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMk56NmR5dUZvRTVNTEdMLVJaTEs3dzBpcUZKalRzRTlyZExKb3ljREJ6VnFySFZfTjRFTEhsc3V0WThuajFCQTFFN3U4TEQ5b3BRZktpUnhGMzQxaXo1MHdQY0RwQWVUcWR5X1V5TXBEM0Q1c0xxLTNCdEI0UEtBUzZoOWVRSG50NUJvX2NmY21TLWQ4Xzh3YUt3UGdjVXhfbEpjU01pMkp5SEJDcFY4?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMk56NmR5dUZvRTVNTEdMLVJaTEs3dzBpcUZKalRzRTlyZExKb3ljREJ6VnFySFZfTjRFTEhsc3V0WThuajFCQTFFN3U4TEQ5b3BRZktpUnhGMzQxaXo1MHdQY0RwQWVUcWR5X1V5TXBEM0Q1c0xxLTNCdEI0UEtBUzZoOWVRSG50NUJvX2NmY21TLWQ4Xzh3YUt3UGdjVXhfbEpjU01pMkp5SE",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-22T05:02:55.430Z"
   },
   {
     "id": "st-wolcott-man-pleads-guilty-to",
@@ -685,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
+    "imported_at": "2026-10-22T05:02:55.411Z"
   },
   {
     "id": "st-ai-task-force-recommendation",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.469Z"
+    "imported_at": "2026-10-22T05:02:55.430Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -717,23 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.469Z"
-  },
-  {
-    "id": "st-the-ai-doom-scenario-you-ve",
-    "title": "The AI doom scenario you've never heard of may be the hardest to stop",
-    "source": "CBS News",
-    "sourceId": "rss-cbs-news",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-19T15:33:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5\" target=\"_blank\">The AI doom scenario you've never heard of ma",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.469Z"
+    "imported_at": "2026-10-22T05:02:55.430Z"
   },
   {
     "id": "st-this-popular-cryptocurrency",
@@ -749,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:26:59.973Z"
+    "imported_at": "2026-10-22T05:02:55.411Z"
   },
   {
     "id": "st-college-holds-community-roun",
@@ -765,22 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.469Z"
-  },
-  {
-    "id": "st-fsb-finalises-sound-practice",
-    "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
-    "source": "Financial Stability Board",
-    "sourceId": "rss-financial-stability-board",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-15T04:00:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-21T23:27:00.468Z"
+    "imported_at": "2026-10-22T05:02:55.430Z"
   }
 ]

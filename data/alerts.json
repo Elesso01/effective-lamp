@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-22T05:02:55.619Z",
+  "generated_at": "2026-10-22T13:54:44.851Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-bitcoin-etfs-attract-1-08-bi",
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "id": "st-crypto-traders-price-india-t",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-22T04:41:59.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
+      "published_at": "2026-10-22T10:18:28.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion"
     },
     {
-      "id": "st-crypto-long-short-why-real-w",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "id": "st-china-seeks-to-seize-61-800",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-21T15:00:53.000Z",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
+      "published_at": "2026-10-22T06:24:10.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
     }
   ]
 }
