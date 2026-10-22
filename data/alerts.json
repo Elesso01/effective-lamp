@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-21T23:27:00.694Z",
+  "generated_at": "2026-10-22T05:02:55.619Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-bitcoin-etfs-attract-1-08-bi",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-22T04:41:59.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
+    },
     {
       "id": "st-crypto-long-short-why-real-w",
       "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-21T15:00:53.000Z",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
-    },
-    {
-      "id": "st-why-centralized-exchanges-re",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-21T12:12:36.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity"
     }
   ]
 }
