@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T19:59:01.034Z",
+  "generated_at": "2026-10-23T23:14:04.752Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 41
+    "familiar": 7,
+    "discovery": 40
   },
   "items": [
     {
@@ -15,11 +15,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-oura-sues-rival-ultrahuman-a",
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+      "id": "st-wells-fargo-and-five-others",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
       "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -63,15 +63,6 @@
       "id": "st-not-bitcoin-not-ethereum-thi",
       "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-cryptocurrency-companies-can",
-      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
-      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
       "familiar": true,
@@ -150,6 +141,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-startups-don-t-need-to-go-vi",
+      "title": "Startups don’t need to go viral to win customers",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-says-it-will-no-longe",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-vcs-superhuman-mail-founder",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-carta-and-newview-partner-ho",
       "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
       "category": "Startups and companies",
@@ -177,45 +195,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-commonwealth-fusion-systems",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-what-some-of-anthropic-s-bac",
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lab-testing-giant-quest-diag",
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-securing-our-frontier-model",
       "title": "Securing our frontier model training environment",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-uber-rival-indrive-eyes-2027",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -258,6 +240,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-irs-plans-lower-tax-disclosu",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-seeks-support-above",
       "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
       "category": "Markets and business",
@@ -276,11 +267,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-consolidates-after-3",
-      "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
+      "id": "st-openai-now-trains-its-fronti",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -316,15 +307,6 @@
       "title": "The iPhone Duo should have been an iPad",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-now-google-says-it-might-use",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -384,6 +366,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-lessons-from-cryptocurrency",
       "title": "Lessons from Cryptocurrency Insolvencies for Traditional Lenders",
       "category": "Markets and business",
@@ -397,15 +388,6 @@
       "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-san-diego-moves-toward-requi",
-      "title": "San Diego moves toward requiring scam warnings on cryptocurrency ATMs",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-23
 
-6 stories briefed · feed mix 8 familiar / 41 discovery.
+6 stories briefed · feed mix 7 familiar / 40 discovery.
 
 ## Top stories
-1. **Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports** (Markets and business · CoinDesk) — A top crypto development today
-2. **Initia halts blockchain after exploit reportedly drains over $2.6M** (Security and privacy · Cointelegraph) — A top crypto development today
-3. **Carta and NewView partner, hoping to entice more startups to let employees sell shares early** (Startups and companies · TechCrunch) — A top AI development today
-4. **From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026** (Startups and companies · TechCrunch) — A top AI development today
+1. **Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report** (Regulation and policy · Cointelegraph) — A top crypto development today
+2. **IRS plans lower tax disclosure penalties, including for crypto: Forbes** (Markets and business · Cointelegraph) — A top crypto development today
+3. **Startups don’t need to go viral to win customers** (Startups and companies · TechCrunch) — A top AI development today
+4. **OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”** (Products and applications · TechCrunch) — A top AI development today
 5. **Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)** (Regulation and policy · OpenAI Blog) — Outside your usual reads — worth a skim
+6. **VCs, Superhuman Mail founder share red flags about product-market fit** (Markets and business · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II).
+- Discovery pick of the week: VCs, Superhuman Mail founder share red flags about product-market fit.
 
 _News, not investment advice._
