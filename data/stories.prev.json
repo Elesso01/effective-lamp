@@ -1,5 +1,117 @@
 [
   {
+    "id": "st-bitcoin-s-price-is-as-jumpy",
+    "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T11:22:33.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+    "type": "News",
+    "summary": "Your day-ahead look for Oct. 23, 2026",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.172Z"
+  },
+  {
+    "id": "st-live-updates-bitcoin-holds-a",
+    "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T11:13:01.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+    "type": "News",
+    "summary": "South Korea's Kospi was flat overnight, suggesting some steadying in the AI trade. Nasdaq 100 futures are steady as well, but oil continues its climb.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.172Z"
+  },
+  {
+    "id": "st-bitcoin-steadies-near-81-700",
+    "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T10:54:41.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+    "type": "News",
+    "summary": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.173Z"
+  },
+  {
+    "id": "st-bitcoin-appears-to-have-deco",
+    "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T10:53:09.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+    "type": "News",
+    "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.173Z"
+  },
+  {
+    "id": "st-hsbc-rolls-out-its-first-sta",
+    "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T10:22:56.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+    "type": "News",
+    "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.173Z"
+  },
+  {
+    "id": "st-sweden-s-central-bank-revive",
+    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T08:57:34.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+    "type": "News",
+    "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.173Z"
+  },
+  {
+    "id": "st-india-s-largest-exchange-den",
+    "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-23T08:02:35.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+    "type": "News",
+    "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-23T13:35:25.173Z"
+  },
+  {
     "id": "st-polymarket-has-reportedly-fi",
     "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
     "source": "CoinDesk",
@@ -13,103 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.486Z"
-  },
-  {
-    "id": "st-ethereum-delays-glamsterdam",
-    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-23T04:59:34.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "type": "News",
-    "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.486Z"
-  },
-  {
-    "id": "st-cardano-holders-are-being-as",
-    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-23T04:36:51.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-    "type": "News",
-    "summary": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.486Z"
-  },
-  {
-    "id": "st-bitcoin-gold-trim-early-loss",
-    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-23T03:13:01.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-    "type": "News",
-    "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.487Z"
-  },
-  {
-    "id": "st-senate-s-top-democratic-inve",
-    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-22T22:43:36.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-    "type": "News",
-    "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.487Z"
-  },
-  {
-    "id": "st-a16z-is-the-latest-vc-giant",
-    "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-22T18:30:57.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-    "type": "News",
-    "summary": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.487Z"
-  },
-  {
-    "id": "st-crypto-for-advisors-stableco",
-    "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-22T14:58:31.000Z",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-    "type": "News",
-    "summary": "",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T05:02:54.487Z"
+    "imported_at": "2026-10-23T13:35:25.173Z"
   },
   {
     "id": "st-oura-sues-rival-ultrahuman-a",
@@ -125,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
   },
   {
     "id": "st-uber-rival-indrive-eyes-2027",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
   },
   {
     "id": "st-left-alone-with-nothing-to-d",
@@ -157,7 +173,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
+  },
+  {
+    "id": "st-openai-and-poland-s-nask-par",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-23T00:00:00.000Z",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "type": "News",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-23T13:35:25.558Z"
   },
   {
     "id": "st-mark-zuckerberg-s-creative-p",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
   },
   {
     "id": "st-warhound-raises-200m-to-engi",
@@ -189,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
   },
   {
     "id": "st-as-blockchain-investing-fall",
@@ -205,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
   },
   {
     "id": "st-openai-working-on-new-30b-ra",
@@ -221,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.630Z"
   },
   {
     "id": "st-rivian-buys-world-model-star",
@@ -237,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.718Z"
+    "imported_at": "2026-10-23T13:35:25.631Z"
   },
   {
     "id": "st-uber-brings-chatgpt-work-to",
@@ -253,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.670Z"
+    "imported_at": "2026-10-23T13:35:25.558Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -269,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.670Z"
+    "imported_at": "2026-10-23T13:35:25.558Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -285,23 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.670Z"
-  },
-  {
-    "id": "st-chatgpt-ads-expands-to-26-ne",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-21T13:00:00.000Z",
-    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "type": "News",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.670Z"
+    "imported_at": "2026-10-23T13:35:25.558Z"
   },
   {
     "id": "st-openai-models-are-coming-to",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.670Z"
+    "imported_at": "2026-10-23T13:35:25.558Z"
   },
   {
     "id": "st-patch-the-planet-global-resp",
@@ -333,135 +349,167 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T05:02:54.670Z"
+    "imported_at": "2026-10-23T13:35:25.558Z"
   },
   {
-    "id": "st-bitcoin-core-changes-securit",
-    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+    "id": "st-china-targets-2030-for-its-n",
+    "title": "China targets 2030 for its national blockchain network buildout",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-23T04:34:14.000Z",
-    "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T13:21:07.000Z",
+    "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+    "summary": "China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-23T13:35:25.344Z"
+  },
+  {
+    "id": "st-bitcoin-consolidates-after-3",
+    "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-23T12:23:58.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.",
     "category": "Crypto and AI intersections",
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.536Z"
+    "imported_at": "2026-10-23T13:35:25.344Z"
   },
   {
-    "id": "st-switzerland-approves-first-s",
-    "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+    "id": "st-was-crypto-self-custody-ever",
+    "title": "Was crypto self-custody ever designed for beginners?",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-23T00:59:35.000Z",
-    "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T11:47:47.000Z",
+    "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
+    "summary": "Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.536Z"
+    "imported_at": "2026-10-23T13:35:25.344Z"
   },
   {
-    "id": "st-pentagon-bans-us-forces-from",
-    "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+    "id": "st-cysic-dangles-a-10-bounty-ha",
+    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-22T23:50:42.000Z",
-    "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T10:13:06.000Z",
+    "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Hegseth warned that prediction market wagers could expose military operations to adversaries.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.536Z"
-  },
-  {
-    "id": "st-new-deepseek-ban-in-us-swiss",
-    "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-22T22:50:22.000Z",
-    "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.",
-    "category": "Markets and business",
+    "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.536Z"
+    "imported_at": "2026-10-23T13:35:25.344Z"
   },
   {
-    "id": "st-circle-shareholder-sues-trum",
-    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+    "id": "st-bybit-secures-first-full-dub",
+    "title": "Bybit secures first full Dubai license for spot trading services",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-22T21:39:18.000Z",
-    "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T09:50:04.000Z",
+    "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.537Z"
-  },
-  {
-    "id": "st-dune-launches-real-time-data",
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-22T20:36:00.000Z",
-    "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.537Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-22T20:09:59.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "summary": "Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.537Z"
+    "imported_at": "2026-10-23T13:35:25.344Z"
   },
   {
-    "id": "st-winklevoss-pac-moves-into-te",
-    "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+    "id": "st-hsbc-launches-hong-kong-doll",
+    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-22T19:29:53.000Z",
-    "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T08:47:34.000Z",
+    "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
+    "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T05:02:54.537Z"
+    "imported_at": "2026-10-23T13:35:25.344Z"
+  },
+  {
+    "id": "st-malaysia-thailand-join-singa",
+    "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-23T07:15:53.000Z",
+    "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-23T13:35:25.344Z"
+  },
+  {
+    "id": "st-retro-gaming-is-being-overru",
+    "title": "Retro gaming is being overrun with AI",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-23T13:05:57.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "type": "News",
+    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible freq",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-23T13:35:26.791Z"
+  },
+  {
+    "id": "st-brick-s-new-app-blocker-is-d",
+    "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-23T12:50:17.000Z",
+    "url": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+    "type": "News",
+    "summary": "Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone aga",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-23T13:35:26.791Z"
+  },
+  {
+    "id": "st-startup-equips-genetically-e",
+    "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-23T10:58:03.000Z",
+    "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+    "type": "News",
+    "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Bioscien",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-23T13:35:26.792Z"
   },
   {
     "id": "st-etsy-is-cracking-down-on-ai",
@@ -477,39 +525,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.842Z"
+    "imported_at": "2026-10-23T13:35:26.792Z"
   },
   {
-    "id": "st-canva-s-first-ai-image-model",
-    "title": "Canva’s first AI image model plans designs before generating them",
+    "id": "st-no-the-iphone-duo-isn-t-a-sm",
+    "title": "No, the iPhone Duo isn’t a small phone",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-22T21:53:22.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "published_at": "2026-10-22T23:48:51.000Z",
+    "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
     "type": "News",
-    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing",
+    "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no.",
     "category": "Products and applications",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.842Z"
-  },
-  {
-    "id": "st-pc-shipments-dropped-over-20",
-    "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-22T21:30:39.000Z",
-    "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-    "type": "News",
-    "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipmen",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.842Z"
+    "imported_at": "2026-10-23T13:35:26.792Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -525,39 +557,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   },
   {
-    "id": "st-meta-turns-muse-sharing-back",
-    "title": "Meta turns Muse sharing back on",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-22T20:33:38.000Z",
-    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "id": "st-nvidia-has-80-of-its-portfol",
+    "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+    "source": "Yahoo Finance",
+    "sourceId": "rss-yahoo-finance",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-22T09:13:02.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlJaWE4wMTdlM1gySHFMcjlzbEt2RU9kaGpma0hqa0c3d1J4TE9KN29kMzcza25YYUlTd0Fkb3Y1UGFJQm1Ha29kcTlyeXh2SjBvNVRNaWY5UmVpUEtRRHZxbG5jaVA3TlFfbk1Pd0VzY1ZzOHpsT0Z4a2N4cHhsVnNzNXp0dWhqRXItTVRxQXkzay1XY1pxSlhB?oc=5",
     "type": "News",
-    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan applicati",
-    "category": "Research and development",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlJaWE4wMTdlM1gySHFMcjlzbEt2RU9kaGpma0hqa0c3d1J4TE9KN29kMzcza25YYUlTd0Fkb3Y1UGFJQm1Ha29kcTlyeXh2SjBvNVRNaWY5UmVpUEtRRHZxbG5jaVA3TlFfbk1Pd0VzY1ZzOHpsT0Z4a2N4cHhsVnNzNXp0dWhqRXItTVRxQXkzay1XY1pxSlhB?oc=5\" target=\"_blank\"",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.842Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   },
   {
-    "id": "st-meta-s-ai-could-still-scrape",
-    "title": "Meta’s AI could still scrape news sites, legal experts say",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-22T20:32:05.000Z",
-    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "id": "st-here-s-how-umkc-is-embracing",
+    "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
+    "source": "University of Missouri-Kansas City",
+    "sourceId": "rss-university-of-missouri-kansas-city",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-22T07:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5",
     "type": "News",
-    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your product",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5\" tar",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.842Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   },
   {
     "id": "st-is-this-cryptocurrency-a-pot",
@@ -573,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
     "id": "st-cryptocurrency-in-family-law",
@@ -589,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
     "id": "st-lessons-from-cryptocurrency",
@@ -605,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
     "id": "st-huds-expands-artificial-inte",
@@ -621,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   },
   {
     "id": "st-cryptocurrency-companies-can",
@@ -637,39 +669,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
-    "id": "st-the-best-cybersecurity-lies",
-    "title": "The Best Cybersecurity Lies In Artificial Intelligence",
-    "source": "Cybercrime Magazine",
-    "sourceId": "rss-cybercrime-magazine",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-21T13:20:23.000Z",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXVXY1FSX1p2UkZpQXJtcEFNcHk1Qi1HODl2dEk2dFU4WkJwSHdkMEFKQXBiTUNoY01VZkEwVGRISWhEN1RZOWtfRDhrdncwN0hKWmZXaDFWQjd3bC1hYlpyUHJTSk5sZGt5bElIZkRHaU5DZWYzdTBvMDhhTEQyNUVXd19jMHBES2IwRDQ2dGdKbFk?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXVXY1FSX1p2UkZpQXJtcEFNcHk1Qi1HODl2dEk2dFU4WkJwSHdkMEFKQXBiTUNoY01VZkEwVGRISWhEN1RZOWtfRDhrdncwN0hKWmZXaDFWQjd3bC1hYlpyUHJTSk5sZGt5bElIZkRHaU5DZWYzdTBvMDhhTEQyNUVXd19jMHBES2IwRDQ2dGdKbFk?oc=5\" target=\"_blank\">The Best",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
-  },
-  {
-    "id": "st-italy-targets-crypto-money-l",
-    "title": "Italy Targets Crypto Money-Laundering Ring Across Europe",
-    "source": "Bloomberg.com",
-    "sourceId": "rss-bloomberg-com",
+    "id": "st-san-diego-moves-toward-requi",
+    "title": "San Diego moves toward requiring scam warnings on cryptocurrency ATMs",
+    "source": "cbs8.com",
+    "sourceId": "rss-cbs8-com",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-21T11:15:16.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamFtb24xSFVocGpwUFNjY1FENzUwNEZnekRRZFhBdW51c2JVNGpXdDZLMzVfTHlpQVVmNDlJTFpnUUZlQmhXNmQyWm9BNnh5cGcwdHgzcXBTSGFfV05SeUJkRF9NUXZaSG1EMnh4RTRHbmE2aWN4VG5SM0FJUjVIandPS3NYRVBuYnM3ZVRfRWhmLWVGSTY5dVJNakliclBBdGFWQ2lJek94bm8?oc=5",
+    "published_at": "2026-10-21T04:26:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnFHTHg3ZkRhamJnQ0c3MkloSlJpcWRoNk1CVHYyTE92elJ4MTgyOTFZVTYxakF3WWFKNzhhd3A0cDlHN09iaWpBZ0xOS0k4U3dWakdRS0J0UEc0TDNlSjZxeG1ZYzRUbFFpcGZhalJHVlZ1UDhFTk55OGU0ME9FVWdIbGVEbXpEbUFTZjQxS080VURZanhfckp6dzB1OUI2ajllZklxTFl0RVltU2JFVjZMUTYwb0Rfd0FrVFBYcjNwNzJfR1A3VlVNaDNJenZ0U1Bja1JsblQtRGR1TE5qWWFR?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamFtb24xSFVocGpwUFNjY1FENzUwNEZnekRRZFhBdW51c2JVNGpXdDZLMzVfTHlpQVVmNDlJTFpnUUZlQmhXNmQyWm9BNnh5cGcwdHgzcXBTSGFfV05SeUJkRF9NUXZaSG1EMnh4RTRHbmE2aWN4VG5SM0FJUjVIandPS3NYRVBuYnM3ZVRfRWhmLWVGSTY5dVJNakliclBBdGFWQ2lJek94bm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnFHTHg3ZkRhamJnQ0c3MkloSlJpcWRoNk1CVHYyTE92elJ4MTgyOTFZVTYxakF3WWFKNzhhd3A0cDlHN09iaWpBZ0xOS0k4U3dWakdRS0J0UEc0TDNlSjZxeG1ZYzRUbFFpcGZhalJHVlZ1UDhFTk55OGU0ME9FVWdIbGVEbXpEbUFTZjQxS080VURZanhfckp6dzB1OUI2ajllZklxTFl0RV",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
     "id": "st-council-passes-law-to-requir",
@@ -685,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
     "id": "st-artificial-intelligence-the",
@@ -701,23 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
-  },
-  {
-    "id": "st-the-evolution-of-artificial",
-    "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-    "source": "CancerNetwork",
-    "sourceId": "rss-cancernetwork",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-20T07:48:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   },
   {
     "id": "st-call-for-papers-advancing-re",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -749,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.196Z"
+    "imported_at": "2026-10-23T13:35:26.119Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -765,6 +765,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T05:02:55.772Z"
+    "imported_at": "2026-10-23T13:35:26.694Z"
   }
 ]

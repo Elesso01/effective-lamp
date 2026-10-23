@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-23T13:35:26.873Z",
+  "generated_at": "2026-10-23T19:59:01.034Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 44
+    "familiar": 8,
+    "discovery": 41
   },
   "items": [
     {
+      "id": "st-rapidly-scaling-online-stora",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-oura-sues-rival-ultrahuman-a",
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -15,20 +24,47 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-mark-zuckerberg-s-creative-p",
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "id": "st-initia-halts-blockchain-afte",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bybit-secures-first-full-dub",
-      "title": "Bybit secures first full Dubai license for spot trading services",
+      "id": "st-us-senator-probes-tether-aft",
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-sec-flags-tokenization-as-hi",
+      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-not-bitcoin-not-ethereum-thi",
+      "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,6 +78,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-robinhood-sees-surge-in-bitc",
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-core-changes-securit",
+      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-s-price-is-as-jumpy",
       "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
       "category": "Markets and business",
@@ -52,9 +106,9 @@
     },
     {
       "id": "st-live-updates-bitcoin-holds-a",
-      "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -96,36 +150,72 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-india-s-largest-exchange-den",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-polymarket-has-reportedly-fi",
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-uber-rival-indrive-eyes-2027",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "category": "Products and applications",
+      "id": "st-carta-and-newview-partner-ho",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-left-alone-with-nothing-to-d",
-      "title": "Left alone with nothing to do, AI agents started playing",
+      "id": "st-from-toast-to-bessemer-who-f",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-agent-cloud-startup-daytona",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-commonwealth-fusion-systems",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-what-some-of-anthropic-s-bac",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
       "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-lab-testing-giant-quest-diag",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-securing-our-frontier-model",
+      "title": "Securing our frontier model training environment",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uber-rival-indrive-eyes-2027",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -135,42 +225,6 @@
       "id": "st-openai-and-poland-s-nask-par",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-warhound-raises-200m-to-engi",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-as-blockchain-investing-fall",
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-working-on-new-30b-ra",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-rivian-buys-world-model-star",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -204,20 +258,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-models-are-coming-to",
-      "title": "OpenAI models are coming to Google Cloud",
+      "id": "st-bitcoin-seeks-support-above",
+      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
       "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-patch-the-planet-global-resp",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -240,44 +285,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-was-crypto-self-custody-ever",
-      "title": "Was crypto self-custody ever designed for beginners?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cysic-dangles-a-10-bounty-ha",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hsbc-launches-hong-kong-doll",
-      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+      "id": "st-abandoned-popcorn-time-apps",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-malaysia-thailand-join-singa",
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-retro-gaming-is-being-overru",
-      "title": "Retro gaming is being overrun with AI",
+      "id": "st-jack-dorsey-s-block-made-an",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -285,8 +303,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-brick-s-new-app-blocker-is-d",
-      "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+      "id": "st-soundcore-s-latest-noise-cru",
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -294,28 +312,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-startup-equips-genetically-e",
-      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-etsy-is-cracking-down-on-ai",
-      "title": "Etsy is cracking down on AI slop listings",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-no-the-iphone-duo-isn-t-a-sm",
-      "title": "No, the iPhone Duo isn’t a small phone",
+      "id": "st-the-iphone-duo-should-have-b",
+      "title": "The iPhone Duo should have been an iPad",
       "category": "Products and applications",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-now-google-says-it-might-use",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-why-trump-s-rebrand-of-artif",
+      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -397,15 +415,6 @@
       "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-the",
-      "title": "Artificial Intelligence: The Church Responds",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
