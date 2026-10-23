@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T23:27:39.874Z",
-  "count": 2,
+  "generated_at": "2026-10-23T05:02:55.962Z",
+  "count": 1,
   "alerts": [
     {
       "id": "st-senate-s-top-democratic-inve",
@@ -9,14 +9,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-22T22:43:36.000Z",
       "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
-    },
-    {
-      "id": "st-crypto-custody-specialist-fi",
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-22T14:37:12.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa"
     }
   ]
 }
