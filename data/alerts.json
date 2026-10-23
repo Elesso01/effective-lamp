@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T05:02:55.962Z",
+  "generated_at": "2026-10-23T13:35:26.906Z",
   "count": 1,
   "alerts": [
     {
-      "id": "st-senate-s-top-democratic-inve",
-      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-      "category": "Regulation and policy",
+      "id": "st-india-s-largest-exchange-den",
+      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-10-22T22:43:36.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+      "published_at": "2026-10-23T08:02:35.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows"
     }
   ]
 }
