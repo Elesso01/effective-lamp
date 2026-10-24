@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-franklin-templeton-adds-150",
+    "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-24T04:45:43.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+    "type": "News",
+    "summary": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-24T04:47:35.770Z"
+  },
+  {
     "id": "st-robinhood-sees-surge-in-bitc",
     "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-bitcoin-core-changes-securit",
@@ -29,7 +45,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-bitcoin-s-price-is-as-jumpy",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-live-updates-bitcoin-holds-a",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-bitcoin-steadies-near-81-700",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-bitcoin-appears-to-have-deco",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-hsbc-rolls-out-its-first-sta",
@@ -109,23 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
-  },
-  {
-    "id": "st-sweden-s-central-bank-revive",
-    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-23T08:57:34.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "type": "News",
-    "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-23T23:14:03.319Z"
+    "imported_at": "2026-10-24T04:47:35.770Z"
   },
   {
     "id": "st-startups-don-t-need-to-go-vi",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.695Z"
+    "imported_at": "2026-10-24T04:47:35.987Z"
   },
   {
     "id": "st-openai-says-it-will-no-longe",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.695Z"
+    "imported_at": "2026-10-24T04:47:35.987Z"
   },
   {
     "id": "st-vcs-superhuman-mail-founder",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.695Z"
+    "imported_at": "2026-10-24T04:47:35.987Z"
   },
   {
     "id": "st-carta-and-newview-partner-ho",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.695Z"
+    "imported_at": "2026-10-24T04:47:35.987Z"
   },
   {
     "id": "st-from-toast-to-bessemer-who-f",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.695Z"
+    "imported_at": "2026-10-24T04:47:35.987Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.638Z"
+    "imported_at": "2026-10-24T04:47:35.957Z"
   },
   {
     "id": "st-agent-cloud-startup-daytona",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.695Z"
+    "imported_at": "2026-10-24T04:47:35.987Z"
   },
   {
     "id": "st-securing-our-frontier-model",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.638Z"
+    "imported_at": "2026-10-24T04:47:35.957Z"
   },
   {
     "id": "st-openai-and-poland-s-nask-par",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.638Z"
+    "imported_at": "2026-10-24T04:47:35.957Z"
   },
   {
     "id": "st-uber-brings-chatgpt-work-to",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.638Z"
+    "imported_at": "2026-10-24T04:47:35.957Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.638Z"
+    "imported_at": "2026-10-24T04:47:35.957Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-23T23:14:03.638Z"
+    "imported_at": "2026-10-24T04:47:35.957Z"
   },
   {
     "id": "st-wells-fargo-and-five-others",
@@ -333,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.450Z"
+    "imported_at": "2026-10-24T04:47:35.842Z"
   },
   {
     "id": "st-irs-plans-lower-tax-disclosu",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.450Z"
+    "imported_at": "2026-10-24T04:47:35.842Z"
   },
   {
     "id": "st-initia-halts-blockchain-afte",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.451Z"
+    "imported_at": "2026-10-24T04:47:35.842Z"
   },
   {
     "id": "st-us-senator-probes-tether-aft",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.451Z"
+    "imported_at": "2026-10-24T04:47:35.842Z"
   },
   {
     "id": "st-sec-flags-tokenization-as-hi",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.451Z"
+    "imported_at": "2026-10-24T04:47:35.842Z"
   },
   {
     "id": "st-bitcoin-seeks-support-above",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.451Z"
+    "imported_at": "2026-10-24T04:47:35.842Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.451Z"
+    "imported_at": "2026-10-24T04:47:35.843Z"
   },
   {
     "id": "st-china-targets-2030-for-its-n",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-23T23:14:03.451Z"
+    "imported_at": "2026-10-24T04:47:35.843Z"
   },
   {
     "id": "st-openai-now-trains-its-fronti",
@@ -461,7 +461,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.675Z"
+    "imported_at": "2026-10-24T04:47:36.910Z"
+  },
+  {
+    "id": "st-on-meidas-defense-cryptocurr",
+    "title": "On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo",
+    "source": "Citation Needed by Molly White",
+    "sourceId": "rss-citation-needed-by-molly-white",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-23T20:10:04.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYXFKeC1kTmVnaFhCdDdweVVrRy1JdG5kZlgyczc3M0l3aTQtX3UxMmhtOEctcm1zbk5aYVp2eXdqSFA5TWY2eE5sNlNVVWg4cko3aGxYVTlmeXNIVlg2aEdRck9oS3V6?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYXFKeC1kTmVnaFhCdDdweVVrRy1JdG5kZlgyczc3M0l3aTQtX3UxMmhtOEctcm1zbk5aYVp2eXdqSFA5TWY2eE5sNlNVVWg4cko3aGxYVTlmeXNIVlg2aEdRck9oS3V6?oc=5\" target=\"_blank\">On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro qu",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-abandoned-popcorn-time-apps",
@@ -477,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.675Z"
+    "imported_at": "2026-10-24T04:47:36.910Z"
   },
   {
     "id": "st-jack-dorsey-s-block-made-an",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.675Z"
+    "imported_at": "2026-10-24T04:47:36.910Z"
   },
   {
     "id": "st-soundcore-s-latest-noise-cru",
@@ -509,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.675Z"
+    "imported_at": "2026-10-24T04:47:36.910Z"
   },
   {
     "id": "st-the-iphone-duo-should-have-b",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.675Z"
+    "imported_at": "2026-10-24T04:47:36.910Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.869Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -557,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.869Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.869Z"
   },
   {
     "id": "st-here-s-how-umkc-is-embracing",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.869Z"
   },
   {
     "id": "st-is-this-cryptocurrency-a-pot",
@@ -621,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-cryptocurrency-in-family-law",
@@ -637,23 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
-  },
-  {
-    "id": "st-today-s-crypto-news-bitcoin",
-    "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-    "source": "Investing News Network",
-    "sourceId": "rss-investing-news-network",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-21T21:05:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5\" target=\"_blank\">Today's Crypto News: Bitcoin, Ether and Altcoin Insights</a>&nbsp;&nbsp;",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-lessons-from-cryptocurrency",
@@ -669,23 +669,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
-    "id": "st-huds-expands-artificial-inte",
-    "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-    "source": "The Harvard Crimson",
-    "sourceId": "rss-the-harvard-crimson",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-21T18:49:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5",
+    "id": "st-cryptocurrency-companies-can",
+    "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
+    "source": "Bozeman Daily Chronicle",
+    "sourceId": "rss-bozeman-daily-chronicle",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-21T16:22:38.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUXNlek03cmZkVG9mYm5hcEwxZzE4WUlxRVVtT2tyM3FteW9Yb3l0OUJtaXpybUhXM1o3bXJoN3BQb3dNMzNlSlUtVmJXUFhYZ01keUtLUmhtYkRQeGZGZE53OFJRT0RIcmY3M25kXzhLamd2djJ0U0R5eGVMTVAtbHF4N3ZOYV94OC1YYjVXVFkzRGRCcm9BOFZLT2tILVFmc3hicnpmRGRLRjBIMFM2U0ptX2czTEdjVW9hajFudktZZHZXVUlGMnV3bXg0S3JPOU51NVo5U1JyWXhDbzBZcVBXQ3Y0NFpxV3RTQW1fNWVkY1Fnc1M0VndUTHU4MktEeU13c3cyQlNkSDBjQ1lYMHNyVkVFWkhRUGN2ZA?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5\" target=\"_blank\">HUDS Expands Artificial Intelligence System to R",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNUXNlek03cmZkVG9mYm5hcEwxZzE4WUlxRVVtT2tyM3FteW9Yb3l0OUJtaXpybUhXM1o3bXJoN3BQb3dNMzNlSlUtVmJXUFhYZ01keUtLUmhtYkRQeGZGZE53OFJRT0RIcmY3M25kXzhLamd2djJ0U0R5eGVMTVAtbHF4N3ZOYV94OC1YYjVXVFkzRGRCcm9BOFZLT2tILVFmc3hicnpmRGRLRj",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-council-passes-law-to-requir",
@@ -701,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-call-for-papers-advancing-re",
@@ -717,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.869Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -733,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.159Z"
+    "imported_at": "2026-10-24T04:47:36.415Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -749,6 +749,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-23T23:14:04.621Z"
+    "imported_at": "2026-10-24T04:47:36.869Z"
+  },
+  {
+    "id": "st-i-research-ai-consciousness",
+    "title": "I research AI consciousness – here’s how this new intelligence is now shaping ours",
+    "source": "The Independent",
+    "sourceId": "rss-the-independent",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-17T05:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTdMU2lDYjRsc2VYTHV5RVlNR3YyaFhFRzFac1Jvd0NXOUJFTkpIN1FaVDBHVVVsNF9jcG9aR01HSkM2d3VWd3hkYU9YaHpleTdtbGlzeG5KMFVmV2luTkwwRURFWU8zbjZjQ2NPQ2pkd2d4N3phbDRqa3ZTcmJJUHlYMVZtQ0FSVVBqeU03TVV3ay1Za3U4R1hCbVdYMm16RGt5WGhB?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTdMU2lDYjRsc2VYTHV5RVlNR3YyaFhFRzFac1Jvd0NXOUJFTkpIN1FaVDBHVVVsNF9jcG9aR01HSkM2d3VWd3hkYU9YaHpleTdtbGlzeG5KMFVmV2luTkwwRURFWU8zbjZjQ2NPQ2pkd2d4N3phbDRqa3ZTcmJJUHlYMVZtQ0FSVVBqeU03TVV3ay1Za3U4R1hCbVdYMm16RGt5WGhB?oc=5\"",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T04:47:36.869Z"
   }
 ]

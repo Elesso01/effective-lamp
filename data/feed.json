@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T04:47:37.004Z",
+  "generated_at": "2026-10-24T12:46:28.895Z",
   "mix": {
     "familiar": 8,
-    "discovery": 40
+    "discovery": 38
   },
   "items": [
     {
@@ -141,15 +141,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hsbc-rolls-out-its-first-sta",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-startups-don-t-need-to-go-vi",
       "title": "Startups don’t need to go viral to win customers",
       "category": "Startups and companies",
@@ -276,6 +267,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-lee-chang-dong-ponders-the-e",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-openai-now-trains-its-fronti",
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "category": "Security and privacy",
@@ -314,15 +314,6 @@
     {
       "id": "st-soundcore-s-latest-noise-cru",
       "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-iphone-duo-should-have-b",
-      "title": "The iPhone Duo should have been an iPad",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -375,6 +366,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-ordinance-banning-cryptocurr",
+      "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-cryptocurrency-in-family-law",
       "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
       "category": "Markets and business",
@@ -386,15 +386,6 @@
     {
       "id": "st-lessons-from-cryptocurrency",
       "title": "Lessons from Cryptocurrency Insolvencies for Traditional Lenders",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-council-passes-law-to-requir",
-      "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -423,15 +414,6 @@
       "id": "st-uc-san-diego-artificial-inte",
       "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-i-research-ai-consciousness",
-      "title": "I research AI consciousness – here’s how this new intelligence is now shaping ours",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
