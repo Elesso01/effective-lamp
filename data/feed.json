@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T18:51:13.305Z",
+  "generated_at": "2026-10-24T22:34:21.850Z",
   "mix": {
     "familiar": 9,
-    "discovery": 34
+    "discovery": 36
   },
   "items": [
     {
@@ -141,6 +141,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-will-ai-expose-the-rickety-i",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-ai-graveyard-a-running-l",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-block-s-new-voice-model-soun",
       "title": "Block’s new voice model sounds eerily human",
       "category": "Products and applications",
@@ -153,24 +171,6 @@
       "id": "st-forced-to-pick-grok-s-ai-mod",
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-here-are-the-top-ai-agents-t",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-startups-don-t-need-to-go-vi",
-      "title": "Startups don’t need to go viral to win customers",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -249,6 +249,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-blue-planet-iii-is-keeping-t",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-pennsylvania-will-require-la",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-what-to-expect-from-apple-s",
       "title": "What to expect from Apple’s ‘Pro and tell’ event",
       "category": "Products and applications",
@@ -261,6 +279,15 @@
       "id": "st-lee-chang-dong-ponders-the-e",
       "title": "Lee Chang Dong ponders the ethics of the camera",
       "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chinese-national-extradited",
+      "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -341,15 +368,6 @@
     {
       "id": "st-ordinance-banning-cryptocurr",
       "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cryptocurrency-in-family-law",
-      "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

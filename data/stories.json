@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.447Z"
   },
   {
     "id": "st-block-s-new-voice-ai-sounds",
@@ -29,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.447Z"
   },
   {
     "id": "st-crypto-under-weekend-pressur",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.447Z"
   },
   {
     "id": "st-why-mcdonalds-microsoft-and",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.447Z"
   },
   {
     "id": "st-argentina-drops-criminal-pro",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.447Z"
   },
   {
     "id": "st-wells-fargo-cisco-marvell-am",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.447Z"
   },
   {
     "id": "st-bitcoin-s-wealthy-holders-tu",
@@ -109,7 +109,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T18:51:11.606Z"
+    "imported_at": "2026-10-24T22:34:20.448Z"
+  },
+  {
+    "id": "st-will-ai-expose-the-rickety-i",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-24T20:15:33.000Z",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "type": "News",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-24T22:34:20.758Z"
+  },
+  {
+    "id": "st-the-ai-graveyard-a-running-l",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-24T19:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "type": "News",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-24T22:34:20.758Z"
   },
   {
     "id": "st-block-s-new-voice-model-soun",
@@ -125,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.123Z"
+    "imported_at": "2026-10-24T22:34:20.758Z"
   },
   {
     "id": "st-forced-to-pick-grok-s-ai-mod",
@@ -141,39 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.123Z"
-  },
-  {
-    "id": "st-here-are-the-top-ai-agents-t",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-24T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "type": "News",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.123Z"
-  },
-  {
-    "id": "st-startups-don-t-need-to-go-vi",
-    "title": "Startups don’t need to go viral to win customers",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-23T23:07:45.000Z",
-    "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-    "type": "News",
-    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.123Z"
+    "imported_at": "2026-10-24T22:34:20.758Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.017Z"
+    "imported_at": "2026-10-24T22:34:20.690Z"
   },
   {
     "id": "st-securing-our-frontier-model",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.017Z"
+    "imported_at": "2026-10-24T22:34:20.690Z"
   },
   {
     "id": "st-openai-and-poland-s-nask-par",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.017Z"
+    "imported_at": "2026-10-24T22:34:20.690Z"
   },
   {
     "id": "st-uber-brings-chatgpt-work-to",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.017Z"
+    "imported_at": "2026-10-24T22:34:20.690Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.017Z"
+    "imported_at": "2026-10-24T22:34:20.690Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T18:51:12.017Z"
+    "imported_at": "2026-10-24T22:34:20.690Z"
   },
   {
     "id": "st-wells-fargo-and-five-others",
@@ -285,7 +285,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.541Z"
   },
   {
     "id": "st-irs-plans-lower-tax-disclosu",
@@ -301,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.541Z"
   },
   {
     "id": "st-initia-halts-blockchain-afte",
@@ -317,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.541Z"
   },
   {
     "id": "st-us-senator-probes-tether-aft",
@@ -333,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.541Z"
   },
   {
     "id": "st-sec-flags-tokenization-as-hi",
@@ -349,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.542Z"
   },
   {
     "id": "st-bitcoin-seeks-support-above",
@@ -365,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.542Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.542Z"
   },
   {
     "id": "st-china-targets-2030-for-its-n",
@@ -397,7 +397,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T18:51:11.819Z"
+    "imported_at": "2026-10-24T22:34:20.542Z"
+  },
+  {
+    "id": "st-blue-planet-iii-is-keeping-t",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-24T21:29:12.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "type": "News",
+    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when thing",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T22:34:21.777Z"
+  },
+  {
+    "id": "st-pennsylvania-will-require-la",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-24T18:32:44.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "type": "News",
+    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T22:34:21.777Z"
   },
   {
     "id": "st-what-to-expect-from-apple-s",
@@ -413,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.154Z"
+    "imported_at": "2026-10-24T22:34:21.777Z"
   },
   {
     "id": "st-lee-chang-dong-ponders-the-e",
@@ -429,7 +461,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.154Z"
+    "imported_at": "2026-10-24T22:34:21.777Z"
+  },
+  {
+    "id": "st-chinese-national-extradited",
+    "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+    "source": "upi",
+    "sourceId": "rss-upi",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-24T02:34:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9IBrwFBVV95cUxNZS1NZVlPS0g1Y1QyZnVORWYyVGdGX3ZtNzlIT2NrUzE0TWV2ZlZkbmNfWXcySlMyeEtQbENlczVXZXNQTlZ6Y1ZHUVNFWDBZSEpoblg5VU94LUxFWGllTkcxWnhCYTROajUtbXpSajhRUm1TaG12UEhrTUlqY1VaNks4dmU1d3JrdWppdlIyb3dIUzJ6QkZrNkJjNW1wUV9xQjA3dFlSd0VPMWVlWGhF?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-on-meidas-defense-cryptocurr",
@@ -445,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-a-third-of-young-adults-turn",
@@ -461,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.057Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   },
   {
     "id": "st-fielded-is-obsessed-with-sca",
@@ -477,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.154Z"
+    "imported_at": "2026-10-24T22:34:21.777Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -493,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.056Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -509,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.199Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -525,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.056Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -541,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.057Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   },
   {
     "id": "st-here-s-how-umkc-is-embracing",
@@ -557,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.057Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   },
   {
     "id": "st-is-this-cryptocurrency-a-pot",
@@ -573,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-ordinance-banning-cryptocurr",
@@ -589,23 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
-  },
-  {
-    "id": "st-cryptocurrency-in-family-law",
-    "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
-    "source": "Blank Rome LLP",
-    "sourceId": "rss-blank-rome-llp",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-21T22:30:47.000Z",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjlUOVlBa0dZWkJLY0EwLWRmM0xCbkgzWVFBS3JGZVpJMFFaWGpxVlZNU0xPMGJCOG9vMXhMY0ZzSGxiSDlvNm9kSnJ5d2g5dnJPT0I2Mkswdjl5RUdPRk9IZHRsU0FIRGlOdmNpangwQzZtMGlGUkczbEdSNVZVZlBnMDZ2YTcxeWI0aFdLMkxTbWRyaEZtazZiSC1TWTk3UUt6ZGhicHFwSG94?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjlUOVlBa0dZWkJLY0EwLWRmM0xCbkgzWVFBS3JGZVpJMFFaWGpxVlZNU0xPMGJCOG9vMXhMY0ZzSGxiSDlvNm9kSnJ5d2g5dnJPT0I2Mkswdjl5RUdPRk9IZHRsU0FIRGlOdmNpangwQzZtMGlGUkczbEdSNVZVZlBnMDZ2YTcxeWI0aFdLMkxTbWRyaEZtazZiSC1TWTk3UUt6ZGhicHFwSG",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-lessons-from-cryptocurrency",
@@ -621,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-huds-expands-artificial-inte",
@@ -637,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.057Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   },
   {
     "id": "st-cryptocurrency-companies-can",
@@ -653,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -669,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:12.607Z"
+    "imported_at": "2026-10-24T22:34:21.200Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -685,6 +717,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T18:51:13.057Z"
+    "imported_at": "2026-10-24T22:34:21.697Z"
   }
 ]
