@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-10-24T12:46:28.929Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-10-24T18:51:13.333Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-why-mcdonalds-microsoft-and",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-24T15:00:00.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker"
+    }
+  ]
 }

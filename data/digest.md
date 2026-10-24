@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-24
 
-6 stories briefed · feed mix 8 familiar / 38 discovery.
+6 stories briefed · feed mix 9 familiar / 34 discovery.
 
 ## Top stories
-1. **Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet** (Markets and business · CoinDesk) — A top crypto development today
-2. **Lee Chang Dong ponders the ethics of the camera** (Products and applications · The Verge) — A top crypto development today
-3. **Startups don’t need to go viral to win customers** (Startups and companies · TechCrunch) — A top AI development today
-4. **OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”** (Products and applications · TechCrunch) — A top AI development today
-5. **Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends** (Startups and companies · CoinDesk) — A top crypto development today
+2. **Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations** (Markets and business · CoinDesk) — A top crypto development today
+3. **Block's new voice AI sounds eerily human, sparking awe and scam fears** (Products and applications · CoinDesk) — A top AI development today
+4. **Block’s new voice model sounds eerily human** (Products and applications · TechCrunch) — A top AI development today
+5. **Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
+6. **Argentina drops criminal probe into President Milei over crashed memecoin LIBRA** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports.
+- Discovery pick of the week: Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker.
 
 _News, not investment advice._

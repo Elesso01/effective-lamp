@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-robinhood-sees-surge-in-bitc",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-bitcoin-core-changes-securit",
@@ -45,7 +45,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-bitcoin-s-price-is-as-jumpy",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-live-updates-bitcoin-holds-a",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-bitcoin-steadies-near-81-700",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-bitcoin-appears-to-have-deco",
@@ -109,23 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
-  },
-  {
-    "id": "st-hsbc-rolls-out-its-first-sta",
-    "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-23T10:22:56.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-    "type": "News",
-    "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-24T04:47:35.770Z"
+    "imported_at": "2026-10-24T12:46:27.657Z"
   },
   {
     "id": "st-startups-don-t-need-to-go-vi",
@@ -141,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.987Z"
+    "imported_at": "2026-10-24T12:46:27.861Z"
   },
   {
     "id": "st-openai-says-it-will-no-longe",
@@ -157,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.987Z"
+    "imported_at": "2026-10-24T12:46:27.862Z"
   },
   {
     "id": "st-vcs-superhuman-mail-founder",
@@ -173,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.987Z"
+    "imported_at": "2026-10-24T12:46:27.862Z"
   },
   {
     "id": "st-carta-and-newview-partner-ho",
@@ -189,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.987Z"
+    "imported_at": "2026-10-24T12:46:27.862Z"
   },
   {
     "id": "st-from-toast-to-bessemer-who-f",
@@ -205,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.987Z"
+    "imported_at": "2026-10-24T12:46:27.862Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -221,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.957Z"
+    "imported_at": "2026-10-24T12:46:27.820Z"
   },
   {
     "id": "st-agent-cloud-startup-daytona",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.987Z"
+    "imported_at": "2026-10-24T12:46:27.862Z"
   },
   {
     "id": "st-securing-our-frontier-model",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.957Z"
+    "imported_at": "2026-10-24T12:46:27.820Z"
   },
   {
     "id": "st-openai-and-poland-s-nask-par",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.957Z"
+    "imported_at": "2026-10-24T12:46:27.820Z"
   },
   {
     "id": "st-uber-brings-chatgpt-work-to",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.957Z"
+    "imported_at": "2026-10-24T12:46:27.820Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.957Z"
+    "imported_at": "2026-10-24T12:46:27.820Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-24T04:47:35.957Z"
+    "imported_at": "2026-10-24T12:46:27.820Z"
   },
   {
     "id": "st-wells-fargo-and-five-others",
@@ -333,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.842Z"
+    "imported_at": "2026-10-24T12:46:27.705Z"
   },
   {
     "id": "st-irs-plans-lower-tax-disclosu",
@@ -349,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.842Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
   },
   {
     "id": "st-initia-halts-blockchain-afte",
@@ -365,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.842Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
   },
   {
     "id": "st-us-senator-probes-tether-aft",
@@ -381,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.842Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
   },
   {
     "id": "st-sec-flags-tokenization-as-hi",
@@ -397,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.842Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
   },
   {
     "id": "st-bitcoin-seeks-support-above",
@@ -413,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.842Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -429,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.843Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
   },
   {
     "id": "st-china-targets-2030-for-its-n",
@@ -445,7 +429,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-24T04:47:35.843Z"
+    "imported_at": "2026-10-24T12:46:27.706Z"
+  },
+  {
+    "id": "st-lee-chang-dong-ponders-the-e",
+    "title": "Lee Chang Dong ponders the ethics of the camera",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-24T12:14:27.000Z",
+    "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+    "type": "News",
+    "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T12:46:28.803Z"
   },
   {
     "id": "st-openai-now-trains-its-fronti",
@@ -461,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.910Z"
+    "imported_at": "2026-10-24T12:46:28.803Z"
   },
   {
     "id": "st-on-meidas-defense-cryptocurr",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.319Z"
   },
   {
     "id": "st-abandoned-popcorn-time-apps",
@@ -493,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.910Z"
+    "imported_at": "2026-10-24T12:46:28.803Z"
   },
   {
     "id": "st-jack-dorsey-s-block-made-an",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.910Z"
+    "imported_at": "2026-10-24T12:46:28.803Z"
   },
   {
     "id": "st-soundcore-s-latest-noise-cru",
@@ -525,23 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.910Z"
-  },
-  {
-    "id": "st-the-iphone-duo-should-have-b",
-    "title": "The iPhone Duo should have been an iPad",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-23T17:00:18.000Z",
-    "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-    "type": "News",
-    "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David a",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.910Z"
+    "imported_at": "2026-10-24T12:46:28.803Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -557,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
+    "imported_at": "2026-10-24T12:46:28.774Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -573,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.318Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
+    "imported_at": "2026-10-24T12:46:28.775Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -605,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
+    "imported_at": "2026-10-24T12:46:28.775Z"
   },
   {
     "id": "st-here-s-how-umkc-is-embracing",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
+    "imported_at": "2026-10-24T12:46:28.775Z"
   },
   {
     "id": "st-is-this-cryptocurrency-a-pot",
@@ -637,7 +621,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.319Z"
+  },
+  {
+    "id": "st-ordinance-banning-cryptocurr",
+    "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
+    "source": "KRQE",
+    "sourceId": "rss-krqe",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-21T23:07:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU9SSlRWamJFdXd1VUl0cGVrOXU0dWt1Qm4zcG91bkVFdVhIY1EtcmRrR09Jci1wMDJnQmU1XzRmR04wSEhScnRvTU15NzJqNFZHY2pwR3JZNWI5UnYtZldpQWRvOHh3VHF0LS1ZVklBM2RCVkJxWC1FRm90cjk1NTlBczMxT21rTWhEWEh6Rm1YcDNqRlV5V0tocXNEeEF2b21URUhXNExBZw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU9SSlRWamJFdXd1VUl0cGVrOXU0dWt1Qm4zcG91bkVFdVhIY1EtcmRrR09Jci1wMDJnQmU1XzRmR04wSEhScnRvTU15NzJqNFZHY2pwR3JZNWI5UnYtZldpQWRvOHh3VHF0LS1ZVklBM2RCVkJxWC1FRm90cjk1NTlBczMxT21rTWhEWEh6Rm1YcDNqRlV5V0tocXNEeEF2b21URUhXNExBZw",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-24T12:46:28.319Z"
   },
   {
     "id": "st-cryptocurrency-in-family-law",
@@ -653,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.318Z"
   },
   {
     "id": "st-lessons-from-cryptocurrency",
@@ -669,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.319Z"
   },
   {
     "id": "st-cryptocurrency-companies-can",
@@ -685,23 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
-  },
-  {
-    "id": "st-council-passes-law-to-requir",
-    "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
-    "source": "Times of San Diego",
-    "sourceId": "rss-times-of-san-diego",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-20T23:49:49.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGxkTmluVlZVUFNBMjI4a1o5bzFtT2U1UEdXRURyMGJZeHNsOVI1bW9QMlh4dE9XWFR1Zlo3QkJwYzdOV0RvZng2NEpsMFQyeHRISzdUcTd2MEFiUTJRMHAyUTA5WjVXcGpJdUhOOUhBWHAzQnM1OFFMQ25OV1NudndhRklFeHlCcjFucWFhUTQyQVU5OWdCSTl4Y25YeFlxbzBEXw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGxkTmluVlZVUFNBMjI4a1o5bzFtT2U1UEdXRURyMGJZeHNsOVI1bW9QMlh4dE9XWFR1Zlo3QkJwYzdOV0RvZng2NEpsMFQyeHRISzdUcTd2MEFiUTJRMHAyUTA5WjVXcGpJdUhOOUhBWHAzQnM1OFFMQ25OV1NudndhRklFeHlCcjFucWFhUTQyQVU5OWdCSTl4Y25YeFlxbzBEXw?oc=5\" t",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.319Z"
   },
   {
     "id": "st-call-for-papers-advancing-re",
@@ -717,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
+    "imported_at": "2026-10-24T12:46:28.775Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -733,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.415Z"
+    "imported_at": "2026-10-24T12:46:28.319Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -749,22 +733,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
-  },
-  {
-    "id": "st-i-research-ai-consciousness",
-    "title": "I research AI consciousness – here’s how this new intelligence is now shaping ours",
-    "source": "The Independent",
-    "sourceId": "rss-the-independent",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-17T05:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTdMU2lDYjRsc2VYTHV5RVlNR3YyaFhFRzFac1Jvd0NXOUJFTkpIN1FaVDBHVVVsNF9jcG9aR01HSkM2d3VWd3hkYU9YaHpleTdtbGlzeG5KMFVmV2luTkwwRURFWU8zbjZjQ2NPQ2pkd2d4N3phbDRqa3ZTcmJJUHlYMVZtQ0FSVVBqeU03TVV3ay1Za3U4R1hCbVdYMm16RGt5WGhB?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTdMU2lDYjRsc2VYTHV5RVlNR3YyaFhFRzFac1Jvd0NXOUJFTkpIN1FaVDBHVVVsNF9jcG9aR01HSkM2d3VWd3hkYU9YaHpleTdtbGlzeG5KMFVmV2luTkwwRURFWU8zbjZjQ2NPQ2pkd2d4N3phbDRqa3ZTcmJJUHlYMVZtQ0FSVVBqeU03TVV3ay1Za3U4R1hCbVdYMm16RGt5WGhB?oc=5\"",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-24T04:47:36.869Z"
+    "imported_at": "2026-10-24T12:46:28.775Z"
   }
 ]

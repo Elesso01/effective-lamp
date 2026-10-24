@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-24T12:46:28.895Z",
+  "generated_at": "2026-10-24T18:51:13.305Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 38
+    "familiar": 9,
+    "discovery": 34
   },
   "items": [
+    {
+      "id": "st-why-mcdonalds-microsoft-and",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-rapidly-scaling-online-stora",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -78,62 +87,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-franklin-templeton-adds-150",
-      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-robinhood-sees-surge-in-bitc",
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-core-changes-securit",
-      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-s-price-is-as-jumpy",
-      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-live-updates-bitcoin-holds-a",
-      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-steadies-near-81-700",
-      "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-appears-to-have-deco",
-      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+      "id": "st-strategy-strive-face-balanci",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
       "category": "Startups and companies",
       "bucket": "crypto",
       "score": 8.5,
@@ -141,17 +96,53 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-startups-don-t-need-to-go-vi",
-      "title": "Startups don’t need to go viral to win customers",
-      "category": "Startups and companies",
+      "id": "st-block-s-new-voice-ai-sounds",
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
+      "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-says-it-will-no-longe",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "id": "st-crypto-under-weekend-pressur",
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-argentina-drops-criminal-pro",
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-wells-fargo-cisco-marvell-am",
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-s-wealthy-holders-tu",
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-block-s-new-voice-model-soun",
+      "title": "Block’s new voice model sounds eerily human",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -159,35 +150,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-vcs-superhuman-mail-founder",
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "category": "Markets and business",
+      "id": "st-forced-to-pick-grok-s-ai-mod",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-carta-and-newview-partner-ho",
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "category": "Startups and companies",
+      "id": "st-here-are-the-top-ai-agents-t",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-from-toast-to-bessemer-who-f",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-agent-cloud-startup-daytona",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "id": "st-startups-don-t-need-to-go-vi",
+      "title": "Startups don’t need to go viral to win customers",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -267,8 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-lee-chang-dong-ponders-the-e",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "id": "st-what-to-expect-from-apple-s",
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -276,9 +258,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-now-trains-its-fronti",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "category": "Security and privacy",
+      "id": "st-lee-chang-dong-ponders-the-e",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -294,17 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-abandoned-popcorn-time-apps",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jack-dorsey-s-block-made-an",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "id": "st-a-third-of-young-adults-turn",
+      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -312,8 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-soundcore-s-latest-noise-cru",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "id": "st-fielded-is-obsessed-with-sca",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -393,9 +366,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-call-for-papers-advancing-re",
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
-      "category": "Research and development",
+      "id": "st-huds-expands-artificial-inte",
+      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
