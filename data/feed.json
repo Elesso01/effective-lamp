@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T23:14:04.752Z",
+  "generated_at": "2026-10-24T04:47:37.004Z",
   "mix": {
-    "familiar": 7,
+    "familiar": 8,
     "discovery": 40
   },
   "items": [
@@ -69,6 +69,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-cryptocurrency-companies-can",
+      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-franklin-templeton-adds-150",
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-robinhood-sees-surge-in-bitc",
       "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
       "category": "Markets and business",
@@ -126,15 +144,6 @@
       "id": "st-hsbc-rolls-out-its-first-sta",
       "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sweden-s-central-bank-revive",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
@@ -276,6 +285,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-on-meidas-defense-cryptocurr",
+      "title": "On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-abandoned-popcorn-time-apps",
       "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
       "category": "Products and applications",
@@ -366,28 +384,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-lessons-from-cryptocurrency",
       "title": "Lessons from Cryptocurrency Insolvencies for Traditional Lenders",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-huds-expands-artificial-inte",
-      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -423,6 +423,15 @@
       "id": "st-uc-san-diego-artificial-inte",
       "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
       "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-i-research-ai-consciousness",
+      "title": "I research AI consciousness – here’s how this new intelligence is now shaping ours",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 7,
       "familiar": false,

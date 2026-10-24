@@ -1,10 +1,10 @@
-# Weekly digest — week of 2026-10-23
+# Weekly digest — week of 2026-10-24
 
-6 stories briefed · feed mix 7 familiar / 40 discovery.
+6 stories briefed · feed mix 8 familiar / 40 discovery.
 
 ## Top stories
-1. **Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report** (Regulation and policy · Cointelegraph) — A top crypto development today
-2. **IRS plans lower tax disclosure penalties, including for crypto: Forbes** (Markets and business · Cointelegraph) — A top crypto development today
+1. **Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet** (Markets and business · CoinDesk) — A top crypto development today
+2. **Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report** (Regulation and policy · Cointelegraph) — A top crypto development today
 3. **Startups don’t need to go viral to win customers** (Startups and companies · TechCrunch) — A top AI development today
 4. **OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”** (Products and applications · TechCrunch) — A top AI development today
 5. **Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
