@@ -1,4 +1,4 @@
-# Weekly digest — week of 2026-10-24
+# Weekly digest — week of 2026-10-25
 
 6 stories briefed · feed mix 9 familiar / 36 discovery.
 

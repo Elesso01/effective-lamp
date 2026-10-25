@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:34:21.850Z",
+  "generated_at": "2026-10-25T04:55:55.265Z",
   "mix": {
     "familiar": 9,
     "discovery": 36
@@ -285,8 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-chinese-national-extradited",
-      "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+      "id": "st-if-history-is-any-guide-this",
+      "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -296,6 +296,15 @@
     {
       "id": "st-on-meidas-defense-cryptocurr",
       "title": "On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sumter-police-warns-public-a",
+      "title": "Sumter police warns public against jury duty, cryptocurrency scams",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -352,15 +361,6 @@
       "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-is-this-cryptocurrency-a-pot",
-      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
