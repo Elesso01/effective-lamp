@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T13:14:37.035Z",
+  "generated_at": "2026-10-25T19:06:58.925Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 38
+    "familiar": 7,
+    "discovery": 40
   },
   "items": [
     {
@@ -60,15 +60,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-not-bitcoin-not-ethereum-thi",
       "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
       "category": "Markets and business",
@@ -76,6 +67,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-latvia-targets-tokenization",
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-uk-banks-face-10-000-complai",
@@ -132,11 +132,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-s-wealthy-holders-tu",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-ai-delivers-zero-financial-p",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-techcrunch-mobility-blue-gre",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-hottest-ai-wearables-and",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -162,15 +180,6 @@
       "id": "st-block-s-new-voice-model-soun",
       "title": "Block’s new voice model sounds eerily human",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-forced-to-pick-grok-s-ai-mod",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -249,6 +258,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-now-you-can-watch-instagram",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-r-opensource-just-banned-ai",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-washington-must-plug-loophol",
       "title": "Washington Must Plug Loopholes in Iran-Russia Cryptocurrency Trade",
       "category": "Markets and business",
@@ -267,37 +294,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-bank-of-israel-rejects-netan",
+      "title": "Bank of Israel Rejects Netanyahu Cryptocurrency Plan To Bypass Sanctions",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-pennsylvania-will-require-la",
       "title": "Pennsylvania will require labels on AI-generated ads",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-what-to-expect-from-apple-s",
-      "title": "What to expect from Apple’s ‘Pro and tell’ event",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lee-chang-dong-ponders-the-e",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-if-history-is-any-guide-this",
-      "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,28 +384,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-is-this-cryptocurrency-a-pot",
+      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ordinance-banning-cryptocurr",
       "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lessons-from-cryptocurrency",
-      "title": "Lessons from Cryptocurrency Insolvencies for Traditional Lenders",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-huds-expands-artificial-inte",
-      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -413,6 +413,15 @@
     {
       "id": "st-uc-san-diego-artificial-inte",
       "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-ai-doom-scenario-you-ve",
+      "title": "The AI doom scenario you've never heard of may be the hardest to stop",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
