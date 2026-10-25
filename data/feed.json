@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T04:55:55.265Z",
+  "generated_at": "2026-10-25T13:14:37.035Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 36
+    "familiar": 8,
+    "discovery": 38
   },
   "items": [
     {
@@ -78,13 +78,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cryptocurrency-companies-can",
-      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
-      "category": "Regulation and policy",
+      "id": "st-uk-banks-face-10-000-complai",
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-strategy-strive-face-balanci",
@@ -222,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-netanyahu-floats-use-of-bloc",
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-irs-plans-lower-tax-disclosu",
       "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
       "category": "Markets and business",
@@ -240,11 +249,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-china-targets-2030-for-its-n",
-      "title": "China targets 2030 for its national blockchain network buildout",
+      "id": "st-washington-must-plug-loophol",
+      "title": "Washington Must Plug Loopholes in Iran-Russia Cryptocurrency Trade",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -294,28 +303,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-chinese-national-extradited",
+      "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-s-ai-search-changes-u",
+      "title": "Google’s AI search changes upended online publishing",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-on-meidas-defense-cryptocurr",
       "title": "On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sumter-police-warns-public-a",
-      "title": "Sumter police warns public against jury duty, cryptocurrency scams",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-third-of-young-adults-turn",
-      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

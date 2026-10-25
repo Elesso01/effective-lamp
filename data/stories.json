@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-uk-banks-face-10-000-complai",
+    "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-25T13:00:00.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+    "type": "News",
+    "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-25T13:14:35.435Z"
+  },
+  {
     "id": "st-strategy-strive-face-balanci",
     "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.724Z"
+    "imported_at": "2026-10-25T13:14:35.435Z"
   },
   {
     "id": "st-block-s-new-voice-ai-sounds",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.725Z"
+    "imported_at": "2026-10-25T13:14:35.435Z"
   },
   {
     "id": "st-crypto-under-weekend-pressur",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.725Z"
+    "imported_at": "2026-10-25T13:14:35.435Z"
   },
   {
     "id": "st-why-mcdonalds-microsoft-and",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.725Z"
+    "imported_at": "2026-10-25T13:14:35.435Z"
   },
   {
     "id": "st-argentina-drops-criminal-pro",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.725Z"
+    "imported_at": "2026-10-25T13:14:35.435Z"
   },
   {
     "id": "st-wells-fargo-cisco-marvell-am",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.725Z"
+    "imported_at": "2026-10-25T13:14:35.435Z"
   },
   {
     "id": "st-bitcoin-s-wealthy-holders-tu",
@@ -109,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T04:55:53.725Z"
+    "imported_at": "2026-10-25T13:14:35.436Z"
   },
   {
     "id": "st-will-ai-expose-the-rickety-i",
@@ -125,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.128Z"
+    "imported_at": "2026-10-25T13:14:35.812Z"
   },
   {
     "id": "st-the-ai-graveyard-a-running-l",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.129Z"
+    "imported_at": "2026-10-25T13:14:35.812Z"
   },
   {
     "id": "st-block-s-new-voice-model-soun",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.129Z"
+    "imported_at": "2026-10-25T13:14:35.812Z"
   },
   {
     "id": "st-forced-to-pick-grok-s-ai-mod",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.129Z"
+    "imported_at": "2026-10-25T13:14:35.812Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.040Z"
+    "imported_at": "2026-10-25T13:14:35.756Z"
   },
   {
     "id": "st-securing-our-frontier-model",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.040Z"
+    "imported_at": "2026-10-25T13:14:35.756Z"
   },
   {
     "id": "st-openai-and-poland-s-nask-par",
@@ -221,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.040Z"
+    "imported_at": "2026-10-25T13:14:35.756Z"
   },
   {
     "id": "st-uber-brings-chatgpt-work-to",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.040Z"
+    "imported_at": "2026-10-25T13:14:35.756Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.040Z"
+    "imported_at": "2026-10-25T13:14:35.756Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -269,7 +285,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T04:55:54.040Z"
+    "imported_at": "2026-10-25T13:14:35.756Z"
+  },
+  {
+    "id": "st-netanyahu-floats-use-of-bloc",
+    "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-25T11:42:00.000Z",
+    "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-25T13:14:35.552Z"
   },
   {
     "id": "st-wells-fargo-and-five-others",
@@ -285,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
     "id": "st-irs-plans-lower-tax-disclosu",
@@ -301,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
     "id": "st-initia-halts-blockchain-afte",
@@ -317,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
     "id": "st-us-senator-probes-tether-aft",
@@ -333,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
     "id": "st-sec-flags-tokenization-as-hi",
@@ -349,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
     "id": "st-bitcoin-seeks-support-above",
@@ -365,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,23 +413,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "imported_at": "2026-10-25T13:14:35.553Z"
   },
   {
-    "id": "st-china-targets-2030-for-its-n",
-    "title": "China targets 2030 for its national blockchain network buildout",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-23T13:21:07.000Z",
-    "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-washington-must-plug-loophol",
+    "title": "Washington Must Plug Loopholes in Iran-Russia Cryptocurrency Trade",
+    "source": "Middle East Forum",
+    "sourceId": "rss-middle-east-forum",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-25T10:01:18.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0lJdi1EUGZTd2Q4dV93SHRNUWJCQlNGc1dCR0xMM3VXRTdJZEpsa2hjTWhDNlU3ajFmdjkyNkxfVXUycm9lVllBYTNya01CMkd2UDBoMS1PRkN0ekNVRmJsRndqYWNFUTJOWlRUSE82UHF2b2JZTF9GSEhxdng0dG93OVlBSHhDTjRCMXhQLXNfaTVoekhfQk05Y01kaDBBOWgxcUhB?oc=5",
     "type": "News",
-    "summary": "China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0lJdi1EUGZTd2Q4dV93SHRNUWJCQlNGc1dCR0xMM3VXRTdJZEpsa2hjTWhDNlU3ajFmdjkyNkxfVXUycm9lVllBYTNya01CMkd2UDBoMS1PRkN0ekNVRmJsRndqYWNFUTJOWlRUSE82UHF2b2JZTF9GSEhxdng0dG93OVlBSHhDTjRCMXhQLXNfaTVoekhfQk05Y01kaDBBOWgxcUhB?oc=5\"",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-25T04:55:53.829Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-25T13:14:36.394Z"
   },
   {
     "id": "st-blue-planet-iii-is-keeping-t",
@@ -413,7 +445,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.176Z"
+    "imported_at": "2026-10-25T13:14:36.962Z"
   },
   {
     "id": "st-pennsylvania-will-require-la",
@@ -429,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.177Z"
+    "imported_at": "2026-10-25T13:14:36.962Z"
   },
   {
     "id": "st-what-to-expect-from-apple-s",
@@ -445,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.177Z"
+    "imported_at": "2026-10-25T13:14:36.962Z"
   },
   {
     "id": "st-lee-chang-dong-ponders-the-e",
@@ -461,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.177Z"
+    "imported_at": "2026-10-25T13:14:36.962Z"
   },
   {
     "id": "st-if-history-is-any-guide-this",
@@ -477,7 +509,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
+    "imported_at": "2026-10-25T13:14:36.394Z"
+  },
+  {
+    "id": "st-chinese-national-extradited",
+    "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+    "source": "upi",
+    "sourceId": "rss-upi",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-24T02:34:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9IBrwFBVV95cUxNZS1NZVlPS0g1Y1QyZnVORWYyVGdGX3ZtNzlIT2NrUzE0TWV2ZlZkbmNfWXcySlMyeEtQbENlczVXZXNQTlZ6Y1ZHUVNFWDBZSEpoblg5VU94LUxFWGllTkcxWnhCYTROajUtbXpSajhRUm1TaG12UEhrTUlqY1VaNks4dmU1d3JrdWppdlIyb3dIUzJ6QkZrNkJjNW1wUV9xQjA3dFlSd0VPMWVlWGhF?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-25T13:14:36.394Z"
+  },
+  {
+    "id": "st-google-s-ai-search-changes-u",
+    "title": "Google’s AI search changes upended online publishing",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-23T20:42:34.000Z",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "type": "News",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-25T13:14:36.962Z"
   },
   {
     "id": "st-on-meidas-defense-cryptocurr",
@@ -493,39 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
-  },
-  {
-    "id": "st-sumter-police-warns-public-a",
-    "title": "Sumter police warns public against jury duty, cryptocurrency scams",
-    "source": "The Sumter Item",
-    "sourceId": "rss-the-sumter-item",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-23T19:47:51.000Z",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGVVcGQ1aTB0by1mbWhUNDY2R1FuSWNyTnZ3cExnOFdPVGJ6QlNySmVFU1lGNl9CMHZMQkRGN1FlS0ZWbmQ3Mmt2U0NPTWtmNjdWQjAyVkRkeGxVTFloM21LVFZZVlN3b3dfS3RkVUticDlPOHNlN2hZc1VKWG41T2I3OFFIRkZGa1ZCTkRjUXF2Y09vWS14ck4yTHV0NnZU?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGVVcGQ1aTB0by1mbWhUNDY2R1FuSWNyTnZ3cExnOFdPVGJ6QlNySmVFU1lGNl9CMHZMQkRGN1FlS0ZWbmQ3Mmt2U0NPTWtmNjdWQjAyVkRkeGxVTFloM21LVFZZVlN3b3dfS3RkVUticDlPOHNlN2hZc1VKWG41T2I3OFFIRkZGa1ZCTkRjUXF2Y09vWS14ck4yTHV0NnZU?oc=5\" target=",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
-  },
-  {
-    "id": "st-a-third-of-young-adults-turn",
-    "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information",
-    "source": "Rutgers University",
-    "sourceId": "rss-rutgers-university",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-23T15:49:14.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWlsblpZOW1MN09hd0JPOGtyV2J5TGNvaWtEZllKSnFEdVoxN0JQaEtEa0NLLW9Dd3JCQ2RzT3NtTXRJbnk4Y0N0OXFYcnFfbkxYclpkNC1kSXJEU3JVVGNFOG5DQjE4WEdzSWV5d251TmFCbl9PN2YtQnp2T3pFYWxGcS1tcW9JTEwxRF9mN3FwenlCZzY5aHowRkZuZi1yVzJBUQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWlsblpZOW1MN09hd0JPOGtyV2J5TGNvaWtEZllKSnFEdVoxN0JQaEtEa0NLLW9Dd3JCQ2RzT3NtTXRJbnk4Y0N0OXFYcnFfbkxYclpkNC1kSXJEU3JVVGNFOG5DQjE4WEdzSWV5d251TmFCbl9PN2YtQnp2T3pFYWxGcS1tcW9JTEwxRF9mN3FwenlCZzY5aHowRkZuZi1yVzJBUQ?oc=5\" t",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.123Z"
+    "imported_at": "2026-10-25T13:14:36.394Z"
   },
   {
     "id": "st-fielded-is-obsessed-with-sca",
@@ -541,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.177Z"
+    "imported_at": "2026-10-25T13:14:36.962Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -557,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.122Z"
+    "imported_at": "2026-10-25T13:14:36.895Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -573,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
+    "imported_at": "2026-10-25T13:14:36.394Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -589,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.122Z"
+    "imported_at": "2026-10-25T13:14:36.895Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -605,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.123Z"
+    "imported_at": "2026-10-25T13:14:36.896Z"
   },
   {
     "id": "st-here-s-how-umkc-is-embracing",
@@ -621,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.123Z"
+    "imported_at": "2026-10-25T13:14:36.895Z"
   },
   {
     "id": "st-ordinance-banning-cryptocurr",
@@ -637,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
+    "imported_at": "2026-10-25T13:14:36.394Z"
   },
   {
     "id": "st-lessons-from-cryptocurrency",
@@ -653,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
+    "imported_at": "2026-10-25T13:14:36.394Z"
   },
   {
     "id": "st-huds-expands-artificial-inte",
@@ -669,23 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.123Z"
-  },
-  {
-    "id": "st-cryptocurrency-companies-can",
-    "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
-    "source": "Bozeman Daily Chronicle",
-    "sourceId": "rss-bozeman-daily-chronicle",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-21T16:22:38.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUXNlek03cmZkVG9mYm5hcEwxZzE4WUlxRVVtT2tyM3FteW9Yb3l0OUJtaXpybUhXM1o3bXJoN3BQb3dNMzNlSlUtVmJXUFhYZ01keUtLUmhtYkRQeGZGZE53OFJRT0RIcmY3M25kXzhLamd2djJ0U0R5eGVMTVAtbHF4N3ZOYV94OC1YYjVXVFkzRGRCcm9BOFZLT2tILVFmc3hicnpmRGRLRjBIMFM2U0ptX2czTEdjVW9hajFudktZZHZXVUlGMnV3bXg0S3JPOU51NVo5U1JyWXhDbzBZcVBXQ3Y0NFpxV3RTQW1fNWVkY1Fnc1M0VndUTHU4MktEeU13c3cyQlNkSDBjQ1lYMHNyVkVFWkhRUGN2ZA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNUXNlek03cmZkVG9mYm5hcEwxZzE4WUlxRVVtT2tyM3FteW9Yb3l0OUJtaXpybUhXM1o3bXJoN3BQb3dNMzNlSlUtVmJXUFhYZ01keUtLUmhtYkRQeGZGZE53OFJRT0RIcmY3M25kXzhLamd2djJ0U0R5eGVMTVAtbHF4N3ZOYV94OC1YYjVXVFkzRGRCcm9BOFZLT2tILVFmc3hicnpmRGRLRj",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
+    "imported_at": "2026-10-25T13:14:36.896Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -701,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:54.635Z"
+    "imported_at": "2026-10-25T13:14:36.394Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -717,6 +733,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T04:55:55.123Z"
+    "imported_at": "2026-10-25T13:14:36.896Z"
   }
 ]
