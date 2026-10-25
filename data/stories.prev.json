@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-latvia-targets-tokenization",
+    "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-25T15:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+    "type": "News",
+    "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-25T19:06:57.545Z"
+  },
+  {
     "id": "st-uk-banks-face-10-000-complai",
     "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
     "id": "st-strategy-strive-face-balanci",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
     "id": "st-block-s-new-voice-ai-sounds",
@@ -45,7 +61,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
     "id": "st-crypto-under-weekend-pressur",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
     "id": "st-why-mcdonalds-microsoft-and",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
     "id": "st-argentina-drops-criminal-pro",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
     "id": "st-wells-fargo-cisco-marvell-am",
@@ -109,23 +125,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.435Z"
+    "imported_at": "2026-10-25T19:06:57.546Z"
   },
   {
-    "id": "st-bitcoin-s-wealthy-holders-tu",
-    "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-24T14:00:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+    "id": "st-ai-delivers-zero-financial-p",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-25T16:57:32.000Z",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
     "type": "News",
-    "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-25T13:14:35.436Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-25T19:06:57.809Z"
+  },
+  {
+    "id": "st-techcrunch-mobility-blue-gre",
+    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-25T16:05:00.000Z",
+    "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+    "type": "News",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-25T19:06:57.810Z"
+  },
+  {
+    "id": "st-the-hottest-ai-wearables-and",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-25T14:10:00.000Z",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "type": "News",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-25T19:06:57.810Z"
   },
   {
     "id": "st-will-ai-expose-the-rickety-i",
@@ -141,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.812Z"
+    "imported_at": "2026-10-25T19:06:57.810Z"
   },
   {
     "id": "st-the-ai-graveyard-a-running-l",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.812Z"
+    "imported_at": "2026-10-25T19:06:57.810Z"
   },
   {
     "id": "st-block-s-new-voice-model-soun",
@@ -173,23 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.812Z"
-  },
-  {
-    "id": "st-forced-to-pick-grok-s-ai-mod",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-24T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "type": "News",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.812Z"
+    "imported_at": "2026-10-25T19:06:57.810Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -205,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.756Z"
+    "imported_at": "2026-10-25T19:06:57.764Z"
   },
   {
     "id": "st-securing-our-frontier-model",
@@ -221,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.756Z"
+    "imported_at": "2026-10-25T19:06:57.764Z"
   },
   {
     "id": "st-openai-and-poland-s-nask-par",
@@ -237,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.756Z"
+    "imported_at": "2026-10-25T19:06:57.764Z"
   },
   {
     "id": "st-uber-brings-chatgpt-work-to",
@@ -253,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.756Z"
+    "imported_at": "2026-10-25T19:06:57.764Z"
   },
   {
     "id": "st-broad-access-through-consist",
@@ -269,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.756Z"
+    "imported_at": "2026-10-25T19:06:57.764Z"
   },
   {
     "id": "st-how-at-t-is-rethinking-in-ho",
@@ -285,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-25T13:14:35.756Z"
+    "imported_at": "2026-10-25T19:06:57.764Z"
   },
   {
     "id": "st-netanyahu-floats-use-of-bloc",
@@ -301,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.552Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
     "id": "st-wells-fargo-and-five-others",
@@ -317,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
     "id": "st-irs-plans-lower-tax-disclosu",
@@ -333,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
     "id": "st-initia-halts-blockchain-afte",
@@ -349,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
     "id": "st-us-senator-probes-tether-aft",
@@ -365,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
     "id": "st-sec-flags-tokenization-as-hi",
@@ -381,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
     "id": "st-bitcoin-seeks-support-above",
@@ -397,23 +429,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "imported_at": "2026-10-25T19:06:57.627Z"
   },
   {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-23T13:38:53.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-now-you-can-watch-instagram",
+    "title": "Now you can watch Instagram Reels on your Apple TV",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-25T16:20:17.000Z",
+    "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
     "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
+    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, ",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-25T13:14:35.553Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-25T19:06:58.837Z"
+  },
+  {
+    "id": "st-r-opensource-just-banned-ai",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-25T13:52:12.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "type": "News",
+    "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-25T19:06:58.837Z"
   },
   {
     "id": "st-washington-must-plug-loophol",
@@ -421,7 +469,7 @@
     "source": "Middle East Forum",
     "sourceId": "rss-middle-east-forum",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-25T10:01:18.000Z",
+    "published_at": "2026-10-25T10:04:05.000Z",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0lJdi1EUGZTd2Q4dV93SHRNUWJCQlNGc1dCR0xMM3VXRTdJZEpsa2hjTWhDNlU3ajFmdjkyNkxfVXUycm9lVllBYTNya01CMkd2UDBoMS1PRkN0ekNVRmJsRndqYWNFUTJOWlRUSE82UHF2b2JZTF9GSEhxdng0dG93OVlBSHhDTjRCMXhQLXNfaTVoekhfQk05Y01kaDBBOWgxcUhB?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0lJdi1EUGZTd2Q4dV93SHRNUWJCQlNGc1dCR0xMM3VXRTdJZEpsa2hjTWhDNlU3ajFmdjkyNkxfVXUycm9lVllBYTNya01CMkd2UDBoMS1PRkN0ekNVRmJsRndqYWNFUTJOWlRUSE82UHF2b2JZTF9GSEhxdng0dG93OVlBSHhDTjRCMXhQLXNfaTVoekhfQk05Y01kaDBBOWgxcUhB?oc=5\"",
@@ -429,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-blue-planet-iii-is-keeping-t",
@@ -445,7 +493,23 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.962Z"
+    "imported_at": "2026-10-25T19:06:58.837Z"
+  },
+  {
+    "id": "st-bank-of-israel-rejects-netan",
+    "title": "Bank of Israel Rejects Netanyahu Cryptocurrency Plan To Bypass Sanctions",
+    "source": "The Media Line",
+    "sourceId": "rss-the-media-line",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-24T19:16:19.000Z",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjJDZlRscE9oc3hUdEVRTjA0dzhzakxQV25vMVhCUTFUYkRfeW5BOUdJeGx6MDRrYUVHbXFFRmUtUHVvNk15OU9uVzFsSWkzbUdUVnR5VnJZU3djZllVRjh5YnVGeUgtUGJhQzJ5ZWhxa3A4QldwdzhUUWx5VS05WHdPck00NF83cGFwdXR2NWJEaTBmdk01cWVYT2tUQzZRSm5QSFJ4dWdHT0oz?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjJDZlRscE9oc3hUdEVRTjA0dzhzakxQV25vMVhCUTFUYkRfeW5BOUdJeGx6MDRrYUVHbXFFRmUtUHVvNk15OU9uVzFsSWkzbUdUVnR5VnJZU3djZllVRjh5YnVGeUgtUGJhQzJ5ZWhxa3A4QldwdzhUUWx5VS05WHdPck00NF83cGFwdXR2NWJEaTBmdk01cWVYT2tUQzZRSm5QSFJ4dWdHT0",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-pennsylvania-will-require-la",
@@ -461,55 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.962Z"
-  },
-  {
-    "id": "st-what-to-expect-from-apple-s",
-    "title": "What to expect from Apple’s ‘Pro and tell’ event",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-24T14:13:02.000Z",
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "type": "News",
-    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.962Z"
-  },
-  {
-    "id": "st-lee-chang-dong-ponders-the-e",
-    "title": "Lee Chang Dong ponders the ethics of the camera",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-24T12:14:27.000Z",
-    "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-    "type": "News",
-    "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.962Z"
-  },
-  {
-    "id": "st-if-history-is-any-guide-this",
-    "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
-    "source": "The Motley Fool",
-    "sourceId": "rss-the-motley-fool",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-24T06:15:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHpXaHJMdTNmN2lOd2FqSl83NWtLRlVqM3c1Rkw1VmJEemg3LWxFbHJsSktZSEh4VE5TcmUtd2xFX2Z1VkFJVnpyUk5uWl94WUVoTzlFa2tHVFUxRFhqSldDMXNMS2lXYVVJdWRRYXk3cDZkdmdRckhaV2Q3czNvRmoxSFBNTkZpaTVfZHhTVzJIZklyRkFKcw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObHpXaHJMdTNmN2lOd2FqSl83NWtLRlVqM3c1Rkw1VmJEemg3LWxFbHJsSktZSEh4VE5TcmUtd2xFX2Z1VkFJVnpyUk5uWl94WUVoTzlFa2tHVFUxRFhqSldDMXNMS2lXYVVJdWRRYXk3cDZkdmdRckhaV2Q3czNvRmoxSFBNTkZpaTVfZHhTVzJIZklyRkFKcw?oc=5\" target=\"_blank\">I",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
+    "imported_at": "2026-10-25T19:06:58.837Z"
   },
   {
     "id": "st-chinese-national-extradited",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-google-s-ai-search-changes-u",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.962Z"
+    "imported_at": "2026-10-25T19:06:58.837Z"
   },
   {
     "id": "st-on-meidas-defense-cryptocurr",
@@ -557,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-fielded-is-obsessed-with-sca",
@@ -573,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.962Z"
+    "imported_at": "2026-10-25T19:06:58.837Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.895Z"
+    "imported_at": "2026-10-25T19:06:58.721Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -605,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.895Z"
+    "imported_at": "2026-10-25T19:06:58.721Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -637,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.896Z"
+    "imported_at": "2026-10-25T19:06:58.721Z"
   },
   {
     "id": "st-here-s-how-umkc-is-embracing",
@@ -653,7 +669,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.895Z"
+    "imported_at": "2026-10-25T19:06:58.721Z"
+  },
+  {
+    "id": "st-is-this-cryptocurrency-a-pot",
+    "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
+    "source": "The Motley Fool",
+    "sourceId": "rss-the-motley-fool",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-22T06:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmtueTJSMVJ0QjlUOElDQ3dVUnhMYWdLQTNVNDdrbG1Zc25YMFNxSWN0enRaaWlRVVp1M0c5bTlWQkVRbm9nRzNuZDJrazRzRU5RZkFFWFdTbjR2TkZGelRKVWc0ZTNLVkdlNVZUYU5OV3A1UlJwZkdSTVN2VGRDSnNlV2kySWtnbm1TdUxWXzhOcTZkYnpMRA?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmtueTJSMVJ0QjlUOElDQ3dVUnhMYWdLQTNVNDdrbG1Zc25YMFNxSWN0enRaaWlRVVp1M0c5bTlWQkVRbm9nRzNuZDJrazRzRU5RZkFFWFdTbjR2TkZGelRKVWc0ZTNLVkdlNVZUYU5OV3A1UlJwZkdSTVN2VGRDSnNlV2kySWtnbm1TdUxWXzhOcTZkYnpMRA?oc=5\" target=\"_blank\">I",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-ordinance-banning-cryptocurr",
@@ -669,39 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
-  },
-  {
-    "id": "st-lessons-from-cryptocurrency",
-    "title": "Lessons from Cryptocurrency Insolvencies for Traditional Lenders",
-    "source": "JD Supra",
-    "sourceId": "rss-jd-supra",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-21T20:09:42.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpaTZubnIzWTFneS1YTDVkYkRCVDJTSjZoRlg4V2UxWkRVZ0dWV3A2b2dfdWpkcExpNHAwYUstS3Rpd1ZmMVpQV0I1UFhVZE9ROEFYYnJnV2huRDNjblNEajFJUmFkcnhuQjFfSVZIb1RsUXdqNzBLUWxR?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBpaTZubnIzWTFneS1YTDVkYkRCVDJTSjZoRlg4V2UxWkRVZ0dWV3A2b2dfdWpkcExpNHAwYUstS3Rpd1ZmMVpQV0I1UFhVZE9ROEFYYnJnV2huRDNjblNEajFJUmFkcnhuQjFfSVZIb1RsUXdqNzBLUWxR?oc=5\" target=\"_blank\">Lessons from Cryptocurrency Insolvencies fo",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
-  },
-  {
-    "id": "st-huds-expands-artificial-inte",
-    "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-    "source": "The Harvard Crimson",
-    "sourceId": "rss-the-harvard-crimson",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-21T18:49:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5\" target=\"_blank\">HUDS Expands Artificial Intelligence System to R",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.896Z"
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -717,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.394Z"
+    "imported_at": "2026-10-25T19:06:58.267Z"
   },
   {
     "id": "st-uc-san-diego-artificial-inte",
@@ -733,6 +733,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-25T13:14:36.896Z"
+    "imported_at": "2026-10-25T19:06:58.721Z"
+  },
+  {
+    "id": "st-the-ai-doom-scenario-you-ve",
+    "title": "The AI doom scenario you've never heard of may be the hardest to stop",
+    "source": "CBS News",
+    "sourceId": "rss-cbs-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-19T15:33:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5\" target=\"_blank\">The AI doom scenario you've never heard of ma",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-25T19:06:58.721Z"
   }
 ]

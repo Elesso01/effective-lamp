@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T19:06:58.925Z",
+  "generated_at": "2026-10-25T22:39:16.432Z",
   "mix": {
     "familiar": 7,
-    "discovery": 40
+    "discovery": 39
   },
   "items": [
     {
@@ -132,6 +132,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-grok-releases-the-first-seve",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ai-delivers-zero-financial-p",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "category": "Products and applications",
@@ -170,15 +179,6 @@
     {
       "id": "st-the-ai-graveyard-a-running-l",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-block-s-new-voice-model-soun",
-      "title": "Block’s new voice model sounds eerily human",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -258,6 +258,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-zen-browser-is-the-arc-repla",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-programs-and-services-commit",
+      "title": "Programs and Services Committee Looks To Ban Cryptocurrency ATMs in Newton",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-now-you-can-watch-instagram",
       "title": "Now you can watch Instagram Reels on your Apple TV",
       "category": "Products and applications",
@@ -276,24 +294,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-washington-must-plug-loophol",
-      "title": "Washington Must Plug Loopholes in Iran-Russia Cryptocurrency Trade",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-blue-planet-iii-is-keeping-t",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-bank-of-israel-rejects-netan",
       "title": "Bank of Israel Rejects Netanyahu Cryptocurrency Plan To Bypass Sanctions",
       "category": "Markets and business",
@@ -303,10 +303,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-pennsylvania-will-require-la",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-if-history-is-any-guide-this",
+      "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -339,17 +339,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fielded-is-obsessed-with-sca",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "id": "st-why-trump-s-rebrand-of-artif",
+      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-why-trump-s-rebrand-of-artif",
-      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
+      "id": "st-wall-street-is-getting-very",
+      "title": "Wall Street Is Getting Very Nervous About AI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -384,15 +384,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-is-this-cryptocurrency-a-pot",
-      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-ordinance-banning-cryptocurr",
       "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
       "category": "Markets and business",
@@ -402,19 +393,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nc-woman-loses-savings-to-cr",
-      "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-call-for-papers-advancing-re",
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
+      "category": "Research and development",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-uc-san-diego-artificial-inte",
-      "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-nc-woman-loses-savings-to-cr",
+      "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
