@@ -1,16 +1,52 @@
 {
-  "generated_at": "2026-10-26T15:17:17.084Z",
+  "generated_at": "2026-10-26T21:05:27.500Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 41
+    "familiar": 11,
+    "discovery": 35
   },
   "items": [
+    {
+      "id": "st-tom-lee-s-bitmine-favors-sha",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-nba-joins-pro-sports-leagues",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-occ-calls-on-community-banks",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-ai-giant-anthropic-files-for",
       "title": "AI giant Anthropic files for blockbuster IPO",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-this-startup-s-self-driving",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -24,6 +60,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-ai-company-anthropic-announc",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
@@ -33,22 +78,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-securitize-s-tokenized-stock",
-      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+      "id": "st-five-weird-details-from-anth",
+      "title": "Five weird details from Anthropic’s IPO filing",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
+      "bucket": "ai",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-netanyahu-rebuked-for-plan-t",
-      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-lansing-city-council-conside",
@@ -105,29 +141,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-news-bitcoin-slips-belo",
-      "title": "Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-calpers-pulls-back-from-big",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+      "id": "st-fusion-startups-are-giving-t",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8.5,
+      "bucket": "crypto",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fed-ecb-and-boj-interest-rat",
-      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "id": "st-anthropic-s-ipo-filing-revea",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-spacex-locks-in-40b-gpu-fina",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -141,18 +177,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-unveils-new-ipad-mini",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "id": "st-chatgpt-s-expanding-world-of",
+      "title": "ChatGPT’s expanding world of work",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-matiks-raises-10m-to-expand",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -168,26 +195,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-best-apps-for-tracking-y",
-      "title": "The best apps for tracking your reading and discovering new books",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-grok-releases-the-first-seve",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-delivers-zero-financial-p",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "id": "st-how-ultrafast-cut-incident-i",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -213,20 +222,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-uber-brings-chatgpt-work-to",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-canada-opens-consultation-on",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-at-t-is-rethinking-in-ho",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "category": "Products and applications",
+      "id": "st-nba-names-kalshi-polymarket",
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korea-lawmakers-mull-p",
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kalshi-strikes-deal-with-s-p",
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+      "category": "Markets and business",
       "bucket": "ai",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -249,82 +276,46 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hood-s-prediction-markets-to",
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
+      "id": "st-iphone-duo-now-supports-appl",
+      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-nba-s-response-to-gambli",
+      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-realreal-won-t-let-ai-ag",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nothing-s-eye-catching-ear-3",
+      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sumter-police-warn-of-jury-d",
+      "title": "Sumter Police warn of ‘jury duty’ cryptocurrency scam",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-aviva-investors-launches-tok",
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-btc-price-risks-80k-loss-int",
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-etfs-break-2-week-ou",
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-updates-the-ipad-mini",
-      "title": "Apple updates the iPad Mini with a larger OLED display",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-remarkable-s-refurbished-pap",
-      "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-s-ipo-filing-lays",
-      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kevin-roose-is-agi-pilled-wh",
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-can-ai-help-solve-the-cobol",
-      "title": "Can AI help solve the COBOL code crisis?",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,19 +402,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nc-woman-loses-savings-to-cr",
-      "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-huds-expands-artificial-inte",
+      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-uc-san-diego-artificial-inte",
-      "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-nc-woman-loses-savings-to-cr",
+      "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
