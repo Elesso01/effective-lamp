@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-25T22:39:16.432Z",
+  "generated_at": "2026-10-26T04:59:04.560Z",
   "mix": {
-    "familiar": 7,
+    "familiar": 6,
     "discovery": 39
   },
   "items": [
+    {
+      "id": "st-elon-musk-issues-a-warning-f",
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-why-mcdonalds-microsoft-and",
       "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
@@ -24,35 +33,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-ai-agents-help-rescue-eth-s",
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-wells-fargo-and-five-others",
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-initia-halts-blockchain-afte",
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-us-senator-probes-tether-aft",
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-sec-flags-tokenization-as-hi",
-      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -67,6 +58,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-slips-under-80-000-a",
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-latvia-targets-tokenization",
@@ -114,20 +114,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-argentina-drops-criminal-pro",
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "id": "st-the-best-apps-for-tracking-y",
+      "title": "The best apps for tracking your reading and discovering new books",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wells-fargo-cisco-marvell-am",
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -170,15 +161,6 @@
     {
       "id": "st-will-ai-expose-the-rickety-i",
       "title": "Will AI expose the rickety infrastructure of the internet?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-ai-graveyard-a-running-l",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -231,6 +213,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-keystone-says-website-breach",
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-standard-chartered-led-ancho",
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-netanyahu-floats-use-of-bloc",
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "category": "Markets and business",
@@ -249,28 +249,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-seeks-support-above",
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-zen-browser-is-the-arc-repla",
       "title": "Zen Browser is the Arc replacement I was looking for",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-programs-and-services-commit",
-      "title": "Programs and Services Committee Looks To Ban Cryptocurrency ATMs in Newton",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -296,6 +278,15 @@
     {
       "id": "st-bank-of-israel-rejects-netan",
       "title": "Bank of Israel Rejects Netanyahu Cryptocurrency Plan To Bypass Sanctions",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sumter-police-warns-public-a",
+      "title": "Sumter police warns public against jury duty, cryptocurrency scams",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -375,15 +366,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-how-umkc-is-embracing",
-      "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-ordinance-banning-cryptocurr",
       "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
       "category": "Markets and business",
@@ -406,6 +388,15 @@
       "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uc-san-diego-artificial-inte",
+      "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
