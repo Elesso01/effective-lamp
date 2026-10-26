@@ -1,22 +1,14 @@
 {
-  "generated_at": "2026-10-26T04:59:04.595Z",
-  "count": 2,
+  "generated_at": "2026-10-26T15:17:17.109Z",
+  "count": 1,
   "alerts": [
     {
-      "id": "st-elon-musk-issues-a-warning-f",
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "id": "st-ai-giant-anthropic-files-for",
+      "title": "AI giant Anthropic files for blockbuster IPO",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-26T03:11:39.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
-    },
-    {
-      "id": "st-why-mcdonalds-microsoft-and",
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-24T15:00:00.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker"
+      "published_at": "2026-10-26T13:22:09.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo"
     }
   ]
 }

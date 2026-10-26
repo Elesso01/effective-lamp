@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-10-26
 
-6 stories briefed · feed mix 6 familiar / 39 discovery.
+6 stories briefed · feed mix 6 familiar / 41 discovery.
 
 ## Top stories
-1. **Keystone says website breach exposed hardware wallet buyers’ addresses** (Security and privacy · Cointelegraph) — A top crypto development today
-2. **Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin** (Markets and business · Cointelegraph) — A top crypto development today
-3. **Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips** (Regulation and policy · CoinDesk) — A top AI development today
-4. **The best apps for tracking your reading and discovering new books** (Markets and business · TechCrunch) — A top AI development today
-5. **Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Grok releases the first seven minutes of its AI-generated ‘Odyssey’** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
+1. **South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029** (Markets and business · CoinDesk) — A top crypto development today
+2. **Canada opens consultation on draft stablecoin rules, maintains ban on yields** (Markets and business · CoinDesk) — A top crypto development today
+3. **AI giant Anthropic files for blockbuster IPO** (Regulation and policy · CoinDesk) — A top AI development today
+4. **Anthropic officially files for its public debut** (Startups and companies · TechCrunch) — A top AI development today
+5. **Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Grok releases the first seven minutes of its AI-generated ‘Odyssey’.
+- Discovery pick of the week: A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000.
 
 _News, not investment advice._
