@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T05:16:26.088Z",
+  "generated_at": "2026-10-27T14:39:32.196Z",
   "pipeline": {
-    "stories": 49,
+    "stories": 51,
     "briefed": 6,
     "labelCoverage": 100,
     "categoriesCovered": 7,
     "buckets": {
-      "crypto": 24,
-      "crossover": 2,
-      "ai": 23
+      "crypto": 25,
+      "ai": 21,
+      "crossover": 5
     }
   },
   "behavioralDefinitions": {

@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-ripple-gets-a-final-go-ahead",
+    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-27T04:28:49.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+    "type": "News",
+    "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-27T05:16:24.732Z"
+  },
+  {
     "id": "st-tom-lee-s-bitmine-favors-sha",
     "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.162Z"
+    "imported_at": "2026-10-27T05:16:24.732Z"
   },
   {
     "id": "st-nba-joins-pro-sports-leagues",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "imported_at": "2026-10-27T05:16:24.732Z"
   },
   {
     "id": "st-occ-calls-on-community-banks",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "imported_at": "2026-10-27T05:16:24.732Z"
   },
   {
     "id": "st-south-korea-weighs-fourth-de",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "imported_at": "2026-10-27T05:16:24.733Z"
   },
   {
     "id": "st-canada-opens-consultation-on",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "imported_at": "2026-10-27T05:16:24.733Z"
   },
   {
     "id": "st-ai-giant-anthropic-files-for",
@@ -93,7 +109,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "imported_at": "2026-10-27T05:16:24.733Z"
   },
   {
     "id": "st-a-68-million-bitcoin-bet-is",
@@ -109,23 +125,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "imported_at": "2026-10-27T05:16:24.733Z"
   },
   {
-    "id": "st-bitcoin-holds-near-80-000-as",
-    "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-26T11:24:33.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+    "id": "st-how-openai-turned-its-coding",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-27T02:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "type": "News",
-    "summary": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
-    "category": "Markets and business",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-27T05:16:25.009Z"
+  },
+  {
+    "id": "st-cohere-says-alibaba-s-qwen-m",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-27T01:12:21.000Z",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "type": "News",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-27T05:16:25.009Z"
+  },
+  {
+    "id": "st-greptile-takes-bug-detection",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-26T22:00:00.000Z",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "type": "News",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-26T21:05:26.163Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-27T05:16:24.947Z"
   },
   {
     "id": "st-fusion-startups-are-giving-t",
@@ -141,7 +189,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.412Z"
+    "imported_at": "2026-10-27T05:16:25.009Z"
   },
   {
     "id": "st-this-startup-s-self-driving",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.412Z"
+    "imported_at": "2026-10-27T05:16:25.009Z"
   },
   {
     "id": "st-anthropic-s-ipo-filing-revea",
@@ -173,39 +221,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.412Z"
+    "imported_at": "2026-10-27T05:16:25.009Z"
   },
   {
-    "id": "st-spacex-locks-in-40b-gpu-fina",
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-26T16:46:36.000Z",
-    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "id": "st-working-with-academic-commun",
+    "title": "Working with academic communities to build scientific understanding",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-26T14:30:00.000Z",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "type": "News",
-    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "category": "Markets and business",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.412Z"
+    "imported_at": "2026-10-27T05:16:24.948Z"
   },
   {
-    "id": "st-anthropic-officially-files-f",
-    "title": "Anthropic officially files for its public debut",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-26T14:35:22.000Z",
-    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "id": "st-gpt-6-1-sol-helps-coderabbit",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-26T13:45:00.000Z",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "type": "News",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "category": "Startups and companies",
-    "bucket": "ai",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "category": "Products and applications",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.412Z"
+    "imported_at": "2026-10-27T05:16:24.948Z"
   },
   {
     "id": "st-chatgpt-s-expanding-world-of",
@@ -221,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.361Z"
+    "imported_at": "2026-10-27T05:16:24.948Z"
   },
   {
     "id": "st-how-fanatics-and-openai-stre",
@@ -237,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.361Z"
+    "imported_at": "2026-10-27T05:16:24.948Z"
   },
   {
     "id": "st-how-ultrafast-cut-incident-i",
@@ -253,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.361Z"
+    "imported_at": "2026-10-27T05:16:24.948Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -269,39 +317,87 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.361Z"
+    "imported_at": "2026-10-27T05:16:24.948Z"
   },
   {
-    "id": "st-securing-our-frontier-model",
-    "title": "Securing our frontier model training environment",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-23T10:00:00.000Z",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "id": "st-redotpay-weighs-confidential",
+    "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-27T04:26:51.000Z",
+    "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "category": "Research and development",
-    "bucket": "ai",
+    "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.361Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-27T05:16:24.815Z"
   },
   {
-    "id": "st-openai-and-poland-s-nask-par",
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-23T00:00:00.000Z",
-    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "id": "st-keystone-breach-deepens-hack",
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-27T01:55:03.000Z",
+    "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "category": "Research and development",
+    "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-27T05:16:24.816Z"
+  },
+  {
+    "id": "st-ripple-wins-final-us-approva",
+    "title": "Ripple wins final US approval for national trust bank",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-27T00:06:41.000Z",
+    "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-27T05:16:24.816Z"
+  },
+  {
+    "id": "st-us-occ-calls-on-community-ba",
+    "title": "US OCC calls on community banks to become payment stablecoin issuers",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T21:38:30.000Z",
+    "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-27T05:16:24.816Z"
+  },
+  {
+    "id": "st-injective-launches-onchain-f",
+    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T21:23:32.000Z",
+    "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T21:05:26.361Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-27T05:16:24.816Z"
   },
   {
     "id": "st-canada-opens-consultation-on",
@@ -317,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.238Z"
+    "imported_at": "2026-10-27T05:16:24.816Z"
   },
   {
     "id": "st-ai-company-anthropic-announc",
@@ -333,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.238Z"
+    "imported_at": "2026-10-27T05:16:24.816Z"
   },
   {
     "id": "st-nba-names-kalshi-polymarket",
@@ -349,87 +445,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.238Z"
+    "imported_at": "2026-10-27T05:16:24.816Z"
   },
   {
-    "id": "st-south-korea-lawmakers-mull-p",
-    "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T16:18:09.000Z",
-    "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-openai-announces-three-big-s",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T23:47:59.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
     "type": "News",
-    "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.238Z"
-  },
-  {
-    "id": "st-kalshi-strikes-deal-with-s-p",
-    "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T15:54:15.000Z",
-    "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
-    "category": "Markets and business",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.238Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-27T05:16:25.932Z"
   },
   {
-    "id": "st-php-flaw-shows-ai-vulnerabil",
-    "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T14:25:22.000Z",
-    "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-anthropic-is-burning-gas-to",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T21:45:31.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
     "type": "News",
-    "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.239Z"
-  },
-  {
-    "id": "st-strategy-skips-bitcoin-purch",
-    "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T13:27:38.000Z",
-    "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.239Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T13:26:47.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T21:05:26.239Z"
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Excha",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.7,
+    "imported_at": "2026-10-27T05:16:25.932Z"
   },
   {
     "id": "st-iphone-duo-now-supports-appl",
@@ -445,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.412Z"
+    "imported_at": "2026-10-27T05:16:25.932Z"
   },
   {
     "id": "st-the-nba-s-response-to-gambli",
@@ -461,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.412Z"
+    "imported_at": "2026-10-27T05:16:25.932Z"
   },
   {
     "id": "st-the-realreal-won-t-let-ai-ag",
@@ -477,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.412Z"
+    "imported_at": "2026-10-27T05:16:25.932Z"
   },
   {
     "id": "st-nothing-s-eye-catching-ear-3",
@@ -493,23 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.412Z"
-  },
-  {
-    "id": "st-five-weird-details-from-anth",
-    "title": "Five weird details from Anthropic’s IPO filing",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-26T17:10:23.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-    "type": "News",
-    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.412Z"
+    "imported_at": "2026-10-27T05:16:25.932Z"
   },
   {
     "id": "st-lansing-city-council-conside",
@@ -525,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.845Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
   },
   {
     "id": "st-sumter-police-warn-of-jury-d",
@@ -541,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.845Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
   },
   {
     "id": "st-bank-of-israel-rejects-netan",
@@ -557,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.846Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
   },
   {
     "id": "st-if-history-is-any-guide-this",
@@ -573,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.845Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
   },
   {
     "id": "st-chinese-national-extradited",
@@ -589,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.845Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
   },
   {
     "id": "st-on-meidas-defense-cryptocurr",
@@ -605,7 +637,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.846Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
+  },
+  {
+    "id": "st-doe-explains-machine-learnin",
+    "title": "DOE Explains...Machine Learning",
+    "source": "Department of Energy (.gov)",
+    "sourceId": "rss-department-of-energy-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-23T14:00:32.000Z",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PVlNDLW5nbE9XU2EtaTV5Z3FTbDc5M25uTEtMbFYzVlFNUTkwZWVLZDlzSjQtVndMcWp2TVQ4M0pfcUlMak9HZXZsYTdyRzVDTE5RdG1tSk9WbVNiTWlWSkhwSGRfWjNLSDZr?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1PVlNDLW5nbE9XU2EtaTV5Z3FTbDc5M25uTEtMbFYzVlFNUTkwZWVLZDlzSjQtVndMcWp2TVQ4M0pfcUlMak9HZXZsYTdyRzVDTE5RdG1tSk9WbVNiTWlWSkhwSGRfWjNLSDZr?oc=5\" target=\"_blank\">DOE Explains...Machine Learning</a>&nbsp;&nbsp;<font color=\"#6f",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-27T05:16:25.837Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -621,23 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.352Z"
-  },
-  {
-    "id": "st-wall-street-is-getting-very",
-    "title": "Wall Street Is Getting Very Nervous About AI",
-    "source": "Jacobin",
-    "sourceId": "rss-jacobin",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-23T13:39:11.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGkya2xZTEx0YWNBVXRVNUxTaXRHazI4ZGQ0WlpsOUxBMzhvM1U3WmdVM3loM05TR0FDWWFYZl9MMVV2MGpHay1DeEZ5YkFUQkw5aTVxSUctdDhUblZRd3FBTjJRQmVfclNDUENjeU9ZUWF1ZXpkbmd5c3VCWXVJR3d3?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGkya2xZTEx0YWNBVXRVNUxTaXRHazI4ZGQ0WlpsOUxBMzhvM1U3WmdVM3loM05TR0FDWWFYZl9MMVV2MGpHay1DeEZ5YkFUQkw5aTVxSUctdDhUblZRd3FBTjJRQmVfclNDUENjeU9ZUWF1ZXpkbmd5c3VCWXVJR3d3?oc=5\" target=\"_blank\">Wall Street Is Getting Very Ner",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.353Z"
+    "imported_at": "2026-10-27T05:16:25.837Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -653,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.845Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -669,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.352Z"
+    "imported_at": "2026-10-27T05:16:25.837Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -685,54 +717,70 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.353Z"
+    "imported_at": "2026-10-27T05:16:25.837Z"
   },
   {
-    "id": "st-call-for-papers-advancing-re",
-    "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
-    "source": "UNESCO",
-    "sourceId": "rss-unesco",
+    "id": "st-here-s-how-umkc-is-embracing",
+    "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
+    "source": "University of Missouri-Kansas City",
+    "sourceId": "rss-university-of-missouri-kansas-city",
     "author": "Google News (AI)",
-    "published_at": "2026-10-20T07:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+    "published_at": "2026-10-22T07:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5\" target=\"_bla",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.353Z"
-  },
-  {
-    "id": "st-huds-expands-artificial-inte",
-    "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-    "source": "The Harvard Crimson",
-    "sourceId": "rss-the-harvard-crimson",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-20T07:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5\" target=\"_blank\">HUDS Expands Artificial Intelligence System to R",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5\" tar",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:27.353Z"
+    "imported_at": "2026-10-27T05:16:25.837Z"
   },
   {
-    "id": "st-nc-woman-loses-savings-to-cr",
-    "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
-    "source": "WRAL",
-    "sourceId": "rss-wral",
+    "id": "st-ordinance-banning-cryptocurr",
+    "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
+    "source": "KRQE",
+    "sourceId": "rss-krqe",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-19T23:00:24.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnRLNVlZSEJtYmtQQXZUUk1OYTU5ZFRVbFc3cjRPOU80eHJwakllNlJObXBFV0FhMFZGOUtUOVdWQUdFMEZnaERXSDM0MDk4dE9ZejA0UlcyMUs4QXp3RjN4a3VoN2lsQmxINExDbXZfekhfQmtyQ0t6MUZUSUI5U25ZV2F5MW1vOFNIUE42UzREdGV4Mi16cU1wNjNYb2UwYkxkYXVqSjZ1UQ?oc=5",
+    "published_at": "2026-10-21T23:07:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU9SSlRWamJFdXd1VUl0cGVrOXU0dWt1Qm4zcG91bkVFdVhIY1EtcmRrR09Jci1wMDJnQmU1XzRmR04wSEhScnRvTU15NzJqNFZHY2pwR3JZNWI5UnYtZldpQWRvOHh3VHF0LS1ZVklBM2RCVkJxWC1FRm90cjk1NTlBczMxT21rTWhEWEh6Rm1YcDNqRlV5V0tocXNEeEF2b21URUhXNExBZw?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnRLNVlZSEJtYmtQQXZUUk1OYTU5ZFRVbFc3cjRPOU80eHJwakllNlJObXBFV0FhMFZGOUtUOVdWQUdFMEZnaERXSDM0MDk4dE9ZejA0UlcyMUs4QXp3RjN4a3VoN2lsQmxINExDbXZfekhfQmtyQ0t6MUZUSUI5U25ZV2F5MW1vOFNIUE42UzREdGV4Mi16cU1wNjNYb2UwYkxkYXVqSjZ1UQ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU9SSlRWamJFdXd1VUl0cGVrOXU0dWt1Qm4zcG91bkVFdVhIY1EtcmRrR09Jci1wMDJnQmU1XzRmR04wSEhScnRvTU15NzJqNFZHY2pwR3JZNWI5UnYtZldpQWRvOHh3VHF0LS1ZVklBM2RCVkJxWC1FRm90cjk1NTlBczMxT21rTWhEWEh6Rm1YcDNqRlV5V0tocXNEeEF2b21URUhXNExBZw",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T21:05:26.845Z"
+    "imported_at": "2026-10-27T05:16:25.450Z"
+  },
+  {
+    "id": "st-artificial-intelligence-stoc",
+    "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing - U.S. News",
+    "source": "U.S. News - Money",
+    "sourceId": "rss-u-s-news-money",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-20T19:02:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5\" target=",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-27T05:16:25.837Z"
+  },
+  {
+    "id": "st-fears-over-artificial-intell",
+    "title": "Fears Over Artificial Intelligence And Data Centers Are Overblown",
+    "source": "Forbes",
+    "sourceId": "rss-forbes",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-20T10:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFF0NEppQ1V0anc5aUN4XzZPdXhlWDlpcGlUOEljZWRpTEh2NTgyR3A2S3JPejB6bTNGRWpPV1RNUS1LVXJCTFZwanZzZWJZVjA2ZUxhNWF5WkJxZmpOVzl2OTNuZEwzbzdpU1VRNHp6azlQbktjazFlMjNaN1UwYmFWQWplTGZpTTdwN1hFSDFuUUNKcmk3RWp3MVpIWVNJWXc4M1hFMTNYdTIxbmwzc194eVRTRHktQVE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFF0NEppQ1V0anc5aUN4XzZPdXhlWDlpcGlUOEljZWRpTEh2NTgyR3A2S3JPejB6bTNGRWpPV1RNUS1LVXJCTFZwanZzZWJZVjA2ZUxhNWF5WkJxZmpOVzl2OTNuZEwzbzdpU1VRNHp6azlQbktjazFlMjNaN1UwYmFWQWplTGZpTTdwN1hFSDFuUUNKcmk3RWp3MVpIWVNJWXc4M1hFMTNYdT",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-27T05:16:25.837Z"
   }
 ]

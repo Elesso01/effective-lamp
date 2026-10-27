@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-27T05:16:26.055Z",
+  "generated_at": "2026-10-27T14:39:32.163Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-nba-joins-pro-sports-leagues",
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "id": "st-nasdaq-100-comes-onchain-as",
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-26T15:59:55.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks"
+      "published_at": "2026-10-27T14:21:10.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
     },
     {
-      "id": "st-occ-calls-on-community-banks",
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "category": "Regulation and policy",
+      "id": "st-crypto-wallet-maker-keystone",
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-10-26T15:45:51.000Z",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market"
+      "published_at": "2026-10-27T11:13:54.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach"
     }
   ]
 }
