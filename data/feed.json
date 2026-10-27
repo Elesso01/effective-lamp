@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-10-27T14:39:32.130Z",
+  "generated_at": "2026-10-27T20:47:30.755Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 45
+    "familiar": 11,
+    "discovery": 39
   },
   "items": [
+    {
+      "id": "st-treasury-s-bessent-sees-cryp",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-u-s-agency-hits-utah-with-la",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-intel-oracle-ibm-join-growin",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-robinhood-taps-ripple-s-2-5",
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-nasdaq-100-comes-onchain-as",
       "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
@@ -15,17 +51,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-billionaire-palmer-luckey-is",
-      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-rapidly-scaling-online-stora",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "id": "st-re-build-which-spun-out-slat",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -38,6 +65,33 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-cftc-sues-utah-to-block-acti",
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-trump-says-he-will-ban-term",
+      "title": "Trump says he will ban term artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-s-25-billion-legal-loss",
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -60,6 +114,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-robinhood-s-crypto-revenue-f",
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-brazilian-companies-turned-t",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-cf-benchmarks-brings-wall-st",
       "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
       "category": "Research and development",
@@ -69,56 +141,47 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-miners-move-into-ai",
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-disruptive-raises-10b-fund-t",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-shows-signs-of-weakn",
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-frontier-ai-labs-say-their-m",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-holds-b",
-      "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-google-s-genie-4-world-model",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-japan-s-top-yen-stablecoin-f",
-      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-meta-ai-director-rohit-patel",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-drops-below-80-000-a",
-      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-wallet-maker-keystone",
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "id": "st-us-government-says-hackers-a",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -132,8 +195,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-rolls-out-ios-27-2-wit",
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "id": "st-openai-expands-partnership-w",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -141,46 +204,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-japan-internet-giant-gmo-say",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "id": "st-how-check-point-accelerates",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anduril-qualcomm-launch-blue",
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-general-compute-raises-100-m",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-opera-introduces-a-new-web-s",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nvidia-backs-indian-startup",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "category": "Startups and companies",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -240,6 +267,42 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-quantum-fears-already-limiti",
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ripple-robinhood-expand-part",
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-janus-henderson-centrifuge-l",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-usdc-overtakes-usdt-in-euro",
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-crypto-could-outperform-ai-s",
       "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
       "category": "Crypto and AI intersections",
@@ -249,71 +312,44 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hayes-details-flop-s-ai-comp",
-      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
+      "id": "st-trump-says-he-will-ban-term",
+      "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-luxor-raises-16m-from-cmt-di",
-      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
+      "id": "st-visionquest-is-what-happens",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-price-analysis-sees",
-      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-zcash-co-founder-calls-to-st",
-      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "id": "st-anthropic-s-elaborate-plan-t",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
       "category": "Startups and companies",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bloom-bot-hackers-loot-953k",
-      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-files-for-brazil-cry",
-      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "id": "st-expansion-of-our-cryptocurre",
+      "title": "Expansion of Our Cryptocurrency Suite: Bitcoin Cash and Uniswap Futures",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-refreshes-the-imac-wit",
-      "title": "Apple refreshes the iMac with M6 chips",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-is-adding-an-ai-chatbo",
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "id": "st-firefox-s-smart-window-adds",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,8 +357,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-updates-the-macbook-pr",
-      "title": "Apple updates the MacBook Pro with M6 chips",
+      "id": "st-major-league-baseball-is-loo",
+      "title": "Major League Baseball is looking for a new kind of fan",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -330,19 +366,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-palmer-luckey-s-anduril-is-g",
-      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they’ll be American-made",
-      "category": "Products and applications",
+      "id": "st-collaborative-collision-fsu",
+      "title": "Collaborative Collision: FSU researchers explore the future of artificial intelligence",
+      "category": "Research and development",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-airfly-s-wireless-headphone",
-      "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,26 +402,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-third-of-young-adults-turn",
-      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-doe-explains-machine-learnin",
-      "title": "DOE Explains...Machine Learning",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-why-trump-s-rebrand-of-artif",
       "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-wall-street-is-getting-very",
+      "title": "Wall Street Is Getting Very Nervous About AI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -420,26 +438,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-how-umkc-is-embracing",
-      "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-lessons-from-cryptocurrency",
       "title": "Lessons from Cryptocurrency Insolvencies for Traditional Lenders",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-8-cryptocurrency-scams-how-t",
-      "title": "8 Cryptocurrency Scams & How to Avoid Them",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -451,15 +451,6 @@
       "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-stoc",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing - U.S. News",
-      "category": "Markets and business",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

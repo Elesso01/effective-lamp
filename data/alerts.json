@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-27T14:39:32.163Z",
+  "generated_at": "2026-10-27T20:47:30.776Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-nasdaq-100-comes-onchain-as",
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "id": "st-treasury-s-bessent-sees-cryp",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-27T14:21:10.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
+      "published_at": "2026-10-27T20:41:33.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
     },
     {
-      "id": "st-crypto-wallet-maker-keystone",
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-      "category": "Security and privacy",
+      "id": "st-u-s-agency-hits-utah-with-la",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-27T11:13:54.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach"
+      "published_at": "2026-10-27T19:07:59.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there"
     }
   ]
 }
