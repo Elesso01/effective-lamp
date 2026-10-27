@@ -1,19 +1,51 @@
 [
   {
-    "id": "st-netanyahu-rebuked-for-plan-t",
-    "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-    "source": "Reuters",
-    "sourceId": "rss-reuters",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-25T12:15:33.000Z",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
+    "id": "st-tom-lee-s-bitmine-favors-sha",
+    "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-26T16:05:12.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTE",
-    "category": "Markets and business",
+    "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-26T21:05:26.162Z"
+  },
+  {
+    "id": "st-nba-joins-pro-sports-leagues",
+    "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-26T15:59:55.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+    "type": "News",
+    "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-26T21:05:26.163Z"
+  },
+  {
+    "id": "st-occ-calls-on-community-banks",
+    "title": "OCC calls on community banks to enter the stablecoin payments market",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-26T15:45:51.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+    "type": "News",
+    "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.9,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "quality": 0.85,
+    "imported_at": "2026-10-26T21:05:26.163Z"
   },
   {
     "id": "st-south-korea-weighs-fourth-de",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
+    "imported_at": "2026-10-26T21:05:26.163Z"
   },
   {
     "id": "st-canada-opens-consultation-on",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
+    "imported_at": "2026-10-26T21:05:26.163Z"
   },
   {
     "id": "st-ai-giant-anthropic-files-for",
@@ -61,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
+    "imported_at": "2026-10-26T21:05:26.163Z"
   },
   {
     "id": "st-a-68-million-bitcoin-bet-is",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
+    "imported_at": "2026-10-26T21:05:26.163Z"
   },
   {
     "id": "st-bitcoin-holds-near-80-000-as",
@@ -93,55 +125,71 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
+    "imported_at": "2026-10-26T21:05:26.163Z"
   },
   {
-    "id": "st-live-news-bitcoin-slips-belo",
-    "title": "Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-26T11:05:31.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+    "id": "st-fusion-startups-are-giving-t",
+    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-26T18:59:52.000Z",
+    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
     "type": "News",
-    "summary": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
-  },
-  {
-    "id": "st-calpers-pulls-back-from-big",
-    "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-26T10:33:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-    "type": "News",
-    "summary": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending.",
+    "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
     "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.245Z"
-  },
-  {
-    "id": "st-fed-ecb-and-boj-interest-rat",
-    "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-26T09:14:47.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
-    "type": "News",
-    "summary": "Your look at what's coming in the week starting Oct. 26.",
-    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-26T15:17:15.246Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-26T21:05:26.412Z"
+  },
+  {
+    "id": "st-this-startup-s-self-driving",
+    "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-26T17:45:00.000Z",
+    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "type": "News",
+    "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-26T21:05:26.412Z"
+  },
+  {
+    "id": "st-anthropic-s-ipo-filing-revea",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-26T16:49:42.000Z",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "type": "News",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-26T21:05:26.412Z"
+  },
+  {
+    "id": "st-spacex-locks-in-40b-gpu-fina",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-26T16:46:36.000Z",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "type": "News",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-26T21:05:26.412Z"
   },
   {
     "id": "st-anthropic-officially-files-f",
@@ -157,39 +205,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.739Z"
+    "imported_at": "2026-10-26T21:05:26.412Z"
   },
   {
-    "id": "st-apple-unveils-new-ipad-mini",
-    "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-26T14:25:43.000Z",
-    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+    "id": "st-chatgpt-s-expanding-world-of",
+    "title": "ChatGPT’s expanding world of work",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-26T10:00:00.000Z",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
     "type": "News",
-    "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
     "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.739Z"
-  },
-  {
-    "id": "st-matiks-raises-10m-to-expand",
-    "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-26T14:08:04.000Z",
-    "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-    "type": "News",
-    "summary": "Matiks has introduced a new platform for users to create games using AI.",
-    "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.739Z"
+    "imported_at": "2026-10-26T21:05:26.361Z"
   },
   {
     "id": "st-how-fanatics-and-openai-stre",
@@ -205,55 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.629Z"
+    "imported_at": "2026-10-26T21:05:26.361Z"
   },
   {
-    "id": "st-the-best-apps-for-tracking-y",
-    "title": "The best apps for tracking your reading and discovering new books",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-26T01:10:00.000Z",
-    "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+    "id": "st-how-ultrafast-cut-incident-i",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-10-26T07:00:00.000Z",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
     "type": "News",
-    "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.739Z"
-  },
-  {
-    "id": "st-grok-releases-the-first-seve",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-25T21:31:16.000Z",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "type": "News",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.739Z"
-  },
-  {
-    "id": "st-ai-delivers-zero-financial-p",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-25T16:57:32.000Z",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "type": "News",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.739Z"
+    "imported_at": "2026-10-26T21:05:26.361Z"
   },
   {
     "id": "st-rapidly-scaling-online-stora",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.629Z"
+    "imported_at": "2026-10-26T21:05:26.361Z"
   },
   {
     "id": "st-securing-our-frontier-model",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.629Z"
+    "imported_at": "2026-10-26T21:05:26.361Z"
   },
   {
     "id": "st-openai-and-poland-s-nask-par",
@@ -301,39 +301,87 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.629Z"
+    "imported_at": "2026-10-26T21:05:26.361Z"
   },
   {
-    "id": "st-uber-brings-chatgpt-work-to",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-22T00:00:00.000Z",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "id": "st-canada-opens-consultation-on",
+    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T19:47:40.000Z",
+    "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "category": "Research and development",
-    "bucket": "ai",
+    "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.629Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-26T21:05:26.238Z"
   },
   {
-    "id": "st-how-at-t-is-rethinking-in-ho",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-10-21T17:00:00.000Z",
-    "url": "https://openai.com/index/att-legal",
+    "id": "st-ai-company-anthropic-announc",
+    "title": "AI company Anthropic announces IPO, expected as early as November",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T18:42:41.000Z",
+    "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "category": "Products and applications",
+    "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-26T15:17:15.629Z"
+    "quality": 0.75,
+    "imported_at": "2026-10-26T21:05:26.238Z"
+  },
+  {
+    "id": "st-nba-names-kalshi-polymarket",
+    "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T17:46:09.000Z",
+    "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-26T21:05:26.238Z"
+  },
+  {
+    "id": "st-south-korea-lawmakers-mull-p",
+    "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T16:18:09.000Z",
+    "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-26T21:05:26.238Z"
+  },
+  {
+    "id": "st-kalshi-strikes-deal-with-s-p",
+    "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-26T15:54:15.000Z",
+    "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-26T21:05:26.238Z"
   },
   {
     "id": "st-php-flaw-shows-ai-vulnerabil",
@@ -349,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
+    "imported_at": "2026-10-26T21:05:26.239Z"
   },
   {
     "id": "st-strategy-skips-bitcoin-purch",
@@ -365,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
+    "imported_at": "2026-10-26T21:05:26.239Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,167 +429,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
+    "imported_at": "2026-10-26T21:05:26.239Z"
   },
   {
-    "id": "st-hood-s-prediction-markets-to",
-    "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T13:12:41.000Z",
-    "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-iphone-duo-now-supports-appl",
+    "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T18:53:15.000Z",
+    "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
     "type": "News",
-    "summary": "Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
-  },
-  {
-    "id": "st-aviva-investors-launches-tok",
-    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T11:39:27.000Z",
-    "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
+    "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for t",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-26T21:05:27.412Z"
   },
   {
-    "id": "st-btc-price-risks-80k-loss-int",
-    "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T10:49:55.000Z",
-    "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-the-nba-s-response-to-gambli",
+    "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T18:22:19.000Z",
+    "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
     "type": "News",
-    "summary": "Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.",
+    "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction mar",
     "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-26T21:05:27.412Z"
+  },
+  {
+    "id": "st-the-realreal-won-t-let-ai-ag",
+    "title": "The RealReal won’t let AI agents hog designer clothing",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T17:30:55.000Z",
+    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "type": "News",
+    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealRe",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-26T21:05:27.412Z"
+  },
+  {
+    "id": "st-nothing-s-eye-catching-ear-3",
+    "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T17:25:34.000Z",
+    "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+    "type": "News",
+    "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best ",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-26T21:05:27.412Z"
   },
   {
-    "id": "st-securitize-s-tokenized-stock",
-    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T10:25:01.000Z",
-    "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-five-weird-details-from-anth",
+    "title": "Five weird details from Anthropic’s IPO filing",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-26T17:10:23.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
     "type": "News",
-    "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
+    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300",
     "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
-  },
-  {
-    "id": "st-bitcoin-etfs-break-2-week-ou",
-    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-26T08:20:49.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-26T15:17:15.369Z"
-  },
-  {
-    "id": "st-apple-updates-the-ipad-mini",
-    "title": "Apple updates the iPad Mini with a larger OLED display",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-26T14:41:59.000Z",
-    "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
-    "type": "News",
-    "summary": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini ",
-    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:17.015Z"
-  },
-  {
-    "id": "st-remarkable-s-refurbished-pap",
-    "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-26T14:41:43.000Z",
-    "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-    "type": "News",
-    "summary": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the ref",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:17.015Z"
-  },
-  {
-    "id": "st-anthropic-s-ipo-filing-lays",
-    "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-26T13:55:23.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-    "type": "News",
-    "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI ",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:17.015Z"
-  },
-  {
-    "id": "st-kevin-roose-is-agi-pilled-wh",
-    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-26T13:37:13.000Z",
-    "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-    "type": "News",
-    "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the ",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:17.015Z"
-  },
-  {
-    "id": "st-can-ai-help-solve-the-cobol",
-    "title": "Can AI help solve the COBOL code crisis?",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-26T13:26:44.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-    "type": "News",
-    "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, ",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:17.015Z"
+    "imported_at": "2026-10-26T21:05:27.412Z"
   },
   {
     "id": "st-lansing-city-council-conside",
@@ -557,7 +525,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "imported_at": "2026-10-26T21:05:26.845Z"
+  },
+  {
+    "id": "st-sumter-police-warn-of-jury-d",
+    "title": "Sumter Police warn of ‘jury duty’ cryptocurrency scam",
+    "source": "WIS News 10",
+    "sourceId": "rss-wis-news-10",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-25T22:24:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1neFB4M2hpbjFnSm5XSnBHVzNwZFhxMTdmbGx4M0F2MWpVcl8zcEZPS1hJZWtLNGc1dm05WkVIZzUtQnF6YUNJY2RyN0lpNGxmZXp2VWo0MmxUdWVJQUhGRy1YMW1qMUh4ck42Y0x6cWxubm80NHfSAYoBQVVfeXFMTzgxRU8zN0dtS1FtSE9UT0pmVDdlZ1d5bUpBTE40dkdnbGZXWGdUS3YwOTFsUGV6R05BUzdKaXV5NS1HUGJwbVBVWkhYaElCOU83ZzNabHNxNVE5dHplQWlhNFBnSW9kXzY2S1ZHbzVmVl9jeUw1SVBzaDdlT2NPbmxyazl6YkNDZW9R?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1neFB4M2hpbjFnSm5XSnBHVzNwZFhxMTdmbGx4M0F2MWpVcl8zcEZPS1hJZWtLNGc1dm05WkVIZzUtQnF6YUNJY2RyN0lpNGxmZXp2VWo0MmxUdWVJQUhGRy1YMW1qMUh4ck42Y0x6cWxubm80NHfSAYoBQVVfeXFMTzgxRU8zN0dtS1FtSE9UT0pmVDdlZ1d5bUpBTE40dkdnbGZXWGdUS3YwOT",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-26T21:05:26.845Z"
   },
   {
     "id": "st-bank-of-israel-rejects-netan",
@@ -573,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "imported_at": "2026-10-26T21:05:26.846Z"
   },
   {
     "id": "st-if-history-is-any-guide-this",
@@ -589,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "imported_at": "2026-10-26T21:05:26.845Z"
   },
   {
     "id": "st-chinese-national-extradited",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "imported_at": "2026-10-26T21:05:26.845Z"
   },
   {
     "id": "st-on-meidas-defense-cryptocurr",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "imported_at": "2026-10-26T21:05:26.846Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.885Z"
+    "imported_at": "2026-10-26T21:05:27.352Z"
   },
   {
     "id": "st-wall-street-is-getting-very",
@@ -653,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.885Z"
+    "imported_at": "2026-10-26T21:05:27.353Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -669,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
+    "imported_at": "2026-10-26T21:05:26.845Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -685,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.885Z"
+    "imported_at": "2026-10-26T21:05:27.352Z"
   },
   {
     "id": "st-nvidia-has-80-of-its-portfol",
@@ -701,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.885Z"
+    "imported_at": "2026-10-26T21:05:27.353Z"
   },
   {
     "id": "st-call-for-papers-advancing-re",
@@ -717,7 +701,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.885Z"
+    "imported_at": "2026-10-26T21:05:27.353Z"
+  },
+  {
+    "id": "st-huds-expands-artificial-inte",
+    "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
+    "source": "The Harvard Crimson",
+    "sourceId": "rss-the-harvard-crimson",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-20T07:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5\" target=\"_blank\">HUDS Expands Artificial Intelligence System to R",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-26T21:05:27.353Z"
   },
   {
     "id": "st-nc-woman-loses-savings-to-cr",
@@ -733,22 +733,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.225Z"
-  },
-  {
-    "id": "st-uc-san-diego-artificial-inte",
-    "title": "UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships",
-    "source": "University of California San Diego",
-    "sourceId": "rss-university-of-california-san-diego",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-19T16:26:03.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1R2NU5DMEFudy1aQkU2bkY2b1BMREQ5RVhpQ0tud1hkVHc5SGV4Q082UlNzeTVzWWJ1T0pwa0VzdGNtVGpyRGprUFNvMFVQdGl3TVg3V2RjeGhwNDlIMDMzX21RTHNzSjdzQmNEZFJGQ01halJvd0FtOUMxdm9hMWRBRDEtS25ITmxiSFU3b1pHcFM0YUlOZHRzb24wNVpFSlU5TUlCTUtncVpPTW01XzBRM1lFUQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1R2NU5DMEFudy1aQkU2bkY2b1BMREQ5RVhpQ0tud1hkVHc5SGV4Q082UlNzeTVzWWJ1T0pwa0VzdGNtVGpyRGprUFNvMFVQdGl3TVg3V2RjeGhwNDlIMDMzX21RTHNzSjdzQmNEZFJGQ01halJvd0FtOUMxdm9hMWRBRDEtS25ITmxiSFU3b1pHcFM0YUlOZHRzb24wNVpFSlU5TUlCTUtncV",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-26T15:17:16.885Z"
+    "imported_at": "2026-10-26T21:05:26.845Z"
   }
 ]

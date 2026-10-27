@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T21:05:27.500Z",
+  "generated_at": "2026-10-27T05:16:26.021Z",
   "mix": {
-    "familiar": 11,
-    "discovery": 35
+    "familiar": 10,
+    "discovery": 39
   },
   "items": [
     {
@@ -60,17 +60,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ai-company-anthropic-announc",
-      "title": "AI company Anthropic announces IPO, expected as early as November",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-us-occ-calls-on-community-ba",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -78,11 +69,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-five-weird-details-from-anth",
-      "title": "Five weird details from Anthropic’s IPO filing",
+      "id": "st-ai-company-anthropic-announc",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 9,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -103,6 +94,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ripple-gets-a-final-go-ahead",
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-south-korea-weighs-fourth-de",
@@ -132,11 +132,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-holds-near-80-000-as",
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "category": "Markets and business",
+      "id": "st-how-openai-turned-its-coding",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cohere-says-alibaba-s-qwen-m",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-greptile-takes-bug-detection",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -159,19 +177,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-spacex-locks-in-40b-gpu-fina",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "category": "Markets and business",
+      "id": "st-working-with-academic-commun",
+      "title": "Working with academic communities to build scientific understanding",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-officially-files-f",
-      "title": "Anthropic officially files for its public debut",
-      "category": "Startups and companies",
-      "bucket": "ai",
+      "id": "st-gpt-6-1-sol-helps-coderabbit",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -204,20 +222,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-securing-our-frontier-model",
-      "title": "Securing our frontier model training environment",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-redotpay-weighs-confidential",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-and-poland-s-nask-par",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "category": "Research and development",
+      "id": "st-keystone-breach-deepens-hack",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ripple-wins-final-us-approva",
+      "title": "Ripple wins final US approval for national trust bank",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-injective-launches-onchain-f",
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -240,38 +276,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-south-korea-lawmakers-mull-p",
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kalshi-strikes-deal-with-s-p",
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "category": "Markets and business",
+      "id": "st-openai-announces-three-big-s",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-php-flaw-shows-ai-vulnerabil",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-strategy-skips-bitcoin-purch",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-anthropic-is-burning-gas-to",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -357,8 +375,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-why-trump-s-rebrand-of-artif",
-      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
+      "id": "st-doe-explains-machine-learnin",
+      "title": "DOE Explains...Machine Learning",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -366,8 +384,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-wall-street-is-getting-very",
-      "title": "Wall Street Is Getting Very Nervous About AI",
+      "id": "st-why-trump-s-rebrand-of-artif",
+      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -393,17 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-call-for-papers-advancing-re",
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-huds-expands-artificial-inte",
-      "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
+      "id": "st-here-s-how-umkc-is-embracing",
+      "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -411,10 +420,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nc-woman-loses-savings-to-cr",
-      "title": "NC woman loses savings to crypto ATM scam. DOJ confirms it's looking into crypto kiosk companies",
+      "id": "st-ordinance-banning-cryptocurr",
+      "title": "Ordinance banning cryptocurrency ATMs goes into effect in Albuquerque",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-stoc",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing - U.S. News",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-fears-over-artificial-intell",
+      "title": "Fears Over Artificial Intelligence And Data Centers Are Overblown",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
