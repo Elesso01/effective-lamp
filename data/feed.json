@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T20:47:30.755Z",
+  "generated_at": "2026-10-28T05:55:18.179Z",
   "mix": {
-    "familiar": 11,
-    "discovery": 39
+    "familiar": 9,
+    "discovery": 41
   },
   "items": [
     {
@@ -33,26 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-robinhood-taps-ripple-s-2-5",
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-nasdaq-100-comes-onchain-as",
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-re-build-which-spun-out-slat",
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "id": "st-vcs-will-make-billions-on-an",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -60,8 +42,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-from-8vc-to-benchmark-here-s",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-robinhood-s-tenev-warns-us-t",
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -96,15 +87,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-lansing-city-council-conside",
-      "title": "Lansing City Council considering cryptocurrency kiosk regulations",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-not-bitcoin-not-ethereum-thi",
       "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
       "category": "Markets and business",
@@ -112,6 +94,42 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-treasury-datavault-a",
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bithumb-hacked-through-emplo",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-nears-81-000-ahead-o",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-coinbase-says-user-funds-are",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-robinhood-s-crypto-revenue-f",
@@ -123,26 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-brazilian-companies-turned-t",
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cf-benchmarks-brings-wall-st",
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-disruptive-raises-10b-fund-t",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "id": "st-jio-shares-surge-21-in-marke",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -150,8 +150,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-frontier-ai-labs-say-their-m",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "id": "st-parents-sue-openai-alleging",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -159,8 +159,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-s-genie-4-world-model",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "id": "st-the-data-center-boom-has-an",
+      "title": "The data center boom has an upside: innovation for the US grid",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -168,28 +168,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-ai-director-rohit-patel",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "id": "st-guidewire-buys-hyperexponent",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bank-of-america-kindly-asks",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-retell-uses-openai-models-to",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
       "category": "Research and development",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-us-government-says-hackers-a",
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-unveils-new-14-inch-ma",
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -258,11 +258,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-ultrafast-cut-incident-i",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "id": "st-bithumb-discloses-data-leak",
+      "title": "Bithumb discloses data leak after internal system breach: Report",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-vaneck-launches-diversified",
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-intel-ibm-oracle-and-ionq-la",
+      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -285,29 +303,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-janus-henderson-centrifuge-l",
-      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "id": "st-here-s-why-the-iphone-duo-s",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-usdc-overtakes-usdt-in-euro",
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "id": "st-researchers-are-getting-tire",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-osbi-dozens-scammed-across-o",
+      "title": "OSBI: Dozens scammed across Oklahoma, other states in cryptocurrency scam",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-could-outperform-ai-s",
-      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -348,42 +366,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-firefox-s-smart-window-adds",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-major-league-baseball-is-loo",
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-collaborative-collision-fsu",
-      "title": "Collaborative Collision: FSU researchers explore the future of artificial intelligence",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-if-history-is-any-guide-this",
-      "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-today-s-crypto-news-bitcoin",
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
       "category": "Markets and business",
@@ -397,6 +379,15 @@
       "title": "What to Know About Cryptocurrency ATMs",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-not-intel-not-coreweave-this",
+      "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -420,8 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-civil-beat-s-artificial-inte",
-      "title": "Civil Beat’s Artificial Intelligence Policy",
+      "id": "st-her-6-year-old-brought-home",
+      "title": "Her 6-year-old brought home an AI-generated photo from school. This mom isn’t having it",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -429,10 +420,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nvidia-has-80-of-its-portfol",
-      "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+      "id": "st-is-this-cryptocurrency-a-pot",
+      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
       "category": "Markets and business",
-      "bucket": "ai",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cryptocurrency-in-family-law",
+      "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -447,10 +447,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-council-passes-law-to-requir",
-      "title": "Council passes law to require anti-fraud warnings on cryptocurrency ATMS",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-opinion-ai-splits-the-americ",
+      "title": "Opinion | AI Splits the American University in Two",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
