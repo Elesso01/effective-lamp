@@ -1,31 +1,13 @@
 {
-  "generated_at": "2026-10-28T15:12:58.266Z",
+  "generated_at": "2026-10-28T21:10:35.326Z",
   "mix": {
-    "familiar": 7,
+    "familiar": 4,
     "discovery": 45
   },
   "items": [
     {
-      "id": "st-google-to-preview-crypto-cus",
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-mirae-asset-securities-issue",
-      "title": "Mirae Asset Securities issues tokenized notes on Solana",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,8 +24,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-xai-is-buying-out-homeowners",
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "id": "st-microsoft-reveals-strong-clo",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -69,13 +51,40 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cryptocurrency-companies-can",
-      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators - ABC News",
-      "category": "Regulation and policy",
+      "id": "st-cftc-chief-poses-questions-a",
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-isn-t-a-partisan-figh",
+      "title": "Crypto isn’t a partisan fight, proven by data",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-coinbase-earnings-wall-stree",
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-long-short-what-happe",
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-wall-street-backbone-dtcc-br",
@@ -88,7 +97,7 @@
     },
     {
       "id": "st-jpmorgan-coca-cola-dell-also",
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,44 +105,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-xrp-ledger-developers-propos",
-      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-rebounds-above-81-00",
-      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "category": "Markets and business",
+      "id": "st-hacker-stole-personnel-data",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-sheds-e",
-      "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nearly-90-of-large-businesse",
-      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-voice-ai-in-vogue-nvidia-rel",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "id": "st-anthropic-just-launched-tool",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -141,8 +123,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amazon-debuts-the-alexa-phot",
-      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "id": "st-wiz-s-cto-on-php2shell-and-t",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-launches-its-new-touch",
+      "title": "Apple launches its new touchscreen MacBook Pro",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8,
@@ -150,8 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tiktok-expands-into-restaura",
-      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "id": "st-xreal-aura-is-a-new-wired-he",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 8,
@@ -159,8 +150,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-has-a-new-ai-pet-app-ca",
-      "title": "Meta has a new AI pet app called Waddle World",
+      "id": "st-as-ai-agents-reshape-the-web",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -168,18 +159,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-free-fire-returns-to-india-a",
-      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+      "id": "st-chrome-s-ai-powered-autofill",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-7-days-until-techcrunch-foun",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "category": "Startups and companies",
+      "id": "st-openai-and-servicenow-expand",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -189,15 +180,6 @@
       "id": "st-legora-is-building-the-agent",
       "title": "Legora is building the agentic operating system for legal work",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jio-shares-surge-21-in-marke",
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -249,20 +231,47 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-gpt-6-1-sol-helps-coderabbit",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "category": "Products and applications",
+      "id": "st-sam-bankman-fried-wrote-to-a",
+      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-chatgpt-s-expanding-world-of",
-      "title": "ChatGPT’s expanding world of work",
+      "id": "st-strategy-shareholders-approv",
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-pac-spending-before-m",
+      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-price-bounce-rejecte",
+      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-phantom-launches-kalshi-powe",
+      "title": "Phantom launches Kalshi-powered prediction markets for US users",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -285,62 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-dtcc-unit-launches-tokenizat",
-      "title": "DTCC unit launches tokenization services",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-price-eyes-82k-as-mo",
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-etf-inflows-climb-to",
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-8bitdo-s-new-xbox-elite-styl",
-      "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-raises-the-macbook-neo",
-      "title": "Apple raises the MacBook Neo’s student pricing again",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-here-s-virgin-galactic-s-new",
-      "title": "Here’s Virgin Galactic’s new Apeiron spaceship",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-inside-amazon-s-echo-hardwar",
-      "title": "Inside Amazon’s Echo hardware event",
+      "id": "st-google-says-its-investments",
+      "title": "Google says its investments in AI are driving more searches",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -348,28 +303,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tiktok-is-going-after-yelp-a",
-      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+      "id": "st-apple-charges-14-549-for-a-f",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-almost-all-of-amazon-s-new-e",
-      "title": "Almost all of Amazon’s new Echo gear is available now",
-      "category": "Products and applications",
-      "bucket": "crypto",
+      "id": "st-google-launches-gemini-4-car",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "category": "Research and development",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-six-people-charged-in-intern",
-      "title": "Six people charged in international crypto romance scam",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-microsoft-is-ending-copilot",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,8 +366,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-if-history-is-any-guide-this",
-      "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -420,19 +375,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-on-meidas-defense-cryptocurr",
-      "title": "On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo",
+      "id": "st-what-to-know-about-cryptocur",
+      "title": "What to Know About Cryptocurrency ATMs",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-doe-explains-machine-learnin",
-      "title": "DOE Explains...Machine Learning",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -440,6 +386,15 @@
     {
       "id": "st-why-trump-s-rebrand-of-artif",
       "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-wall-street-is-getting-very",
+      "title": "Wall Street Is Getting Very Nervous About AI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -456,6 +411,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-370-books-in-20-months-s-afr",
+      "title": "370 books in 20 months: S.African author defends her use of AI",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-civil-beat-s-artificial-inte",
       "title": "Civil Beat’s Artificial Intelligence Policy",
       "category": "Products and applications",
@@ -465,10 +429,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-how-umkc-is-embracing",
-      "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-is-this-cryptocurrency-a-pot",
+      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cryptocurrency-in-family-law",
+      "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
