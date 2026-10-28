@@ -1,22 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:55:18.212Z",
-  "count": 2,
-  "alerts": [
-    {
-      "id": "st-bithumb-hacked-through-emplo",
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "category": "Security and privacy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-28T05:10:36.000Z",
-      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
-    },
-    {
-      "id": "st-coinbase-says-user-funds-are",
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "category": "Security and privacy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-28T03:11:14.000Z",
-      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
-    }
-  ]
+  "generated_at": "2026-10-28T15:12:58.301Z",
+  "count": 0,
+  "alerts": []
 }
