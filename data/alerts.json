@@ -1,5 +1,22 @@
 {
-  "generated_at": "2026-10-29T05:59:42.336Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-10-29T15:18:03.541Z",
+  "count": 2,
+  "alerts": [
+    {
+      "id": "st-walmart-eli-lilly-join-growi",
+      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-29T13:39:18.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans"
+    },
+    {
+      "id": "st-tokenized-stock-venue-on-can",
+      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-29T12:51:48.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework"
+    }
+  ]
 }

@@ -13,7 +13,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-28T21:10:35.163Z"
+    "imported_at": "2026-10-29T05:59:42.013Z"
+  },
+  {
+    "id": "st-ai-found-a-way-to-crash-bitc",
+    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-29T05:54:39.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "type": "News",
+    "summary": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-29T05:59:40.842Z"
+  },
+  {
+    "id": "st-security-failure-at-indian-c",
+    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-29T05:30:34.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "type": "News",
+    "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-29T05:59:40.842Z"
+  },
+  {
+    "id": "st-bitcoin-dips-below-80-000-as",
+    "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-29T03:32:43.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+    "type": "News",
+    "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-29T05:59:40.843Z"
+  },
+  {
+    "id": "st-mystery-wall-street-journal",
+    "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-29T03:21:24.000Z",
+    "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+    "type": "News",
+    "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-29T05:59:40.843Z"
   },
   {
     "id": "st-cftc-chief-poses-questions-a",
@@ -29,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-28T21:10:33.990Z"
+    "imported_at": "2026-10-29T05:59:40.843Z"
   },
   {
     "id": "st-crypto-isn-t-a-partisan-figh",
@@ -45,71 +109,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-28T21:10:33.991Z"
+    "imported_at": "2026-10-29T05:59:40.843Z"
   },
   {
-    "id": "st-coinbase-earnings-wall-stree",
-    "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-28T17:02:57.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+    "id": "st-upwind-raises-400m-after-wal",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-28T23:15:00.000Z",
+    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
     "type": "News",
-    "summary": "Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "category": "Startups and companies",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-28T21:10:33.992Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-29T05:59:41.204Z"
   },
   {
-    "id": "st-crypto-long-short-what-happe",
-    "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-28T16:01:36.000Z",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+    "id": "st-microsoft-just-shared-azure",
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-28T21:58:32.000Z",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
     "type": "News",
-    "summary": "The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the agent re",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-10-28T21:10:33.992Z"
-  },
-  {
-    "id": "st-wall-street-backbone-dtcc-br",
-    "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-28T13:14:37.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-    "type": "News",
-    "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-28T21:10:33.992Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-29T05:59:41.204Z"
   },
   {
-    "id": "st-jpmorgan-coca-cola-dell-also",
-    "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-28T12:59:36.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+    "id": "st-google-expands-ai-search-ads",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-28T21:48:37.000Z",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
     "type": "News",
-    "summary": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-28T21:10:33.992Z"
+    "quality": 0.8,
+    "imported_at": "2026-10-29T05:59:41.204Z"
+  },
+  {
+    "id": "st-microsoft-recorded-10-billio",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-28T21:34:30.000Z",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "type": "News",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-29T05:59:41.204Z"
+  },
+  {
+    "id": "st-microsoft-hits-10-quarters-o",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-28T21:25:30.000Z",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "type": "News",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-29T05:59:41.204Z"
   },
   {
     "id": "st-hacker-stole-personnel-data",
@@ -125,7 +205,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.293Z"
+    "imported_at": "2026-10-29T05:59:41.204Z"
   },
   {
     "id": "st-anthropic-just-launched-tool",
@@ -141,87 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.294Z"
-  },
-  {
-    "id": "st-wiz-s-cto-on-php2shell-and-t",
-    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-28T19:05:46.000Z",
-    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-    "type": "News",
-    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.294Z"
-  },
-  {
-    "id": "st-apple-launches-its-new-touch",
-    "title": "Apple launches its new touchscreen MacBook Pro",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-28T17:26:10.000Z",
-    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-    "type": "News",
-    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.294Z"
-  },
-  {
-    "id": "st-xreal-aura-is-a-new-wired-he",
-    "title": "Xreal Aura is a new wired headset powered by Android XR",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-28T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-    "type": "News",
-    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.294Z"
-  },
-  {
-    "id": "st-as-ai-agents-reshape-the-web",
-    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-28T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "type": "News",
-    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.294Z"
-  },
-  {
-    "id": "st-chrome-s-ai-powered-autofill",
-    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-28T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "type": "News",
-    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.294Z"
+    "imported_at": "2026-10-29T05:59:41.204Z"
   },
   {
     "id": "st-openai-and-servicenow-expand",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.238Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
     "id": "st-legora-is-building-the-agent",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.238Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
     "id": "st-retell-uses-openai-models-to",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.238Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
     "id": "st-openai-expands-partnership-w",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.238Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
     "id": "st-how-check-point-accelerates",
@@ -301,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.238Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
     "id": "st-greptile-takes-bug-detection",
@@ -317,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.239Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
     "id": "st-working-with-academic-commun",
@@ -333,23 +333,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-28T21:10:34.239Z"
+    "imported_at": "2026-10-29T05:59:41.088Z"
   },
   {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
+    "id": "st-your-fridge-could-one-day-st",
+    "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-10-28T19:46:45.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-29T04:39:49.000Z",
+    "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
     "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-29T05:59:40.911Z"
+  },
+  {
+    "id": "st-tampered-ledger-wallets-cost",
+    "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-29T03:16:32.000Z",
+    "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
+    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
+    "imported_at": "2026-10-29T05:59:40.911Z"
+  },
+  {
+    "id": "st-fed-s-hawkish-rate-hold-keep",
+    "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-29T01:12:01.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-29T05:59:40.911Z"
+  },
+  {
+    "id": "st-canadian-crypto-king-case-to",
+    "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-28T21:35:52.000Z",
+    "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-29T05:59:40.911Z"
   },
   {
     "id": "st-sam-bankman-fried-wrote-to-a",
@@ -365,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
+    "imported_at": "2026-10-29T05:59:40.912Z"
   },
   {
     "id": "st-strategy-shareholders-approv",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
+    "imported_at": "2026-10-29T05:59:40.912Z"
   },
   {
     "id": "st-crypto-pac-spending-before-m",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
+    "imported_at": "2026-10-29T05:59:40.912Z"
   },
   {
     "id": "st-bitcoin-price-bounce-rejecte",
@@ -413,71 +461,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
+    "imported_at": "2026-10-29T05:59:40.912Z"
   },
   {
-    "id": "st-phantom-launches-kalshi-powe",
-    "title": "Phantom launches Kalshi-powered prediction markets for US users",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-28T16:40:02.000Z",
-    "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The crypto wallet’s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
-  },
-  {
-    "id": "st-google-cloud-outlines-mpc-se",
-    "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-28T13:47:51.000Z",
-    "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
-  },
-  {
-    "id": "st-cybersecurity-s-black-octobe",
-    "title": "Cybersecurity’s Black October: How to protect yourself",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-28T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-28T21:10:34.106Z"
-  },
-  {
-    "id": "st-google-says-its-investments",
-    "title": "Google says its investments in AI are driving more searches",
+    "id": "st-anduril-now-says-its-bluechi",
+    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-28T20:34:45.000Z",
-    "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+    "published_at": "2026-10-29T02:27:35.000Z",
+    "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
     "type": "News",
-    "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a stat",
+    "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply c",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.236Z"
+    "imported_at": "2026-10-29T05:59:42.105Z"
+  },
+  {
+    "id": "st-adam-mosseri-says-negativity",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-28T23:05:39.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "type": "News",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast t",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.105Z"
   },
   {
     "id": "st-microsoft-reveals-strong-clo",
@@ -485,7 +501,7 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-10-28T20:33:49.000Z",
+    "published_at": "2026-10-28T22:47:29.000Z",
     "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
     "type": "News",
     "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsof",
@@ -493,7 +509,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.236Z"
+    "imported_at": "2026-10-29T05:59:42.105Z"
+  },
+  {
+    "id": "st-a-hacker-stole-more-than-40",
+    "title": "A hacker stole more than 40,000 DHS employee records",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-28T22:01:10.000Z",
+    "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+    "type": "News",
+    "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.105Z"
+  },
+  {
+    "id": "st-google-says-its-investments",
+    "title": "Google says its investments in AI are driving more searches",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-28T21:50:33.000Z",
+    "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+    "type": "News",
+    "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a stat",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.105Z"
+  },
+  {
+    "id": "st-akai-is-embracing-vibe-coded",
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-28T21:34:04.000Z",
+    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "type": "News",
+    "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.105Z"
+  },
+  {
+    "id": "st-readwise-is-taking-on-kindle",
+    "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-28T21:16:18.000Z",
+    "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+    "type": "News",
+    "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and w",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.105Z"
   },
   {
     "id": "st-apple-charges-14-549-for-a-f",
@@ -509,39 +589,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.236Z"
+    "imported_at": "2026-10-29T05:59:42.105Z"
   },
   {
-    "id": "st-google-launches-gemini-4-car",
-    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-28T20:03:00.000Z",
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "id": "st-what-americans-actually-do-w",
+    "title": "What Americans Actually Do With Cryptocurrency | - Register-Pajaronian",
+    "source": "Register-Pajaronian",
+    "sourceId": "rss-register-pajaronian",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-28T18:51:02.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2Ym04U2MzWUJDQkZFeWlQOHpXeE8tQjRDNkR4N2pxYTNSbjdfUjVpdVp1WUVVM24xeU1ZZmpITHRkNERldUJaMDNJcmRkM1pnQkFCUXEwbk1ER2dyNTlvMkE1WmNCcjF5R3BTcThSWW5TZEd1XzBGSXhB?oc=5",
     "type": "News",
-    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau",
-    "category": "Research and development",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB2Ym04U2MzWUJDQkZFeWlQOHpXeE8tQjRDNkR4N2pxYTNSbjdfUjVpdVp1WUVVM24xeU1ZZmpITHRkNERldUJaMDNJcmRkM1pnQkFCUXEwbk1ER2dyNTlvMkE1WmNCcjF5R3BTcThSWW5TZEd1XzBGSXhB?oc=5\" target=\"_blank\">What Americans Actually Do With Cryptocurre",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:41.636Z"
+  },
+  {
+    "id": "st-artificial-intelligence-in-c",
+    "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+    "source": "Stanford Medicine",
+    "sourceId": "rss-stanford-medicine",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-28T01:55:01.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5\" target=\"_blank\">Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation w",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.236Z"
-  },
-  {
-    "id": "st-microsoft-is-ending-copilot",
-    "title": "Microsoft is ending Copilot support on smart TVs",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-28T18:36:26.000Z",
-    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-    "type": "News",
-    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes n",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.236Z"
+    "imported_at": "2026-10-29T05:59:42.014Z"
   },
   {
     "id": "st-osbi-dozens-scammed-across-o",
@@ -557,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
+    "imported_at": "2026-10-29T05:59:41.637Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -573,23 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
-  },
-  {
-    "id": "st-expansion-of-our-cryptocurre",
-    "title": "Expansion of Our Cryptocurrency Suite: Bitcoin Cash and Uniswap Futures",
-    "source": "CME Group",
-    "sourceId": "rss-cme-group",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-27T16:51:46.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0JUc1AxWXFUZ3FsRTZOdDU3elVwS3F4OXJ2WUFtckxtMGN5Um1MWnQyem9vRGpveHBMdUVJY3h3UFlJM1BTQnFDMUs4T3RJSjlFZXBXekxBZm9HNzQ1MGpLYWhIOFNKeWNlU1NwenN4dDVlNWdsdWY1X3pjS2M0T0V1eTNSREdtM1p1VE1rbkIwNTNGUnBRS1ZVangyMFFNalFLSlhRdGFXUGVGN0pkNm1lcGM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0JUc1AxWXFUZ3FsRTZOdDU3elVwS3F4OXJ2WUFtckxtMGN5Um1MWnQyem9vRGpveHBMdUVJY3h3UFlJM1BTQnFDMUs4T3RJSjlFZXBXekxBZm9HNzQ1MGpLYWhIOFNKeWNlU1NwenN4dDVlNWdsdWY1X3pjS2M0T0V1eTNSREdtM1p1VE1rbkIwNTNGUnBRS1ZVangyMFFNalFLSlhRdGFXUG",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
+    "imported_at": "2026-10-29T05:59:42.013Z"
   },
   {
     "id": "st-taxing-artificial-intelligen",
@@ -605,23 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
-  },
-  {
-    "id": "st-today-s-crypto-news-bitcoin",
-    "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-    "source": "Investing News Network",
-    "sourceId": "rss-investing-news-network",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-26T21:05:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5\" target=\"_blank\">Today's Crypto News: Bitcoin, Ether and Altcoin Insights</a>&nbsp;&nbsp;",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
+    "imported_at": "2026-10-29T05:59:42.013Z"
   },
   {
     "id": "st-lansing-city-council-conside",
@@ -637,7 +685,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
+    "imported_at": "2026-10-29T05:59:41.636Z"
+  },
+  {
+    "id": "st-chinese-national-extradited",
+    "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+    "source": "upi",
+    "sourceId": "rss-upi",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-24T02:34:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9IBrwFBVV95cUxNZS1NZVlPS0g1Y1QyZnVORWYyVGdGX3ZtNzlIT2NrUzE0TWV2ZlZkbmNfWXcySlMyeEtQbENlczVXZXNQTlZ6Y1ZHUVNFWDBZSEpoblg5VU94LUxFWGllTkcxWnhCYTROajUtbXpSajhRUm1TaG12UEhrTUlqY1VaNks4dmU1d3JrdWppdlIyb3dIUzJ6QkZrNkJjNW1wUV9xQjA3dFlSd0VPMWVlWGhF?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:41.636Z"
   },
   {
     "id": "st-what-to-know-about-cryptocur",
@@ -653,7 +717,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
+    "imported_at": "2026-10-29T05:59:41.636Z"
+  },
+  {
+    "id": "st-not-intel-not-coreweave-this",
+    "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
+    "source": "Yahoo Finance",
+    "sourceId": "rss-yahoo-finance",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-23T14:50:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG9BQ0x2T2hkMERBYUQ5dm5NcE9aUEFFY2VEd2hZQnZONVlJSHJNYWQ1alZpdDNxMHlwa2ZScjUtNXZZOEJCYTRYdEZNRExTTkE1Q2V4ZHdCejVfLWRpTHJsRkptdlhLV1pOOG9VOVZkaVlSY29lckVVWVBGMmVtZHFibzNqZUVTcThXZm0yd1VKX2cwLVNsemVWZ0Y3X2U0MUVIV0Jrbw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG9BQ0x2T2hkMERBYUQ5dm5NcE9aUEFFY2VEd2hZQnZONVlJSHJNYWQ1alZpdDNxMHlwa2ZScjUtNXZZOEJCYTRYdEZNRExTTkE1Q2V4ZHdCejVfLWRpTHJsRkptdlhLV1pOOG9VOVZkaVlSY29lckVVWVBGMmVtZHFibzNqZUVTcThXZm0yd1VKX2cwLVNsemVWZ0Y3X2U0MUVIV0Jrbw?oc=",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.013Z"
   },
   {
     "id": "st-why-trump-s-rebrand-of-artif",
@@ -669,39 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
-  },
-  {
-    "id": "st-wall-street-is-getting-very",
-    "title": "Wall Street Is Getting Very Nervous About AI",
-    "source": "Jacobin",
-    "sourceId": "rss-jacobin",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-23T13:39:11.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGkya2xZTEx0YWNBVXRVNUxTaXRHazI4ZGQ0WlpsOUxBMzhvM1U3WmdVM3loM05TR0FDWWFYZl9MMVV2MGpHay1DeEZ5YkFUQkw5aTVxSUctdDhUblZRd3FBTjJRQmVfclNDUENjeU9ZUWF1ZXpkbmd5c3VCWXVJR3d3?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGkya2xZTEx0YWNBVXRVNUxTaXRHazI4ZGQ0WlpsOUxBMzhvM1U3WmdVM3loM05TR0FDWWFYZl9MMVV2MGpHay1DeEZ5YkFUQkw5aTVxSUctdDhUblZRd3FBTjJRQmVfclNDUENjeU9ZUWF1ZXpkbmd5c3VCWXVJR3d3?oc=5\" target=\"_blank\">Wall Street Is Getting Very Ner",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
-  },
-  {
-    "id": "st-her-6-year-old-brought-home",
-    "title": "Her 6-year-old brought home an AI-generated photo from school. This mom isn’t having it",
-    "source": "USA Today",
-    "sourceId": "rss-usa-today",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-23T13:27:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUVk54bHE1YUFQWC0wZ0JqdE8zSEVuM1AwRzJwMlN5dUhiMy1ITXpzMy0tOTQ0N29qZXVaZDRIcThpZlczbzBMeVppcTM4V0ZVbDYxN2lDWkk5a3liUm9VZTVaeTNUUVE0MkxaV0VNVGVVcWQ4S2Vqb1hQcU9oeXZqNXY3bmpLWExxdDN6QUEzc1dhSEwxRkplbE1sZXluQ2l3UVlsc2Y3NkFRT2hNRlNB?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUVk54bHE1YUFQWC0wZ0JqdE8zSEVuM1AwRzJwMlN5dUhiMy1ITXpzMy0tOTQ0N29qZXVaZDRIcThpZlczbzBMeVppcTM4V0ZVbDYxN2lDWkk5a3liUm9VZTVaeTNUUVE0MkxaV0VNVGVVcWQ4S2Vqb1hQcU9oeXZqNXY3bmpLWExxdDN6QUEzc1dhSEwxRkplbE1sZXluQ2l3UVlsc2Y3Nk",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
+    "imported_at": "2026-10-29T05:59:42.013Z"
   },
   {
     "id": "st-not-bitcoin-not-ethereum-thi",
@@ -717,23 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
-  },
-  {
-    "id": "st-370-books-in-20-months-s-afr",
-    "title": "370 books in 20 months: S.African author defends her use of AI",
-    "source": "Yahoo",
-    "sourceId": "rss-yahoo",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-23T02:42:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREJ0V0pBeDBRa1lvSDVSVHczWkMzb0VleXNGdl92SUQ0NWRpNWFGTVJxZWNMNFdpaFJlaEV1UHF2UGZXS0ZwUDRNYzhxdGpqZmNWNjNwM0xPYnhROVdVaERSWFJWWG9LX3MxZmhqY0VMenpBSXhHczE1QW9oajd4LU9hS29KSmRNSGxBeA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPREJ0V0pBeDBRa1lvSDVSVHczWkMzb0VleXNGdl92SUQ0NWRpNWFGTVJxZWNMNFdpaFJlaEV1UHF2UGZXS0ZwUDRNYzhxdGpqZmNWNjNwM0xPYnhROVdVaERSWFJWWG9LX3MxZmhqY0VMenpBSXhHczE1QW9oajd4LU9hS29KSmRNSGxBeA?oc=5\" target=\"_blank\">370 books in 20 m",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
+    "imported_at": "2026-10-29T05:59:41.636Z"
   },
   {
     "id": "st-civil-beat-s-artificial-inte",
@@ -749,7 +781,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:35.163Z"
+    "imported_at": "2026-10-29T05:59:42.013Z"
+  },
+  {
+    "id": "st-here-s-how-umkc-is-embracing",
+    "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
+    "source": "University of Missouri-Kansas City",
+    "sourceId": "rss-university-of-missouri-kansas-city",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-22T07:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5\" tar",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-29T05:59:42.014Z"
   },
   {
     "id": "st-is-this-cryptocurrency-a-pot",
@@ -765,22 +813,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
-  },
-  {
-    "id": "st-cryptocurrency-in-family-law",
-    "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
-    "source": "Blank Rome LLP",
-    "sourceId": "rss-blank-rome-llp",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-21T22:30:47.000Z",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjlUOVlBa0dZWkJLY0EwLWRmM0xCbkgzWVFBS3JGZVpJMFFaWGpxVlZNU0xPMGJCOG9vMXhMY0ZzSGxiSDlvNm9kSnJ5d2g5dnJPT0I2Mkswdjl5RUdPRk9IZHRsU0FIRGlOdmNpangwQzZtMGlGUkczbEdSNVZVZlBnMDZ2YTcxeWI0aFdLMkxTbWRyaEZtazZiSC1TWTk3UUt6ZGhicHFwSG94?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjlUOVlBa0dZWkJLY0EwLWRmM0xCbkgzWVFBS3JGZVpJMFFaWGpxVlZNU0xPMGJCOG9vMXhMY0ZzSGxiSDlvNm9kSnJ5d2g5dnJPT0I2Mkswdjl5RUdPRk9IZHRsU0FIRGlOdmNpangwQzZtMGlGUkczbEdSNVZVZlBnMDZ2YTcxeWI0aFdLMkxTbWRyaEZtazZiSC1TWTk3UUt6ZGhicHFwSG",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-28T21:10:34.683Z"
+    "imported_at": "2026-10-29T05:59:41.636Z"
   }
 ]
