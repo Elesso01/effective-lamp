@@ -1,15 +1,60 @@
 {
-  "generated_at": "2026-10-28T21:10:35.326Z",
+  "generated_at": "2026-10-29T05:59:42.308Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 45
+    "familiar": 9,
+    "discovery": 42
   },
   "items": [
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
+      "id": "st-security-failure-at-indian-c",
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "category": "Markets and business",
       "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-microsoft-just-shared-azure",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-google-expands-ai-search-ads",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-microsoft-recorded-10-billio",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-microsoft-hits-10-quarters-o",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-your-fridge-could-one-day-st",
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "category": "Regulation and policy",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -51,6 +96,33 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-ai-found-a-way-to-crash-bitc",
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-dips-below-80-000-as",
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-mystery-wall-street-journal",
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-cftc-chief-poses-questions-a",
       "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
       "category": "Markets and business",
@@ -69,38 +141,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-coinbase-earnings-wall-stree",
-      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-long-short-what-happe",
-      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wall-street-backbone-dtcc-br",
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jpmorgan-coca-cola-dell-also",
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-upwind-raises-400m-after-wal",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -116,51 +161,6 @@
     {
       "id": "st-anthropic-just-launched-tool",
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wiz-s-cto-on-php2shell-and-t",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-launches-its-new-touch",
-      "title": "Apple launches its new touchscreen MacBook Pro",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-xreal-aura-is-a-new-wired-he",
-      "title": "Xreal Aura is a new wired headset powered by Android XR",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-as-ai-agents-reshape-the-web",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chrome-s-ai-powered-autofill",
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -231,6 +231,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-tampered-ledger-wallets-cost",
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-fed-s-hawkish-rate-hold-keep",
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-canadian-crypto-king-case-to",
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-sam-bankman-fried-wrote-to-a",
       "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
       "category": "Markets and business",
@@ -267,29 +294,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-phantom-launches-kalshi-powe",
-      "title": "Phantom launches Kalshi-powered prediction markets for US users",
+      "id": "st-anduril-now-says-its-bluechi",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-cloud-outlines-mpc-se",
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "id": "st-adam-mosseri-says-negativity",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cybersecurity-s-black-octobe",
-      "title": "Cybersecurity’s Black October: How to protect yourself",
+      "id": "st-a-hacker-stole-more-than-40",
+      "title": "A hacker stole more than 40,000 DHS employee records",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -298,6 +325,24 @@
       "title": "Google says its investments in AI are driving more searches",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-akai-is-embracing-vibe-coded",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-readwise-is-taking-on-kindle",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -312,18 +357,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-launches-gemini-4-car",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "category": "Research and development",
-      "bucket": "ai",
+      "id": "st-what-americans-actually-do-w",
+      "title": "What Americans Actually Do With Cryptocurrency | - Register-Pajaronian",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-microsoft-is-ending-copilot",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "category": "Products and applications",
+      "id": "st-artificial-intelligence-in-c",
+      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -348,15 +393,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-expansion-of-our-cryptocurre",
-      "title": "Expansion of Our Cryptocurrency Suite: Bitcoin Cash and Uniswap Futures",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-taxing-artificial-intelligen",
       "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
       "category": "Products and applications",
@@ -366,8 +402,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "id": "st-chinese-national-extradited",
+      "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -384,35 +420,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-not-intel-not-coreweave-this",
+      "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-why-trump-s-rebrand-of-artif",
       "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wall-street-is-getting-very",
-      "title": "Wall Street Is Getting Very Nervous About AI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-her-6-year-old-brought-home",
-      "title": "Her 6-year-old brought home an AI-generated photo from school. This mom isn’t having it",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-370-books-in-20-months-s-afr",
-      "title": "370 books in 20 months: S.African author defends her use of AI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -429,17 +447,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-is-this-cryptocurrency-a-pot",
-      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-here-s-how-umkc-is-embracing",
+      "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-in-family-law",
-      "title": "Cryptocurrency in Family Law: Lessons from Real-World Case Studies",
+      "id": "st-is-this-cryptocurrency-a-pot",
+      "title": "Is This Cryptocurrency a Potential Millionaire-Maker?",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
