@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-29T15:18:03.541Z",
+  "generated_at": "2026-10-29T21:13:59.149Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-walmart-eli-lilly-join-growi",
-      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+      "id": "st-potential-multi-billion-bina",
+      "title": "Potential multi-billion Binance hack hitting crypto markets",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-29T13:39:18.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans"
+      "published_at": "2026-10-29T21:12:45.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
     },
     {
-      "id": "st-tokenized-stock-venue-on-can",
-      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-      "category": "Regulation and policy",
+      "id": "st-polymarket-suspends-trading",
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-10-29T12:51:48.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework"
+      "published_at": "2026-10-29T18:55:35.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses"
     }
   ]
 }
