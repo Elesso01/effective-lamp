@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-10-30T15:07:02.517Z",
+  "generated_at": "2026-10-30T20:53:43.069Z",
   "mix": {
-    "familiar": 16,
-    "discovery": 31
+    "familiar": 15,
+    "discovery": 36
   },
   "items": [
+    {
+      "id": "st-experts-divided-over-binance",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-uncovers-wider-breac",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-wall-street-analysts-urge-in",
       "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
@@ -60,19 +78,28 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-andy-jassy-says-prime-video",
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "id": "st-tether-s-excess-reserves-nea",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-live-updates-binance-says-6",
-      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
+      "id": "st-coinbase-leads-crypto-stock",
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-as-it-happened-binance-s-rec",
+      "title": "As it happened: Binance’s record $6.3B crypto hack",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -81,42 +108,6 @@
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-working-with-fbi-to",
-      "title": "Binance working with FBI to recover assets following $6.3B hack",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-says-it-holds-5b-in",
-      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bitcoin-price-metrics-hint-a",
-      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-eip-7702-didn-t-cause-binanc",
-      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -141,10 +132,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-hackers-stole-6-3-bi",
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "id": "st-google-s-latest-nest-learnin",
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -159,8 +150,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-artificial-intelligence-tran",
-      "title": "Artificial intelligence transforms the workforce, regulations",
+      "id": "st-bill-gates-warns-of-20-years",
+      "title": "Bill Gates warns of 20 years of turmoil from artificial intelligence",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -177,20 +168,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-falls-t",
-      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-ai-law-firm-crosby-bids-on-d",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-hacker-dumps-a-littl",
-      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-zest-s-new-ai-agent-finds-re",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-s-first-data-center-s",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-theranos-whistleblower-tyler",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -204,17 +213,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-can-ai-data-centers-be-mass",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "category": "Startups and companies",
+      "id": "st-making-it-easier-for-website",
+      "title": "Making it easier for websites to express AI training preferences",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-you-don-t-need-to-believe-in",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "id": "st-community-safety-report-and",
+      "title": "Community safety report and new protections for teens",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -249,6 +258,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-credit-saison-achieves-954-r",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-openai-and-servicenow-expand",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "category": "Products and applications",
@@ -258,29 +276,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-legora-is-building-the-agent",
-      "title": "Legora is building the agentic operating system for legal work",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-crypto-biz-bitcoin-s-quantum",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-retell-uses-openai-models-to",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-recap-how-binance-s-record-6",
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-expands-partnership-w",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-bitcoin-risks-worst-october",
+      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -294,17 +312,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-zcash-grants-group-offers-12",
-      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
-      "category": "Startups and companies",
+      "id": "st-sam-altman-says-it-s-better",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-waymo-s-next-robotaxi-is-a-p",
-      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "id": "st-the-biggest-names-in-ai-are",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-s-satellite-ai-server",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-rivian-s-autonomy-gamble-fac",
+      "title": "Rivian’s autonomy gamble faces its first real test",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -312,8 +348,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-this-electric-screwdriver-us",
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "id": "st-starbucks-wants-to-use-ai-to",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,10 +357,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sam-altman-sympathizes-with",
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "category": "Research and development",
-      "bucket": "ai",
+      "id": "st-vizio-s-discounted-mini-led",
+      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-north-korea-linked-group-ste",
+      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-from-bitcoin-to-binance-cryp",
+      "title": "From Bitcoin to Binance: Crypto terms and what they mean",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -332,15 +386,6 @@
     {
       "id": "st-pa-ag-dave-sunday-launches-e",
       "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs - Pennsylvania Capital-Star",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-pa-ag-dave-sunday-launches-e",
-      "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -357,15 +402,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-ai-singularity-how-artif",
-      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-schooled-by-ai-the-evolving",
       "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
       "category": "Products and applications",
@@ -375,18 +411,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-six-people-charged-in-allege",
-      "title": "Six people charged in alleged international cryptocurrency, romance scam",
+      "id": "st-artificial-intelligence-in-c",
+      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-wants-to-ban-use-of-th",
-      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -404,6 +431,15 @@
     {
       "id": "st-trump-says-he-will-ban-term",
       "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-in-a",
+      "title": "Artificial intelligence in a Jesuit University: A student conversation, Nov. 4",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
