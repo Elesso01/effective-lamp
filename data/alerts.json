@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-30T06:01:04.864Z",
+  "generated_at": "2026-10-30T15:07:02.553Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-binance-hack-bites-india-s-l",
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "category": "Security and privacy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-30T05:43:07.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
-    },
-    {
-      "id": "st-binance-hacker-splits-1-4-bi",
-      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "id": "st-wall-street-analysts-urge-in",
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-10-30T04:50:42.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+      "published_at": "2026-10-30T14:13:34.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
+    },
+    {
+      "id": "st-binance-arranges-6-34-billio",
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-30T12:13:02.000Z",
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
     }
   ]
 }

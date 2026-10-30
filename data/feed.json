@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T06:01:04.830Z",
+  "generated_at": "2026-10-30T15:07:02.517Z",
   "mix": {
-    "familiar": 14,
-    "discovery": 32
+    "familiar": 16,
+    "discovery": 31
   },
   "items": [
     {
-      "id": "st-binance-hacker-splits-1-4-bi",
-      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "id": "st-wall-street-analysts-urge-in",
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,8 +15,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-6-billion-binance-hack-sends",
-      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "id": "st-binance-arranges-6-34-billio",
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -24,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-institutional-crypto-investo",
-      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "id": "st-here-s-how-an-ethereum-upgra",
+      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -33,8 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-s-longtime-foe-north",
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "id": "st-crypto-liquidations-jump-to",
+      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -42,11 +42,20 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-loses-over-6-billion",
-      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
+      "id": "st-strategy-cfo-andrew-kang-res",
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-north-korean-hackers-blamed",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -60,26 +69,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-pauses-withdrawals-a",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-amazon-reported-booming-clou",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "id": "st-live-updates-binance-says-6",
+      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 10,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-strategy-eyes-more-bitcoin-b",
-      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -87,8 +87,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-hack-rattles-markets",
-      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+      "id": "st-binance-working-with-fbi-to",
+      "title": "Binance working with FBI to recover assets following $6.3B hack",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-says-it-holds-5b-in",
+      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -96,10 +105,19 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-live-updates-binance-6-3b-ha",
-      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+      "id": "st-bitcoin-price-metrics-hint-a",
+      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-eip-7702-didn-t-cause-binanc",
+      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -123,8 +141,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-rivian-s-r2-is-officially-it",
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "id": "st-binance-hackers-stole-6-3-bi",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-north-korea-steals-usd-6-36",
+      "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -132,35 +159,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-lansing-city-council-conside",
-      "title": "Lansing City Council considering cryptocurrency kiosk regulations",
+      "id": "st-artificial-intelligence-tran",
+      "title": "Artificial intelligence transforms the workforce, regulations",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-not-bitcoin-not-ethereum-thi",
-      "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-xrp-ledger-developers-tighte",
-      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-hack-bites-india-s-l",
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "id": "st-here-s-how-big-bitcoin-trade",
+      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 8.5,
@@ -168,8 +177,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-hack-drained-wallets",
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "id": "st-live-updates-bitcoin-falls-t",
+      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-binance-hacker-dumps-a-littl",
+      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 8.5,
@@ -177,8 +195,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-you-don-t-need-to-believe-in",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "id": "st-doordash-said-it-s-only-rece",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -186,8 +204,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-aws-will-be-a-1t-business-ja",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "id": "st-can-ai-data-centers-be-mass",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-you-don-t-need-to-believe-in",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -258,53 +285,80 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korea-linked-to-6-3b-b",
-      "title": "North Korea linked to $6.3B Binance hack by crypto investigators",
+      "id": "st-will-gold-s-infinite-mint-bu",
+      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-zcash-grants-group-offers-12",
+      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-waymo-s-next-robotaxi-is-a-p",
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-this-electric-screwdriver-us",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sam-altman-sympathizes-with",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-pa-ag-dave-sunday-launches-e",
+      "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs - Pennsylvania Capital-Star",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-pa-ag-dave-sunday-launches-e",
+      "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-tumbles-as-binance-h",
+      "title": "Bitcoin tumbles as Binance hack rattles crypto markets",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-hack-could-accelerat",
-      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-points-to-engineer-s",
-      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tampered-ledger-reported-in",
-      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-public-companies-double-shar",
-      "title": "Public companies double share of blockchain revenue since 2022: Report",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-reddit-s-ceo-says-google-s-a",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "id": "st-the-ai-singularity-how-artif",
+      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,17 +375,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-you-can-generate-and-edit-go",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-what-americans-actually-do-w",
-      "title": "What Americans Actually Do With Cryptocurrency | - Register-Pajaronian",
+      "id": "st-six-people-charged-in-allege",
+      "title": "Six people charged in alleged international cryptocurrency, romance scam",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -375,46 +420,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-if-history-is-any-guide-this",
-      "title": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-chinese-national-extradited",
       "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-what-to-know-about-cryptocur",
-      "title": "What to Know About Cryptocurrency Kiosks and Why Criminals Love Them",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-why-trump-s-rebrand-of-artif",
-      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wall-street-is-getting-very",
-      "title": "Wall Street Is Getting Very Nervous About AI",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
