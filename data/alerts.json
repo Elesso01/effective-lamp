@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-29T21:13:59.149Z",
+  "generated_at": "2026-10-30T06:01:04.864Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-potential-multi-billion-bina",
-      "title": "Potential multi-billion Binance hack hitting crypto markets",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-29T21:12:45.000Z",
-      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
-    },
-    {
-      "id": "st-polymarket-suspends-trading",
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "id": "st-binance-hack-bites-india-s-l",
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
       "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-10-29T18:55:35.000Z",
-      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses"
+      "published_at": "2026-10-30T05:43:07.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
+    },
+    {
+      "id": "st-binance-hacker-splits-1-4-bi",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-30T04:50:42.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
     }
   ]
 }
