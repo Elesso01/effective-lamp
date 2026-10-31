@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-30T20:53:42.365Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -29,7 +29,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.685Z"
+  },
+  {
+    "id": "st-bitcoin-stolen-from-binance",
+    "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-31T05:01:32.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+    "type": "News",
+    "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-31T05:56:21.188Z"
+  },
+  {
+    "id": "st-openai-reportedly-cuts-fundr",
+    "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-31T00:48:56.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+    "type": "News",
+    "summary": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-31T05:56:21.188Z"
   },
   {
     "id": "st-experts-divided-over-binance",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
+    "imported_at": "2026-10-31T05:56:21.188Z"
   },
   {
     "id": "st-binance-uncovers-wider-breac",
@@ -61,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
+    "imported_at": "2026-10-31T05:56:21.188Z"
   },
   {
     "id": "st-wall-street-analysts-urge-in",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
+    "imported_at": "2026-10-31T05:56:21.188Z"
   },
   {
     "id": "st-binance-arranges-6-34-billio",
@@ -93,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
+    "imported_at": "2026-10-31T05:56:21.188Z"
   },
   {
     "id": "st-here-s-how-big-bitcoin-trade",
@@ -109,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
+    "imported_at": "2026-10-31T05:56:21.188Z"
   },
   {
     "id": "st-here-s-how-an-ethereum-upgra",
@@ -125,135 +157,119 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
+    "imported_at": "2026-10-31T05:56:21.189Z"
   },
   {
-    "id": "st-crypto-liquidations-jump-to",
-    "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-30T11:09:24.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-    "type": "News",
-    "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
-  },
-  {
-    "id": "st-strategy-cfo-andrew-kang-res",
-    "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-30T09:41:07.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-    "type": "News",
-    "summary": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-30T20:53:41.568Z"
-  },
-  {
-    "id": "st-ai-law-firm-crosby-bids-on-d",
-    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "id": "st-nvidia-weighs-playing-the-co",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-30T19:55:13.000Z",
-    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "published_at": "2026-10-31T01:20:05.000Z",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "type": "News",
-    "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.886Z"
+    "imported_at": "2026-10-31T05:56:21.668Z"
   },
   {
-    "id": "st-zest-s-new-ai-agent-finds-re",
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "id": "st-salesforce-s-m-a-spree-conti",
+    "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-30T17:47:12.000Z",
-    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "published_at": "2026-10-30T23:21:23.000Z",
+    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
     "type": "News",
-    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.886Z"
-  },
-  {
-    "id": "st-google-s-first-data-center-s",
-    "title": "Google’s first data center satellite is online and writing poetry",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "type": "News",
-    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.886Z"
-  },
-  {
-    "id": "st-theranos-whistleblower-tyler",
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T16:03:45.000Z",
-    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "type": "News",
-    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
     "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.886Z"
+    "imported_at": "2026-10-31T05:56:21.668Z"
   },
   {
-    "id": "st-north-korean-hackers-blamed",
-    "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+    "id": "st-ollie-a-privacy-focused-ai-a",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-10-30T14:00:25.000Z",
-    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+    "published_at": "2026-10-30T22:56:13.000Z",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "type": "News",
-    "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.886Z"
-  },
-  {
-    "id": "st-doordash-said-it-s-only-rece",
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T13:54:25.000Z",
-    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "type": "News",
-    "summary": "DoorDash said that it is open to working with third-party agent makers.",
-    "category": "Products and applications",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.886Z"
+    "imported_at": "2026-10-31T05:56:21.668Z"
+  },
+  {
+    "id": "st-intel-s-stock-crashes-knocki",
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-30T21:54:34.000Z",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "type": "News",
+    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T05:56:21.668Z"
+  },
+  {
+    "id": "st-anthropic-expected-to-receiv",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-30T21:52:03.000Z",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "type": "News",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T05:56:21.668Z"
+  },
+  {
+    "id": "st-applebee-s-exposed-customers",
+    "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-30T21:48:53.000Z",
+    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+    "type": "News",
+    "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T05:56:21.668Z"
+  },
+  {
+    "id": "st-last-minute-halloween-costum",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-30T21:26:59.000Z",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "type": "News",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T05:56:21.668Z"
   },
   {
     "id": "st-making-it-easier-for-website",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
   },
   {
     "id": "st-community-safety-report-and",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
   },
   {
     "id": "st-an-updated-model-spec-for-mo",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
   },
   {
     "id": "st-how-we-detect-frontier-model",
@@ -317,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
   },
   {
     "id": "st-how-ropes-gray-is-developing",
@@ -333,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
   },
   {
     "id": "st-credit-saison-achieves-954-r",
@@ -349,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
   },
   {
     "id": "st-openai-and-servicenow-expand",
@@ -365,7 +381,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-30T20:53:41.833Z"
+    "imported_at": "2026-10-31T05:56:21.536Z"
+  },
+  {
+    "id": "st-binance-hackers-raced-to-mov",
+    "title": "Binance hackers raced to move billions before it could be frozen",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-30T22:00:00.000Z",
+    "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-31T05:56:21.326Z"
   },
   {
     "id": "st-tether-s-excess-reserves-nea",
@@ -381,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.326Z"
   },
   {
     "id": "st-coinbase-leads-crypto-stock",
@@ -397,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.326Z"
   },
   {
     "id": "st-crypto-biz-bitcoin-s-quantum",
@@ -413,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.326Z"
   },
   {
     "id": "st-recap-how-binance-s-record-6",
@@ -429,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.326Z"
   },
   {
     "id": "st-as-it-happened-binance-s-rec",
@@ -445,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.327Z"
   },
   {
     "id": "st-bitcoin-risks-worst-october",
@@ -461,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.327Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -477,23 +509,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "imported_at": "2026-10-31T05:56:21.327Z"
   },
   {
-    "id": "st-will-gold-s-infinite-mint-bu",
-    "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-30T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-apple-intelligence-is-finall",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-30T22:32:53.000Z",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
     "type": "News",
-    "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?",
-    "category": "Startups and companies",
+    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 rel",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-30T20:53:41.660Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-31T05:56:22.824Z"
+  },
+  {
+    "id": "st-the-biggest-names-in-ai-are",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-30T22:04:23.000Z",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "type": "News",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI compani",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.7,
+    "imported_at": "2026-10-31T05:56:22.824Z"
+  },
+  {
+    "id": "st-exclusive-details-about-akai",
+    "title": "Exclusive details about Akai’s MPC Sample Key",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-10-30T21:27:26.000Z",
+    "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+    "type": "News",
+    "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has receive",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-31T05:56:22.824Z"
   },
   {
     "id": "st-sam-altman-says-it-s-better",
@@ -509,23 +573,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.989Z"
+    "imported_at": "2026-10-31T05:56:22.824Z"
   },
   {
-    "id": "st-the-biggest-names-in-ai-are",
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-30T20:26:10.000Z",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "id": "st-north-korea-linked-group-ste",
+    "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
+    "source": "Cybersecurity Dive",
+    "sourceId": "rss-cybersecurity-dive",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-30T20:37:34.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5",
     "type": "News",
-    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI compani",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5\" target=\"_blank\">Nor",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.989Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
+  },
+  {
+    "id": "st-massive-crypto-hack-probably",
+    "title": "Massive crypto hack probably the largest theft of digital currencies in history",
+    "source": "The Washington Post",
+    "sourceId": "rss-the-washington-post",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-30T19:51:49.000Z",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWDlvaFF5aFB1RHQxQVpaSFdqRA?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWD",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-31T05:56:22.178Z"
   },
   {
     "id": "st-google-s-satellite-ai-server",
@@ -541,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.990Z"
+    "imported_at": "2026-10-31T05:56:22.824Z"
   },
   {
     "id": "st-rivian-s-autonomy-gamble-fac",
@@ -557,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.990Z"
+    "imported_at": "2026-10-31T05:56:22.824Z"
   },
   {
     "id": "st-starbucks-wants-to-use-ai-to",
@@ -573,55 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.990Z"
-  },
-  {
-    "id": "st-vizio-s-discounted-mini-led",
-    "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-30T17:01:07.000Z",
-    "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-    "type": "News",
-    "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.990Z"
-  },
-  {
-    "id": "st-google-s-latest-nest-learnin",
-    "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-30T15:29:02.000Z",
-    "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-    "type": "News",
-    "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of ",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.990Z"
-  },
-  {
-    "id": "st-north-korea-linked-group-ste",
-    "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
-    "source": "Cybersecurity Dive",
-    "sourceId": "rss-cybersecurity-dive",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T15:12:33.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5\" target=\"_blank\">Nor",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.365Z"
+    "imported_at": "2026-10-31T05:56:22.824Z"
   },
   {
     "id": "st-from-bitcoin-to-binance-cryp",
@@ -637,7 +669,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.365Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
+  },
+  {
+    "id": "st-artificial-intelligence-is-a",
+    "title": "Artificial Intelligence is a Horror Story",
+    "source": "Literary Hub",
+    "sourceId": "rss-literary-hub",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-30T09:00:29.000Z",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSTRQUGFjdVBtcHlhR3JzcnFBNktqa2VBb3FaV0I2RWJfRWdUMEZMLVJDckJrbUlQTHcwRzNFLWQzZ2Jna2RQTnJHcEswNlprZWM3QjNPRkl3S0VuVnU4UDFaYXZESjFHUjBHT3N3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSTRQUGFjdVBtcHlhR3JzcnFBNktqa2VBb3FaV0I2RWJfRWdUMEZMLVJDckJrbUlQTHcwRzNFLWQzZ2Jna2RQTnJHcEswNlprZWM3QjNPRkl3S0VuVnU4UDFaYXZESjFHUjBHT3N3?oc=5\" target=\"_blank\">Artificial Intelligence is a Horror Story</a>&nbsp;&nbsp;<f",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-31T05:56:22.685Z"
   },
   {
     "id": "st-pa-ag-dave-sunday-launches-e",
@@ -653,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.365Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
   },
   {
     "id": "st-north-korea-steals-usd-6-36",
@@ -669,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.365Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
   },
   {
     "id": "st-bitcoin-tumbles-as-binance-h",
@@ -685,39 +733,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.365Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
   },
   {
-    "id": "st-schooled-by-ai-the-evolving",
-    "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
-    "source": "Association of Health Care Journalists",
-    "sourceId": "rss-association-of-health-care-journalists",
+    "id": "st-the-ai-singularity-how-artif",
+    "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
+    "source": "The Acquirer's Multiple",
+    "sourceId": "rss-the-acquirer-s-multiple",
     "author": "Google News (AI)",
-    "published_at": "2026-10-29T18:56:37.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5",
+    "published_at": "2026-10-29T21:53:33.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNj",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdk",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.685Z"
   },
   {
-    "id": "st-artificial-intelligence-in-c",
-    "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
-    "source": "Stanford Medicine",
-    "sourceId": "rss-stanford-medicine",
+    "id": "st-trump-wants-to-ban-use-of-th",
+    "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+    "source": "Variety",
+    "sourceId": "rss-variety",
     "author": "Google News (AI)",
-    "published_at": "2026-10-28T01:55:01.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5",
+    "published_at": "2026-10-27T19:43:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5\" target=\"_blank\">Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation w",
-    "category": "Markets and business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5\" t",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.685Z"
   },
   {
     "id": "st-trump-says-he-will-ban-the-t",
@@ -733,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.685Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -749,23 +797,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
-  },
-  {
-    "id": "st-artificial-intelligence-in-a",
-    "title": "Artificial intelligence in a Jesuit University: A student conversation, Nov. 4",
-    "source": "Marquette Today",
-    "sourceId": "rss-marquette-today",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-27T16:25:13.000Z",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3VETmdCQ1JGTUxiOG9jcERaY1lpbFM1RnNxaHJLWVhLaU0wQXJ5cjFMMzA5TGwwWUNhUlNDX3NoVHFXTVNuUjVaWlE2V2x0NDRrZXJWcG5vZVhxRERVN0F4WGY1R1htYWRZcUV1VGRzdDZqd3FNdjUtTUtra3dVd0dNUzZIZ1BiNUg0Zy13QUhyS3ltbTE1bUlQUW8xd1JEUWcxOG1yQ2ZtMkJnZFFBaXJR?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3VETmdCQ1JGTUxiOG9jcERaY1lpbFM1RnNxaHJLWVhLaU0wQXJ5cjFMMzA5TGwwWUNhUlNDX3NoVHFXTVNuUjVaWlE2V2x0NDRrZXJWcG5vZVhxRERVN0F4WGY1R1htYWRZcUV1VGRzdDZqd3FNdjUtTUtra3dVd0dNUzZIZ1BiNUg0Zy13QUhyS3ltbTE1bUlQUW8xd1JEUWcxOG1yQ2ZtMk",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.685Z"
   },
   {
     "id": "st-taxing-artificial-intelligen",
@@ -781,38 +813,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.685Z"
   },
   {
-    "id": "st-chinese-national-extradited",
-    "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
-    "source": "upi",
-    "sourceId": "rss-upi",
+    "id": "st-nearly-6-million-secured-in",
+    "title": "Nearly $6 million secured in settlement for cryptocurrency pyramid scheme targeting Haitians",
+    "source": "Times Union",
+    "sourceId": "rss-times-union",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-24T02:34:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9IBrwFBVV95cUxNZS1NZVlPS0g1Y1QyZnVORWYyVGdGX3ZtNzlIT2NrUzE0TWV2ZlZkbmNfWXcySlMyeEtQbENlczVXZXNQTlZ6Y1ZHUVNFWDBZSEpoblg5VU94LUxFWGllTkcxWnhCYTROajUtbXpSajhRUm1TaG12UEhrTUlqY1VaNks4dmU1d3JrdWppdlIyb3dIUzJ6QkZrNkJjNW1wUV9xQjA3dFlSd0VPMWVlWGhF?oc=5",
+    "published_at": "2026-10-24T15:05:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVNidUo4UDllOEpnUlg4T2FHc0ZWZ0k0RncxQUJZeEFZTjZIY0Q1Z0ZZQWxQUzJsWjVGR1FWOU16eTR2dTFaLUUyUmg0LWpKMDJraWVmUUplNjI0eTBuTGc1Q0RYUmVOWElxQjFrYnpuUVRuazNFRUhVUHdHdTRfVkdOWDNwbVpuZXc?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWF1c3lBSDV0S1lBeHVZSC1tckgxYkhYWndSVmtrSXY2MWNCdTZKaFVQY0JEX2hTWmFmUXpYUW55UlIxLVNib00yOWhPWk84eUhjaWQyZ3dGWGg3VmIyS3VvM2dUbTM0YU52cEpoQm9FMS1fRkRmcTJPY1BTRHFqUkNmQU9iYzMyYl9XUUw3amRpNlo0ZDNsNG1aeUI3MEViREY5UllvUjBCd9",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVNidUo4UDllOEpnUlg4T2FHc0ZWZ0k0RncxQUJZeEFZTjZIY0Q1Z0ZZQWxQUzJsWjVGR1FWOU16eTR2dTFaLUUyUmg0LWpKMDJraWVmUUplNjI0eTBuTGc1Q0RYUmVOWElxQjFrYnpuUVRuazNFRUhVUHdHdTRfVkdOWDNwbVpuZXc?oc=5\" target=\"_blank\">Nearly $6 million se",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.365Z"
-  },
-  {
-    "id": "st-bill-gates-warns-of-20-years",
-    "title": "Bill Gates warns of 20 years of turmoil from artificial intelligence",
-    "source": "Anadolu Ajansı",
-    "sourceId": "rss-anadolu-ajans",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-24T00:31:44.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3ZBTjZncDZraHU2LWZjajJpNVpDSXo1RC1TS1FLMGVGMm04OUV0V2J0NENGbVNxOFl5UFRpcWFjTVNST2RIMmVZRko4WVdTaDFRLUk2elZSTkhrYjlkeEdSMjR4OEFjYjAxcFptaU94T0JaZ25TbTktSGJuN2J5Zjc1YXhSbmtCb3BTbEp6R1ppUU5iZ3VCU0RhQ0RERnpJa28zWEpOUVZ4UEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3ZBTjZncDZraHU2LWZjajJpNVpDSXo1RC1TS1FLMGVGMm04OUV0V2J0NENGbVNxOFl5UFRpcWFjTVNST2RIMmVZRko4WVdTaDFRLUk2elZSTkhrYjlkeEdSMjR4OEFjYjAxcFptaU94T0JaZ25TbTktSGJuN2J5Zjc1YXhSbmtCb3BTbEp6R1ppUU5iZ3VCU0RhQ0RERnpJa28zWEpOUVZ4UE",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-30T20:53:42.862Z"
+    "imported_at": "2026-10-31T05:56:22.178Z"
   }
 ]
