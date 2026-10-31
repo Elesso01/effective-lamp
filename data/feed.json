@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T20:05:31.327Z",
+  "generated_at": "2026-10-31T23:28:23.825Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 41
+    "familiar": 6,
+    "discovery": 39
   },
   "items": [
     {
@@ -11,6 +11,15 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-judge-allows-naacp-lawsuit-o",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -55,24 +64,6 @@
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-6-billion-cryptocurrency-hei",
-      "title": "$6 billion cryptocurrency heist puts investors on edge",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-flags-potential-secu",
-      "title": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted",
-      "category": "Regulation and policy",
-      "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -150,6 +141,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-apple-ceo-says-the-company-d",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-4-days-left-how-techcrunch-f",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-openai-reportedly-lowers-fun",
       "title": "OpenAI reportedly lowers funding target for new round",
       "category": "Startups and companies",
@@ -171,33 +180,6 @@
       "id": "st-nvidia-weighs-playing-the-co",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-salesforce-s-m-a-spree-conti",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ollie-a-privacy-focused-ai-a",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-intel-s-stock-crashes-knocki",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -339,15 +321,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korea-linked-group-ste",
-      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-massive-crypto-hack-probably",
       "title": "Massive crypto hack probably the largest theft of digital currencies in history",
       "category": "Security and privacy",
@@ -393,18 +366,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-schooled-by-ai-the-evolving",
-      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-wants-to-ban-use-of-th",
-      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-      "category": "Products and applications",
+      "id": "st-artificial-intelligence-in-c",
+      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -433,6 +397,15 @@
       "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-which-cryptos-could-outperfo",
+      "title": "Which Cryptos Could Outperform Bitcoin Before the End of 2026?",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
