@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:31.859Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -29,7 +29,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-31T05:56:22.685Z"
+    "imported_at": "2026-10-31T14:35:32.284Z"
+  },
+  {
+    "id": "st-as-big-bitcoin-miners-chase",
+    "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-31T14:00:00.000Z",
+    "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+    "type": "News",
+    "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-10-31T14:35:31.156Z"
+  },
+  {
+    "id": "st-18-years-in-what-has-bitcoin",
+    "title": "18 years in, what has Bitcoin truly done?",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-31T13:00:00.000Z",
+    "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+    "type": "News",
+    "summary": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-31T14:35:31.156Z"
+  },
+  {
+    "id": "st-a-nasdaq-listed-company-may",
+    "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-31T12:49:47.000Z",
+    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+    "type": "News",
+    "summary": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the coins are held at Binance.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-31T14:35:31.156Z"
+  },
+  {
+    "id": "st-the-6-3-billion-binance-hack",
+    "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-10-31T12:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+    "type": "News",
+    "summary": "The Binance hack has revived debates about whether decentralization is the digital asset industry’s greatest security advantage or its biggest point of weakness.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-10-31T14:35:31.156Z"
   },
   {
     "id": "st-bitcoin-stolen-from-binance",
@@ -45,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
+    "imported_at": "2026-10-31T14:35:31.156Z"
   },
   {
     "id": "st-openai-reportedly-cuts-fundr",
@@ -61,7 +125,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
+    "imported_at": "2026-10-31T14:35:31.156Z"
   },
   {
     "id": "st-experts-divided-over-binance",
@@ -77,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
+    "imported_at": "2026-10-31T14:35:31.156Z"
   },
   {
     "id": "st-binance-uncovers-wider-breac",
@@ -93,71 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
-  },
-  {
-    "id": "st-wall-street-analysts-urge-in",
-    "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-30T14:13:34.000Z",
-    "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-    "type": "News",
-    "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
-  },
-  {
-    "id": "st-binance-arranges-6-34-billio",
-    "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-30T12:13:02.000Z",
-    "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-    "type": "News",
-    "summary": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
-  },
-  {
-    "id": "st-here-s-how-big-bitcoin-trade",
-    "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-30T11:51:26.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-    "type": "News",
-    "summary": "Your day-ahead look for Oct. 30, 2026",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.188Z"
-  },
-  {
-    "id": "st-here-s-how-an-ethereum-upgra",
-    "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-10-30T11:35:16.000Z",
-    "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-    "type": "News",
-    "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-10-31T05:56:21.189Z"
+    "imported_at": "2026-10-31T14:35:31.156Z"
   },
   {
     "id": "st-nvidia-weighs-playing-the-co",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
+    "imported_at": "2026-10-31T14:35:31.442Z"
   },
   {
     "id": "st-salesforce-s-m-a-spree-conti",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
+    "imported_at": "2026-10-31T14:35:31.442Z"
   },
   {
     "id": "st-ollie-a-privacy-focused-ai-a",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
+    "imported_at": "2026-10-31T14:35:31.442Z"
   },
   {
     "id": "st-intel-s-stock-crashes-knocki",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
+    "imported_at": "2026-10-31T14:35:31.442Z"
   },
   {
     "id": "st-anthropic-expected-to-receiv",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
+    "imported_at": "2026-10-31T14:35:31.442Z"
   },
   {
     "id": "st-applebee-s-exposed-customers",
@@ -253,23 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
-  },
-  {
-    "id": "st-last-minute-halloween-costum",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T21:26:59.000Z",
-    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "type": "News",
-    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.668Z"
+    "imported_at": "2026-10-31T14:35:31.442Z"
   },
   {
     "id": "st-making-it-easier-for-website",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.373Z"
   },
   {
     "id": "st-community-safety-report-and",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.373Z"
   },
   {
     "id": "st-an-updated-model-spec-for-mo",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.373Z"
   },
   {
     "id": "st-how-we-detect-frontier-model",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.374Z"
   },
   {
     "id": "st-how-ropes-gray-is-developing",
@@ -349,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.374Z"
   },
   {
     "id": "st-credit-saison-achieves-954-r",
@@ -365,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.374Z"
   },
   {
     "id": "st-openai-and-servicenow-expand",
@@ -381,7 +365,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T05:56:21.536Z"
+    "imported_at": "2026-10-31T14:35:31.374Z"
+  },
+  {
+    "id": "st-bitcoin-turns-18-has-the-ori",
+    "title": "Bitcoin turns 18: Has the original rebel grown up?",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-31T14:27:52.000Z",
+    "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-10-31T14:35:31.231Z"
+  },
+  {
+    "id": "st-texas-brothers-sentenced-to",
+    "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-31T13:37:49.000Z",
+    "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-31T14:35:31.232Z"
+  },
+  {
+    "id": "st-blockchain-investigator-chai",
+    "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-31T11:22:49.000Z",
+    "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Chainalysis has engaged world-class third-party experts to support a review of its security and strengthen its defenses.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-31T14:35:31.232Z"
+  },
+  {
+    "id": "st-binance-6-3b-record-hack-spa",
+    "title": "Binance $6.3B record hack sparks pre-election political clashes",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-10-31T09:58:50.000Z",
+    "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-10-31T14:35:31.232Z"
   },
   {
     "id": "st-binance-hackers-raced-to-mov",
@@ -397,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.326Z"
+    "imported_at": "2026-10-31T14:35:31.232Z"
   },
   {
     "id": "st-tether-s-excess-reserves-nea",
@@ -413,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.326Z"
+    "imported_at": "2026-10-31T14:35:31.232Z"
   },
   {
     "id": "st-coinbase-leads-crypto-stock",
@@ -429,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.326Z"
+    "imported_at": "2026-10-31T14:35:31.232Z"
   },
   {
     "id": "st-crypto-biz-bitcoin-s-quantum",
@@ -445,71 +493,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.326Z"
+    "imported_at": "2026-10-31T14:35:31.232Z"
   },
   {
-    "id": "st-recap-how-binance-s-record-6",
-    "title": "Recap: How Binance’s record $6.3B hack unfolded",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-30T16:53:46.000Z",
-    "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-6-billion-cryptocurrency-hei",
+    "title": "$6 billion cryptocurrency heist puts investors on edge",
+    "source": "PBS",
+    "sourceId": "rss-pbs",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-31T02:29:19.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndlAtOU1BTERiTHlCUDEwV1ctZUtzRV9kLU42dWxmT2g0VUVPR2VZYThmVEtkdlFRYS1UYWo4Qm1RSjlHcjE2eWE0NWYxYWxQN2VrUG1xNGlhYm15WmI4?oc=5",
     "type": "News",
-    "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.326Z"
-  },
-  {
-    "id": "st-as-it-happened-binance-s-rec",
-    "title": "As it happened: Binance’s record $6.3B crypto hack",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-30T16:49:50.000Z",
-    "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndlAtOU1BTERiTHlCUDEwV1ctZUtzRV9kLU42dWxmT2g0VUVPR2VZYThmVEtkdlFRYS1UYWo4Qm1RSjlHcjE2eWE0NWYxYWxQN2VrUG1xNGlhYm15WmI4?oc=5\" target=\"_blank\">$6 billion cryptocurrency heist puts investors on edge</a>&nbsp;&nbsp;<font col",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.327Z"
-  },
-  {
-    "id": "st-bitcoin-risks-worst-october",
-    "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-30T16:06:28.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.327Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-30T14:07:42.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-10-31T05:56:21.327Z"
+    "quality": 0.7,
+    "imported_at": "2026-10-31T14:35:31.859Z"
   },
   {
     "id": "st-apple-intelligence-is-finall",
@@ -525,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
+    "imported_at": "2026-10-31T14:35:32.337Z"
   },
   {
     "id": "st-the-biggest-names-in-ai-are",
@@ -541,7 +541,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
+    "imported_at": "2026-10-31T14:35:32.337Z"
   },
   {
     "id": "st-exclusive-details-about-akai",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
+    "imported_at": "2026-10-31T14:35:32.337Z"
   },
   {
     "id": "st-sam-altman-says-it-s-better",
@@ -573,23 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
-  },
-  {
-    "id": "st-north-korea-linked-group-ste",
-    "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
-    "source": "Cybersecurity Dive",
-    "sourceId": "rss-cybersecurity-dive",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T20:37:34.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5\" target=\"_blank\">Nor",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:32.337Z"
   },
   {
     "id": "st-massive-crypto-hack-probably",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:31.859Z"
   },
   {
     "id": "st-google-s-satellite-ai-server",
@@ -621,23 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
-  },
-  {
-    "id": "st-rivian-s-autonomy-gamble-fac",
-    "title": "Rivian’s autonomy gamble faces its first real test",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-10-30T17:40:51.000Z",
-    "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-    "type": "News",
-    "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, wh",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
+    "imported_at": "2026-10-31T14:35:32.337Z"
   },
   {
     "id": "st-starbucks-wants-to-use-ai-to",
@@ -653,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.824Z"
+    "imported_at": "2026-10-31T14:35:32.337Z"
   },
   {
     "id": "st-from-bitcoin-to-binance-cryp",
@@ -669,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:31.859Z"
   },
   {
     "id": "st-artificial-intelligence-is-a",
@@ -685,23 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.685Z"
-  },
-  {
-    "id": "st-pa-ag-dave-sunday-launches-e",
-    "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs - Pennsylvania Capital-Star",
-    "source": "Pennsylvania Capital-Star",
-    "sourceId": "rss-pennsylvania-capital-star",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T07:56:49.000Z",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUZxazJoQ0Naa2o5VFlaV3h1RzRnM0tRSWVud3V5ZmFQeDBCYkpRbUNjLWNob1BBVlhDVV9DdUp5ZXFOOTRkTUdiNzNlb0J3NUJzc2xzOTdpWl9TRzVWN01UMUpDLXNLTWlTMl9LQzNFaHlUN2NSRXBnc0laTnVQLW5XUjN4ci1QNTdFRDNsZndTQ0RQeVhuVVNobFE1T1FMaUF1aHU0bGpyb2dNS3JpYnplQUhRTTlmLTFod296VFRfSUFCR3E0b3d2ZTNOQ2s?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUZxazJoQ0Naa2o5VFlaV3h1RzRnM0tRSWVud3V5ZmFQeDBCYkpRbUNjLWNob1BBVlhDVV9DdUp5ZXFOOTRkTUdiNzNlb0J3NUJzc2xzOTdpWl9TRzVWN01UMUpDLXNLTWlTMl9LQzNFaHlUN2NSRXBnc0laTnVQLW5XUjN4ci1QNTdFRDNsZndTQ0RQeVhuVVNobFE1T1FMaUF1aHU0bGpyb2",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:32.284Z"
   },
   {
     "id": "st-north-korea-steals-usd-6-36",
@@ -717,55 +669,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:31.859Z"
   },
   {
-    "id": "st-bitcoin-tumbles-as-binance-h",
-    "title": "Bitcoin tumbles as Binance hack rattles crypto markets",
-    "source": "CNBC",
-    "sourceId": "rss-cnbc",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T00:32:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV95cUxNR3lRVHNvRWxOY21XeW9NZnFCb2JxRlpSbUxaRXM5NldrMWdIVmJCejhWZ0NZZ21VMWR0d0ZMQUNZTlM5Y3lKZjBKeDJYTkhpaVl5NE5ZZ2hSalhSU0JFemlFdmF5aTZIUjZfUkUySUVEUHhTRkxNZGJCQXk3Rml2S1gyUWw3TmVQR3l1Z2hBQUNTU09Pa1hWcEtWVXhxYTYxa01xSjZxQ3NhZw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
-  },
-  {
-    "id": "st-the-ai-singularity-how-artif",
-    "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
-    "source": "The Acquirer's Multiple",
-    "sourceId": "rss-the-acquirer-s-multiple",
+    "id": "st-artificial-intelligence-in-c",
+    "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+    "source": "Stanford Medicine",
+    "sourceId": "rss-stanford-medicine",
     "author": "Google News (AI)",
-    "published_at": "2026-10-29T21:53:33.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5",
+    "published_at": "2026-10-28T01:55:01.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdk",
-    "category": "Products and applications",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5\" target=\"_blank\">Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation w",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.685Z"
-  },
-  {
-    "id": "st-trump-wants-to-ban-use-of-th",
-    "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-    "source": "Variety",
-    "sourceId": "rss-variety",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-27T19:43:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5\" t",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.685Z"
+    "imported_at": "2026-10-31T14:35:32.284Z"
   },
   {
     "id": "st-trump-says-he-will-ban-the-t",
@@ -781,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.685Z"
+    "imported_at": "2026-10-31T14:35:32.284Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -797,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.685Z"
+    "imported_at": "2026-10-31T14:35:32.284Z"
   },
   {
     "id": "st-taxing-artificial-intelligen",
@@ -813,22 +733,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.685Z"
+    "imported_at": "2026-10-31T14:35:32.284Z"
   },
   {
-    "id": "st-nearly-6-million-secured-in",
-    "title": "Nearly $6 million secured in settlement for cryptocurrency pyramid scheme targeting Haitians",
-    "source": "Times Union",
-    "sourceId": "rss-times-union",
+    "id": "st-which-cryptos-could-outperfo",
+    "title": "Which Cryptos Could Outperform Bitcoin Before the End of 2026?",
+    "source": "Yahoo Finance",
+    "sourceId": "rss-yahoo-finance",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-24T15:05:07.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVNidUo4UDllOEpnUlg4T2FHc0ZWZ0k0RncxQUJZeEFZTjZIY0Q1Z0ZZQWxQUzJsWjVGR1FWOU16eTR2dTFaLUUyUmg0LWpKMDJraWVmUUplNjI0eTBuTGc1Q0RYUmVOWElxQjFrYnpuUVRuazNFRUhVUHdHdTRfVkdOWDNwbVpuZXc?oc=5",
+    "published_at": "2026-10-24T23:40:21.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0ZOZ2FBU2g1eWt5TVY0TmpweTk5RjJHcFdDUUdUNjhOLWtVdzIweUpqN1pWeEhxV21CYnhyOEdvbnU4M19aUWdCWWNreHF6OVNkbW40UVEtc3RyTGh2aUE3NWpFRnR2dWtmR1VlQUQxMlZVeWYxM19lUUt0dnZsUjRuSU1lcnRpVjM1MF9kdzZvbHdtVVNfelhCaDdtMWlkUkVv?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVNidUo4UDllOEpnUlg4T2FHc0ZWZ0k0RncxQUJZeEFZTjZIY0Q1Z0ZZQWxQUzJsWjVGR1FWOU16eTR2dTFaLUUyUmg0LWpKMDJraWVmUUplNjI0eTBuTGc1Q0RYUmVOWElxQjFrYnpuUVRuazNFRUhVUHdHdTRfVkdOWDNwbVpuZXc?oc=5\" target=\"_blank\">Nearly $6 million se",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0ZOZ2FBU2g1eWt5TVY0TmpweTk5RjJHcFdDUUdUNjhOLWtVdzIweUpqN1pWeEhxV21CYnhyOEdvbnU4M19aUWdCWWNreHF6OVNkbW40UVEtc3RyTGh2aUE3NWpFRnR2dWtmR1VlQUQxMlZVeWYxM19lUUt0dnZsUjRuSU1lcnRpVjM1MF9kdzZvbHdtVVNfelhCaDdtMWlkUkVv?oc=5\" tar",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T05:56:22.178Z"
+    "imported_at": "2026-10-31T14:35:31.859Z"
   }
 ]

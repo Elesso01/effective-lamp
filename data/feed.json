@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-10-31T14:35:32.409Z",
+  "generated_at": "2026-10-31T20:05:31.327Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 38
+    "familiar": 7,
+    "discovery": 41
   },
   "items": [
     {
-      "id": "st-the-6-3-billion-binance-hack",
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bitcoin-stolen-from-binance",
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "id": "st-binance-says-it-has-replaced",
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -24,44 +15,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-experts-divided-over-binance",
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-uncovers-wider-breac",
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-binance-hackers-raced-to-mov",
       "title": "Binance hackers raced to move billions before it could be frozen",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-tether-s-excess-reserves-nea",
-      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-coinbase-leads-crypto-stock",
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -87,10 +51,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-binance-ceo-says-90-percent",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-6-billion-cryptocurrency-hei",
       "title": "$6 billion cryptocurrency heist puts investors on edge",
       "category": "Regulation and policy",
       "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-flags-potential-secu",
+      "title": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted",
+      "category": "Regulation and policy",
+      "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -103,6 +85,51 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-s-white-paper-turns",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-a-stolen-iphone-14-000-in-lo",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-traders-are-already-placing",
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-institutions-embrace-crypto",
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uber-tests-how-tokenization",
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-as-big-bitcoin-miners-chase",
@@ -123,20 +150,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-nasdaq-listed-company-may",
-      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-openai-reportedly-lowers-fun",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-reportedly-cuts-fundr",
-      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8.5,
+      "id": "st-from-restaurant-guides-to-pa",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -171,24 +198,6 @@
       "id": "st-intel-s-stock-crashes-knocki",
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
       "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-expected-to-receiv",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-applebee-s-exposed-customers",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -258,6 +267,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-binance-says-90-of-stolen-as",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-held-up-better-than",
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-turns-18-has-the-ori",
       "title": "Bitcoin turns 18: Has the original rebel grown up?",
       "category": "Crypto and AI intersections",
@@ -278,7 +305,7 @@
     {
       "id": "st-blockchain-investigator-chai",
       "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "category": "Products and applications",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -294,46 +321,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-biz-bitcoin-s-quantum",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-intelligence-is-finall",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-biggest-names-in-ai-are",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-exclusive-details-about-akai",
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sam-altman-says-it-s-better",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "id": "st-i-built-an-ai-tamagotchi-bef",
+      "title": "I built an AI Tamagotchi before Meta could",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-windows-11-tries-new-shortcu",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-north-korea-linked-group-ste",
+      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -348,19 +357,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-s-satellite-ai-server",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "id": "st-vic-mensa-can-t-live-without",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-starbucks-wants-to-use-ai-to",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -384,9 +384,27 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-c",
-      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
-      "category": "Markets and business",
+      "id": "st-pa-ag-dave-sunday-launches-e",
+      "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs - Pennsylvania Capital-Star",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-schooled-by-ai-the-evolving",
+      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trump-wants-to-ban-use-of-th",
+      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -415,15 +433,6 @@
       "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-which-cryptos-could-outperfo",
-      "title": "Which Cryptos Could Outperform Bitcoin Before the End of 2026?",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
