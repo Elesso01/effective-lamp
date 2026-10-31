@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-30T20:53:43.069Z",
+  "generated_at": "2026-10-31T05:56:22.900Z",
   "mix": {
-    "familiar": 15,
-    "discovery": 36
+    "familiar": 12,
+    "discovery": 40
   },
   "items": [
+    {
+      "id": "st-bitcoin-stolen-from-binance",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-experts-divided-over-binance",
       "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
@@ -51,29 +60,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-liquidations-jump-to",
-      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+      "id": "st-binance-hackers-raced-to-mov",
+      "title": "Binance hackers raced to move billions before it could be frozen",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-strategy-cfo-andrew-kang-res",
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-north-korean-hackers-blamed",
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -132,15 +123,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-s-latest-nest-learnin",
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-north-korea-steals-usd-6-36",
       "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
       "category": "Regulation and policy",
@@ -150,13 +132,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bill-gates-warns-of-20-years",
-      "title": "Bill Gates warns of 20 years of turmoil from artificial intelligence",
-      "category": "Regulation and policy",
+      "id": "st-openai-reportedly-cuts-fundr",
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "category": "Startups and companies",
       "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-here-s-how-big-bitcoin-trade",
@@ -168,8 +150,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-law-firm-crosby-bids-on-d",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "id": "st-nvidia-weighs-playing-the-co",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -177,26 +159,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-zest-s-new-ai-agent-finds-re",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-s-first-data-center-s",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-theranos-whistleblower-tyler",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "id": "st-salesforce-s-m-a-spree-conti",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -204,10 +168,46 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-doordash-said-it-s-only-rece",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "category": "Products and applications",
+      "id": "st-ollie-a-privacy-focused-ai-a",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "category": "Markets and business",
       "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-intel-s-stock-crashes-knocki",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-expected-to-receiv",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-applebee-s-exposed-customers",
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-last-minute-halloween-costum",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -303,11 +303,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-will-gold-s-infinite-mint-bu",
-      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-      "category": "Startups and companies",
+      "id": "st-apple-intelligence-is-finall",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-biggest-names-in-ai-are",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-exclusive-details-about-akai",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -321,10 +339,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-biggest-names-in-ai-are",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-north-korea-linked-group-ste",
+      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-massive-crypto-hack-probably",
+      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -357,28 +384,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-vizio-s-discounted-mini-led",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-north-korea-linked-group-ste",
-      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-from-bitcoin-to-binance-cryp",
       "title": "From Bitcoin to Binance: Crypto terms and what they mean",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-is-a",
+      "title": "Artificial Intelligence is a Horror Story",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -402,8 +420,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-schooled-by-ai-the-evolving",
-      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
+      "id": "st-the-ai-singularity-how-artif",
+      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -411,9 +429,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-c",
-      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
-      "category": "Markets and business",
+      "id": "st-trump-wants-to-ban-use-of-th",
+      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -438,15 +456,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-a",
-      "title": "Artificial intelligence in a Jesuit University: A student conversation, Nov. 4",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-taxing-artificial-intelligen",
       "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
       "category": "Products and applications",
@@ -456,8 +465,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-chinese-national-extradited",
-      "title": "Chinese national extradited to U.S. in $37M cryptocurrency scam case",
+      "id": "st-nearly-6-million-secured-in",
+      "title": "Nearly $6 million secured in settlement for cryptocurrency pyramid scheme targeting Haitians",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

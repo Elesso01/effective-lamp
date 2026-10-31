@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-30T20:53:43.101Z",
+  "generated_at": "2026-10-31T05:56:22.929Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-bitcoin-stolen-from-binance",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-10-31T05:01:32.000Z",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
+    },
     {
       "id": "st-experts-divided-over-binance",
       "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-10-30T19:55:00.000Z",
       "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
-    },
-    {
-      "id": "st-binance-uncovers-wider-breac",
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-10-30T16:31:17.000Z",
-      "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
     }
   ]
 }
