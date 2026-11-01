@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-01T15:17:41.200Z",
+  "generated_at": "2026-11-01T20:36:24.313Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-the-crypto-reader-s-guide-to",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-01T19:30:00.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
+    },
     {
       "id": "st-sherrod-brown-s-ohio-edge-th",
       "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-11-01T13:00:00.000Z",
       "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
-    },
-    {
-      "id": "st-binance-opens-crypto-withdra",
-      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-01T10:35:42.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
     }
   ]
 }

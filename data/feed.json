@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-01T15:17:41.163Z",
+  "generated_at": "2026-11-01T20:36:24.289Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 38
+    "familiar": 10,
+    "discovery": 37
   },
   "items": [
+    {
+      "id": "st-the-crypto-reader-s-guide-to",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-sherrod-brown-s-ohio-edge-th",
       "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
@@ -29,6 +38,15 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-resumes-withdrawals",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -69,28 +87,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korea-linked-to-massiv",
-      "title": "North Korea linked to massive Binance crypto heist",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-ceo-says-90-percent",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-prop-45-in-california-could",
       "title": "Prop 45 in California could be hiding a loophole for data centers",
       "category": "Regulation and policy",
       "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-north-korea-linked-to-massiv",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -103,6 +112,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ai-agents-bypassed-crypto-sp",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-the-key-races-to-watch-for-t",
@@ -132,20 +150,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-s-white-paper-turns",
-      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-      "category": "Research and development",
+      "id": "st-techcrunch-mobility-a-new-bi",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-stolen-iphone-14-000-in-lo",
-      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -181,24 +190,6 @@
       "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "category": "Startups and companies",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-reportedly-lowers-fun",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-from-restaurant-guides-to-pa",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -330,6 +321,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-apple-s-homeview-could-add-s",
+      "title": "Apple’s HomeView could add security camera features",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-homepod-mini-2-first-look-th",
       "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
       "category": "Products and applications",
@@ -339,8 +339,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korea-linked-group-ste",
-      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
+      "id": "st-massive-crypto-hack-probably",
+      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
