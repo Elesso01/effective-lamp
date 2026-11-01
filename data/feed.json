@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T06:24:51.302Z",
+  "generated_at": "2026-11-01T15:17:41.163Z",
   "mix": {
-    "familiar": 8,
+    "familiar": 9,
     "discovery": 38
   },
   "items": [
     {
-      "id": "st-fbi-confirms-north-korea-s-r",
-      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "id": "st-sherrod-brown-s-ohio-edge-th",
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,8 +15,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-says-it-has-replaced",
-      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "id": "st-binance-opens-crypto-withdra",
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-fbi-confirms-north-korea-s-r",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -42,15 +51,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-hackers-raced-to-mov",
-      "title": "Binance hackers raced to move billions before it could be frozen",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-bitcoin-cryptocurrency-price",
       "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
       "category": "Markets and business",
@@ -69,6 +69,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-north-korea-linked-to-massiv",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-binance-ceo-says-90-percent",
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "category": "Regulation and policy",
@@ -78,10 +87,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-6-billion-cryptocurrency-hei",
-      "title": "$6 billion cryptocurrency heist puts investors on edge",
+      "id": "st-prop-45-in-california-could",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -94,6 +103,33 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-the-key-races-to-watch-for-t",
+      "title": "The key races to watch for the 2026 election",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-card-startups-are-rac",
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-pacs-made-big-republi",
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-bitcoin-s-white-paper-turns",
@@ -114,38 +150,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-traders-are-already-placing",
-      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-institutions-embrace-crypto",
-      "title": "Institutions embrace crypto staking despite shrinking yields",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-uber-tests-how-tokenization",
-      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-as-big-bitcoin-miners-chase",
-      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-here-s-what-renoa-the-first",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,6 +267,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-deepseek-developing-ai-agent",
+      "title": "DeepSeek developing AI agent requiring less human input: Report",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-binance-says-phase-one-of-wi",
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-fbi-blames-north-korea-for-r",
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-binance-says-90-of-stolen-as",
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "category": "Markets and business",
@@ -294,54 +330,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-blockchain-investigator-chai",
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "category": "Markets and business",
+      "id": "st-homepod-mini-2-first-look-th",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-6-3b-record-hack-spa",
-      "title": "Binance $6.3B record hack sparks pre-election political clashes",
+      "id": "st-north-korea-linked-group-ste",
+      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
       "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-i-built-an-ai-tamagotchi-bef",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-windows-11-tries-new-shortcu",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-massive-crypto-hack-probably",
-      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-vic-mensa-can-t-live-without",
-      "title": "Vic Mensa can’t live without the Voice Memos app",
-      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -375,18 +375,27 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-schooled-by-ai-the-evolving",
-      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-wants-to-ban-use-of-th",
-      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+      "id": "st-new-zelda-and-gta-represent",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
       "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-in-c",
+      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
