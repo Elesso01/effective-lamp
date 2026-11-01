@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-31T20:05:30.603Z"
+    "imported_at": "2026-10-31T23:28:23.317Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -29,7 +29,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-10-31T20:05:31.171Z"
+    "imported_at": "2026-10-31T23:28:23.696Z"
   },
   {
     "id": "st-bitcoin-s-white-paper-turns",
@@ -45,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.825Z"
+    "imported_at": "2026-10-31T23:28:22.697Z"
   },
   {
     "id": "st-a-stolen-iphone-14-000-in-lo",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.697Z"
   },
   {
     "id": "st-traders-are-already-placing",
@@ -77,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.697Z"
   },
   {
     "id": "st-binance-says-it-has-replaced",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.698Z"
   },
   {
     "id": "st-institutions-embrace-crypto",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.698Z"
   },
   {
     "id": "st-uber-tests-how-tokenization",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.698Z"
   },
   {
     "id": "st-as-big-bitcoin-miners-chase",
@@ -141,7 +141,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.698Z"
   },
   {
     "id": "st-18-years-in-what-has-bitcoin",
@@ -157,7 +157,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-10-31T20:05:29.826Z"
+    "imported_at": "2026-10-31T23:28:22.698Z"
+  },
+  {
+    "id": "st-apple-ceo-says-the-company-d",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-31T21:41:00.000Z",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "type": "News",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T23:28:22.903Z"
+  },
+  {
+    "id": "st-4-days-left-how-techcrunch-f",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-31T21:36:07.000Z",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "type": "News",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T23:28:22.903Z"
+  },
+  {
+    "id": "st-judge-allows-naacp-lawsuit-o",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-10-31T21:17:03.000Z",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "type": "News",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-10-31T23:28:22.903Z"
   },
   {
     "id": "st-openai-reportedly-lowers-fun",
@@ -173,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.122Z"
+    "imported_at": "2026-10-31T23:28:22.903Z"
   },
   {
     "id": "st-from-restaurant-guides-to-pa",
@@ -189,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.122Z"
+    "imported_at": "2026-10-31T23:28:22.903Z"
   },
   {
     "id": "st-nvidia-weighs-playing-the-co",
@@ -205,55 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.122Z"
-  },
-  {
-    "id": "st-salesforce-s-m-a-spree-conti",
-    "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T23:21:23.000Z",
-    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-    "type": "News",
-    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.122Z"
-  },
-  {
-    "id": "st-ollie-a-privacy-focused-ai-a",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T22:56:13.000Z",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "type": "News",
-    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.122Z"
-  },
-  {
-    "id": "st-intel-s-stock-crashes-knocki",
-    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-30T21:54:34.000Z",
-    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "type": "News",
-    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.122Z"
+    "imported_at": "2026-10-31T23:28:22.903Z"
   },
   {
     "id": "st-making-it-easier-for-website",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.051Z"
+    "imported_at": "2026-10-31T23:28:22.868Z"
   },
   {
     "id": "st-community-safety-report-and",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.052Z"
+    "imported_at": "2026-10-31T23:28:22.868Z"
   },
   {
     "id": "st-an-updated-model-spec-for-mo",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.052Z"
+    "imported_at": "2026-10-31T23:28:22.868Z"
   },
   {
     "id": "st-how-we-detect-frontier-model",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.052Z"
+    "imported_at": "2026-10-31T23:28:22.868Z"
   },
   {
     "id": "st-how-ropes-gray-is-developing",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.052Z"
+    "imported_at": "2026-10-31T23:28:22.869Z"
   },
   {
     "id": "st-credit-saison-achieves-954-r",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.052Z"
+    "imported_at": "2026-10-31T23:28:22.869Z"
   },
   {
     "id": "st-openai-and-servicenow-expand",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-10-31T20:05:30.052Z"
+    "imported_at": "2026-10-31T23:28:22.869Z"
   },
   {
     "id": "st-binance-says-90-of-stolen-as",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-bitcoin-held-up-better-than",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-bitcoin-turns-18-has-the-ori",
@@ -429,7 +429,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-texas-brothers-sentenced-to",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-blockchain-investigator-chai",
@@ -461,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-binance-6-3b-record-hack-spa",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-binance-hackers-raced-to-mov",
@@ -493,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-10-31T20:05:29.922Z"
+    "imported_at": "2026-10-31T23:28:22.742Z"
   },
   {
     "id": "st-binance-ceo-says-90-percent",
@@ -509,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.245Z"
+    "imported_at": "2026-10-31T23:28:23.742Z"
   },
   {
     "id": "st-i-built-an-ai-tamagotchi-bef",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.245Z"
+    "imported_at": "2026-10-31T23:28:23.742Z"
   },
   {
     "id": "st-windows-11-tries-new-shortcu",
@@ -541,39 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.245Z"
-  },
-  {
-    "id": "st-6-billion-cryptocurrency-hei",
-    "title": "$6 billion cryptocurrency heist puts investors on edge",
-    "source": "PBS",
-    "sourceId": "rss-pbs",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-31T02:29:19.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndlAtOU1BTERiTHlCUDEwV1ctZUtzRV9kLU42dWxmT2g0VUVPR2VZYThmVEtkdlFRYS1UYWo4Qm1RSjlHcjE2eWE0NWYxYWxQN2VrUG1xNGlhYm15WmI4?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndlAtOU1BTERiTHlCUDEwV1ctZUtzRV9kLU42dWxmT2g0VUVPR2VZYThmVEtkdlFRYS1UYWo4Qm1RSjlHcjE2eWE0NWYxYWxQN2VrUG1xNGlhYm15WmI4?oc=5\" target=\"_blank\">$6 billion cryptocurrency heist puts investors on edge</a>&nbsp;&nbsp;<font col",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
-  },
-  {
-    "id": "st-north-korea-linked-group-ste",
-    "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
-    "source": "Cybersecurity Dive",
-    "sourceId": "rss-cybersecurity-dive",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T20:37:34.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzd2WVZ5Vk9ZYTMxdi1zblhqWS1iX1A0ZWRTWEhSZmh4RVpfXzczNVV5eTk0RWJDc2NFN1FNMEFHZFVKTzlZRzU5cTNSYkZrbzBCWklrZFRzT3RBd1pXY1JXOF9aNUc0T0NpQm1MdnRXZkUwUUpUS3ZydlYtM3cyY3JpWnpSdXNheWNtcXNjeV8yakxmMk1J?oc=5\" target=\"_blank\">Nor",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
+    "imported_at": "2026-10-31T23:28:23.742Z"
   },
   {
     "id": "st-massive-crypto-hack-probably",
@@ -589,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
+    "imported_at": "2026-10-31T23:28:23.317Z"
   },
   {
     "id": "st-vic-mensa-can-t-live-without",
@@ -605,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.245Z"
+    "imported_at": "2026-10-31T23:28:23.742Z"
   },
   {
     "id": "st-from-bitcoin-to-binance-cryp",
@@ -621,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
+    "imported_at": "2026-10-31T23:28:23.317Z"
   },
   {
     "id": "st-artificial-intelligence-is-a",
@@ -637,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.171Z"
+    "imported_at": "2026-10-31T23:28:23.696Z"
   },
   {
     "id": "st-pa-ag-dave-sunday-launches-e",
@@ -653,23 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
-  },
-  {
-    "id": "st-binance-flags-potential-secu",
-    "title": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted",
-    "source": "AP News",
-    "sourceId": "rss-ap-news",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T03:32:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5\" target=\"_blank\">Bina",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
+    "imported_at": "2026-10-31T23:28:23.317Z"
   },
   {
     "id": "st-north-korea-steals-usd-6-36",
@@ -685,39 +637,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:30.603Z"
+    "imported_at": "2026-10-31T23:28:23.317Z"
   },
   {
-    "id": "st-schooled-by-ai-the-evolving",
-    "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
-    "source": "Association of Health Care Journalists",
-    "sourceId": "rss-association-of-health-care-journalists",
+    "id": "st-artificial-intelligence-in-c",
+    "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+    "source": "Stanford Medicine",
+    "sourceId": "rss-stanford-medicine",
     "author": "Google News (AI)",
-    "published_at": "2026-10-29T18:56:37.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5",
+    "published_at": "2026-10-28T01:55:01.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNj",
-    "category": "Products and applications",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5\" target=\"_blank\">Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation w",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.171Z"
-  },
-  {
-    "id": "st-trump-wants-to-ban-use-of-th",
-    "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-    "source": "Variety",
-    "sourceId": "rss-variety",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-27T19:43:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5\" t",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.171Z"
+    "imported_at": "2026-10-31T23:28:23.696Z"
   },
   {
     "id": "st-trump-says-he-will-ban-the-t",
@@ -733,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.171Z"
+    "imported_at": "2026-10-31T23:28:23.696Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -749,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.171Z"
+    "imported_at": "2026-10-31T23:28:23.696Z"
   },
   {
     "id": "st-taxing-artificial-intelligen",
@@ -765,6 +701,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-10-31T20:05:31.171Z"
+    "imported_at": "2026-10-31T23:28:23.696Z"
+  },
+  {
+    "id": "st-which-cryptos-could-outperfo",
+    "title": "Which Cryptos Could Outperform Bitcoin Before the End of 2026?",
+    "source": "24/7 Wall St.",
+    "sourceId": "rss-24-7-wall-st",
+    "author": "Google News (crypto)",
+    "published_at": "2026-10-24T23:40:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTV9TWFBBbVZfZHlSeHlLOFpPb05mNHYzdmdjSS1ETmJmNzNZSXFBY0ZRSVBDdG1tQi1vc3dWQk9MdEVzV3hWNnF1cnJKemc5c3JHLWV2RFMtMW1Ia0dkWU9yWkxXeFQtaUQ0NThLRVpuTXk0SlFNRkp4bDcxeGM0bFRuaUdvVmJPRUJ5bjRLd1NIazBteS1rZzA0V2M2ejNLRnhFazVHR3BiTTZWVlAySGltX1Z5X3BHeFc4bg?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTV9TWFBBbVZfZHlSeHlLOFpPb05mNHYzdmdjSS1ETmJmNzNZSXFBY0ZRSVBDdG1tQi1vc3dWQk9MdEVzV3hWNnF1cnJKemc5c3JHLWV2RFMtMW1Ia0dkWU9yWkxXeFQtaUQ0NThLRVpuTXk0SlFNRkp4bDcxeGM0bFRuaUdvVmJPRUJ5bjRLd1NIazBteS1rZzA0V2M2ejNLRnhFazVHR3BiTT",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-10-31T23:28:23.316Z"
   }
 ]

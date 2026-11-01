@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-10-31T23:28:23.825Z",
+  "generated_at": "2026-11-01T06:24:51.302Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 39
+    "familiar": 8,
+    "discovery": 38
   },
   "items": [
+    {
+      "id": "st-fbi-confirms-north-korea-s-r",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-binance-says-it-has-replaced",
       "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
@@ -62,6 +71,15 @@
     {
       "id": "st-binance-ceo-says-90-percent",
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-6-billion-cryptocurrency-hei",
+      "title": "$6 billion cryptocurrency heist puts investors on edge",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -132,11 +150,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-18-years-in-what-has-bitcoin",
-      "title": "18 years in, what has Bitcoin truly done?",
-      "category": "Research and development",
+      "id": "st-data-centers-are-now-a-midte",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -172,15 +190,6 @@
       "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nvidia-weighs-playing-the-co",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -366,9 +375,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-c",
-      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
-      "category": "Markets and business",
+      "id": "st-schooled-by-ai-the-evolving",
+      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trump-wants-to-ban-use-of-th",
+      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -397,15 +415,6 @@
       "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-which-cryptos-could-outperfo",
-      "title": "Which Cryptos Could Outperform Bitcoin Before the End of 2026?",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

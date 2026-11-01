@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-31T23:28:23.862Z",
-  "count": 1,
+  "generated_at": "2026-11-01T06:24:51.337Z",
+  "count": 2,
   "alerts": [
+    {
+      "id": "st-fbi-confirms-north-korea-s-r",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-01T01:10:05.000Z",
+      "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+    },
     {
       "id": "st-binance-says-it-has-replaced",
       "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
