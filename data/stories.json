@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-01T20:36:23.726Z"
+    "imported_at": "2026-11-02T06:25:47.854Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -29,7 +29,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-01T20:36:24.086Z"
+    "imported_at": "2026-11-02T06:25:48.311Z"
+  },
+  {
+    "id": "st-strangers-are-begging-the-bi",
+    "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-02T05:18:12.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+    "type": "News",
+    "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-02T06:25:47.150Z"
+  },
+  {
+    "id": "st-bitcoin-claws-back-toward-79",
+    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-02T04:42:22.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "type": "News",
+    "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-02T06:25:47.151Z"
+  },
+  {
+    "id": "st-btcpay-a-bitcoin-payment-too",
+    "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-02T04:41:16.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "type": "News",
+    "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-02T06:25:47.151Z"
   },
   {
     "id": "st-the-crypto-reader-s-guide-to",
@@ -45,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "imported_at": "2026-11-02T06:25:47.151Z"
   },
   {
     "id": "st-ai-agents-bypassed-crypto-sp",
@@ -61,7 +109,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "imported_at": "2026-11-02T06:25:47.151Z"
   },
   {
     "id": "st-the-key-races-to-watch-for-t",
@@ -77,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "imported_at": "2026-11-02T06:25:47.151Z"
   },
   {
     "id": "st-crypto-card-startups-are-rac",
@@ -93,7 +141,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "imported_at": "2026-11-02T06:25:47.151Z"
   },
   {
     "id": "st-crypto-pacs-made-big-republi",
@@ -109,55 +157,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "imported_at": "2026-11-02T06:25:47.151Z"
   },
   {
-    "id": "st-sherrod-brown-s-ohio-edge-th",
-    "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-01T13:00:00.000Z",
-    "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+    "id": "st-openai-might-rebrand-its-dat",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-01T21:55:23.000Z",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
     "type": "News",
-    "summary": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-02T06:25:47.448Z"
   },
   {
-    "id": "st-binance-opens-crypto-withdra",
-    "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-01T10:35:42.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+    "id": "st-ai-can-make-tech-ceos-lives",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-01T20:57:58.000Z",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
     "type": "News",
-    "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
-  },
-  {
-    "id": "st-fbi-confirms-north-korea-s-r",
-    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-01T01:10:05.000Z",
-    "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-    "type": "News",
-    "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-01T20:36:22.855Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-02T06:25:47.448Z"
   },
   {
     "id": "st-techcrunch-mobility-a-new-bi",
@@ -173,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.302Z"
+    "imported_at": "2026-11-02T06:25:47.448Z"
   },
   {
     "id": "st-binance-resumes-withdrawals",
@@ -189,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.302Z"
+    "imported_at": "2026-11-02T06:25:47.448Z"
   },
   {
     "id": "st-here-s-what-renoa-the-first",
@@ -205,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.302Z"
+    "imported_at": "2026-11-02T06:25:47.448Z"
   },
   {
     "id": "st-data-centers-are-now-a-midte",
@@ -221,55 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.303Z"
-  },
-  {
-    "id": "st-apple-ceo-says-the-company-d",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-31T21:41:00.000Z",
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "type": "News",
-    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.303Z"
-  },
-  {
-    "id": "st-4-days-left-how-techcrunch-f",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-31T21:36:07.000Z",
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "type": "News",
-    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.303Z"
-  },
-  {
-    "id": "st-judge-allows-naacp-lawsuit-o",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-10-31T21:17:03.000Z",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "type": "News",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.303Z"
+    "imported_at": "2026-11-02T06:25:47.448Z"
   },
   {
     "id": "st-making-it-easier-for-website",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
   },
   {
     "id": "st-community-safety-report-and",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
   },
   {
     "id": "st-an-updated-model-spec-for-mo",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
   },
   {
     "id": "st-how-we-detect-frontier-model",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
   },
   {
     "id": "st-how-ropes-gray-is-developing",
@@ -349,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
   },
   {
     "id": "st-credit-saison-achieves-954-r",
@@ -365,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
   },
   {
     "id": "st-openai-and-servicenow-expand",
@@ -381,7 +365,87 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-01T20:36:23.192Z"
+    "imported_at": "2026-11-02T06:25:47.391Z"
+  },
+  {
+    "id": "st-btcpay-server-warns-of-hot-w",
+    "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-02T05:34:02.000Z",
+    "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-02T06:25:47.252Z"
+  },
+  {
+    "id": "st-bank-of-korea-probes-financi",
+    "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-02T03:55:50.000Z",
+    "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-02T06:25:47.252Z"
+  },
+  {
+    "id": "st-thorchain-halts-swaps-after",
+    "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-02T01:51:48.000Z",
+    "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-02T06:25:47.252Z"
+  },
+  {
+    "id": "st-binance-net-outflows-surge-t",
+    "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-01T23:59:27.000Z",
+    "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-02T06:25:47.252Z"
+  },
+  {
+    "id": "st-thorchain-founder-rejects-fr",
+    "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-01T23:09:13.000Z",
+    "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-02T06:25:47.252Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -397,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
+    "imported_at": "2026-11-02T06:25:47.252Z"
   },
   {
     "id": "st-deepseek-developing-ai-agent",
@@ -413,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
+    "imported_at": "2026-11-02T06:25:47.252Z"
   },
   {
     "id": "st-binance-says-phase-one-of-wi",
@@ -429,87 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
-  },
-  {
-    "id": "st-fbi-blames-north-korea-for-r",
-    "title": "FBI blames North Korea for record $6.3B Binance hack",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-01T07:44:38.000Z",
-    "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
-  },
-  {
-    "id": "st-binance-says-90-of-stolen-as",
-    "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-31T15:36:01.000Z",
-    "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
-  },
-  {
-    "id": "st-bitcoin-held-up-better-than",
-    "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-31T15:26:46.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
-  },
-  {
-    "id": "st-bitcoin-turns-18-has-the-ori",
-    "title": "Bitcoin turns 18: Has the original rebel grown up?",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-31T14:27:52.000Z",
-    "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
-  },
-  {
-    "id": "st-texas-brothers-sentenced-to",
-    "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-10-31T13:37:49.000Z",
-    "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-01T20:36:23.012Z"
+    "imported_at": "2026-11-02T06:25:47.252Z"
   },
   {
     "id": "st-apple-s-homeview-could-add-s",
@@ -525,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.221Z"
+    "imported_at": "2026-11-02T06:25:48.410Z"
   },
   {
     "id": "st-homepod-mini-2-first-look-th",
@@ -541,23 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.222Z"
-  },
-  {
-    "id": "st-prop-45-in-california-could",
-    "title": "Prop 45 in California could be hiding a loophole for data centers",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-01T16:31:49.000Z",
-    "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-    "type": "News",
-    "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental as",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.222Z"
+    "imported_at": "2026-11-02T06:25:48.410Z"
   },
   {
     "id": "st-north-korea-linked-to-massiv",
@@ -573,23 +541,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.221Z"
+    "imported_at": "2026-11-02T06:25:48.410Z"
   },
   {
-    "id": "st-massive-crypto-hack-probably",
-    "title": "Massive crypto hack probably the largest theft of digital currencies in history",
-    "source": "The Washington Post",
-    "sourceId": "rss-the-washington-post",
+    "id": "st-how-vulnerable-are-cryptocur",
+    "title": "How vulnerable are cryptocurrency platforms?",
+    "source": "Al Jazeera",
+    "sourceId": "rss-al-jazeera",
     "author": "Google News (crypto)",
-    "published_at": "2026-10-30T19:51:49.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWDlvaFF5aFB1RHQxQVpaSFdqRA?oc=5",
+    "published_at": "2026-10-31T19:19:51.000Z",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb21ucmJzSU84NEFoZHZoUXRDZGZPZU1qSmZTZkhsb29IaVVYaGwzc1FrdjNMWFJlc2ZnUjlWdEtFQzNsWVNQNEszaU9ZX2dEWmdZZ0R5WlpkMXduVTM0MWZ1U290RmlwLV84amFXbzlTN0g3cExqcWRFckxfLXZuZksyLXk3aE94b0FzTjBEVmc1QW5ROGVvdGdRMHV2ckh50gGmAUFVX3lxTE9JX3MzV19GMm4xa2VVY3JQRk5KVnE1cVhNYlBmUW9HRmFNVHJmcTY0X3lRQWZiZE02cWcwcWxuTVFUbmdhT3J2eEZNQzc4RVR5UFNxeHlwZVJOa0EwdVpVVTZ4RkMwV2k5NW8yclBGMm9hRTZuN2NLRS0tQU1xV25ac2FUaG44ck9sU2diVjBFY1lVaXdGVExaRU95ZXl3YVBuMWNDU2c?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWD",
-    "category": "Security and privacy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPb21ucmJzSU84NEFoZHZoUXRDZGZPZU1qSmZTZkhsb29IaVVYaGwzc1FrdjNMWFJlc2ZnUjlWdEtFQzNsWVNQNEszaU9ZX2dEWmdZZ0R5WlpkMXduVTM0MWZ1U290RmlwLV84amFXbzlTN0g3cExqcWRFckxfLXZuZksyLXk3aE94b0FzTjBEVmc1QW5ROGVvdGdRMHV2ckh50gGmAUFVX3lxTE",
+    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:23.726Z"
+    "imported_at": "2026-11-02T06:25:47.854Z"
   },
   {
     "id": "st-from-bitcoin-to-binance-cryp",
@@ -605,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:23.726Z"
+    "imported_at": "2026-11-02T06:25:47.854Z"
   },
   {
     "id": "st-artificial-intelligence-is-a",
@@ -621,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.086Z"
+    "imported_at": "2026-11-02T06:25:48.311Z"
   },
   {
     "id": "st-pa-ag-dave-sunday-launches-e",
@@ -637,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:23.726Z"
+    "imported_at": "2026-11-02T06:25:47.854Z"
   },
   {
     "id": "st-4-ways-to-invest-in-cryptocu",
@@ -653,7 +621,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:23.726Z"
+    "imported_at": "2026-11-02T06:25:47.854Z"
+  },
+  {
+    "id": "st-call-for-papers-advancing-re",
+    "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
+    "source": "UNESCO",
+    "sourceId": "rss-unesco",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-30T07:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5\" target=\"_bla",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-02T06:25:48.311Z"
   },
   {
     "id": "st-north-korea-steals-usd-6-36",
@@ -669,7 +653,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:23.726Z"
+    "imported_at": "2026-11-02T06:25:47.854Z"
+  },
+  {
+    "id": "st-schooled-by-ai-the-evolving",
+    "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
+    "source": "Association of Health Care Journalists",
+    "sourceId": "rss-association-of-health-care-journalists",
+    "author": "Google News (AI)",
+    "published_at": "2026-10-29T18:56:37.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNj",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-02T06:25:48.311Z"
   },
   {
     "id": "st-new-zelda-and-gta-represent",
@@ -685,39 +685,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.222Z"
+    "imported_at": "2026-11-02T06:25:48.410Z"
   },
   {
-    "id": "st-artificial-intelligence-in-c",
-    "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
-    "source": "Stanford Medicine",
-    "sourceId": "rss-stanford-medicine",
+    "id": "st-trump-wants-to-ban-use-of-th",
+    "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+    "source": "Variety",
+    "sourceId": "rss-variety",
     "author": "Google News (AI)",
-    "published_at": "2026-10-28T01:55:01.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5",
+    "published_at": "2026-10-27T19:43:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5\" target=\"_blank\">Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation w",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.086Z"
-  },
-  {
-    "id": "st-trump-says-he-will-ban-the-t",
-    "title": "Trump says he will ban the term artificial intelligence",
-    "source": "The Hill",
-    "sourceId": "rss-the-hill",
-    "author": "Google News (AI)",
-    "published_at": "2026-10-27T19:33:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdCemlqWmdjRWJ3TlVwdVVxQU1Jei1IM2ZMZERVMHBwcUZKdnY4OVhBeFhmV1pSNE9NU29nck5rMWdXbXgzRFVaV0ZHZlBjOUdRTjhGY1VQNFJFUTBRdkpnaVVJQnZZYnRJM1NPbTR1RWtSbVUtSDlHWUtsNVUxaFJhU3FKWkRsZ1BpUzRSeE1waGZrclRj0gGcAUFVX3lxTE9DUHZBbUFob0lyNnJQZjhBZzVrWFYxU2NmQVhDOWFmb2xTMU5JTnpIS3FwejdpdnZmUU5kUDBtaVRkb3h1NkszSVo4by1oRjVtdDlfNklZRFRsRUpjVFJCelhudTRSTnAtSm9OT3UwX2ZMRFpqUE02NExrbEZTeWVsNG0wV0pYVjdnUkxTUFVoYVZfWm0zdGs0RXdlMQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdCemlqWmdjRWJ3TlVwdVVxQU1Jei1IM2ZMZERVMHBwcUZKdnY4OVhBeFhmV1pSNE9NU29nck5rMWdXbXgzRFVaV0ZHZlBjOUdRTjhGY1VQNFJFUTBRdkpnaVVJQnZZYnRJM1NPbTR1RWtSbVUtSDlHWUtsNVUxaFJhU3FKWkRsZ1BpUzRSeE1waGZrclRj0gGcAUFVX3lxTE9DUHZBbUFob0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5\" t",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.086Z"
+    "imported_at": "2026-11-02T06:25:48.311Z"
   },
   {
     "id": "st-trump-says-he-will-ban-term",
@@ -733,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.086Z"
+    "imported_at": "2026-11-02T06:25:48.311Z"
   },
   {
     "id": "st-taxing-artificial-intelligen",
@@ -749,6 +733,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-01T20:36:24.086Z"
+    "imported_at": "2026-11-02T06:25:48.311Z"
   }
 ]

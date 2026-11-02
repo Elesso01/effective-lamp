@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-01T20:36:24.313Z",
+  "generated_at": "2026-11-02T06:25:48.534Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-the-crypto-reader-s-guide-to",
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "category": "Regulation and policy",
+      "id": "st-strangers-are-begging-the-bi",
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-11-01T19:30:00.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
+      "published_at": "2026-11-02T05:18:12.000Z",
+      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
     },
     {
-      "id": "st-sherrod-brown-s-ohio-edge-th",
-      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-      "category": "Regulation and policy",
+      "id": "st-bitcoin-claws-back-toward-79",
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-11-01T13:00:00.000Z",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
+      "published_at": "2026-11-02T04:42:22.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
     }
   ]
 }
