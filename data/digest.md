@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-02
 
-6 stories briefed · feed mix 7 familiar / 39 discovery.
+6 stories briefed · feed mix 10 familiar / 35 discovery.
 
 ## Top stories
-1. **Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time** (Security and privacy · CoinDesk) — A top crypto development today
-2. **Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack** (Security and privacy · CoinDesk) — A top crypto development today
-3. **OpenAI might rebrand its data centers as ‘AI compute campuses’** (Products and applications · TechCrunch) — A top AI development today
-4. **AI can make tech CEOs’ lives easier. What about everyone else?** (Products and applications · TechCrunch) — A top AI development today
-5. **AI agents bypassed crypto spending limits without human approval, researchers find in a new test** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze** (Markets and business · CoinDesk) — A top crypto development today
+2. **EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says** (Markets and business · CoinDesk) — A top crypto development today
+3. **Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO** (Regulation and policy · CoinDesk) — A top AI development today
+4. **Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers** (Products and applications · TechCrunch) — A top AI development today
+5. **NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+6. **Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets.
+- Discovery pick of the week: NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks.
 
 _News, not investment advice._

@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-02T06:25:48.534Z",
+  "generated_at": "2026-11-02T18:31:47.693Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-strangers-are-begging-the-bi",
-      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-      "category": "Security and privacy",
+      "id": "st-brazil-s-mercado-bitcoin-hal",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-02T05:18:12.000Z",
-      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
+      "published_at": "2026-11-02T15:53:29.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
     },
     {
-      "id": "st-bitcoin-claws-back-toward-79",
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "category": "Security and privacy",
+      "id": "st-anthropic-swings-to-third-qu",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+      "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-02T04:42:22.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
+      "published_at": "2026-11-02T15:18:55.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo"
     }
   ]
 }

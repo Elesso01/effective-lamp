@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T06:25:48.499Z",
+  "generated_at": "2026-11-02T18:31:47.655Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 39
+    "familiar": 10,
+    "discovery": 35
   },
   "items": [
     {
-      "id": "st-the-crypto-reader-s-guide-to",
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "id": "st-brazil-s-mercado-bitcoin-hal",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,28 +15,28 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-resumes-withdrawals",
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "id": "st-anthropic-swings-to-third-qu",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-northwood-space-raises-375m",
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+      "category": "Regulation and policy",
+      "bucket": "ai",
       "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-thorchain-halts-swaps-after",
-      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-net-outflows-surge-t",
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "id": "st-ai-agent-disputes-head-to-in",
+      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -44,6 +44,24 @@
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-taps-half-its-safu-b",
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-hackers-begin-swappi",
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -69,8 +87,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korea-linked-to-massiv",
-      "title": "North Korea linked to massive Binance crypto heist",
+      "id": "st-the-new-york-times-sues-brav",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-fbi-says-north-korea-was-beh",
+      "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -87,26 +114,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-strangers-are-begging-the-bi",
-      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-claws-back-toward-79",
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-btcpay-a-bitcoin-payment-too",
-      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "id": "st-bitcoin-traders-eye-post-ele",
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -114,17 +123,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-agents-bypassed-crypto-sp",
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-key-races-to-watch-for-t",
-      "title": "The key races to watch for the 2026 election",
+      "id": "st-eu-entity-suspected-of-losin",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -132,63 +132,72 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-card-startups-are-rac",
-      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "id": "st-nyse-taps-wall-street-giant",
+      "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nvidia-costco-and-nike-join",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-standard-chartered-debuts-to",
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-s-washington-playbook",
+      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-readwise-takes-on-amazon-s-k",
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-42ai-comes-out-of-stealth-wi",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-introducing-the-grid-protect",
+      "title": "Introducing the Grid Protectors Program",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-omen-ai-adds-liquid-know-how",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
       "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-pacs-made-big-republi",
-      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-might-rebrand-its-dat",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-can-make-tech-ceos-lives",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-mobility-a-new-bi",
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-here-s-what-renoa-the-first",
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-data-centers-are-now-a-midte",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -240,26 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-credit-saison-achieves-954-r",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-and-servicenow-expand",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-btcpay-server-warns-of-hot-w",
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "id": "st-animoca-brands-clears-final",
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -267,8 +258,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bank-of-korea-probes-financi",
-      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "id": "st-strategy-spends-triple-its-w",
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,8 +267,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-thorchain-founder-rejects-fr",
-      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
+      "id": "st-fatf-targets-crypto-hubs-in",
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-from-uptober-to-hacktober-ar",
+      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,26 +285,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-deepseek-developing-ai-agent",
-      "title": "DeepSeek developing AI agent requiring less human input: Report",
+      "id": "st-openai-pitches-data-center-p",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-says-phase-one-of-wi",
-      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-s-homeview-could-add-s",
-      "title": "Apple’s HomeView could add security camera features",
+      "id": "st-apple-s-ultra-smart-home-rob",
+      "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -312,10 +303,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-homepod-mini-2-first-look-th",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "category": "Products and applications",
-      "bucket": "crypto",
+      "id": "st-could-data-center-backlash-f",
+      "title": "Could data center backlash flip Florida?",
+      "category": "Research and development",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -324,6 +315,33 @@
       "id": "st-how-vulnerable-are-cryptocur",
       "title": "How vulnerable are cryptocurrency platforms?",
       "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-north-korea-linked-group-ste",
+      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-why-the-massive-binance-hack",
+      "title": "Why the Massive Binance Hack Won’t Slow Down the Crypto Industry",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-massive-crypto-hack-probably",
+      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -348,24 +366,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-pa-ag-dave-sunday-launches-e",
-      "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs - Pennsylvania Capital-Star",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-call-for-papers-advancing-re",
       "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
       "category": "Research and development",
@@ -384,15 +384,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-new-zelda-and-gta-represent",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-trump-wants-to-ban-use-of-th",
       "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
       "category": "Products and applications",
@@ -402,8 +393,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-says-he-will-ban-term",
-      "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
+      "id": "st-trump-says-he-will-ban-the-t",
+      "title": "Trump says he will ban the term artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -411,8 +402,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-taxing-artificial-intelligen",
-      "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
+      "id": "st-trump-says-he-will-ban-term",
+      "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
