@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T18:31:47.655Z",
+  "generated_at": "2026-11-03T02:26:20.861Z",
   "mix": {
-    "familiar": 10,
-    "discovery": 35
+    "familiar": 7,
+    "discovery": 39
   },
   "items": [
     {
@@ -24,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-northwood-space-raises-375m",
-      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+      "id": "st-apple-s-inventory-surges-154",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -33,10 +33,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ai-agent-disputes-head-to-in",
-      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+      "id": "st-south-korea-urges-exchanges",
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -44,24 +44,6 @@
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-taps-half-its-safu-b",
-      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-hackers-begin-swappi",
-      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -87,8 +69,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-new-york-times-sues-brav",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "id": "st-apple-set-an-iphone-sales-re",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -96,22 +78,22 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-fbi-says-north-korea-was-beh",
-      "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+      "id": "st-ford-promises-not-to-sell-yo",
+      "title": "Ford promises not to sell your driving habits to data brokers",
       "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-big-crypto-wants-the-one-thi",
+      "title": "Big crypto wants the one thing it can’t buy: your vote",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-north-korea-steals-usd-6-36",
-      "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-bitcoin-traders-eye-post-ele",
@@ -132,8 +114,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nyse-taps-wall-street-giant",
-      "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+      "id": "st-nyse-tokenized-stock-plans-t",
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -159,17 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-s-washington-playbook",
-      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-readwise-takes-on-amazon-s-k",
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "id": "st-apple-may-try-to-increase-re",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -177,8 +150,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-42ai-comes-out-of-stealth-wi",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "id": "st-ukraine-s-new-pocket-sized-g",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-y-combinator-s-garry-tan-use",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trajectory-raises-45m-to-mak",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-warns-that-it-s-ve",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -195,9 +195,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-omen-ai-adds-liquid-know-how",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "category": "Startups and companies",
+      "id": "st-qodo-builds-context-into-ai",
+      "title": "Qodo builds context into AI code review with Codex",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-appoints-dan-driscoll",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,62 +231,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-an-updated-model-spec-for-mo",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-we-detect-frontier-model",
-      "title": "How we detect frontier model misalignment",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-ropes-gray-is-developing",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-animoca-brands-clears-final",
-      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-strategy-spends-triple-its-w",
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fatf-targets-crypto-hubs-in",
-      "title": "FATF targets crypto hubs in review of money laundering controls",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-from-uptober-to-hacktober-ar",
-      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+      "id": "st-north-korea-denies-role-in-6",
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,8 +240,53 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-pitches-data-center-p",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "id": "st-new-jersey-drops-coinbase-st",
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-poses-greater-threat-to-b",
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-investigators-flag-su",
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-coinbase-hit-with-50-price-t",
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-risks-drop-below-76k",
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-clamps-down-on-cla",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -294,8 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-ultra-smart-home-rob",
-      "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+      "id": "st-one-of-google-s-android-part",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -303,10 +303,37 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-could-data-center-backlash-f",
-      "title": "Could data center backlash flip Florida?",
-      "category": "Research and development",
+      "id": "st-the-apple-watch-ultra-4-is-1",
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-will-end-quest-2-os-upd",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-pennsylvania-enacts-artifici",
+      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
+      "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bmw-is-taking-on-tesla-s-fsd",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -321,28 +348,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korea-linked-group-ste",
-      "title": "North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack",
-      "category": "Security and privacy",
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-why-the-massive-binance-hack",
-      "title": "Why the Massive Binance Hack Won’t Slow Down the Crypto Industry",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-massive-crypto-hack-probably",
-      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
-      "category": "Security and privacy",
-      "bucket": "crypto",
+      "id": "st-national-lab-discovery-serie",
+      "title": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -357,17 +375,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-is-a",
-      "title": "Artificial Intelligence is a Horror Story",
+      "id": "st-pa-ag-dave-sunday-launches-e",
+      "title": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs - Pennsylvania Capital-Star",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-call-for-papers-advancing-re",
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-ai-m",
+      "title": "Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035",
       "category": "Research and development",
       "bucket": "ai",
       "score": 7,
@@ -375,27 +402,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-schooled-by-ai-the-evolving",
-      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-wants-to-ban-use-of-th",
-      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-says-he-will-ban-the-t",
-      "title": "Trump says he will ban the term artificial intelligence",
-      "category": "Products and applications",
+      "id": "st-artificial-intelligence-in-c",
+      "title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
