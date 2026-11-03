@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-03T02:26:20.893Z",
+  "generated_at": "2026-11-03T12:03:57.786Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-brazil-s-mercado-bitcoin-hal",
-      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "id": "st-bitcoin-steadies-after-dip-t",
+      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-02T15:53:29.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
+      "published_at": "2026-11-03T11:28:00.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
     },
     {
-      "id": "st-anthropic-swings-to-third-qu",
-      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
-      "category": "Regulation and policy",
+      "id": "st-liquid-s-bitcoin-ious-are-fu",
+      "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-11-02T15:18:55.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo"
+      "published_at": "2026-11-03T11:12:12.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit"
     }
   ]
 }
