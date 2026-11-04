@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-04
 
-6 stories briefed · feed mix 7 familiar / 41 discovery.
+6 stories briefed · feed mix 7 familiar / 43 discovery.
 
 ## Top stories
-1. **Bitcoin rebounds from midterm dip as DeFi leads gains** (Markets and business · CoinDesk) — A top crypto development today
-2. **ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft** (Markets and business · CoinDesk) — A top crypto development today
-3. **Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade** (Startups and companies · CoinDesk) — A top AI development today
-4. **Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards** (Startups and companies · CoinDesk) — A top AI development today
-5. **Morgan Stanley says it is among the first banks to tokenize real world assets** (Products and applications · CoinDesk) — Outside your usual reads — worth a skim
-6. **Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’** (Markets and business · CoinDesk) — A top crypto development today
+2. **Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes** (Markets and business · CoinDesk) — A top crypto development today
+3. **Open source AI is booming. Hugging Face explains who profits.** (Startups and companies · TechCrunch) — A top AI development today
+4. **DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy** (Regulation and policy · TechCrunch) — A top AI development today
+5. **Wall Street rethinks AI data center boom as Texas election raises new risks** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Waymo confirms it will start splitting with Uber in January 2028** (Markets and business · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Morgan Stanley says it is among the first banks to tokenize real world assets.
+- Discovery pick of the week: Waymo confirms it will start splitting with Uber in January 2028.
 
 _News, not investment advice._

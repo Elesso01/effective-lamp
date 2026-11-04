@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-11-04T12:17:37.530Z",
+  "generated_at": "2026-11-04T19:53:09.894Z",
   "mix": {
     "familiar": 7,
-    "discovery": 41
+    "discovery": 43
   },
   "items": [
+    {
+      "id": "st-duckduckgo-pitches-itself-to",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-sequoia-hits-rewind-undoing",
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-canton-s-cc-rises-4-as-sec-s",
       "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
@@ -24,24 +51,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-justin-sun-seeks-264k-sancti",
-      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-us-midterm-elections-2026-as",
-      "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-bitcoin-cryptocurrency-price",
       "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
       "category": "Markets and business",
@@ -51,17 +60,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amd-rides-data-center-riches",
-      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-fbi-says-north-korea-was-beh",
-      "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -78,8 +78,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-rebounds-from-midter",
-      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+      "id": "st-u-s-democratic-sweep-could-b",
+      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -87,8 +87,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-zachxbt-names-french-bank-cr",
-      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "id": "st-wall-street-rethinks-ai-data",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-long-short-ice-is-bet",
+      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,35 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-elon-musk-floats-space-data",
-      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-morgan-stanley-says-it-is-am",
-      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-zcash-grants-committee-drops",
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-surges-to-78-300-in",
-      "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
+      "id": "st-the-election-changes-washing",
+      "title": "The election changes Washington. The work on crypto continues",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -132,17 +114,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-jack-dorsey-s-block-faces-76",
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "category": "Products and applications",
-      "bucket": "crypto",
+      "id": "st-live-updates-bitcoin-and-sto",
+      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-u-s-sanctioned-moscow-exchan",
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+      "id": "st-global-asset-manager-schrode",
+      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -150,37 +132,73 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-india-s-eloelo-nabs-80m-from",
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-is-working-on-a-sy",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ted-schlein-s-ballistic-vent",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-researchers-warned-of-north",
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "id": "st-thorchain-s-rune-jumps-10-as",
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
       "category": "Security and privacy",
       "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-open-source-ai-is-booming-hu",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-waymo-confirms-it-will-start",
+      "title": "Waymo confirms it will start splitting with Uber in January 2028",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-you-can-see-everything-is-ge",
+      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-i-tried-apple-s-siri-recaps",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-faces-backlash-for-pl",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-titan-os-raises-46-million-t",
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-to-acquire-pierre-com",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -222,24 +240,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-preparing-our-next-security",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-rewarding-defenders-with-big",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-introducing-the-grid-protect",
       "title": "Introducing the Grid Protectors Program",
       "category": "Products and applications",
@@ -249,8 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-etfs-lose-1-16b-as-b",
-      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+      "id": "st-trump-linked-tokens-lead-cry",
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -258,17 +258,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-hackers-move-81-of-s",
-      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
-      "category": "Security and privacy",
-      "bucket": "crypto",
+      "id": "st-riot-shares-surge-on-28b-ai",
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-bounces-from-7-week",
-      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+      "id": "st-circle-s-arc-token-sale-lift",
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,8 +276,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-all-the-news-about-the-legen",
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "id": "st-bitcoin-hits-80-5k-as-us-sto",
+      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-france-backs-reporting-for-s",
+      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chatgpt-will-now-make-you-an",
+      "title": "ChatGPT will now make you animated GIFs",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-xbox-previews-two-new-ways-t",
+      "title": "Xbox previews two new ways to control cloud games",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -285,8 +312,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-biggest-modding-site-in",
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "id": "st-nothing-teases-a-screen-free",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -294,8 +321,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-please-stop-asking-me-when-t",
-      "title": "Please stop asking me when the AI bubble will pop",
+      "id": "st-god-of-war-laufey-delayed-un",
+      "title": "God of War Laufey delayed until May",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-my-therapist-thinks-i-should",
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-s-pixel-11-phones-are",
+      "title": "Google’s Pixel 11 phones are up to 27 percent off",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
@@ -303,17 +348,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-hasn-t-figured-out-ho",
-      "title": "Google hasn’t figured out how to make AI pay like its search engine",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sonos-adds-new-presets-and-p",
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "id": "st-artificial-intelligence-in-a",
+      "title": "Artificial intelligence in a Jesuit University: A student conversation",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -330,17 +366,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amla-outlines-cryptocurrency",
-      "title": "AMLA Outlines Cryptocurrency Strategy",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-aha-launches-new-homepage-on",
-      "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
+      "id": "st-pennsylvania-enacts-artifici",
+      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -348,8 +375,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-a",
-      "title": "Artificial intelligence in a Jesuit University: A student conversation",
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -366,8 +393,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-to-know-about-the-6-3b",
-      "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+      "id": "st-massive-crypto-hack-probably",
+      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
@@ -405,15 +432,6 @@
       "id": "st-artificial-intelligence-ai-m",
       "title": "Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-in-e",
-      "title": "Artificial Intelligence in Earth Science Data Systems",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
