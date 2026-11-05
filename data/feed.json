@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-11-05T00:56:24.394Z",
+  "generated_at": "2026-11-05T12:31:32.646Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 46
+    "familiar": 6,
+    "discovery": 40
   },
   "items": [
     {
-      "id": "st-tokenization-and-stablecoins",
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "id": "st-thailand-to-block-bitget-in",
+      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-france-budget-rejection-side",
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -33,6 +42,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-playstation-and-spider-man-p",
+      "title": "Playstation and Spider-Man performance see Sony profits surge",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-cryptocurrency-regulation-a",
       "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
       "category": "Regulation and policy",
@@ -51,8 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-s-washington-hopes-fa",
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "id": "st-bitcoin-is-resilient-but-lev",
+      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -60,26 +78,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-s-powerhouse-super-pa",
-      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-u-s-democratic-sweep-could-b",
-      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-wall-street-rethinks-ai-data",
-      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "id": "st-bitcoin-miners-are-oversold",
+      "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -87,8 +87,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-long-short-ice-is-bet",
-      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+      "id": "st-trump-linked-american-bitcoi",
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,8 +96,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-election-changes-washing",
-      "title": "The election changes Washington. The work on crypto continues",
+      "id": "st-bitcoin-holds-above-80-000-a",
+      "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,11 +105,65 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-rises-a",
-      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
+      "id": "st-live-updates-bitcoin-steady",
+      "title": "Live updates: Bitcoin steady around $80,000 as markets cool following yesterday's rally",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-mercado-bitcoin-hack-continu",
+      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-miner-riot-could-pay",
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-hong-kong-passes-law-requiri",
+      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-agility-is-the-first-pure-hu",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-setting-a-new-standard-for-r",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-is-reportedly-cutting",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -145,42 +199,6 @@
       "title": "Snapchat surpasses 30M paid subscribers",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-is-already-trying-to",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-acquires-ai-coding-star",
-      "title": "Meta acquires AI coding startup Conductor",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hackers-stole-dreamhost-cust",
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-open-source-ai-is-booming-hu",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "category": "Startups and companies",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -222,74 +240,56 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-heimstaden-is-changing-resid",
-      "title": "Heimstaden is changing residential real estate management with AI",
+      "id": "st-bitcoin-win-rate-vs-s-p-500",
+      "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korea-seeks-4th-crypto",
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-ether-etfs-draw-128m",
+      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-binance-polymarket-seek-poly",
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-discord-is-ditching-electron",
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-big-tech-s-big-ai-buildout-w",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-mercado-bitcoin-says-phased",
-      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitmart-founder-says-securit",
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-pacs-eye-2028-new-map",
-      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-aussie-bitcoiners-can-av",
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-linked-tokens-lead-cry",
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-riot-shares-surge-on-28b-ai",
-      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-circle-s-arc-token-sale-lift",
-      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -312,45 +312,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bose-s-quietcomfort-headphon",
-      "title": "Bose’s QuietComfort Headphones are more than half off",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-gemini-for-home-now-plugs-in",
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-xbox-previews-two-new-ways-t",
-      "title": "Xbox previews two new ways to control cloud games",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-little-friends-artificial-in",
       "title": "Little Friends: Artificial Intelligence and Human Services… a Lot To Think About!",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-s-pixel-11-phones-are",
-      "title": "Google’s Pixel 11 phones are up to 27 percent off",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -375,15 +339,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-pennsylvania-enacts-artifici",
-      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-artificial-intelligence-in-e",
       "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
@@ -396,6 +351,15 @@
       "id": "st-how-vulnerable-are-cryptocur",
       "title": "How vulnerable are cryptocurrency platforms?",
       "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-what-to-know-about-the-6-3b",
+      "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
