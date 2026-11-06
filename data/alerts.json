@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-05T22:06:42.535Z",
+  "generated_at": "2026-11-06T06:59:46.803Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-hyperliquid-treasury-firm-se",
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-06T02:24:23.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform"
+    },
     {
       "id": "st-what-is-tradertraitor-the-ha",
       "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-11-05T16:58:21.000Z",
       "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist"
-    },
-    {
-      "id": "st-gate-ceo-says-crypto-exchang",
-      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "category": "Security and privacy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-05T14:21:50.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s"
     }
   ]
 }

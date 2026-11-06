@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-11-05T22:06:42.513Z",
+  "generated_at": "2026-11-06T06:59:46.768Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 43
+    "familiar": 5,
+    "discovery": 46
   },
   "items": [
+    {
+      "id": "st-hyperliquid-treasury-firm-se",
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-what-is-tradertraitor-the-ha",
       "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-fed-occ-check-us-banks-after",
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-europe-s-largest-asset-manag",
-      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,8 +33,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-cryptocurrency-price",
-      "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+      "id": "st-fed-occ-check-us-banks-after",
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-greek-parliament-approves-10",
+      "title": "Greek parliament approves 10% tax on cryptocurrency gains",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 9,
@@ -51,8 +51,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-total-repudiation-the-blue-w",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "id": "st-t-mobile-owner-on-elon-musk",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -60,13 +60,22 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cryptocurrency-regulation-a",
-      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
-      "category": "Regulation and policy",
+      "id": "st-zcash-s-landmark-nu7-upgrade",
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-developer-proposes-l",
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-u-s-justice-department-assem",
@@ -78,8 +87,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcion-tumbles-to-76-000-as",
-      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "id": "st-bitcoin-tumbles-to-76-000-as",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -105,29 +114,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-gate-ceo-says-crypto-exchang",
-      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-palo-alto-networks-in-talks",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-kraken-parent-payward-and-it",
-      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-could-take-stake-in-b",
-      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-airbnb-says-it-s-launching-a",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -168,28 +168,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-government-warns-of-ongoi",
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-president-greg-brockm",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "category": "Startups and companies",
+      "id": "st-australian-universities-are",
+      "title": "Australian universities are creating AI-native graduates",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-ex-secret-service-agent",
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "category": "Security and privacy",
-      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -204,9 +186,36 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-merge-builds-product-and-bus",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-setting-a-new-standard-for-r",
       "title": "Setting a new standard for responsible AI infrastructure",
       "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-flipsnack-grows-product-sign",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-franklin-templeton-uses-open",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,20 +231,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-thousand-fewer-paths-to-ro",
-      "title": "A thousand fewer paths to root",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-crypto-exchanges-tout-cold-s",
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-accelerating-engineering-for",
-      "title": "Accelerating engineering for the physical world",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-core-scientific-to-quit-bitc",
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-american-bitcoin-s-126m-prof",
+      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-asian-crypto-exchanges-batte",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,28 +285,37 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-crashes-6-to-7-week",
-      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-blockchain-is-perfect-soluti",
-      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ea-is-bringing-25-classic-pc",
-      "title": "EA is bringing 25 classic PC games to Steam",
+      "id": "st-openai-is-stepping-back-from",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-airbnb-is-working-on-an-ai-t",
+      "title": "Airbnb is working on an AI travel agent",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-perplexity-launches-its-own",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-salon-is-shutting-down-after",
+      "title": "Salon is shutting down after 31 years",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -294,27 +330,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-samsung-s-galaxy-z-fold-8-is",
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "id": "st-responsible-use-of-artificia",
+      "title": "Responsible use of artificial intelligence",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-claude-ai-can-plug-directly",
-      "title": "Claude AI can plug directly into your bank account",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ember-s-smallest-self-heatin",
-      "title": "Ember’s smallest self-heating mug is on sale for just $33",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -323,6 +341,15 @@
     {
       "id": "st-i-put-5-000-into-cryptocurre",
       "title": "‘I put £5,000 into cryptocurrency. Here’s why I regret it’",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-what-democrats-midterm-victo",
+      "title": "What Democrats' midterm victory means for your crypto investments, according to experts",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -357,6 +384,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-pennsylvania-enacts-artifici",
+      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-artificial-intelligence-in-e",
       "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
@@ -378,6 +414,15 @@
       "id": "st-what-to-know-about-the-6-3b",
       "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
       "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -411,37 +456,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-is-a",
-      "title": "Artificial Intelligence is a Horror Story",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-artificial-intelligence-ai-m",
       "title": "Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035",
       "category": "Research and development",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-call-for-papers-advancing-re",
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-tumbles-as-binance-h",
-      "title": "Bitcoin tumbles as Binance hack rattles crypto markets",
-      "category": "Security and privacy",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
