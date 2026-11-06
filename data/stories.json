@@ -13,7 +13,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.329Z"
+  },
+  {
+    "id": "st-apple-meta-reject-okx-ice-to",
+    "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-06T20:09:18.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+    "type": "News",
+    "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-06T21:37:19.497Z"
+  },
+  {
+    "id": "st-u-s-prediction-markets-regul",
+    "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-06T17:42:28.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+    "type": "News",
+    "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-06T21:37:19.497Z"
   },
   {
     "id": "st-the-crypto-industry-has-foun",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "imported_at": "2026-11-06T21:37:19.497Z"
   },
   {
     "id": "st-thailand-moves-to-block-bitg",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "imported_at": "2026-11-06T21:37:19.497Z"
   },
   {
     "id": "st-u-s-added-165-000-jobs-in-oc",
@@ -61,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "imported_at": "2026-11-06T21:37:19.497Z"
   },
   {
     "id": "st-over-1-billion-in-bullish-be",
@@ -77,23 +109,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "imported_at": "2026-11-06T21:37:19.497Z"
   },
   {
-    "id": "st-live-updates-bitcoin-holds-i",
-    "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+    "id": "st-live-updates-bitcoin-flatlin",
+    "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
     "published_at": "2026-11-06T11:58:40.000Z",
     "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
     "type": "News",
-    "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
+    "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "imported_at": "2026-11-06T21:37:19.497Z"
   },
   {
     "id": "st-bitcoin-steadies-after-ai-le",
@@ -109,39 +141,71 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "imported_at": "2026-11-06T21:37:19.498Z"
   },
   {
-    "id": "st-bitcoin-recovers-76-000-leve",
-    "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T09:53:27.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+    "id": "st-hundreds-of-artex-ai-hacking",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-06T18:44:38.000Z",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "type": "News",
-    "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
-    "category": "Markets and business",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-06T21:37:19.880Z"
   },
   {
-    "id": "st-greece-approves-10-tax-on-cr",
-    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T08:47:42.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+    "id": "st-meta-introduces-spaces-a-new",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-06T18:44:20.000Z",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "type": "News",
-    "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-06T15:59:54.589Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-06T21:37:19.880Z"
+  },
+  {
+    "id": "st-after-the-midterms-is-the-ai",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-06T17:23:52.000Z",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "type": "News",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-06T21:37:19.880Z"
+  },
+  {
+    "id": "st-pentagon-offers-battery-star",
+    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-06T16:50:01.000Z",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "type": "News",
+    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-06T21:37:19.880Z"
   },
   {
     "id": "st-ramp-data-shows-ai-spending",
@@ -157,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.951Z"
+    "imported_at": "2026-11-06T21:37:19.880Z"
   },
   {
     "id": "st-after-blocking-muse-amazon-n",
@@ -173,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.951Z"
+    "imported_at": "2026-11-06T21:37:19.880Z"
   },
   {
     "id": "st-underdog-shows-off-a-32mb-sp",
@@ -189,39 +253,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.951Z"
+    "imported_at": "2026-11-06T21:37:19.880Z"
   },
   {
-    "id": "st-physicl-raises-10m-to-make-t",
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "id": "st-partnering-with-hacktron-to",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-06T08:00:00.000Z",
+    "url": "https://openai.com/index/partnering-with-hacktron",
     "type": "News",
-    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "category": "Startups and companies",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-06T21:37:19.778Z"
+  },
+  {
+    "id": "st-measuring-how-ai-agents-hand",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-06T00:00:00.000Z",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "type": "News",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.951Z"
-  },
-  {
-    "id": "st-palo-alto-networks-in-talks",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T06:28:32.000Z",
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "type": "News",
-    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.951Z"
+    "imported_at": "2026-11-06T21:37:19.778Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -237,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "imported_at": "2026-11-06T21:37:19.778Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -253,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "imported_at": "2026-11-06T21:37:19.778Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -269,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "imported_at": "2026-11-06T21:37:19.778Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -285,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "imported_at": "2026-11-06T21:37:19.778Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -301,39 +365,103 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "imported_at": "2026-11-06T21:37:19.778Z"
   },
   {
-    "id": "st-franklin-templeton-uses-open",
-    "title": "Franklin Templeton uses OpenAI to support investment research",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-05T00:00:00.000Z",
-    "url": "https://openai.com/index/franklin-templeton",
+    "id": "st-gnosis-pay-breach-exposes-ca",
+    "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T20:51:23.000Z",
+    "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-    "category": "Research and development",
+    "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-06T21:37:19.617Z"
+  },
+  {
+    "id": "st-binance-hack-is-cyber-war-tr",
+    "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T20:36:25.000Z",
+    "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-06T21:37:19.617Z"
   },
   {
-    "id": "st-openai-to-acquire-pierre-com",
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-04T14:30:00.000Z",
-    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "id": "st-us-401-k-proposal-leaves-doo",
+    "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T20:04:27.000Z",
+    "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "summary": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-06T21:37:19.617Z"
+  },
+  {
+    "id": "st-russia-finalizes-crypto-trad",
+    "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T18:47:45.000Z",
+    "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
     "category": "Products and applications",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T15:59:54.870Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-06T21:37:19.617Z"
+  },
+  {
+    "id": "st-strive-buys-15-124-bitcoin-i",
+    "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T18:22:42.000Z",
+    "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-06T21:37:19.617Z"
+  },
+  {
+    "id": "st-bitcoin-price-dips-under-75k",
+    "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T17:49:33.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-06T21:37:19.617Z"
   },
   {
     "id": "st-what-democrats-us-midterm-sw",
@@ -349,199 +477,119 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.682Z"
+    "imported_at": "2026-11-06T21:37:19.618Z"
   },
   {
-    "id": "st-nigeria-sets-new-crypto-lice",
-    "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T13:57:14.000Z",
-    "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T13:33:00.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-ethereum-devs-won-t-fork-gla",
-    "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T13:23:08.000Z",
-    "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-solana-s-shanghai-event-halt",
-    "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T12:15:28.000Z",
-    "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-binance-hackers-had-8-weeks",
-    "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T11:26:30.000Z",
-    "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-bitcoin-holds-75k-as-ai-regu",
-    "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T11:16:53.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-greece-approves-10-tax-on-cr",
-    "title": "Greece approves 10% tax on crypto gains starting in 2027",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T11:05:36.000Z",
-    "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T15:59:54.683Z"
-  },
-  {
-    "id": "st-this-see-through-camera-lets",
-    "title": "This see-through camera lets photographers maintain eye contact with their subjects",
+    "id": "st-all-the-latest-updates-on-ai",
+    "title": "All the latest updates on AI data centers",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-06T15:33:03.000Z",
-    "url": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
+    "published_at": "2026-11-06T20:03:32.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
     "type": "News",
-    "summary": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera is reminiscent of the Godox C100 but the H",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.852Z"
-  },
-  {
-    "id": "st-kpop-demon-hunters-on-4k-blu",
-    "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T15:27:09.000Z",
-    "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-    "type": "News",
-    "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble instead",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.852Z"
-  },
-  {
-    "id": "st-apple-has-a-secret-list-of-b",
-    "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T15:10:28.000Z",
-    "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
-    "type": "News",
-    "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.852Z"
-  },
-  {
-    "id": "st-tiktok-s-for-you-page-needs",
-    "title": "TikTok’s For You page needs to change, says the EU",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T14:00:49.000Z",
-    "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-    "type": "News",
-    "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and th",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.852Z"
+    "imported_at": "2026-11-06T21:37:20.783Z"
   },
   {
-    "id": "st-amazon-will-let-you-text-ale",
-    "title": "Amazon will let you text Alexa your shopping list",
+    "id": "st-meta-s-muse-ai-can-create-cu",
+    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-06T13:56:32.000Z",
-    "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "published_at": "2026-11-06T20:00:43.000Z",
+    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
     "type": "News",
-    "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching resul",
+    "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse a",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.852Z"
+    "imported_at": "2026-11-06T21:37:20.784Z"
+  },
+  {
+    "id": "st-shure-s-popular-podcasting-a",
+    "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T19:47:02.000Z",
+    "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+    "type": "News",
+    "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s a",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-06T21:37:20.783Z"
+  },
+  {
+    "id": "st-the-iphone-duo-has-more-than",
+    "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T18:52:32.000Z",
+    "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+    "type": "News",
+    "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their creativ",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-06T21:37:20.784Z"
+  },
+  {
+    "id": "st-lame-duck-congress-might-act",
+    "title": "Lame-duck Congress might actually do something: speed up energy projects",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T18:42:30.000Z",
+    "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+    "type": "News",
+    "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limi",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-06T21:37:20.783Z"
+  },
+  {
+    "id": "st-amazon-is-now-making-a-melan",
+    "title": "Amazon is now making a Melania Trump TV series",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T18:22:13.000Z",
+    "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+    "type": "News",
+    "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told st",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-06T21:37:20.784Z"
+  },
+  {
+    "id": "st-kobo-will-soon-let-you-uploa",
+    "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T17:32:16.000Z",
+    "url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
+    "type": "News",
+    "summary": "Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps, including your reading progress, highlights, and annotations. Kobo Stack is simi",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-06T21:37:20.784Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -557,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.735Z"
   },
   {
     "id": "st-when-use-of-artificial-intel",
@@ -573,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.736Z"
   },
   {
     "id": "st-workshop-on-artificial-intel",
@@ -589,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.736Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -605,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.330Z"
   },
   {
     "id": "st-what-democrats-midterm-victo",
@@ -621,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.329Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -637,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.736Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -653,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.736Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -669,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.735Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -685,7 +733,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.330Z"
+  },
+  {
+    "id": "st-how-to-invest-in-cryptocurre",
+    "title": "How to Invest in Cryptocurrency at Every Age - U.S. News",
+    "source": "U.S. News - Money",
+    "sourceId": "rss-u-s-news-money",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-03T19:24:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlRrVC1rbXd4Z2xIdUNpVnd1TUs4aEVON2tKUXpmM05rMThSQ2ZJTGJ4NUt0eUJuWFRRN0RDdk5jREFLSEZHWWtsNWpJUC1XMnBNeWhUS01fZVk1S3gxd21qb1pKNHFJRjdoTTEteFZwaFB2bjNCS0VSa0RtZk04X1l6MWxQa2ZpUFRzcmRRZElZN0x3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlRrVC1rbXd4Z2xIdUNpVnd1TUs4aEVON2tKUXpmM05rMThSQ2ZJTGJ4NUt0eUJuWFRRN0RDdk5jREFLSEZHWWtsNWpJUC1XMnBNeWhUS01fZVk1S3gxd21qb1pKNHFJRjdoTTEteFZwaFB2bjNCS0VSa0RtZk04X1l6MWxQa2ZpUFRzcmRRZElZN0x3?oc=5\" target=\"_blank\">How to ",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-06T21:37:20.330Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -701,7 +765,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.735Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -717,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.799Z"
+    "imported_at": "2026-11-06T21:37:20.735Z"
   },
   {
     "id": "st-how-vulnerable-are-cryptocur",
@@ -733,7 +797,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.330Z"
   },
   {
     "id": "st-what-to-know-about-the-6-3b",
@@ -749,38 +813,22 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.329Z"
   },
   {
-    "id": "st-4-ways-to-invest-in-cryptocu",
-    "title": "4 ways to invest in cryptocurrency stocks",
+    "id": "st-cryptocurrency-regulation-a",
+    "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
     "source": "Britannica",
     "sourceId": "rss-britannica",
     "author": "Google News (crypto)",
     "published_at": "2026-10-31T07:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5\" target=\"_blank\">4 ways to invest in cryptocurrency stocks</a>&nbsp;&nbsp;<font color=\"#6",
-    "category": "Markets and business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5\" target=\"_blank\">Cryptocurrency Regulation: A Guide to U.S. & Global Policies</a>",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
-  },
-  {
-    "id": "st-massive-crypto-hack-probably",
-    "title": "Massive crypto hack probably the largest theft of digital currencies in history",
-    "source": "The Washington Post",
-    "sourceId": "rss-the-washington-post",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-30T19:51:49.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWDlvaFF5aFB1RHQxQVpaSFdqRA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWD",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T15:59:55.379Z"
+    "imported_at": "2026-11-06T21:37:20.329Z"
   }
 ]

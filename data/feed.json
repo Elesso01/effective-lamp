@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-06T15:59:55.924Z",
+  "generated_at": "2026-11-06T21:37:20.868Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 43
+    "familiar": 7,
+    "discovery": 45
   },
   "items": [
+    {
+      "id": "st-u-s-prediction-markets-regul",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-thailand-moves-to-block-bitg",
       "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
@@ -24,28 +33,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-binance-hack-is-cyber-war-tr",
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-ethereum-devs-won-t-fork-gla",
-      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bitcoin-holds-75k-as-ai-regu",
-      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -60,13 +51,40 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-tiktok-s-for-you-page-needs",
-      "title": "TikTok’s For You page needs to change, says the EU",
+      "id": "st-all-the-latest-updates-on-ai",
+      "title": "All the latest updates on AI data centers",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-lame-duck-congress-might-act",
+      "title": "Lame-duck Congress might actually do something: speed up energy projects",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-apple-meta-reject-okx-ice-to",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-the-crypto-industry-has-foun",
@@ -87,8 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-holds-i",
-      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+      "id": "st-live-updates-bitcoin-flatlin",
+      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,20 +123,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-recovers-76-000-leve",
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "category": "Markets and business",
+      "id": "st-hundreds-of-artex-ai-hacking",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-greece-approves-10-tax-on-cr",
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-meta-introduces-spaces-a-new",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-after-the-midterms-is-the-ai",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-pentagon-offers-battery-star",
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -150,18 +186,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-physicl-raises-10m-to-make-t",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "category": "Startups and companies",
-      "bucket": "ai",
+      "id": "st-partnering-with-hacktron-to",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-palo-alto-networks-in-talks",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "category": "Startups and companies",
+      "id": "st-measuring-how-ai-agents-hand",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -213,20 +249,47 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-franklin-templeton-uses-open",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-gnosis-pay-breach-exposes-ca",
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-to-acquire-pierre-com",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "id": "st-us-401-k-proposal-leaves-doo",
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-russia-finalizes-crypto-trad",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-strive-buys-15-124-bitcoin-i",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-price-dips-under-75k",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -240,44 +303,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nigeria-sets-new-crypto-lice",
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "id": "st-meta-s-muse-ai-can-create-cu",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-shure-s-popular-podcasting-a",
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-solana-s-shanghai-event-halt",
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-hackers-had-8-weeks",
-      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-greece-approves-10-tax-on-cr",
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-this-see-through-camera-lets",
-      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
+      "id": "st-the-iphone-duo-has-more-than",
+      "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -285,28 +330,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-kpop-demon-hunters-on-4k-blu",
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-has-a-secret-list-of-b",
-      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-will-let-you-text-ale",
-      "title": "Amazon will let you text Alexa your shopping list",
+      "id": "st-amazon-is-now-making-a-melan",
+      "title": "Amazon is now making a Melania Trump TV series",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kobo-will-soon-let-you-uploa",
+      "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -393,6 +429,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-how-to-invest-in-cryptocurre",
+      "title": "How to Invest in Cryptocurrency at Every Age - U.S. News",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-pennsylvania-enacts-artifici",
       "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
       "category": "Products and applications",
@@ -422,24 +467,6 @@
     {
       "id": "st-what-to-know-about-the-6-3b",
       "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-massive-crypto-hack-probably",
-      "title": "Massive crypto hack probably the largest theft of digital currencies in history",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
