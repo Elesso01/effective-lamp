@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-06T06:59:46.768Z",
+  "generated_at": "2026-11-06T15:59:55.924Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 46
+    "familiar": 6,
+    "discovery": 43
   },
   "items": [
     {
-      "id": "st-hyperliquid-treasury-firm-se",
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "id": "st-thailand-moves-to-block-bitg",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-what-is-tradertraitor-the-ha",
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
+      "id": "st-over-1-billion-in-bullish-be",
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -33,10 +33,19 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-fed-occ-check-us-banks-after",
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "category": "Regulation and policy",
+      "id": "st-ethereum-devs-won-t-fork-gla",
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "category": "Markets and business",
       "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-holds-75k-as-ai-regu",
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -51,8 +60,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-t-mobile-owner-on-elon-musk",
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+      "id": "st-tiktok-s-for-you-page-needs",
+      "title": "TikTok’s For You page needs to change, says the EU",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -60,8 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-zcash-s-landmark-nu7-upgrade",
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "id": "st-the-crypto-industry-has-foun",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,26 +78,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-developer-proposes-l",
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "id": "st-u-s-added-165-000-jobs-in-oc",
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-u-s-justice-department-assem",
-      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-tumbles-to-76-000-as",
-      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "id": "st-live-updates-bitcoin-holds-i",
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-steadies-after-ai-le",
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -96,17 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-standard-chartered-and-sbi-b",
-      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-for-advisors-where-in",
-      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "id": "st-bitcoin-recovers-76-000-leve",
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -114,8 +114,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-palo-alto-networks-in-talks",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "id": "st-greece-approves-10-tax-on-cr",
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ramp-data-shows-ai-spending",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -123,8 +132,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-airbnb-says-it-s-launching-a",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "id": "st-after-blocking-muse-amazon-n",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-underdog-shows-off-a-32mb-sp",
+      "title": "Underdog shows off a 32MB speech model in new demo",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -132,36 +150,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-serve-robotics-launches-new",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "category": "Products and applications",
+      "id": "st-physicl-raises-10m-to-make-t",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-says-us-users-can-now-v",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-warns-that-election-bac",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-released-a-new-cybers",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "category": "Products and applications",
+      "id": "st-palo-alto-networks-in-talks",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -231,8 +231,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-exchanges-tout-cold-s",
-      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "id": "st-what-democrats-us-midterm-sw",
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,35 +240,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-core-scientific-to-quit-bitc",
-      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-american-bitcoin-s-126m-prof",
-      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-asian-crypto-exchanges-batte",
-      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-ally-french-hill-wins",
-      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "id": "st-nigeria-sets-new-crypto-lice",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,8 +249,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-deribit-revoke-signa",
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "id": "st-solana-s-shanghai-event-halt",
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-binance-hackers-had-8-weeks",
+      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,44 +267,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-is-stepping-back-from",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
+      "id": "st-greece-approves-10-tax-on-cr",
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-airbnb-is-working-on-an-ai-t",
-      "title": "Airbnb is working on an AI travel agent",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-perplexity-launches-its-own",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-salon-is-shutting-down-after",
-      "title": "Salon is shutting down after 31 years",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-blue-origin-s-next-launch-no",
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "id": "st-this-see-through-camera-lets",
+      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -330,8 +285,53 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-kpop-demon-hunters-on-4k-blu",
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-has-a-secret-list-of-b",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-amazon-will-let-you-text-ale",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-responsible-use-of-artificia",
       "title": "Responsible use of artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-when-use-of-artificial-intel",
+      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-workshop-on-artificial-intel",
+      "title": "Workshop on artificial intelligence is today",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -379,6 +379,15 @@
       "title": "Google says there’s no way to use Search without using artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-amla-outlines-cryptocurrency",
+      "title": "AMLA Outlines Cryptocurrency Strategy",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -433,33 +442,6 @@
       "title": "Massive crypto hack probably the largest theft of digital currencies in history",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-doe-explains-artificial-inte",
-      "title": "DOE Explains...Artificial Intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-from-bitcoin-to-binance-cryp",
-      "title": "From Bitcoin to Binance: Crypto terms and what they mean",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-ai-m",
-      "title": "Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035",
-      "category": "Research and development",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
