@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-07
 
-6 stories briefed · feed mix 8 familiar / 40 discovery.
+6 stories briefed · feed mix 6 familiar / 42 discovery.
 
 ## Top stories
-1. **Here’s what happened in crypto today** (Regulation and policy · Cointelegraph) — A top crypto development today
-2. **Ex-FBI counterintelligence agent stole almost $2.5M in crypto** (Markets and business · Cointelegraph) — A top crypto development today
-3. **Sequoia shutting down its Scouts program marks the end of an era** (Products and applications · TechCrunch) — A top AI development today
-4. **From the front row to the hot seat — what the midterms mean for Big Tech** (Markets and business · TechCrunch) — A top AI development today
-5. **Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **Bitcoin holders have received eCash — What can you do with it?** (Markets and business · Cointelegraph) — Outside your usual reads — worth a skim
+1. **Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end** (Markets and business · CoinDesk) — A top crypto development today
+2. **U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows** (Regulation and policy · CoinDesk) — A top crypto development today
+3. **Amazon’s new basic Kindle proves you don’t need all the bells and whistles** (Products and applications · TechCrunch) — A top AI development today
+4. **NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake** (Products and applications · The Verge) — A top AI development today
+5. **Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets** (Security and privacy · CoinDesk) — Outside your usual reads — worth a skim
+6. **Parents want safer phones for kids. These companies are answering the call.** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Bitcoin holders have received eCash — What can you do with it?.
+- Discovery pick of the week: Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets.
 
 _News, not investment advice._

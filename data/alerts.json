@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-07T14:56:52.786Z",
+  "generated_at": "2026-11-07T20:18:42.216Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-u-s-prediction-markets-regul",
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "id": "st-u-s-treasury-moves-to-cut-of",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-06T17:42:28.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts"
+      "published_at": "2026-11-07T17:36:46.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
     },
     {
-      "id": "st-thailand-moves-to-block-bitg",
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "category": "Regulation and policy",
+      "id": "st-gnosis-pay-breach-exposes-ca",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "category": "Security and privacy",
       "source": "CoinDesk",
-      "published_at": "2026-11-06T14:33:49.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
+      "published_at": "2026-11-07T16:51:00.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
     }
   ]
 }

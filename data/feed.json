@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-07T14:56:52.756Z",
+  "generated_at": "2026-11-07T20:18:42.188Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 40
+    "familiar": 6,
+    "discovery": 42
   },
   "items": [
+    {
+      "id": "st-u-s-treasury-moves-to-cut-of",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-u-s-prediction-markets-regul",
       "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
@@ -24,11 +33,11 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-over-1-billion-in-bullish-be",
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "id": "st-binance-cfo-is-leaving-to-pu",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -60,31 +69,22 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-valued-at-1-25-trilli",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-all-the-latest-updates-on-ai",
-      "title": "All the latest updates on AI data centers",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-trump-signs-1st-major-federa",
-      "title": "Trump signs 1st major federal cryptocurrency bill into law - ABC News",
-      "category": "Regulation and policy",
+      "id": "st-binance-users-in-some-europe",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-gnosis-pay-breach-exposes-ca",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-apple-meta-reject-okx-ice-to",
@@ -114,20 +114,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-updates-bitcoin-flatlin",
-      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-      "category": "Markets and business",
+      "id": "st-parents-want-safer-phones-fo",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-steadies-after-ai-le",
-      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-amazon-s-new-basic-kindle-pr",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -152,33 +152,6 @@
     {
       "id": "st-crusoe-sells-troubled-wyomin",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hundreds-of-artex-ai-hacking",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-introduces-spaces-a-new",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-after-the-midterms-is-the-ai",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -294,8 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-china-reportedly-recruited-a",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "id": "st-nyt-cooking-s-ai-assistant-s",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,9 +276,36 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-why-a-new-report-on-anthropi",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "category": "Research and development",
+      "id": "st-the-us-let-nvidia-sell-chips",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-discogs-kevin-lewandowski-ca",
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-costco-members-can-get-5-off",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-broke-the-cybersecurity-w",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -393,15 +393,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-are-all-the-different-t",
-      "title": "What Are All the Different Types of Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-artificial-intelligence-in-e",
       "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
@@ -420,8 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-vulnerable-are-cryptocur",
-      "title": "How vulnerable are cryptocurrency platforms?",
+      "id": "st-15-canadian-crypto-etfs-in-2",
+      "title": "15 Canadian Crypto ETFs in 2026",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -429,9 +420,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-to-know-about-the-6-3b",
-      "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-      "category": "Security and privacy",
+      "id": "st-6-best-crypto-exchanges-of-n",
+      "title": "6 Best Crypto Exchanges of November 2026",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-vulnerable-are-cryptocur",
+      "title": "How vulnerable are cryptocurrency platforms?",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
