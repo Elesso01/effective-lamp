@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T21:37:20.868Z",
+  "generated_at": "2026-11-07T06:13:01.690Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 45
+    "familiar": 10,
+    "discovery": 41
   },
   "items": [
     {
@@ -33,6 +33,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-openai-reportedly-raises-an",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-binance-hack-is-cyber-war-tr",
       "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
       "category": "Regulation and policy",
@@ -49,6 +67,15 @@
       "score": 9,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-valued-at-1-25-trilli",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-all-the-latest-updates-on-ai",
@@ -123,6 +150,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-sequoia-shutting-down-its-sc",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-from-the-front-row-to-the-ho",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crusoe-sells-troubled-wyomin",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-hundreds-of-artex-ai-hacking",
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "category": "Security and privacy",
@@ -143,42 +197,6 @@
     {
       "id": "st-after-the-midterms-is-the-ai",
       "title": "After the midterms, is the AI industry in for a rough two years?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-pentagon-offers-battery-star",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ramp-data-shows-ai-spending",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-after-blocking-muse-amazon-n",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-underdog-shows-off-a-32mb-sp",
-      "title": "Underdog shows off a 32MB speech model in new demo",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -294,11 +312,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-democrats-us-midterm-sw",
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-china-reportedly-recruited-a",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -316,33 +334,6 @@
       "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
       "category": "Markets and business",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-iphone-duo-has-more-than",
-      "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-is-now-making-a-melan",
-      "title": "Amazon is now making a Melania Trump TV series",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kobo-will-soon-let-you-uploa",
-      "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
