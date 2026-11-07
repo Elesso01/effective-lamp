@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T20:18:42.188Z",
+  "generated_at": "2026-11-07T23:41:30.854Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 42
+    "familiar": 5,
+    "discovery": 41
   },
   "items": [
     {
@@ -37,15 +37,6 @@
       "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-openai-reportedly-raises-an",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "category": "Regulation and policy",
-      "bucket": "ai",
       "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -321,8 +312,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-responsible-use-of-artificia",
-      "title": "Responsible use of artificial intelligence",
+      "id": "st-when-use-of-artificial-intel",
+      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -422,15 +413,6 @@
     {
       "id": "st-6-best-crypto-exchanges-of-n",
       "title": "6 Best Crypto Exchanges of November 2026",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-vulnerable-are-cryptocur",
-      "title": "How vulnerable are cryptocurrency platforms?",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

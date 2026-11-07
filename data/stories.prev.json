@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-07T14:56:52.111Z"
+    "imported_at": "2026-11-07T20:18:41.553Z"
+  },
+  {
+    "id": "st-binance-users-in-some-europe",
+    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-07T19:13:16.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+    "type": "News",
+    "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-07T20:18:40.719Z"
+  },
+  {
+    "id": "st-u-s-treasury-moves-to-cut-of",
+    "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-07T17:36:46.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+    "type": "News",
+    "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-07T20:18:40.720Z"
+  },
+  {
+    "id": "st-gnosis-pay-breach-exposes-ca",
+    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-07T16:51:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+    "type": "News",
+    "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-07T20:18:40.720Z"
   },
   {
     "id": "st-apple-meta-reject-okx-ice-to",
@@ -29,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "imported_at": "2026-11-07T20:18:40.720Z"
   },
   {
     "id": "st-u-s-prediction-markets-regul",
@@ -45,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "imported_at": "2026-11-07T20:18:40.720Z"
   },
   {
     "id": "st-the-crypto-industry-has-foun",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "imported_at": "2026-11-07T20:18:40.720Z"
   },
   {
     "id": "st-thailand-moves-to-block-bitg",
@@ -77,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "imported_at": "2026-11-07T20:18:40.720Z"
   },
   {
     "id": "st-u-s-added-165-000-jobs-in-oc",
@@ -93,55 +141,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "imported_at": "2026-11-07T20:18:40.720Z"
   },
   {
-    "id": "st-over-1-billion-in-bullish-be",
-    "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T12:30:00.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+    "id": "st-parents-want-safer-phones-fo",
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-07T19:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
     "type": "News",
-    "summary": "Your day-ahead look for Nov. 6, 2026",
+    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-07T20:18:41.122Z"
+  },
+  {
+    "id": "st-binance-cfo-is-leaving-to-pu",
+    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-07T17:24:07.000Z",
+    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "type": "News",
+    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-07T20:18:41.122Z"
   },
   {
-    "id": "st-live-updates-bitcoin-flatlin",
-    "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T11:58:40.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+    "id": "st-amazon-s-new-basic-kindle-pr",
+    "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-07T17:18:00.000Z",
+    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
     "type": "News",
-    "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
-  },
-  {
-    "id": "st-bitcoin-steadies-after-ai-le",
-    "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T11:49:35.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-    "type": "News",
-    "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-07T14:56:51.448Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-07T20:18:41.122Z"
   },
   {
     "id": "st-sequoia-shutting-down-its-sc",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
+    "imported_at": "2026-11-07T20:18:41.122Z"
   },
   {
     "id": "st-from-the-front-row-to-the-ho",
@@ -173,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
+    "imported_at": "2026-11-07T20:18:41.122Z"
   },
   {
     "id": "st-crusoe-sells-troubled-wyomin",
@@ -189,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
+    "imported_at": "2026-11-07T20:18:41.122Z"
   },
   {
     "id": "st-openai-reportedly-raises-an",
@@ -205,55 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
-  },
-  {
-    "id": "st-hundreds-of-artex-ai-hacking",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T18:44:38.000Z",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "type": "News",
-    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
-  },
-  {
-    "id": "st-meta-introduces-spaces-a-new",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T18:44:20.000Z",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "type": "News",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
-  },
-  {
-    "id": "st-after-the-midterms-is-the-ai",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T17:23:52.000Z",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "type": "News",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.685Z"
+    "imported_at": "2026-11-07T20:18:41.122Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -269,7 +269,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -317,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -365,7 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T14:56:51.659Z"
+    "imported_at": "2026-11-07T20:18:41.008Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T14:56:51.534Z"
+    "imported_at": "2026-11-07T20:18:40.830Z"
   },
   {
     "id": "st-ex-fbi-counterintelligence-a",
@@ -397,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T14:56:51.534Z"
+    "imported_at": "2026-11-07T20:18:40.830Z"
   },
   {
     "id": "st-bitcoin-holders-have-receive",
@@ -413,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T14:56:51.534Z"
+    "imported_at": "2026-11-07T20:18:40.831Z"
   },
   {
     "id": "st-us-sanctions-canadian-money",
@@ -429,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T14:56:51.534Z"
+    "imported_at": "2026-11-07T20:18:40.831Z"
   },
   {
     "id": "st-suspicious-prediction-market",
@@ -445,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T14:56:51.534Z"
+    "imported_at": "2026-11-07T20:18:40.831Z"
   },
   {
     "id": "st-gnosis-pay-breach-exposes-ca",
@@ -461,71 +461,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T14:56:51.534Z"
+    "imported_at": "2026-11-07T20:18:40.831Z"
   },
   {
-    "id": "st-openai-valued-at-1-25-trilli",
-    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "id": "st-nyt-cooking-s-ai-assistant-s",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-06T23:46:18.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "published_at": "2026-11-07T15:47:15.000Z",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
     "type": "News",
-    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.684Z"
-  },
-  {
-    "id": "st-china-reportedly-recruited-a",
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T23:00:44.000Z",
-    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-    "type": "News",
-    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push ",
+    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usual",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.684Z"
+    "imported_at": "2026-11-07T20:18:42.119Z"
   },
   {
-    "id": "st-why-a-new-report-on-anthropi",
-    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "id": "st-the-us-let-nvidia-sell-chips",
+    "title": "The US let Nvidia sell chips to an empty office in China",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-06T21:48:06.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "published_at": "2026-11-07T15:43:45.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "type": "News",
-    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety ",
-    "category": "Research and development",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offi",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.684Z"
+    "imported_at": "2026-11-07T20:18:42.119Z"
   },
   {
-    "id": "st-all-the-latest-updates-on-ai",
-    "title": "All the latest updates on AI data centers",
+    "id": "st-discogs-kevin-lewandowski-ca",
+    "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-06T20:03:32.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "published_at": "2026-11-07T14:45:08.000Z",
+    "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
     "type": "News",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and th",
-    "category": "Regulation and policy",
+    "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensi",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.684Z"
+    "imported_at": "2026-11-07T20:18:42.119Z"
+  },
+  {
+    "id": "st-costco-members-can-get-5-off",
+    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-07T14:12:11.000Z",
+    "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+    "type": "News",
+    "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual ",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-07T20:18:42.119Z"
+  },
+  {
+    "id": "st-ai-broke-the-cybersecurity-w",
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-07T05:43:11.000Z",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "type": "News",
+    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so d",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-07T20:18:42.119Z"
   },
   {
     "id": "st-a-message-from-president-gol",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-workshop-on-artificial-intel",
@@ -573,23 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
-  },
-  {
-    "id": "st-trump-signs-1st-major-federa",
-    "title": "Trump signs 1st major federal cryptocurrency bill into law - ABC News",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "sourceId": "rss-abc-news-breaking-news-latest-news-and-videos",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-05T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGRPaVl6Nklwa21YZ2d6ekhhekNvNExUdVh0ZVk1dzRYS2RWTHNrMV96X3JfWEhCWFNwQ0tIUnl4SHIwMHhnd0pUTEZybEMwR1o0Y0dUc3R2bktXMFdGR0VPcmVmVHJXVEhwRlhabmFGd2JJM25sMDZtXzc3X2Z4cE1qa0xNVjlISHh5bjYzb3dkalcxSy1WYXNZVXZMZTkxUlHSAacBQVVfeXFMTWNuMzh6OUlPTzdFcVpEZEkxOVg3aGQxNnYzYUk1cGtXTHJicmdVbjdzQXpUUW02YTROMnVGZ1gyYTNqcjZzMklDckljS1Fyb1FaeW5uaXNfdmRTR01WcjR1QV9HRFY4SzZRRzlGSkswY2lUeWRwN05DU0dYbjZ4azJ6WW9JWnZQeTBKT3Fyd3RQNVBJbzRLNjhNeFFQLTVMcncycTVnUnM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGRPaVl6Nklwa21YZ2d6ekhhekNvNExUdVh0ZVk1dzRYS2RWTHNrMV96X3JfWEhCWFNwQ0tIUnl4SHIwMHhnd0pUTEZybEMwR1o0Y0dUc3R2bktXMFdGR0VPcmVmVHJXVEhwRlhabmFGd2JJM25sMDZtXzc3X2Z4cE1qa0xNVjlISHh5bjYzb3dkalcxSy1WYXNZVXZMZTkxUlHSAacBQVVfeX",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -605,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
+    "imported_at": "2026-11-07T20:18:41.553Z"
   },
   {
     "id": "st-what-democrats-midterm-victo",
@@ -621,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
+    "imported_at": "2026-11-07T20:18:41.553Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -637,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -645,7 +645,7 @@
     "source": "Marquette Today",
     "sourceId": "rss-marquette-today",
     "author": "Google News (AI)",
-    "published_at": "2026-11-04T13:21:48.000Z",
+    "published_at": "2026-11-04T08:00:00.000Z",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnJXdC1hTXNGZGdJRUFMOEV0SVhsank1eG5IUEtkUS1Qa1FEZ05GbUxwTGtlaW9ieVlxSmdRbVBOWDlrcUJQZ1lHSjdkLU5tX3Z1djQ2c0MzU0NabldzTlI5bDJETHFPdHVWYk1ncW5xeTVYdHlDUFFyR25DdS1tZi0yck0ybENMeERhQ1VhNmQzX1FKcHg2b1JkbnVrSENoZi14aXptazF0MzA?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnJXdC1hTXNGZGdJRUFMOEV0SVhsank1eG5IUEtkUS1Qa1FEZ05GbUxwTGtlaW9ieVlxSmdRbVBOWDlrcUJQZ1lHSjdkLU5tX3Z1djQ2c0MzU0NabldzTlI5bDJETHFPdHVWYk1ncW5xeTVYdHlDUFFyR25DdS1tZi0yck0ybENMeERhQ1VhNmQzX1FKcHg2b1JkbnVrSENoZi14aXptazF0Mz",
@@ -653,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -685,23 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
-  },
-  {
-    "id": "st-what-are-all-the-different-t",
-    "title": "What Are All the Different Types of Cryptocurrency?",
-    "source": "The Motley Fool",
-    "sourceId": "rss-the-motley-fool",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-03T18:23:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQWhzd3Z0OW1Ydno4dkZoMVE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQW",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
+    "imported_at": "2026-11-07T20:18:41.554Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -717,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.060Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -733,7 +717,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.561Z"
+    "imported_at": "2026-11-07T20:18:42.059Z"
+  },
+  {
+    "id": "st-15-canadian-crypto-etfs-in-2",
+    "title": "15 Canadian Crypto ETFs in 2026",
+    "source": "Investing News Network",
+    "sourceId": "rss-investing-news-network",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-02T20:30:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXpEX251WDh5bmRUYnR4UHM5THV5Q0FURUMxaUV2ZkV2dVpTY0daSXZIN2xTSjNxZzg1VTRSV1AteDNQS0pYWTFSV0pTb2VLNV9UNm5vbTY3M1dwdjN2VWFpdExlN2JzYWpIc0VVQzNHV0d1d1ZPTG4xdF9PWWpMZ2FCSGlGVkw4U2RMMFhUZXktdw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXpEX251WDh5bmRUYnR4UHM5THV5Q0FURUMxaUV2ZkV2dVpTY0daSXZIN2xTSjNxZzg1VTRSV1AteDNQS0pYWTFSV0pTb2VLNV9UNm5vbTY3M1dwdjN2VWFpdExlN2JzYWpIc0VVQzNHV0d1d1ZPTG4xdF9PWWpMZ2FCSGlGVkw4U2RMMFhUZXktdw?oc=5\" target=\"_blank\">15 Canadi",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-07T20:18:41.554Z"
+  },
+  {
+    "id": "st-6-best-crypto-exchanges-of-n",
+    "title": "6 Best Crypto Exchanges of November 2026",
+    "source": "MONEY",
+    "sourceId": "rss-money",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-02T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcnZJTU1hWThZN20tTkxNNlpnUm9WdHp3NVVWTUI2c0hvNzhSSWNaNE42bGJNVkJod2RYa3ZEckp1bTRSRFRIWVZRS1hpWWJHcmc?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcnZJTU1hWThZN20tTkxNNlpnUm9WdHp3NVVWTUI2c0hvNzhSSWNaNE42bGJNVkJod2RYa3ZEckp1bTRSRFRIWVZRS1hpWWJHcmc?oc=5\" target=\"_blank\">6 Best Crypto Exchanges of November 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONEY</font>",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-07T20:18:41.554Z"
   },
   {
     "id": "st-how-vulnerable-are-cryptocur",
@@ -749,22 +765,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
-  },
-  {
-    "id": "st-what-to-know-about-the-6-3b",
-    "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-    "source": "PBS",
-    "sourceId": "rss-pbs",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-31T16:14:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmROMDU3REZDUEpMWFVIYTJPZkZrRHJrOU5uWnFjNFdFTF9XVzI1QXI0WlN3aFJnajdtVjVqa3M1X3dyTFVtWngxamxXTXlzbnV2UHdJd1NaX3AzTVBqUFYwazdPRzFGaUdYczc5VGlPbUlaTlhUTF9FSFVWLU5CdFVMbFVjbldheWhOdWVvSmxjTGlpZ3FDZGFRVjJQZ3pfdDVlTWg2WVBPbTBJeWI5RWxRMXBjZ9IBuwFBVV95cUxONFJDSFVmVDdmZ01CVHlacnhVTVhvX3BSV2cxd0tZQ190dFFXeUFiX0g0TURYcU5GWm1ZUDFrZzl4MUhzWEp0ZjhybUF0Sy1wY3BaNHloakJEN2hHYi1QUGJ0ME1hOEFYbFdjNWd2SC1DOXVmR1BwTVdmY2xwMUxGa19IcVhtWklBWTV4SWpocVpuS0FRcXdwZFh4SDNMbzV1YWdRZjk4VUJnTE5uUnRvYkNtOXVoNll5VWV3?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmROMDU3REZDUEpMWFVIYTJPZkZrRHJrOU5uWnFjNFdFTF9XVzI1QXI0WlN3aFJnajdtVjVqa3M1X3dyTFVtWngxamxXTXlzbnV2UHdJd1NaX3AzTVBqUFYwazdPRzFGaUdYczc5VGlPbUlaTlhUTF9FSFVWLU5CdFVMbFVjbldheWhOdWVvSmxjTGlpZ3FDZGFRVjJQZ3pfdDVlTWg2WVBPbT",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-07T14:56:52.111Z"
+    "imported_at": "2026-11-07T20:18:41.553Z"
   }
 ]

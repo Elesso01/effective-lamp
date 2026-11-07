@@ -1,6 +1,6 @@
 # Weekly digest — week of 2026-11-07
 
-6 stories briefed · feed mix 6 familiar / 42 discovery.
+6 stories briefed · feed mix 5 familiar / 41 discovery.
 
 ## Top stories
 1. **Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end** (Markets and business · CoinDesk) — A top crypto development today
