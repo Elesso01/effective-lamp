@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-06T21:37:20.329Z"
+    "imported_at": "2026-11-07T06:13:01.054Z"
   },
   {
     "id": "st-apple-meta-reject-okx-ice-to",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.237Z"
   },
   {
     "id": "st-u-s-prediction-markets-regul",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.237Z"
   },
   {
     "id": "st-the-crypto-industry-has-foun",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.238Z"
   },
   {
     "id": "st-thailand-moves-to-block-bitg",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.238Z"
   },
   {
     "id": "st-u-s-added-165-000-jobs-in-oc",
@@ -93,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.238Z"
   },
   {
     "id": "st-over-1-billion-in-bullish-be",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.238Z"
   },
   {
     "id": "st-live-updates-bitcoin-flatlin",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.497Z"
+    "imported_at": "2026-11-07T06:13:00.238Z"
   },
   {
     "id": "st-bitcoin-steadies-after-ai-le",
@@ -141,7 +141,71 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-06T21:37:19.498Z"
+    "imported_at": "2026-11-07T06:13:00.238Z"
+  },
+  {
+    "id": "st-sequoia-shutting-down-its-sc",
+    "title": "Sequoia shutting down its Scouts program marks the end of an era",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-07T05:01:54.000Z",
+    "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "type": "News",
+    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-07T06:13:00.626Z"
+  },
+  {
+    "id": "st-from-the-front-row-to-the-ho",
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-07T04:16:43.000Z",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "type": "News",
+    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-07T06:13:00.626Z"
+  },
+  {
+    "id": "st-crusoe-sells-troubled-wyomin",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-07T01:40:28.000Z",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "type": "News",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-07T06:13:00.626Z"
+  },
+  {
+    "id": "st-openai-reportedly-raises-an",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-06T22:53:46.000Z",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "type": "News",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-07T06:13:00.626Z"
   },
   {
     "id": "st-hundreds-of-artex-ai-hacking",
@@ -157,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
+    "imported_at": "2026-11-07T06:13:00.626Z"
   },
   {
     "id": "st-meta-introduces-spaces-a-new",
@@ -173,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
+    "imported_at": "2026-11-07T06:13:00.626Z"
   },
   {
     "id": "st-after-the-midterms-is-the-ai",
@@ -189,71 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
-  },
-  {
-    "id": "st-pentagon-offers-battery-star",
-    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T16:50:01.000Z",
-    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-    "type": "News",
-    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
-  },
-  {
-    "id": "st-ramp-data-shows-ai-spending",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T15:54:47.000Z",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "type": "News",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
-  },
-  {
-    "id": "st-after-blocking-muse-amazon-n",
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T14:10:00.000Z",
-    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "type": "News",
-    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
-  },
-  {
-    "id": "st-underdog-shows-off-a-32mb-sp",
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T13:02:16.000Z",
-    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "type": "News",
-    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.880Z"
+    "imported_at": "2026-11-07T06:13:00.626Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -269,7 +269,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -317,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -365,7 +365,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-06T21:37:19.778Z"
+    "imported_at": "2026-11-07T06:13:00.568Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-06T22:00:15.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
     "id": "st-gnosis-pay-breach-exposes-ca",
@@ -381,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.617Z"
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
     "id": "st-binance-hack-is-cyber-war-tr",
@@ -397,7 +413,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.617Z"
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
     "id": "st-us-401-k-proposal-leaves-doo",
@@ -413,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.617Z"
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
     "id": "st-russia-finalizes-crypto-trad",
@@ -429,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.617Z"
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
     "id": "st-strive-buys-15-124-bitcoin-i",
@@ -445,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.617Z"
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
     "id": "st-bitcoin-price-dips-under-75k",
@@ -461,23 +477,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.617Z"
+    "imported_at": "2026-11-07T06:13:00.355Z"
   },
   {
-    "id": "st-what-democrats-us-midterm-sw",
-    "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T14:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-openai-valued-at-1-25-trilli",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T23:46:18.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
     "type": "News",
-    "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-06T21:37:19.618Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-07T06:13:01.630Z"
+  },
+  {
+    "id": "st-china-reportedly-recruited-a",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-06T23:00:44.000Z",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "type": "News",
+    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push ",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-07T06:13:01.631Z"
   },
   {
     "id": "st-all-the-latest-updates-on-ai",
@@ -493,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.783Z"
+    "imported_at": "2026-11-07T06:13:01.631Z"
   },
   {
     "id": "st-meta-s-muse-ai-can-create-cu",
@@ -509,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.784Z"
+    "imported_at": "2026-11-07T06:13:01.631Z"
   },
   {
     "id": "st-shure-s-popular-podcasting-a",
@@ -525,23 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.783Z"
-  },
-  {
-    "id": "st-the-iphone-duo-has-more-than",
-    "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T18:52:32.000Z",
-    "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
-    "type": "News",
-    "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their creativ",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.784Z"
+    "imported_at": "2026-11-07T06:13:01.631Z"
   },
   {
     "id": "st-lame-duck-congress-might-act",
@@ -557,39 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.783Z"
-  },
-  {
-    "id": "st-amazon-is-now-making-a-melan",
-    "title": "Amazon is now making a Melania Trump TV series",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T18:22:13.000Z",
-    "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-    "type": "News",
-    "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told st",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.784Z"
-  },
-  {
-    "id": "st-kobo-will-soon-let-you-uploa",
-    "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-06T17:32:16.000Z",
-    "url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
-    "type": "News",
-    "summary": "Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps, including your reading progress, highlights, and annotations. Kobo Stack is simi",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.784Z"
+    "imported_at": "2026-11-07T06:13:01.631Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -605,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.735Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-when-use-of-artificial-intel",
@@ -621,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.736Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-workshop-on-artificial-intel",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.736Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -653,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.330Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   },
   {
     "id": "st-what-democrats-midterm-victo",
@@ -669,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.329Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -685,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.736Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -701,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.736Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -717,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.735Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -733,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.330Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   },
   {
     "id": "st-how-to-invest-in-cryptocurre",
@@ -749,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.330Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -765,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.735Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -781,7 +765,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.735Z"
+    "imported_at": "2026-11-07T06:13:01.534Z"
   },
   {
     "id": "st-how-vulnerable-are-cryptocur",
@@ -797,7 +781,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.330Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   },
   {
     "id": "st-what-to-know-about-the-6-3b",
@@ -813,7 +797,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.329Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   },
   {
     "id": "st-cryptocurrency-regulation-a",
@@ -829,6 +813,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-06T21:37:20.329Z"
+    "imported_at": "2026-11-07T06:13:01.055Z"
   }
 ]

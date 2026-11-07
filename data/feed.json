@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T06:13:01.690Z",
+  "generated_at": "2026-11-07T14:56:52.756Z",
   "mix": {
-    "familiar": 10,
-    "discovery": 41
+    "familiar": 8,
+    "discovery": 40
   },
   "items": [
     {
@@ -51,15 +51,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-hack-is-cyber-war-tr",
-      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-greek-parliament-approves-10",
       "title": "Greek parliament approves 10% tax on cryptocurrency gains",
       "category": "Markets and business",
@@ -87,17 +78,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-lame-duck-congress-might-act",
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-cryptocurrency-regulation-a",
-      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "id": "st-trump-signs-1st-major-federa",
+      "title": "Trump signs 1st major federal cryptocurrency bill into law - ABC News",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -267,17 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-gnosis-pay-breach-exposes-ca",
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-us-401-k-proposal-leaves-doo",
-      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "id": "st-ex-fbi-counterintelligence-a",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,8 +258,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-russia-finalizes-crypto-trad",
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "id": "st-bitcoin-holders-have-receive",
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-sanctions-canadian-money",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-suspicious-prediction-market",
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -294,18 +285,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-strive-buys-15-124-bitcoin-i",
-      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-price-dips-under-75k",
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "category": "Markets and business",
+      "id": "st-gnosis-pay-breach-exposes-ca",
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -321,18 +303,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-meta-s-muse-ai-can-create-cu",
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "category": "Products and applications",
+      "id": "st-why-a-new-report-on-anthropi",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-shure-s-popular-podcasting-a",
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "category": "Markets and business",
+      "id": "st-a-message-from-president-gol",
+      "title": "A message from President Gold on artificial intelligence",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -341,15 +323,6 @@
     {
       "id": "st-responsible-use-of-artificia",
       "title": "Responsible use of artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-when-use-of-artificial-intel",
-      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -420,8 +393,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-to-invest-in-cryptocurre",
-      "title": "How to Invest in Cryptocurrency at Every Age - U.S. News",
+      "id": "st-what-are-all-the-different-t",
+      "title": "What Are All the Different Types of Cryptocurrency?",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -429,8 +402,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-pennsylvania-enacts-artifici",
-      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -438,8 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-e",
-      "title": "Artificial Intelligence in Earth Science Data Systems",
+      "id": "st-pennsylvania-enacts-artifici",
+      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
