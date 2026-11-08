@@ -13,7 +13,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-08T15:22:31.452Z"
+    "imported_at": "2026-11-08T20:36:39.055Z"
+  },
+  {
+    "id": "st-what-the-election-results-me",
+    "title": "What the election results mean for crypto: State of Crypto",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-08T19:30:00.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+    "type": "News",
+    "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-08T20:36:38.286Z"
+  },
+  {
+    "id": "st-stablecoin-growth-has-stalle",
+    "title": "Stablecoin growth has stalled. The payments boom hasn't",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-08T19:16:42.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+    "type": "News",
+    "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-08T20:36:38.286Z"
   },
   {
     "id": "st-these-finland-homes-get-free",
@@ -29,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "imported_at": "2026-11-08T20:36:38.286Z"
   },
   {
     "id": "st-binance-users-in-some-europe",
@@ -45,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "imported_at": "2026-11-08T20:36:38.287Z"
   },
   {
     "id": "st-u-s-treasury-moves-to-cut-of",
@@ -61,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "imported_at": "2026-11-08T20:36:38.287Z"
   },
   {
     "id": "st-gnosis-pay-breach-exposes-ca",
@@ -77,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "imported_at": "2026-11-08T20:36:38.287Z"
   },
   {
     "id": "st-apple-meta-reject-okx-ice-to",
@@ -93,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "imported_at": "2026-11-08T20:36:38.287Z"
   },
   {
     "id": "st-u-s-prediction-markets-regul",
@@ -109,39 +141,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "imported_at": "2026-11-08T20:36:38.287Z"
   },
   {
-    "id": "st-the-crypto-industry-has-foun",
-    "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T15:26:38.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+    "id": "st-coordinated-disturbances-hau",
+    "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-08T20:30:00.000Z",
+    "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
     "type": "News",
-    "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+    "category": "Research and development",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-08T20:36:38.632Z"
   },
   {
-    "id": "st-thailand-moves-to-block-bitg",
-    "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T14:33:49.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+    "id": "st-he-arrested-a-hacker-then-sp",
+    "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-08T17:30:00.000Z",
+    "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
     "type": "News",
-    "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
-    "category": "Regulation and policy",
+    "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-08T15:22:30.543Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-08T20:36:38.633Z"
+  },
+  {
+    "id": "st-techcrunch-mobility-the-cybe",
+    "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-08T17:02:00.000Z",
+    "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+    "type": "News",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-08T20:36:38.633Z"
   },
   {
     "id": "st-ninja-s-autobarista-is-impre",
@@ -157,87 +205,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.981Z"
-  },
-  {
-    "id": "st-parents-want-safer-phones-fo",
-    "title": "Parents want safer phones for kids. These companies are answering the call.",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-07T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-    "type": "News",
-    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.981Z"
-  },
-  {
-    "id": "st-binance-cfo-is-leaving-to-pu",
-    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-07T17:24:07.000Z",
-    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-    "type": "News",
-    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.981Z"
-  },
-  {
-    "id": "st-amazon-s-new-basic-kindle-pr",
-    "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-07T17:18:00.000Z",
-    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-    "type": "News",
-    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.981Z"
-  },
-  {
-    "id": "st-sequoia-shutting-down-its-sc",
-    "title": "Sequoia shutting down its Scouts program marks the end of an era",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-07T05:01:54.000Z",
-    "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-    "type": "News",
-    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.981Z"
-  },
-  {
-    "id": "st-from-the-front-row-to-the-ho",
-    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-07T04:16:43.000Z",
-    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-    "type": "News",
-    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.981Z"
+    "imported_at": "2026-11-08T20:36:38.633Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -253,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -269,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -285,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -301,7 +269,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -317,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -333,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -349,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T15:22:30.914Z"
+    "imported_at": "2026-11-08T20:36:38.551Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -365,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T15:22:30.657Z"
+    "imported_at": "2026-11-08T20:36:38.347Z"
   },
   {
     "id": "st-binance-france-emails-announ",
@@ -381,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T15:22:30.658Z"
+    "imported_at": "2026-11-08T20:36:38.347Z"
   },
   {
     "id": "st-ex-fbi-counterintelligence-a",
@@ -397,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T15:22:30.658Z"
+    "imported_at": "2026-11-08T20:36:38.348Z"
   },
   {
     "id": "st-bitcoin-holders-have-receive",
@@ -413,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T15:22:30.658Z"
+    "imported_at": "2026-11-08T20:36:38.348Z"
   },
   {
     "id": "st-us-sanctions-canadian-money",
@@ -429,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T15:22:30.658Z"
+    "imported_at": "2026-11-08T20:36:38.348Z"
   },
   {
     "id": "st-suspicious-prediction-market",
@@ -445,7 +413,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T15:22:30.658Z"
+    "imported_at": "2026-11-08T20:36:38.348Z"
+  },
+  {
+    "id": "st-apple-is-racing-to-make-siri",
+    "title": "Apple is racing to make Siri more agentic",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-08T19:18:19.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "type": "News",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly sho",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-08T20:36:39.522Z"
+  },
+  {
+    "id": "st-elvis-and-eminem-rights-hold",
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-08T17:23:19.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "type": "News",
+    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Pres",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-08T20:36:39.522Z"
   },
   {
     "id": "st-chatbots-might-be-coming-to",
@@ -461,55 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.935Z"
-  },
-  {
-    "id": "st-nyt-cooking-s-ai-assistant-s",
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-07T15:47:15.000Z",
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "type": "News",
-    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usual",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.935Z"
-  },
-  {
-    "id": "st-the-us-let-nvidia-sell-chips",
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-07T15:43:45.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "type": "News",
-    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offi",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.935Z"
-  },
-  {
-    "id": "st-discogs-kevin-lewandowski-ca",
-    "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-07T14:45:08.000Z",
-    "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-    "type": "News",
-    "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensi",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.935Z"
+    "imported_at": "2026-11-08T20:36:39.522Z"
   },
   {
     "id": "st-costco-members-can-get-5-off",
@@ -525,23 +477,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.935Z"
+    "imported_at": "2026-11-08T20:36:39.522Z"
   },
   {
-    "id": "st-ai-broke-the-cybersecurity-w",
-    "title": "AI broke the cybersecurity world. What’s next?",
+    "id": "st-apple-s-m5-macbook-air-is-do",
+    "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-07T05:43:11.000Z",
-    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "published_at": "2026-11-07T00:01:16.000Z",
+    "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
     "type": "News",
-    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so d",
+    "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of stora",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.935Z"
+    "imported_at": "2026-11-08T20:36:39.522Z"
   },
   {
     "id": "st-a-message-from-president-gol",
@@ -557,7 +509,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.453Z"
+  },
+  {
+    "id": "st-frequently-asked-questions-a",
+    "title": "Frequently asked questions: Artificial Intelligence (AI) in the military domain",
+    "source": "ICRC",
+    "sourceId": "rss-icrc",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-06T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3hZV0w1YzZQLWlhZzZvWXNVeUJUbmtQeDFwUnhHRHFOY182a3ZxRnNIZkpBX0JCWHZnVE8zUUxqNHU1d1hvU1NPZjFxUW9mTjdtcWpPdGZxZ0tSNzN4eEtuX0x4dmp1Rk8wMFJzaWJoVGdsWnFDZ0VOSHFDR2RCY0d6THE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON3hZV0w1YzZQLWlhZzZvWXNVeUJUbmtQeDFwUnhHRHFOY182a3ZxRnNIZkpBX0JCWHZnVE8zUUxqNHU1d1hvU1NPZjFxUW9mTjdtcWpPdGZxZ0tSNzN4eEtuX0x4dmp1Rk8wMFJzaWJoVGdsWnFDZ0VOSHFDR2RCY0d6THE?oc=5\" target=\"_blank\">Frequently asked questions: ",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-08T20:36:39.453Z"
   },
   {
     "id": "st-when-use-of-artificial-intel",
@@ -573,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.453Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -589,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.452Z"
+    "imported_at": "2026-11-08T20:36:39.056Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -605,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.453Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -621,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.453Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -637,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.453Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -653,39 +621,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.452Z"
+    "imported_at": "2026-11-08T20:36:39.056Z"
   },
   {
-    "id": "st-aha-launches-new-homepage-on",
-    "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
-    "source": "American Hospital Association",
-    "sourceId": "rss-american-hospital-association",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-03T20:44:38.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2hOYm9TTEV0OHpMcnNrMVlqY0JmNldjdE5lS2RnRjJNbDlMUmJpUXRPZDRyaGtVVXJnT0hpazFvcGxMQXJadC1BQnphNU4wTlViWkJ2M2c3OVVxVm9hVi11dkZoMHZNSy1tSzZVRXdBUlNwNzR3NWZnZVYxVU9ZYmEwU082RlBxTmJ6eEQ1THdGSFUyLUk5UUg4Y2hLdENTYzd1cWJFbW1Pd1NGanFjdzJuU2Q?oc=5",
+    "id": "st-what-are-all-the-different-t",
+    "title": "What Are All the Different Types of Cryptocurrency?",
+    "source": "The Motley Fool",
+    "sourceId": "rss-the-motley-fool",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-03T18:23:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQWhzd3Z0OW1Ydno4dkZoMVE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2hOYm9TTEV0OHpMcnNrMVlqY0JmNldjdE5lS2RnRjJNbDlMUmJpUXRPZDRyaGtVVXJnT0hpazFvcGxMQXJadC1BQnphNU4wTlViWkJ2M2c3OVVxVm9hVi11dkZoMHZNSy1tSzZVRXdBUlNwNzR3NWZnZVYxVU9ZYmEwU082RlBxTmJ6eEQ1THdGSFUyLUk5UUg4Y2hLdENTYzd1cWJFbW1Pd1",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQW",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.056Z"
   },
   {
-    "id": "st-artificial-intelligence-in-e",
-    "title": "Artificial Intelligence in Earth Science Data Systems",
-    "source": "NASA Earthdata (.gov)",
-    "sourceId": "rss-nasa-earthdata-gov",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-03T18:03:34.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
+    "id": "st-cryptocurrency-in-minnesota",
+    "title": "Cryptocurrency in Minnesota U.S. Congress",
+    "source": "OpenSecrets",
+    "sourceId": "rss-opensecrets",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-03T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGo5YWlrdGI2Q0lPTnppRjBLMENNYnFyaXpzektEeXktYVZxUUM0WXdNYlhmeDdTcERvdGNSMWZTZzRoQW1QZVhlcmNCU3cwdUdUVS1udC1rTE1pcDFmeHVXMy1xdGJfY2xHS3J6TjFZaFRqNVltTXlLZTVKdXFDcl82eE1lTW5EZkNzMHdUSkF5X28yUW82ZGZuMTQ?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5\" target=\"_blank\">Artificial Intelligence in Earth Science Data Systems</a>&nbsp;&nbsp;<font color=\"#",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGo5YWlrdGI2Q0lPTnppRjBLMENNYnFyaXpzektEeXktYVZxUUM0WXdNYlhmeDdTcERvdGNSMWZTZzRoQW1QZVhlcmNCU3cwdUdUVS1udC1rTE1pcDFmeHVXMy1xdGJfY2xHS3J6TjFZaFRqNVltTXlLZTVKdXFDcl82eE1lTW5EZkNzMHdUSkF5X28yUW82ZGZuMTQ?oc=5\" target=\"_bla",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.056Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -701,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.809Z"
+    "imported_at": "2026-11-08T20:36:39.453Z"
   },
   {
     "id": "st-15-canadian-crypto-etfs-in-2",
@@ -717,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.452Z"
+    "imported_at": "2026-11-08T20:36:39.056Z"
   },
   {
     "id": "st-6-best-crypto-exchanges-of-n",
@@ -733,22 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.452Z"
-  },
-  {
-    "id": "st-5-best-performing-cryptocurr",
-    "title": "5 Best-Performing Cryptocurrencies with Market Caps Above $10 Billion",
-    "source": "NerdWallet",
-    "sourceId": "rss-nerdwallet",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-02T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1I3WG9jckJhSm9GQl82Vm85SExrZUNNbk1HcVEyamwxQWN0MlhzeHMtcno0SFVMSml6SlRkY2hmemJxdUJCRHQ0NWtwR1FHejVleUd1WGRiLWxBQTNyYTQzOGg0c0o0MFlCVlpmVjJfSnFTTFR2a1EtM1F3R3kxWg?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1I3WG9jckJhSm9GQl82Vm85SExrZUNNbk1HcVEyamwxQWN0MlhzeHMtcno0SFVMSml6SlRkY2hmemJxdUJCRHQ0NWtwR1FHejVleUd1WGRiLWxBQTNyYTQzOGg0c0o0MFlCVlpmVjJfSnFTTFR2a1EtM1F3R3kxWg?oc=5\" target=\"_blank\">5 Best-Performing Cryptocurrencie",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-08T15:22:31.452Z"
+    "imported_at": "2026-11-08T20:36:39.056Z"
   }
 ]

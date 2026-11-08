@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T15:22:31.997Z",
+  "generated_at": "2026-11-08T20:36:39.601Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 41
+    "familiar": 4,
+    "discovery": 40
   },
   "items": [
     {
@@ -20,24 +20,6 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-thailand-moves-to-block-bitg",
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-binance-cfo-is-leaving-to-pu",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -60,13 +42,31 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-5-best-performing-cryptocurr",
-      "title": "5 Best-Performing Cryptocurrencies with Market Caps Above $10 Billion",
+      "id": "st-elvis-and-eminem-rights-hold",
+      "title": "Elvis and Eminem rights holders are suing Suno",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-what-the-election-results-me",
+      "title": "What the election results mean for crypto: State of Crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-stablecoin-growth-has-stalle",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-these-finland-homes-get-free",
@@ -105,11 +105,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-crypto-industry-has-foun",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "category": "Markets and business",
+      "id": "st-coordinated-disturbances-hau",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-he-arrested-a-hacker-then-sp",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8.5,
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-techcrunch-mobility-the-cybe",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -118,42 +136,6 @@
       "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-parents-want-safer-phones-fo",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-s-new-basic-kindle-pr",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sequoia-shutting-down-its-sc",
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-from-the-front-row-to-the-ho",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "category": "Markets and business",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -267,36 +249,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-apple-is-racing-to-make-siri",
+      "title": "Apple is racing to make Siri more agentic",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-chatbots-might-be-coming-to",
       "title": "Chatbots might be coming to Apple’s HomeView",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nyt-cooking-s-ai-assistant-s",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-us-let-nvidia-sell-chips",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-discogs-kevin-lewandowski-ca",
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -312,8 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-broke-the-cybersecurity-w",
-      "title": "AI broke the cybersecurity world. What’s next?",
+      "id": "st-apple-s-m5-macbook-air-is-do",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -323,6 +287,15 @@
     {
       "id": "st-a-message-from-president-gol",
       "title": "A message from President Gold on artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-frequently-asked-questions-a",
+      "title": "Frequently asked questions: Artificial Intelligence (AI) in the military domain",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -384,19 +357,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-aha-launches-new-homepage-on",
-      "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-what-are-all-the-different-t",
+      "title": "What Are All the Different Types of Cryptocurrency?",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-in-e",
-      "title": "Artificial Intelligence in Earth Science Data Systems",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-cryptocurrency-in-minnesota",
+      "title": "Cryptocurrency in Minnesota U.S. Congress",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
