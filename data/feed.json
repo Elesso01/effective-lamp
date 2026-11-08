@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T23:41:30.854Z",
+  "generated_at": "2026-11-08T06:18:47.404Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 41
+    "familiar": 6,
+    "discovery": 40
   },
   "items": [
     {
@@ -58,6 +58,15 @@
       "score": 9,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-5-best-performing-cryptocurr",
+      "title": "5 Best-Performing Cryptocurrencies with Market Caps Above $10 Billion",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-binance-users-in-some-europe",
@@ -321,26 +330,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-workshop-on-artificial-intel",
-      "title": "Workshop on artificial intelligence is today",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-i-put-5-000-into-cryptocurre",
       "title": "‘I put £5,000 into cryptocurrency. Here’s why I regret it’",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-what-democrats-midterm-victo",
-      "title": "What Democrats' midterm victory means for your crypto investments, according to experts",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -379,6 +370,15 @@
       "title": "AMLA Outlines Cryptocurrency Strategy",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-aha-launches-new-homepage-on",
+      "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

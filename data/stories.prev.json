@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-07T20:18:41.553Z"
+    "imported_at": "2026-11-07T23:41:30.285Z"
   },
   {
     "id": "st-binance-users-in-some-europe",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.719Z"
+    "imported_at": "2026-11-07T23:41:29.347Z"
   },
   {
     "id": "st-u-s-treasury-moves-to-cut-of",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.347Z"
   },
   {
     "id": "st-gnosis-pay-breach-exposes-ca",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.347Z"
   },
   {
     "id": "st-apple-meta-reject-okx-ice-to",
@@ -77,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.348Z"
   },
   {
     "id": "st-u-s-prediction-markets-regul",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.348Z"
   },
   {
     "id": "st-the-crypto-industry-has-foun",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.348Z"
   },
   {
     "id": "st-thailand-moves-to-block-bitg",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.348Z"
   },
   {
     "id": "st-u-s-added-165-000-jobs-in-oc",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-07T20:18:40.720Z"
+    "imported_at": "2026-11-07T23:41:29.348Z"
   },
   {
     "id": "st-parents-want-safer-phones-fo",
@@ -157,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
+    "imported_at": "2026-11-07T23:41:29.802Z"
   },
   {
     "id": "st-binance-cfo-is-leaving-to-pu",
@@ -173,7 +173,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
+    "imported_at": "2026-11-07T23:41:29.802Z"
   },
   {
     "id": "st-amazon-s-new-basic-kindle-pr",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
+    "imported_at": "2026-11-07T23:41:29.802Z"
   },
   {
     "id": "st-sequoia-shutting-down-its-sc",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
+    "imported_at": "2026-11-07T23:41:29.802Z"
   },
   {
     "id": "st-from-the-front-row-to-the-ho",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
+    "imported_at": "2026-11-07T23:41:29.802Z"
   },
   {
     "id": "st-crusoe-sells-troubled-wyomin",
@@ -237,23 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
-  },
-  {
-    "id": "st-openai-reportedly-raises-an",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-06T22:53:46.000Z",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "type": "News",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.122Z"
+    "imported_at": "2026-11-07T23:41:29.802Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -269,7 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -317,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -349,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -365,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-07T20:18:41.008Z"
+    "imported_at": "2026-11-07T23:41:29.745Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -381,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T20:18:40.830Z"
+    "imported_at": "2026-11-07T23:41:29.558Z"
   },
   {
     "id": "st-ex-fbi-counterintelligence-a",
@@ -397,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T20:18:40.830Z"
+    "imported_at": "2026-11-07T23:41:29.558Z"
   },
   {
     "id": "st-bitcoin-holders-have-receive",
@@ -413,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T20:18:40.831Z"
+    "imported_at": "2026-11-07T23:41:29.558Z"
   },
   {
     "id": "st-us-sanctions-canadian-money",
@@ -429,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T20:18:40.831Z"
+    "imported_at": "2026-11-07T23:41:29.558Z"
   },
   {
     "id": "st-suspicious-prediction-market",
@@ -445,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T20:18:40.831Z"
+    "imported_at": "2026-11-07T23:41:29.558Z"
   },
   {
     "id": "st-gnosis-pay-breach-exposes-ca",
@@ -461,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-07T20:18:40.831Z"
+    "imported_at": "2026-11-07T23:41:29.558Z"
   },
   {
     "id": "st-nyt-cooking-s-ai-assistant-s",
@@ -477,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.119Z"
+    "imported_at": "2026-11-07T23:41:30.785Z"
   },
   {
     "id": "st-the-us-let-nvidia-sell-chips",
@@ -493,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.119Z"
+    "imported_at": "2026-11-07T23:41:30.786Z"
   },
   {
     "id": "st-discogs-kevin-lewandowski-ca",
@@ -509,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.119Z"
+    "imported_at": "2026-11-07T23:41:30.785Z"
   },
   {
     "id": "st-costco-members-can-get-5-off",
@@ -525,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.119Z"
+    "imported_at": "2026-11-07T23:41:30.785Z"
   },
   {
     "id": "st-ai-broke-the-cybersecurity-w",
@@ -541,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.119Z"
+    "imported_at": "2026-11-07T23:41:30.786Z"
   },
   {
     "id": "st-a-message-from-president-gol",
@@ -557,23 +541,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.710Z"
   },
   {
-    "id": "st-responsible-use-of-artificia",
-    "title": "Responsible use of artificial intelligence",
-    "source": "Nature",
-    "sourceId": "rss-nature",
+    "id": "st-when-use-of-artificial-intel",
+    "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
+    "source": "Employment Law Worldview",
+    "sourceId": "rss-employment-law-worldview",
     "author": "Google News (AI)",
-    "published_at": "2026-11-05T18:14:45.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
+    "published_at": "2026-11-05T17:37:53.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5\" target=\"_blank\">Responsible use of artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MT",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.710Z"
   },
   {
     "id": "st-workshop-on-artificial-intel",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.710Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:41.553Z"
+    "imported_at": "2026-11-07T23:41:30.285Z"
   },
   {
     "id": "st-what-democrats-midterm-victo",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:41.553Z"
+    "imported_at": "2026-11-07T23:41:30.285Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.710Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -653,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.710Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -669,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.709Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -685,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:41.554Z"
+    "imported_at": "2026-11-07T23:41:30.285Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -701,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.060Z"
+    "imported_at": "2026-11-07T23:41:30.709Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -717,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:42.059Z"
+    "imported_at": "2026-11-07T23:41:30.709Z"
   },
   {
     "id": "st-15-canadian-crypto-etfs-in-2",
@@ -733,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:41.554Z"
+    "imported_at": "2026-11-07T23:41:30.285Z"
   },
   {
     "id": "st-6-best-crypto-exchanges-of-n",
@@ -749,22 +733,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:41.554Z"
-  },
-  {
-    "id": "st-how-vulnerable-are-cryptocur",
-    "title": "How vulnerable are cryptocurrency platforms?",
-    "source": "Al Jazeera",
-    "sourceId": "rss-al-jazeera",
-    "author": "Google News (crypto)",
-    "published_at": "2026-10-31T19:19:51.000Z",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb21ucmJzSU84NEFoZHZoUXRDZGZPZU1qSmZTZkhsb29IaVVYaGwzc1FrdjNMWFJlc2ZnUjlWdEtFQzNsWVNQNEszaU9ZX2dEWmdZZ0R5WlpkMXduVTM0MWZ1U290RmlwLV84amFXbzlTN0g3cExqcWRFckxfLXZuZksyLXk3aE94b0FzTjBEVmc1QW5ROGVvdGdRMHV2ckh50gGmAUFVX3lxTE9JX3MzV19GMm4xa2VVY3JQRk5KVnE1cVhNYlBmUW9HRmFNVHJmcTY0X3lRQWZiZE02cWcwcWxuTVFUbmdhT3J2eEZNQzc4RVR5UFNxeHlwZVJOa0EwdVpVVTZ4RkMwV2k5NW8yclBGMm9hRTZuN2NLRS0tQU1xV25ac2FUaG44ck9sU2diVjBFY1lVaXdGVExaRU95ZXl3YVBuMWNDU2c?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPb21ucmJzSU84NEFoZHZoUXRDZGZPZU1qSmZTZkhsb29IaVVYaGwzc1FrdjNMWFJlc2ZnUjlWdEtFQzNsWVNQNEszaU9ZX2dEWmdZZ0R5WlpkMXduVTM0MWZ1U290RmlwLV84amFXbzlTN0g3cExqcWRFckxfLXZuZksyLXk3aE94b0FzTjBEVmc1QW5ROGVvdGdRMHV2ckh50gGmAUFVX3lxTE",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-07T20:18:41.553Z"
+    "imported_at": "2026-11-07T23:41:30.285Z"
   }
 ]
