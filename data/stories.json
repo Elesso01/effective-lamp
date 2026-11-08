@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-08T06:18:46.856Z"
+    "imported_at": "2026-11-08T15:22:31.452Z"
+  },
+  {
+    "id": "st-these-finland-homes-get-free",
+    "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-08T12:55:59.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+    "type": "News",
+    "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-binance-users-in-some-europe",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.707Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-u-s-treasury-moves-to-cut-of",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-gnosis-pay-breach-exposes-ca",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-apple-meta-reject-okx-ice-to",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-u-s-prediction-markets-regul",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-the-crypto-industry-has-foun",
@@ -109,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
     "id": "st-thailand-moves-to-block-bitg",
@@ -125,23 +141,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "imported_at": "2026-11-08T15:22:30.543Z"
   },
   {
-    "id": "st-u-s-added-165-000-jobs-in-oc",
-    "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T13:31:54.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+    "id": "st-ninja-s-autobarista-is-impre",
+    "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-08T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
     "type": "News",
-    "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
-    "category": "Markets and business",
-    "bucket": "ai",
+    "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+    "category": "Products and applications",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-08T06:18:45.708Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-08T15:22:30.981Z"
   },
   {
     "id": "st-parents-want-safer-phones-fo",
@@ -157,7 +173,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.381Z"
+    "imported_at": "2026-11-08T15:22:30.981Z"
   },
   {
     "id": "st-binance-cfo-is-leaving-to-pu",
@@ -173,7 +189,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.381Z"
+    "imported_at": "2026-11-08T15:22:30.981Z"
   },
   {
     "id": "st-amazon-s-new-basic-kindle-pr",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.381Z"
+    "imported_at": "2026-11-08T15:22:30.981Z"
   },
   {
     "id": "st-sequoia-shutting-down-its-sc",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.381Z"
+    "imported_at": "2026-11-08T15:22:30.981Z"
   },
   {
     "id": "st-from-the-front-row-to-the-ho",
@@ -221,23 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.381Z"
-  },
-  {
-    "id": "st-crusoe-sells-troubled-wyomin",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-07T01:40:28.000Z",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "type": "News",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.381Z"
+    "imported_at": "2026-11-08T15:22:30.981Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -253,7 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -301,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -333,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -349,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T06:18:46.308Z"
+    "imported_at": "2026-11-08T15:22:30.914Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -357,7 +357,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-07T14:22:00.000Z",
+    "published_at": "2026-11-08T13:33:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -365,7 +365,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T06:18:45.820Z"
+    "imported_at": "2026-11-08T15:22:30.657Z"
+  },
+  {
+    "id": "st-binance-france-emails-announ",
+    "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-08T12:57:51.000Z",
+    "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-08T15:22:30.658Z"
   },
   {
     "id": "st-ex-fbi-counterintelligence-a",
@@ -381,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T06:18:45.820Z"
+    "imported_at": "2026-11-08T15:22:30.658Z"
   },
   {
     "id": "st-bitcoin-holders-have-receive",
@@ -397,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T06:18:45.820Z"
+    "imported_at": "2026-11-08T15:22:30.658Z"
   },
   {
     "id": "st-us-sanctions-canadian-money",
@@ -413,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T06:18:45.820Z"
+    "imported_at": "2026-11-08T15:22:30.658Z"
   },
   {
     "id": "st-suspicious-prediction-market",
@@ -429,23 +445,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T06:18:45.820Z"
+    "imported_at": "2026-11-08T15:22:30.658Z"
   },
   {
-    "id": "st-gnosis-pay-breach-exposes-ca",
-    "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-06T20:51:23.000Z",
-    "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-chatbots-might-be-coming-to",
+    "title": "Chatbots might be coming to Apple’s HomeView",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-08T15:00:30.000Z",
+    "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
     "type": "News",
-    "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
+    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like Chat",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-08T06:18:45.821Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-08T15:22:31.935Z"
   },
   {
     "id": "st-nyt-cooking-s-ai-assistant-s",
@@ -461,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.321Z"
+    "imported_at": "2026-11-08T15:22:31.935Z"
   },
   {
     "id": "st-the-us-let-nvidia-sell-chips",
@@ -477,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.321Z"
+    "imported_at": "2026-11-08T15:22:31.935Z"
   },
   {
     "id": "st-discogs-kevin-lewandowski-ca",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.321Z"
+    "imported_at": "2026-11-08T15:22:31.935Z"
   },
   {
     "id": "st-costco-members-can-get-5-off",
@@ -509,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.321Z"
+    "imported_at": "2026-11-08T15:22:31.935Z"
   },
   {
     "id": "st-ai-broke-the-cybersecurity-w",
@@ -525,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.321Z"
+    "imported_at": "2026-11-08T15:22:31.935Z"
   },
   {
     "id": "st-a-message-from-president-gol",
@@ -541,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-when-use-of-artificial-intel",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -573,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:46.856Z"
+    "imported_at": "2026-11-08T15:22:31.452Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -637,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:46.856Z"
+    "imported_at": "2026-11-08T15:22:31.452Z"
   },
   {
     "id": "st-aha-launches-new-homepage-on",
@@ -653,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -669,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -685,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:47.255Z"
+    "imported_at": "2026-11-08T15:22:31.809Z"
   },
   {
     "id": "st-15-canadian-crypto-etfs-in-2",
@@ -701,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:46.856Z"
+    "imported_at": "2026-11-08T15:22:31.452Z"
   },
   {
     "id": "st-6-best-crypto-exchanges-of-n",
@@ -717,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:46.856Z"
+    "imported_at": "2026-11-08T15:22:31.452Z"
   },
   {
     "id": "st-5-best-performing-cryptocurr",
@@ -733,6 +749,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T06:18:46.856Z"
+    "imported_at": "2026-11-08T15:22:31.452Z"
   }
 ]

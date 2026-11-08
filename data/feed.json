@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T06:18:47.404Z",
+  "generated_at": "2026-11-08T15:22:31.997Z",
   "mix": {
     "familiar": 6,
-    "discovery": 40
+    "discovery": 41
   },
   "items": [
     {
@@ -69,6 +69,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-these-finland-homes-get-free",
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-binance-users-in-some-europe",
       "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
       "category": "Markets and business",
@@ -105,11 +114,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-u-s-added-165-000-jobs-in-oc",
-      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8.5,
+      "id": "st-ninja-s-autobarista-is-impre",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -144,15 +153,6 @@
       "id": "st-from-the-front-row-to-the-ho",
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
       "category": "Markets and business",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crusoe-sells-troubled-wyomin",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-binance-france-emails-announ",
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ex-fbi-counterintelligence-a",
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
       "category": "Markets and business",
@@ -258,11 +267,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-gnosis-pay-breach-exposes-ca",
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-chatbots-might-be-coming-to",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
