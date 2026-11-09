@@ -1,25 +1,61 @@
 {
-  "generated_at": "2026-11-09T06:52:02.444Z",
+  "generated_at": "2026-11-09T18:55:25.348Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 39
+    "familiar": 8,
+    "discovery": 40
   },
   "items": [
     {
-      "id": "st-two-rival-ethereum-proposals",
-      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-      "category": "Markets and business",
+      "id": "st-north-korean-hackers-are-cre",
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-solana-set-for-its-first-tok",
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-u-s-treasury-moves-to-cut-of",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "id": "st-trump-says-he-knows-nothing",
+      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-anthropic-joins-ai-s-natural",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-pnc-bank-tests-turning-usdc",
+      "title": "PNC Bank tests turning USDC payments into dollar deposits",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-analysts-see-no-broader-cont",
+      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -33,9 +69,9 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-vitalik-pivots-eth-to-store",
-      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-      "category": "Markets and business",
+      "id": "st-strategy-buys-1-036-bitcoin",
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -51,17 +87,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-elvis-and-eminem-rights-hold",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "category": "Regulation and policy",
+      "id": "st-a-bitcoin-block-just-neared",
+      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-s-ai-chip-push-adds-m",
+      "title": "Google’s AI chip push adds more pressure on Nvidia",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-s-bitcoin-mining-poo",
-      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "id": "st-nyse-picks-avalanche-to-sett",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -69,8 +114,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-drops-then-pops-as-n",
-      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "id": "st-bitcoin-bulls-can-t-rely-on",
+      "title": "Bitcoin bulls can't rely on ETF flows",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -78,8 +123,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-the-election-results-me",
-      "title": "What the election results mean for crypto: State of Crypto",
+      "id": "st-nvidia-led-tech-selloff-weig",
+      "title": "Nvidia-led tech selloff weighs on crypto majors",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -87,35 +132,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-stablecoin-growth-has-stalle",
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-these-finland-homes-get-free",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-users-in-some-europe",
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-if-snap-s-specs-are-still-ri",
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "id": "st-jensen-huang-s-affair-with-a",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 8,
@@ -123,18 +141,45 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-coordinated-disturbances-hau",
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "category": "Research and development",
+      "id": "st-meta-releases-muse-ember-a-n",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uber-launches-parking-servic",
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-medium-s-new-tk-app-brings-a",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-he-arrested-a-hacker-then-sp",
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "category": "Security and privacy",
+      "id": "st-meta-expands-instagram-s-ai",
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meet-drops-the-new-music-app",
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 8,
       "familiar": false,
@@ -204,17 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-zcash-devs-propose-another-b",
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tbtc-bridge-partially-resume",
-      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "id": "st-mercado-bitcoin-begins-post",
+      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
@@ -222,8 +258,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binance-france-emails-announ",
-      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "id": "st-avalanche-s-avax-leads-crypt",
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -231,8 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ex-fbi-counterintelligence-a",
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "id": "st-bitcoin-tech-stocks-brush-of",
+      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,8 +276,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-the-full-text-of-jens",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "id": "st-the-2-85b-binance-hackers-lo",
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-you-can-grab-three-months-of",
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-instagram-s-effect-builder-m",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -249,8 +303,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-epic-games-launcher-is-comin",
-      "title": "Epic Games Launcher is coming to SteamOS",
+      "id": "st-the-future-of-ai-hinges-on-j",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sony-s-new-playstation-porta",
+      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uber-wants-to-park-your-car",
+      "title": "Uber wants to park your car now, too",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -258,8 +330,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-is-racing-to-make-siri",
-      "title": "Apple is racing to make Siri more agentic",
+      "id": "st-trump-s-60-minutes-interview",
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -267,8 +339,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-chatbots-might-be-coming-to",
-      "title": "Chatbots might be coming to Apple’s HomeView",
+      "id": "st-disney-and-adobe-are-buildin",
+      "title": "Disney and Adobe are building generative AI tools together",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -276,10 +348,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-m5-macbook-air-is-do",
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cryptocurrency-etfs-how-do-t",
+      "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -348,55 +429,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-aha-launches-new-homepage-on",
-      "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-in-e",
-      "title": "Artificial Intelligence in Earth Science Data Systems",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cryptocurrency-in-minnesota",
-      "title": "Cryptocurrency in Minnesota U.S. Congress",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-pennsylvania-enacts-artifici",
       "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-15-canadian-crypto-etfs-in-2",
-      "title": "15 Canadian Crypto ETFs in 2026",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-6-best-crypto-exchanges-of-n",
-      "title": "6 Best Crypto Exchanges of November 2026",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

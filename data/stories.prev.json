@@ -13,7 +13,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-08T20:36:39.055Z"
+    "imported_at": "2026-11-09T06:52:01.906Z"
+  },
+  {
+    "id": "st-two-rival-ethereum-proposals",
+    "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-09T05:16:54.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "type": "News",
+    "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-09T06:52:01.348Z"
+  },
+  {
+    "id": "st-binance-s-bitcoin-mining-poo",
+    "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-09T04:54:39.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "type": "News",
+    "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-09T06:52:01.349Z"
+  },
+  {
+    "id": "st-bitcoin-drops-then-pops-as-n",
+    "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-09T03:21:49.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "type": "News",
+    "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-09T06:52:01.349Z"
   },
   {
     "id": "st-what-the-election-results-me",
@@ -29,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.286Z"
+    "imported_at": "2026-11-09T06:52:01.349Z"
   },
   {
     "id": "st-stablecoin-growth-has-stalle",
@@ -45,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.286Z"
+    "imported_at": "2026-11-09T06:52:01.349Z"
   },
   {
     "id": "st-these-finland-homes-get-free",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.286Z"
+    "imported_at": "2026-11-09T06:52:01.349Z"
   },
   {
     "id": "st-binance-users-in-some-europe",
@@ -77,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.287Z"
+    "imported_at": "2026-11-09T06:52:01.349Z"
   },
   {
     "id": "st-u-s-treasury-moves-to-cut-of",
@@ -93,55 +141,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.287Z"
+    "imported_at": "2026-11-09T06:52:01.349Z"
   },
   {
-    "id": "st-gnosis-pay-breach-exposes-ca",
-    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-07T16:51:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+    "id": "st-if-snap-s-specs-are-still-ri",
+    "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-08T21:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
     "type": "News",
-    "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.287Z"
-  },
-  {
-    "id": "st-apple-meta-reject-okx-ice-to",
-    "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T20:09:18.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-    "type": "News",
-    "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+    "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
     "category": "Markets and business",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.287Z"
-  },
-  {
-    "id": "st-u-s-prediction-markets-regul",
-    "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-06T17:42:28.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-    "type": "News",
-    "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-08T20:36:38.287Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-09T06:52:01.558Z"
   },
   {
     "id": "st-coordinated-disturbances-hau",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.632Z"
+    "imported_at": "2026-11-09T06:52:01.558Z"
   },
   {
     "id": "st-he-arrested-a-hacker-then-sp",
@@ -173,39 +189,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.633Z"
-  },
-  {
-    "id": "st-techcrunch-mobility-the-cybe",
-    "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-08T17:02:00.000Z",
-    "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-    "type": "News",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.633Z"
-  },
-  {
-    "id": "st-ninja-s-autobarista-is-impre",
-    "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-08T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-    "type": "News",
-    "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.633Z"
+    "imported_at": "2026-11-09T06:52:01.558Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -221,7 +205,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-australian-universities-are",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-gpt-6-cyber-advancing-the-fr",
@@ -269,7 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-merge-builds-product-and-bus",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-setting-a-new-standard-for-r",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-flipsnack-grows-product-sign",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-08T20:36:38.551Z"
+    "imported_at": "2026-11-09T06:52:01.528Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -325,7 +309,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-08T13:33:00.000Z",
+    "published_at": "2026-11-09T05:44:53.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -333,7 +317,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T20:36:38.347Z"
+    "imported_at": "2026-11-09T06:52:01.402Z"
+  },
+  {
+    "id": "st-zcash-devs-propose-another-b",
+    "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-09T05:36:08.000Z",
+    "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-09T06:52:01.402Z"
+  },
+  {
+    "id": "st-tbtc-bridge-partially-resume",
+    "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-09T04:03:08.000Z",
+    "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-09T06:52:01.402Z"
+  },
+  {
+    "id": "st-vitalik-pivots-eth-to-store",
+    "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-08T22:59:06.000Z",
+    "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-09T06:52:01.402Z"
   },
   {
     "id": "st-binance-france-emails-announ",
@@ -349,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T20:36:38.347Z"
+    "imported_at": "2026-11-09T06:52:01.402Z"
   },
   {
     "id": "st-ex-fbi-counterintelligence-a",
@@ -365,55 +397,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-08T20:36:38.348Z"
+    "imported_at": "2026-11-09T06:52:01.402Z"
   },
   {
-    "id": "st-bitcoin-holders-have-receive",
-    "title": "Bitcoin holders have received eCash — What can you do with it?",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-07T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-here-s-the-full-text-of-jens",
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-08T22:54:50.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "type": "News",
-    "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ackn",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-08T20:36:38.348Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-09T06:52:02.314Z"
   },
   {
-    "id": "st-us-sanctions-canadian-money",
-    "title": "US sanctions Canadian money-exchange firms over Iran ties",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-07T11:10:47.000Z",
-    "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-epic-games-launcher-is-comin",
+    "title": "Epic Games Launcher is coming to SteamOS",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-08T20:52:05.000Z",
+    "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
     "type": "News",
-    "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-08T20:36:38.348Z"
-  },
-  {
-    "id": "st-suspicious-prediction-market",
-    "title": "Suspicious prediction market activity seen before election poll release: NYT",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-07T09:10:35.000Z",
-    "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
+    "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirm",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-08T20:36:38.348Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-09T06:52:02.314Z"
   },
   {
     "id": "st-apple-is-racing-to-make-siri",
@@ -429,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.522Z"
+    "imported_at": "2026-11-09T06:52:02.314Z"
   },
   {
     "id": "st-elvis-and-eminem-rights-hold",
@@ -445,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.522Z"
+    "imported_at": "2026-11-09T06:52:02.314Z"
   },
   {
     "id": "st-chatbots-might-be-coming-to",
@@ -461,23 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.522Z"
-  },
-  {
-    "id": "st-costco-members-can-get-5-off",
-    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-07T14:12:11.000Z",
-    "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-    "type": "News",
-    "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual ",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.522Z"
+    "imported_at": "2026-11-09T06:52:02.314Z"
   },
   {
     "id": "st-apple-s-m5-macbook-air-is-do",
@@ -493,23 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.522Z"
-  },
-  {
-    "id": "st-a-message-from-president-gol",
-    "title": "A message from President Gold on artificial intelligence",
-    "source": "University of Nebraska Medical Center",
-    "sourceId": "rss-university-of-nebraska-medical-center",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-06T10:09:22.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWhGa1pyTEpoeUlETEM5SmpfUzk4ZlNSSDdNNTJxemNVOXh4QV9fQmhWc1Y0dzBCcF9jaEJkWXdRekNraExkQ21kc1E2aTA3Q2VWU1NsOWQ0RjljMDZ5VS1LWEQ3dl9mRlM0ODBQT1prcDJURGVLRDc4Z1dmSHdRU0ZSZEd6Y1dJWW95OS1uWTZ4YWtwSGtta1hVT3FzTHc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWhGa1pyTEpoeUlETEM5SmpfUzk4ZlNSSDdNNTJxemNVOXh4QV9fQmhWc1Y0dzBCcF9jaEJkWXdRekNraExkQ21kc1E2aTA3Q2VWU1NsOWQ0RjljMDZ5VS1LWEQ3dl9mRlM0ODBQT1prcDJURGVLRDc4Z1dmSHdRU0ZSZEd6Y1dJWW95OS1uWTZ4YWtwSGtta1hVT3FzTHc?oc=5\" target=\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.314Z"
   },
   {
     "id": "st-frequently-asked-questions-a",
@@ -525,23 +509,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
-    "id": "st-when-use-of-artificial-intel",
-    "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
-    "source": "Employment Law Worldview",
-    "sourceId": "rss-employment-law-worldview",
+    "id": "st-responsible-use-of-artificia",
+    "title": "Responsible use of artificial intelligence",
+    "source": "Nature",
+    "sourceId": "rss-nature",
     "author": "Google News (AI)",
-    "published_at": "2026-11-05T17:37:53.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
+    "published_at": "2026-11-05T18:14:45.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5\" target=\"_blank\">Responsible use of artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -557,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.056Z"
+    "imported_at": "2026-11-09T06:52:01.906Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -573,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -589,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -605,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -621,23 +605,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.056Z"
+    "imported_at": "2026-11-09T06:52:01.906Z"
   },
   {
-    "id": "st-what-are-all-the-different-t",
-    "title": "What Are All the Different Types of Cryptocurrency?",
-    "source": "The Motley Fool",
-    "sourceId": "rss-the-motley-fool",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-03T18:23:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQWhzd3Z0OW1Ydno4dkZoMVE?oc=5",
+    "id": "st-aha-launches-new-homepage-on",
+    "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
+    "source": "American Hospital Association",
+    "sourceId": "rss-american-hospital-association",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-03T20:44:38.000Z",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2hOYm9TTEV0OHpMcnNrMVlqY0JmNldjdE5lS2RnRjJNbDlMUmJpUXRPZDRyaGtVVXJnT0hpazFvcGxMQXJadC1BQnphNU4wTlViWkJ2M2c3OVVxVm9hVi11dkZoMHZNSy1tSzZVRXdBUlNwNzR3NWZnZVYxVU9ZYmEwU082RlBxTmJ6eEQ1THdGSFUyLUk5UUg4Y2hLdENTYzd1cWJFbW1Pd1NGanFjdzJuU2Q?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQW",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2hOYm9TTEV0OHpMcnNrMVlqY0JmNldjdE5lS2RnRjJNbDlMUmJpUXRPZDRyaGtVVXJnT0hpazFvcGxMQXJadC1BQnphNU4wTlViWkJ2M2c3OVVxVm9hVi11dkZoMHZNSy1tSzZVRXdBUlNwNzR3NWZnZVYxVU9ZYmEwU082RlBxTmJ6eEQ1THdGSFUyLUk5UUg4Y2hLdENTYzd1cWJFbW1Pd1",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.056Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
+  },
+  {
+    "id": "st-artificial-intelligence-in-e",
+    "title": "Artificial Intelligence in Earth Science Data Systems",
+    "source": "NASA Earthdata (.gov)",
+    "sourceId": "rss-nasa-earthdata-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-03T18:03:34.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5\" target=\"_blank\">Artificial Intelligence in Earth Science Data Systems</a>&nbsp;&nbsp;<font color=\"#",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
     "id": "st-cryptocurrency-in-minnesota",
@@ -653,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.056Z"
+    "imported_at": "2026-11-09T06:52:01.906Z"
   },
   {
     "id": "st-pennsylvania-enacts-artifici",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.453Z"
+    "imported_at": "2026-11-09T06:52:02.273Z"
   },
   {
     "id": "st-15-canadian-crypto-etfs-in-2",
@@ -685,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.056Z"
+    "imported_at": "2026-11-09T06:52:01.906Z"
   },
   {
     "id": "st-6-best-crypto-exchanges-of-n",
@@ -701,6 +701,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-08T20:36:39.056Z"
+    "imported_at": "2026-11-09T06:52:01.906Z"
   }
 ]

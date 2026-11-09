@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-09
 
-6 stories briefed · feed mix 5 familiar / 39 discovery.
+6 stories briefed · feed mix 8 familiar / 40 discovery.
 
 ## Top stories
-1. **Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts** (Markets and business · CoinDesk) — A top crypto development today
-2. **Binance's bitcoin mining pool finds just one block in a week as shutdown nears** (Markets and business · CoinDesk) — A top crypto development today
-3. **If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be** (Markets and business · TechCrunch) — A top AI development today
-4. **Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.** (Research and development · TechCrunch) — A top AI development today
-5. **Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
-6. **Here’s what happened in crypto today** (Regulation and policy · Cointelegraph) — Outside your usual reads — worth a skim
+1. **A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees** (Markets and business · CoinDesk) — A top crypto development today
+2. **Uber launches parking service following SpotHero acquisition, with an eye on robotaxis** (Products and applications · TechCrunch) — A top crypto development today
+3. **Google’s AI chip push adds more pressure on Nvidia** (Products and applications · CoinDesk) — A top AI development today
+4. **Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny** (Markets and business · TechCrunch) — A top AI development today
+5. **Meta releases Muse Ember, a new lightweight model for agent execution** (Crypto and AI intersections · TechCrunch) — A major development affecting both AI and blockchain
+6. **North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility.
+- Discovery pick of the week: North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack.
 
 _News, not investment advice._
