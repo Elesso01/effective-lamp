@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-08T20:36:39.601Z",
+  "generated_at": "2026-11-09T06:52:02.444Z",
   "mix": {
-    "familiar": 4,
-    "discovery": 40
+    "familiar": 5,
+    "discovery": 39
   },
   "items": [
+    {
+      "id": "st-two-rival-ethereum-proposals",
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-u-s-treasury-moves-to-cut-of",
       "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
@@ -15,18 +24,18 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-u-s-prediction-markets-regul",
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
+      "id": "st-vitalik-pivots-eth-to-store",
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -49,6 +58,24 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-s-bitcoin-mining-poo",
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-drops-then-pops-as-n",
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-what-the-election-results-me",
@@ -87,20 +114,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-gnosis-pay-breach-exposes-ca",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-meta-reject-okx-ice-to",
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "id": "st-if-snap-s-specs-are-still-ri",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -117,24 +135,6 @@
       "id": "st-he-arrested-a-hacker-then-sp",
       "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
       "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-mobility-the-cybe",
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ninja-s-autobarista-is-impre",
-      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-      "category": "Products and applications",
       "bucket": "crypto",
       "score": 8,
       "familiar": false,
@@ -204,6 +204,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-zcash-devs-propose-another-b",
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-tbtc-bridge-partially-resume",
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-binance-france-emails-announ",
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
       "category": "Markets and business",
@@ -222,29 +240,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-holders-have-receive",
-      "title": "Bitcoin holders have received eCash — What can you do with it?",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-here-s-the-full-text-of-jens",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-sanctions-canadian-money",
-      "title": "US sanctions Canadian money-exchange firms over Iran ties",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-suspicious-prediction-market",
-      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "id": "st-epic-games-launcher-is-comin",
+      "title": "Epic Games Launcher is coming to SteamOS",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -267,26 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-costco-members-can-get-5-off",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-apple-s-m5-macbook-air-is-do",
       "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-message-from-president-gol",
-      "title": "A message from President Gold on artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,8 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-when-use-of-artificial-intel",
-      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
+      "id": "st-responsible-use-of-artificia",
+      "title": "Responsible use of artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -357,10 +348,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-are-all-the-different-t",
-      "title": "What Are All the Different Types of Cryptocurrency?",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-aha-launches-new-homepage-on",
+      "title": "AHA launches new homepage on artificial intelligence policy and advocacy",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
