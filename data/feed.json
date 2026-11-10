@@ -1,40 +1,22 @@
 {
-  "generated_at": "2026-11-10T02:47:56.564Z",
+  "generated_at": "2026-11-10T12:46:45.640Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 38
+    "familiar": 9,
+    "discovery": 37
   },
   "items": [
     {
-      "id": "st-north-korean-hackers-are-cre",
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-solana-set-for-its-first-tok",
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "category": "Regulation and policy",
+      "id": "st-an-11-year-old-ethereum-wall",
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-trump-says-he-knows-nothing",
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-youtube-streaming-data-retur",
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "id": "st-california-s-proposed-billio",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -51,27 +33,36 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-coinbase-kalshi-join-lawsuit",
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ex-employee-sues-ethereum-fo",
+      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-blackrock-bitcoin-etf-outflo",
+      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-formation-securities-plans-s",
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-pnc-bank-tests-turning-usdc",
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "category": "Markets and business",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -87,8 +78,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-securitize-pushes-into-6-tri",
-      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-6-billion-cryptocurrency-hei",
+      "title": "$6 billion cryptocurrency heist puts investors on edge",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-breaks-with-stocks-d",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,8 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-robinhood-backs-tokenization",
-      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "id": "st-bitcoin-lags-stock-rebound-i",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,8 +114,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-bitcoin-block-just-neared",
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "id": "st-bitcoin-slips-before-u-s-inf",
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-news-bitcoin-falls-back",
+      "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -114,20 +132,47 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-s-ai-chip-push-adds-m",
-      "title": "Google’s AI chip push adds more pressure on Nvidia",
+      "id": "st-the-crypto-wallet-that-grew",
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-coinbase-kalshi-kraken-paren",
+      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-helping-caregivers-use-ai-in",
+      "title": "Helping caregivers use AI in everyday life",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nyse-picks-avalanche-to-sett",
-      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-closing-the-ai-guidance-gap",
+      "title": "Closing the AI guidance gap in education",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-otter-ai-can-now-follow-conv",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -153,15 +198,6 @@
       "id": "st-a-short-seller-flagged-nvidi",
       "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
       "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jensen-huang-pulls-out-of-el",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -213,26 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-australian-universities-are",
-      "title": "Australian universities are creating AI-native graduates",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hive-mara-mine-more-bitcoin",
-      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-should-you-leave-australia-t",
-      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "id": "st-binance-warns-ios-flaw-could",
+      "title": "Binance warns iOS flaw could expose crypto wallet keys",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,27 +258,27 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-north-korean-hackers-create",
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-mercado-bitcoin-begins-post",
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-avalanche-s-avax-leads-crypt",
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "id": "st-bitcoin-price-eyes-74k-as-fe",
+      "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
       "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitgo-q3-profit-nearly-doubl",
+      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-securitize-agrees-to-buy-riv",
+      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "category": "Startups and companies",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -312,24 +330,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-50-intelligence-usag",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-launches-new-claud",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-three-essays-on-artificial-i",
       "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
       "category": "Products and applications",
@@ -339,10 +339,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-etfs-how-do-t",
-      "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-a-message-from-president-gol",
+      "title": "A message from President Gold on artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,10 +411,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-in-minnesota",
-      "title": "Cryptocurrency in Minnesota U.S. Congress",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

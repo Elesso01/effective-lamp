@@ -1,22 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:47:56.599Z",
-  "count": 2,
-  "alerts": [
-    {
-      "id": "st-north-korean-hackers-are-cre",
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-09T15:00:44.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack"
-    },
-    {
-      "id": "st-solana-set-for-its-first-tok",
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-09T12:41:35.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy"
-    }
-  ]
+  "generated_at": "2026-11-10T12:46:45.673Z",
+  "count": 0,
+  "alerts": []
 }
