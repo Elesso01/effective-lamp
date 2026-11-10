@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-10T12:46:45.640Z",
+  "generated_at": "2026-11-10T21:50:40.605Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 37
+    "familiar": 7,
+    "discovery": 43
   },
   "items": [
     {
-      "id": "st-an-11-year-old-ethereum-wall",
-      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-      "category": "Products and applications",
+      "id": "st-plume-affiliate-lands-broker",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-california-s-proposed-billio",
-      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "id": "st-x-energy-gets-green-light-to",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -33,8 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-coinbase-kalshi-join-lawsuit",
-      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "id": "st-can-crypto-trust-firms-compe",
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,26 +42,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ex-employee-sues-ethereum-fo",
-      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-blackrock-bitcoin-etf-outflo",
-      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-polymarket-us-trading-volume",
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -96,8 +78,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-breaks-with-stocks-d",
-      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "id": "st-warren-what-is-white-house-d",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-former-nyse-president-says-s",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,8 +96,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-lags-stock-rebound-i",
-      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "id": "st-goldman-sachs-citi-among-ban",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -114,44 +105,98 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-slips-before-u-s-inf",
-      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "id": "st-crypto-is-now-teamed-up-with",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-will-stablecoins-survive-onc",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-acquires-odessia-trav",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-anthropic-face-new-ov",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-proximal-ventures-raises-deb",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-all-7-anthropic-founders-wil",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-oura-to-acquire-ai-native-pr",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
-      "score": 8.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-news-bitcoin-falls-back",
-      "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-crypto-wallet-that-grew",
-      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "id": "st-psi-is-trying-to-make-a-busi",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-coinbase-kalshi-kraken-paren",
-      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-openai-rolls-out-new-busines",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-helping-caregivers-use-ai-in",
       "title": "Helping caregivers use AI in everyday life",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-introducing-businesses-in-ch",
+      "title": "Introducing Businesses in ChatGPT",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -168,35 +213,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-otter-ai-can-now-follow-conv",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-reportedly-plans-t",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hotel-giant-wyndham-exposed",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-short-seller-flagged-nvidi",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "id": "st-work-at-the-frontier-ai-s-ef",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
       "category": "Research and development",
       "bucket": "ai",
       "score": 8,
@@ -231,53 +249,44 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-partnering-with-hacktron-to",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "id": "st-across-protocol-warns-users",
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ava-labs-exec-says-nyse-deal",
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kimber-digital-securities-ga",
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-mercado-bitcoin-to-resume-ca",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-measuring-how-ai-agents-hand",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-warns-ios-flaw-could",
-      "title": "Binance warns iOS flaw could expose crypto wallet keys",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-price-eyes-74k-as-fe",
-      "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitgo-q3-profit-nearly-doubl",
-      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-securitize-agrees-to-buy-riv",
-      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "id": "st-hot-us-inflation-raises-odds",
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
       "category": "Startups and companies",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,8 +294,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-david-ellison-says-ai-could",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "id": "st-bitcoin-nears-11-week-low-af",
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-oura-is-acquiring-medical-ai",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -294,26 +312,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-what-could-china-get-from-je",
-      "title": "What could China get from Jensen Huang?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-everything-we-know-so-far-ab",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-msi-s-refurbished-qd-oled-ga",
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "id": "st-the-playstation-plus-pc-app",
+      "title": "The PlayStation Plus PC app is shutting down next month",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -321,10 +321,73 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-global-pledge-to-use-ai",
-      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "id": "st-google-s-pixel-tag-tracker-i",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-us-is-winning-the-ai-rac",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-starlink-mini-2-adds-a-swapp",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-is-making-pixel-hilig",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-one-of-our-favorite-multi-fi",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-current-artificial-intellige",
+      "title": "Current Artificial Intelligence Uses in LUGPA Urology Practices",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-australia-to-introduce-manda",
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -386,33 +449,6 @@
     {
       "id": "st-artificial-intelligence-in-a",
       "title": "Artificial intelligence in a Jesuit University: A student conversation",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-says-there-s-no-way-t",
-      "title": "Google says there’s no way to use Search without using artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amla-outlines-cryptocurrency",
-      "title": "AMLA Outlines Cryptocurrency Strategy",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-in-e",
-      "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

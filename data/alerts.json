@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-11-10T12:46:45.673Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-11-10T21:50:40.633Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-plume-affiliate-lands-broker",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-10T15:51:56.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain"
+    }
+  ]
 }

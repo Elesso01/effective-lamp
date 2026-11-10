@@ -13,135 +13,183 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-10T02:47:56.025Z"
+    "imported_at": "2026-11-10T12:46:45.065Z"
   },
   {
-    "id": "st-securitize-pushes-into-6-tri",
-    "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+    "id": "st-bitcoin-breaks-with-stocks-d",
+    "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-09T22:56:27.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+    "published_at": "2026-11-10T12:15:00.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
     "type": "News",
-    "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+    "summary": "Your day-ahead look for Nov. 10, 2026",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.227Z"
+    "imported_at": "2026-11-10T12:46:44.336Z"
   },
   {
-    "id": "st-robinhood-backs-tokenization",
-    "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+    "id": "st-bitcoin-lags-stock-rebound-i",
+    "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-09T19:36:15.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+    "published_at": "2026-11-10T11:24:10.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
     "type": "News",
-    "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+    "summary": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
+    "imported_at": "2026-11-10T12:46:44.336Z"
   },
   {
-    "id": "st-a-bitcoin-block-just-neared",
-    "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+    "id": "st-bitcoin-slips-before-u-s-inf",
+    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-09T16:19:45.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "published_at": "2026-11-10T10:48:37.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
     "type": "News",
-    "summary": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
+    "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-10T12:46:44.336Z"
+  },
+  {
+    "id": "st-live-news-bitcoin-falls-back",
+    "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-10T10:41:45.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "type": "News",
+    "summary": "Fed Governor Chris Waller suggested the U.S. central bank could opt to hike 50 basis points next month if inflation didn't behave.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
+    "imported_at": "2026-11-10T12:46:44.336Z"
   },
   {
-    "id": "st-google-s-ai-chip-push-adds-m",
-    "title": "Google’s AI chip push adds more pressure on Nvidia",
+    "id": "st-the-crypto-wallet-that-grew",
+    "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-09T15:20:05.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+    "published_at": "2026-11-10T09:59:17.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
     "type": "News",
-    "summary": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
+    "summary": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-10T12:46:44.336Z"
+  },
+  {
+    "id": "st-coinbase-kalshi-kraken-paren",
+    "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-10T09:14:30.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+    "type": "News",
+    "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-10T12:46:44.336Z"
+  },
+  {
+    "id": "st-an-11-year-old-ethereum-wall",
+    "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-10T07:01:06.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+    "type": "News",
+    "summary": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-10T12:46:44.336Z"
+  },
+  {
+    "id": "st-helping-caregivers-use-ai-in",
+    "title": "Helping caregivers use AI in everyday life",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-10T12:00:00.000Z",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "type": "News",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
-    "id": "st-north-korean-hackers-are-cre",
-    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-09T15:00:44.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "id": "st-closing-the-ai-guidance-gap",
+    "title": "Closing the AI guidance gap in education",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-10T09:00:00.000Z",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
     "type": "News",
-    "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-10T12:46:44.573Z"
+  },
+  {
+    "id": "st-otter-ai-can-now-follow-conv",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-10T07:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "type": "News",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-10T12:46:44.651Z"
+  },
+  {
+    "id": "st-california-s-proposed-billio",
+    "title": "California’s proposed ‘billionaire tax’ fails to pass",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-10T05:18:43.000Z",
+    "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "type": "News",
+    "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven ou",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
-  },
-  {
-    "id": "st-nyse-picks-avalanche-to-sett",
-    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-09T13:40:06.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-    "type": "News",
-    "summary": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
-  },
-  {
-    "id": "st-solana-set-for-its-first-tok",
-    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-09T12:41:35.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-    "type": "News",
-    "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
-  },
-  {
-    "id": "st-trump-says-he-knows-nothing",
-    "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-09T12:37:13.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-    "type": "News",
-    "summary": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-10T02:47:55.228Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-10T12:46:44.651Z"
   },
   {
     "id": "st-anthropic-reportedly-plans-t",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.663Z"
+    "imported_at": "2026-11-10T12:46:44.651Z"
   },
   {
     "id": "st-hotel-giant-wyndham-exposed",
@@ -173,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.664Z"
+    "imported_at": "2026-11-10T12:46:44.651Z"
   },
   {
     "id": "st-a-short-seller-flagged-nvidi",
@@ -189,39 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.664Z"
-  },
-  {
-    "id": "st-jensen-huang-pulls-out-of-el",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-09T20:09:06.000Z",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "type": "News",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.664Z"
-  },
-  {
-    "id": "st-youtube-streaming-data-retur",
-    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-09T19:39:41.000Z",
-    "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-    "type": "News",
-    "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.664Z"
+    "imported_at": "2026-11-10T12:46:44.651Z"
   },
   {
     "id": "st-chatgpt-enterprise-now-avail",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.543Z"
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
     "id": "st-control-room-a-central-syste",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.543Z"
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
     "id": "st-coderabbit-scales-agentic-so",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.544Z"
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
     "id": "st-kuken-industries-searches-70",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.544Z"
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
     "id": "st-partnering-with-hacktron-to",
@@ -301,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.544Z"
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
     "id": "st-measuring-how-ai-agents-hand",
@@ -317,39 +333,119 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.544Z"
+    "imported_at": "2026-11-10T12:46:44.573Z"
   },
   {
-    "id": "st-australian-universities-are",
-    "title": "Australian universities are creating AI-native graduates",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-05T17:00:00.000Z",
-    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "type": "News",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-10T02:47:55.544Z"
-  },
-  {
-    "id": "st-hive-mara-mine-more-bitcoin",
-    "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+    "id": "st-coinbase-kalshi-join-lawsuit",
+    "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-10T00:42:39.000Z",
-    "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-10T11:44:55.000Z",
+    "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
+    "summary": "Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
+    "imported_at": "2026-11-10T12:46:44.429Z"
+  },
+  {
+    "id": "st-binance-warns-ios-flaw-could",
+    "title": "Binance warns iOS flaw could expose crypto wallet keys",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-10T11:25:57.000Z",
+    "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The exchange urged iPhone users to remove apps installed from untrusted sources, and it is unclear whether Apple’s latest iOS updates fix the flaw.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-10T12:46:44.429Z"
+  },
+  {
+    "id": "st-ex-employee-sues-ethereum-fo",
+    "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-10T10:56:51.000Z",
+    "url": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Kayleen Fulton alleges she was fired less than two weeks after disclosing a cancer diagnosis and helping organize a staff letter challenging a requirement to endorse the foundation’s new mandate.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-10T12:46:44.429Z"
+  },
+  {
+    "id": "st-bitcoin-price-eyes-74k-as-fe",
+    "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-10T10:08:22.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-10T12:46:44.429Z"
+  },
+  {
+    "id": "st-bitgo-q3-profit-nearly-doubl",
+    "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-10T09:05:16.000Z",
+    "url": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BitGo’s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-10T12:46:44.429Z"
+  },
+  {
+    "id": "st-blackrock-bitcoin-etf-outflo",
+    "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-10T08:02:05.000Z",
+    "url": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-10T12:46:44.429Z"
+  },
+  {
+    "id": "st-securitize-agrees-to-buy-riv",
+    "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-10T07:49:14.000Z",
+    "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-10T12:46:44.429Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -357,7 +453,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-09T22:06:26.000Z",
+    "published_at": "2026-11-10T06:00:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -365,103 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
-  },
-  {
-    "id": "st-should-you-leave-australia-t",
-    "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-09T21:00:00.000Z",
-    "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
-  },
-  {
-    "id": "st-north-korean-hackers-create",
-    "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-09T20:26:34.000Z",
-    "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
-  },
-  {
-    "id": "st-formation-securities-plans-s",
-    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-09T19:52:34.000Z",
-    "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
-  },
-  {
-    "id": "st-mercado-bitcoin-begins-post",
-    "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-09T18:25:29.000Z",
-    "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
-  },
-  {
-    "id": "st-pnc-bank-tests-turning-usdc",
-    "title": "PNC Bank tests turning USDC payments into dollar deposits",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-09T17:48:35.000Z",
-    "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
-  },
-  {
-    "id": "st-avalanche-s-avax-leads-crypt",
-    "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-09T17:41:02.000Z",
-    "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-10T02:47:55.344Z"
+    "imported_at": "2026-11-10T12:46:44.430Z"
   },
   {
     "id": "st-david-ellison-says-ai-could",
@@ -477,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
+    "imported_at": "2026-11-10T12:46:45.557Z"
   },
   {
     "id": "st-what-could-china-get-from-je",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
+    "imported_at": "2026-11-10T12:46:45.557Z"
   },
   {
     "id": "st-everything-we-know-so-far-ab",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
+    "imported_at": "2026-11-10T12:46:45.557Z"
   },
   {
     "id": "st-msi-s-refurbished-qd-oled-ga",
@@ -525,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
+    "imported_at": "2026-11-10T12:46:45.557Z"
   },
   {
     "id": "st-the-global-pledge-to-use-ai",
@@ -541,39 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
-  },
-  {
-    "id": "st-apple-s-50-intelligence-usag",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-09T19:09:58.000Z",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "type": "News",
-    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant t",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
-  },
-  {
-    "id": "st-anthropic-launches-new-claud",
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-09T18:58:38.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-    "type": "News",
-    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than ",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.436Z"
+    "imported_at": "2026-11-10T12:46:45.557Z"
   },
   {
     "id": "st-three-essays-on-artificial-i",
@@ -589,23 +557,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.380Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   },
   {
-    "id": "st-cryptocurrency-etfs-how-do-t",
-    "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
+    "id": "st-a-message-from-president-gol",
+    "title": "A message from President Gold on artificial intelligence",
+    "source": "University of Nebraska Medical Center",
+    "sourceId": "rss-university-of-nebraska-medical-center",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-06T10:09:22.000Z",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWhGa1pyTEpoeUlETEM5SmpfUzk4ZlNSSDdNNTJxemNVOXh4QV9fQmhWc1Y0dzBCcF9jaEJkWXdRekNraExkQ21kc1E2aTA3Q2VWU1NsOWQ0RjljMDZ5VS1LWEQ3dl9mRlM0ODBQT1prcDJURGVLRDc4Z1dmSHdRU0ZSZEd6Y1dJWW95OS1uWTZ4YWtwSGtta1hVT3FzTHc?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWhGa1pyTEpoeUlETEM5SmpfUzk4ZlNSSDdNNTJxemNVOXh4QV9fQmhWc1Y0dzBCcF9jaEJkWXdRekNraExkQ21kc1E2aTA3Q2VWU1NsOWQ0RjljMDZ5VS1LWEQ3dl9mRlM0ODBQT1prcDJURGVLRDc4Z1dmSHdRU0ZSZEd6Y1dJWW95OS1uWTZ4YWtwSGtta1hVT3FzTHc?oc=5\" target=\"",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-10T12:46:45.448Z"
+  },
+  {
+    "id": "st-cryptocurrency-regulation-a",
+    "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
     "source": "Britannica",
     "sourceId": "rss-britannica",
     "author": "Google News (crypto)",
     "published_at": "2026-11-06T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB?oc=5\" target=\"_blank\">Cryptocurrency ETFs: How Do They Work & Should You Invest?<",
-    "category": "Markets and business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5\" target=\"_blank\">Cryptocurrency Regulation: A Guide to U.S. & Global Policies</a>",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.025Z"
+    "imported_at": "2026-11-10T12:46:45.065Z"
+  },
+  {
+    "id": "st-6-billion-cryptocurrency-hei",
+    "title": "$6 billion cryptocurrency heist puts investors on edge",
+    "source": "PBS",
+    "sourceId": "rss-pbs",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-06T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWGJnaEliY2V2cUZnckRuZ3hn?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWG",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-10T12:46:45.065Z"
   },
   {
     "id": "st-frequently-asked-questions-a",
@@ -621,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.380Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -637,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.380Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -653,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.025Z"
+    "imported_at": "2026-11-10T12:46:45.065Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -669,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.380Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   },
   {
     "id": "st-artificial-intelligence-in-a",
@@ -685,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.380Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   },
   {
     "id": "st-google-says-there-s-no-way-t",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.380Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   },
   {
     "id": "st-amla-outlines-cryptocurrency",
@@ -717,22 +717,22 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.025Z"
+    "imported_at": "2026-11-10T12:46:45.065Z"
   },
   {
-    "id": "st-cryptocurrency-in-minnesota",
-    "title": "Cryptocurrency in Minnesota U.S. Congress",
-    "source": "OpenSecrets",
-    "sourceId": "rss-opensecrets",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-03T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGo5YWlrdGI2Q0lPTnppRjBLMENNYnFyaXpzektEeXktYVZxUUM0WXdNYlhmeDdTcERvdGNSMWZTZzRoQW1QZVhlcmNCU3cwdUdUVS1udC1rTE1pcDFmeHVXMy1xdGJfY2xHS3J6TjFZaFRqNVltTXlLZTVKdXFDcl82eE1lTW5EZkNzMHdUSkF5X28yUW82ZGZuMTQ?oc=5",
+    "id": "st-artificial-intelligence-in-e",
+    "title": "Artificial Intelligence in Earth Science Data Systems",
+    "source": "NASA Earthdata (.gov)",
+    "sourceId": "rss-nasa-earthdata-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-03T18:03:34.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGo5YWlrdGI2Q0lPTnppRjBLMENNYnFyaXpzektEeXktYVZxUUM0WXdNYlhmeDdTcERvdGNSMWZTZzRoQW1QZVhlcmNCU3cwdUdUVS1udC1rTE1pcDFmeHVXMy1xdGJfY2xHS3J6TjFZaFRqNVltTXlLZTVKdXFDcl82eE1lTW5EZkNzMHdUSkF5X28yUW82ZGZuMTQ?oc=5\" target=\"_bla",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5\" target=\"_blank\">Artificial Intelligence in Earth Science Data Systems</a>&nbsp;&nbsp;<font color=\"#",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-10T02:47:56.025Z"
+    "imported_at": "2026-11-10T12:46:45.448Z"
   }
 ]
