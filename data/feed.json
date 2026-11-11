@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T21:50:40.605Z",
+  "generated_at": "2026-11-11T06:45:36.195Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 43
+    "familiar": 6,
+    "discovery": 44
   },
   "items": [
     {
@@ -24,17 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-chatgpt-enterprise-now-avail",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-can-crypto-trust-firms-compe",
-      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,8 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-polymarket-us-trading-volume",
-      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "id": "st-can-crypto-trust-firms-compe",
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -123,6 +114,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-gilbert-tobin-rethinks-the-b",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chatgpt-plus-for-veterans-an",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-x-launches-its-own-clipping",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-openai-acquires-odessia-trav",
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "category": "Startups and companies",
@@ -177,15 +195,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-rolls-out-new-busines",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-helping-caregivers-use-ai-in",
       "title": "Helping caregivers use AI in everyday life",
       "category": "Products and applications",
@@ -213,6 +222,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-singapore-airlines-elevates",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-work-at-the-frontier-ai-s-ef",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "category": "Research and development",
@@ -222,17 +240,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-control-room-a-central-syste",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-coderabbit-scales-agentic-so",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "id": "st-cogent-and-openai-build-cybe",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -240,44 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-kuken-industries-searches-70",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-across-protocol-warns-users",
-      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ava-labs-exec-says-nyse-deal",
-      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kimber-digital-securities-ga",
-      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-mercado-bitcoin-to-resume-ca",
-      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "id": "st-initia-confirms-second-explo",
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
@@ -285,20 +258,65 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hot-us-inflation-raises-odds",
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "category": "Startups and companies",
+      "id": "st-across-protocol-restores-web",
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-nears-11-week-low-af",
-      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "id": "st-crypto-ally-tom-emmer-electe",
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-lnbits-rushes-emergency-patc",
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cftc-warns-kalshi-of-imminen",
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-global-banks-commit-270m-to",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-microsoft-s-dlss-competitor",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-vr-disney-plus-app-on-me",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -343,33 +361,6 @@
       "title": "Starlink Mini 2 adds a swappable battery",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-is-making-pixel-hilig",
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-one-of-our-favorite-multi-fi",
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-current-artificial-intellige",
-      "title": "Current Artificial Intelligence Uses in LUGPA Urology Practices",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -422,6 +413,15 @@
     {
       "id": "st-responsible-use-of-artificia",
       "title": "Responsible use of artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-michigan-can-use-artificial",
+      "title": "Michigan can use artificial intelligence to improve lives",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

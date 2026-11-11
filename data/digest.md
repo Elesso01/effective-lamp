@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-11-10
+# Weekly digest — week of 2026-11-11
 
-6 stories briefed · feed mix 7 familiar / 43 discovery.
+6 stories briefed · feed mix 6 familiar / 44 discovery.
 
 ## Top stories
-1. **Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform** (Markets and business · CoinDesk) — A top crypto development today
-2. **Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture** (Markets and business · CoinDesk) — A top crypto development today
-3. **Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?** (Markets and business · CoinDesk) — A top AI development today
-4. **OpenAI acquires Odessia, travel startup created by Sonder founder** (Startups and companies · TechCrunch) — A top AI development today
+1. **Here’s what happened in crypto today** (Regulation and policy · Cointelegraph) — A top crypto development today
+2. **Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack** (Security and privacy · Cointelegraph) — A top crypto development today
+3. **Gilbert + Tobin rethinks the business of law with AI** (Products and applications · OpenAI Blog) — A top AI development today
+4. **ChatGPT Plus for veterans and servicemembers** (Products and applications · OpenAI Blog) — A top AI development today
 5. **Oura to acquire AI-native primary care startup Counsel Health for $625M** (Crypto and AI intersections · TechCrunch) — A major development affecting both AI and blockchain
-6. **OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
+6. **Across Protocol restores website after hackers hijack domain** (Security and privacy · Cointelegraph) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect.
+- Discovery pick of the week: Across Protocol restores website after hackers hijack domain.
 
 _News, not investment advice._
