@@ -13,7 +13,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-11T16:19:13.271Z"
+    "imported_at": "2026-11-11T22:49:48.364Z"
   },
   {
     "id": "st-crypto-long-short-the-genius",
@@ -29,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.587Z"
+    "imported_at": "2026-11-11T22:49:47.632Z"
   },
   {
     "id": "st-okxice-to-debut-tokenized-st",
@@ -45,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.588Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-meet-spiko-the-largest-token",
@@ -61,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.588Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-live-news-bitcoin-remains-un",
@@ -77,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.588Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-bitcoin-barely-flinches-at-h",
@@ -93,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.589Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-bitcoin-sits-out-stock-rebou",
@@ -109,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.589Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-kraken-s-xstocks-adds-200-uk",
@@ -125,7 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.589Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-bitcoin-stuck-under-74-000-a",
@@ -141,7 +141,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-11T16:19:12.589Z"
+    "imported_at": "2026-11-11T22:49:47.633Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -157,7 +157,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
+  },
+  {
+    "id": "st-why-the-data-center-you-drea",
+    "title": "Why the data center you dread might never even be built",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T20:15:15.000Z",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "type": "News",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may ne",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-11T22:49:47.954Z"
+  },
+  {
+    "id": "st-coreweave-turns-to-customer",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T19:54:00.000Z",
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "type": "News",
+    "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-11T22:49:47.954Z"
+  },
+  {
+    "id": "st-with-720m-round-britain-s-fr",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T19:34:55.000Z",
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "type": "News",
+    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-11T22:49:47.955Z"
   },
   {
     "id": "st-openai-s-quarterly-revenue-r",
@@ -168,44 +216,12 @@
     "published_at": "2026-11-11T16:14:44.000Z",
     "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
     "type": "News",
-    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.810Z"
-  },
-  {
-    "id": "st-databricks-new-ai-agent-tell",
-    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-11T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "type": "News",
-    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.810Z"
-  },
-  {
-    "id": "st-plurai-wants-to-help-ai-agen",
-    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-11T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "type": "News",
-    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.810Z"
+    "imported_at": "2026-11-11T22:49:47.955Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -221,39 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
-    "id": "st-x-launches-its-own-clipping",
-    "title": "X launches its own clipping feature to spur influencer engagement",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-11T01:02:13.000Z",
-    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+    "id": "st-jiostar-s-chief-architect-on",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-11T00:00:00.000Z",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
     "type": "News",
-    "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.810Z"
-  },
-  {
-    "id": "st-openai-acquires-odessia-trav",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T21:08:52.000Z",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "type": "News",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "category": "Startups and companies",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.810Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
     "id": "st-helping-caregivers-use-ai-in",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
     "id": "st-introducing-businesses-in-ch",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
     "id": "st-closing-the-ai-guidance-gap",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
     "id": "st-singapore-airlines-elevates",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
     "id": "st-work-at-the-frontier-ai-s-ef",
@@ -333,23 +333,103 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "imported_at": "2026-11-11T22:49:47.897Z"
   },
   {
-    "id": "st-cogent-and-openai-build-cybe",
-    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-10T00:00:00.000Z",
-    "url": "https://openai.com/index/cogent-security",
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T22:15:26.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T16:19:12.775Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-11T22:49:47.717Z"
+  },
+  {
+    "id": "st-uncalled-us-house-races-coul",
+    "title": "Uncalled US House races could send more crypto allies to Congress",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T22:05:17.000Z",
+    "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-11T22:49:47.717Z"
+  },
+  {
+    "id": "st-nomura-explores-sale-of-cryp",
+    "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T21:36:01.000Z",
+    "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-11T22:49:47.718Z"
+  },
+  {
+    "id": "st-us-data-center-restrictions",
+    "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T20:43:19.000Z",
+    "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-11-11T22:49:47.718Z"
+  },
+  {
+    "id": "st-okxice-moves-ahead-with-toke",
+    "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T18:30:43.000Z",
+    "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-11T22:49:47.718Z"
+  },
+  {
+    "id": "st-bitcoin-hovers-near-74k-as-s",
+    "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T16:26:00.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-11T22:49:47.718Z"
   },
   {
     "id": "st-deutsche-bank-launches-crypt",
@@ -365,103 +445,87 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.636Z"
+    "imported_at": "2026-11-11T22:49:47.718Z"
   },
   {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T13:38:15.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-hands-on-with-home-assistant",
+    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T22:05:08.000Z",
+    "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
     "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
+    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.636Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.954Z"
   },
   {
-    "id": "st-paraguay-bank-collapse-shows",
-    "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-united-won-t-let-your-ai-age",
+    "title": "United won’t let your AI agent book your flight",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T21:54:21.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
     "type": "News",
-    "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.636Z"
-  },
-  {
-    "id": "st-bitcoin-covenants-part-5-mat",
-    "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T13:26:18.000Z",
-    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.636Z"
-  },
-  {
-    "id": "st-coreweave-stock-jumps-15-pre",
-    "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T13:02:30.000Z",
-    "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion.",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from ot",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.636Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.954Z"
   },
   {
-    "id": "st-fsb-urgest-turkey-to-tighten",
-    "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T12:44:10.000Z",
-    "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-loot-boxes-influencers-and-a",
+    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T18:13:52.000Z",
+    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
     "type": "News",
-    "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
+    "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.954Z"
+  },
+  {
+    "id": "st-saint-vincent-college-approv",
+    "title": "Saint Vincent College approves new artificial intelligence minor",
+    "source": "Saint Vincent College",
+    "sourceId": "rss-saint-vincent-college",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-11T17:24:05.000Z",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYVlp?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYV",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.754Z"
+  },
+  {
+    "id": "st-toyota-s-scion-is-back-start",
+    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T17:09:58.000Z",
+    "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+    "type": "News",
+    "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. K",
     "category": "Regulation and policy",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.636Z"
-  },
-  {
-    "id": "st-barclays-boosts-blackrock-bi",
-    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T11:56:23.000Z",
-    "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T16:19:12.637Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.954Z"
   },
   {
     "id": "st-the-best-early-black-friday",
@@ -477,39 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
-  },
-  {
-    "id": "st-sony-s-latest-pulse-wireless",
-    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-11T14:46:05.000Z",
-    "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-    "type": "News",
-    "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth co",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
-  },
-  {
-    "id": "st-google-s-alphagenome-2-zooms",
-    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-11T14:18:08.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "type": "News",
-    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
+    "imported_at": "2026-11-11T22:49:48.954Z"
   },
   {
     "id": "st-google-s-tabletop-ai-experim",
@@ -525,23 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
-  },
-  {
-    "id": "st-adobe-s-ai-experiments-let-y",
-    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-11T12:56:24.000Z",
-    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-    "type": "News",
-    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
+    "imported_at": "2026-11-11T22:49:48.954Z"
   },
   {
     "id": "st-ocarina-of-time-is-even-bett",
@@ -557,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
+    "imported_at": "2026-11-11T22:49:48.954Z"
   },
   {
     "id": "st-sharge-s-eye-catching-macboo",
@@ -573,7 +589,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.805Z"
+    "imported_at": "2026-11-11T22:49:48.954Z"
+  },
+  {
+    "id": "st-faculty-member-addresses-art",
+    "title": "Faculty member addresses artificial intelligence practically and theoretically",
+    "source": "The Pennsylvania State University",
+    "sourceId": "rss-the-pennsylvania-state-university",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-10T17:46:03.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUG",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.754Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -589,7 +621,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.754Z"
+  },
+  {
+    "id": "st-current-artificial-intellige",
+    "title": "Current Artificial Intelligence Uses in LUGPA Urology Practices",
+    "source": "Renal and Urology News",
+    "sourceId": "rss-renal-and-urology-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-10T05:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVdmYTJScmx1ODVLUHJVVDRQOE5GWENwSUZFRHhLRUF5dTVRT2Z0cS01Vm1oV2o2NTRDalZmUlVnYVA2MTdYX0h1TjZ1VnVJUHJVakZLTkduUDF6LVhEUzkxekVkQkpnekMxVGN3Zl9kMWg0M3A3V0cwYlFYdVZQWlBGMXBrOVFINkJVNS1GNmRPRUh3TmFtRUZ3NkVnUFNvbXBRX3c4bXBJQUZlWVdvYzNUU3JlWHU0?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVdmYTJScmx1ODVLUHJVVDRQOE5GWENwSUZFRHhLRUF5dTVRT2Z0cS01Vm1oV2o2NTRDalZmUlVnYVA2MTdYX0h1TjZ1VnVJUHJVakZLTkduUDF6LVhEUzkxekVkQkpnekMxVGN3Zl9kMWg0M3A3V0cwYlFYdVZQWlBGMXBrOVFINkJVNS1GNmRPRUh3TmFtRUZ3NkVnUFNvbXBRX3c4bXBJQU",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T22:49:48.754Z"
   },
   {
     "id": "st-australia-to-introduce-manda",
@@ -605,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.754Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -621,39 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.271Z"
-  },
-  {
-    "id": "st-three-essays-on-artificial-i",
-    "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
-    "source": "RAND",
-    "sourceId": "rss-rand",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-09T13:58:52.000Z",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5\" target=\"_blank\">Three Essays on Artificial Intelligence and Work in the U.S.<",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
-  },
-  {
-    "id": "st-a-message-from-president-gol",
-    "title": "A message from President Gold on artificial intelligence",
-    "source": "University of Nebraska Medical Center",
-    "sourceId": "rss-university-of-nebraska-medical-center",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-06T10:09:22.000Z",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWhGa1pyTEpoeUlETEM5SmpfUzk4ZlNSSDdNNTJxemNVOXh4QV9fQmhWc1Y0dzBCcF9jaEJkWXdRekNraExkQ21kc1E2aTA3Q2VWU1NsOWQ0RjljMDZ5VS1LWEQ3dl9mRlM0ODBQT1prcDJURGVLRDc4Z1dmSHdRU0ZSZEd6Y1dJWW95OS1uWTZ4YWtwSGtta1hVT3FzTHc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWhGa1pyTEpoeUlETEM5SmpfUzk4ZlNSSDdNNTJxemNVOXh4QV9fQmhWc1Y0dzBCcF9jaEJkWXdRekNraExkQ21kc1E2aTA3Q2VWU1NsOWQ0RjljMDZ5VS1LWEQ3dl9mRlM0ODBQT1prcDJURGVLRDc4Z1dmSHdRU0ZSZEd6Y1dJWW95OS1uWTZ4YWtwSGtta1hVT3FzTHc?oc=5\" target=\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.364Z"
   },
   {
     "id": "st-cryptocurrency-regulation-a",
@@ -669,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.271Z"
+    "imported_at": "2026-11-11T22:49:48.364Z"
   },
   {
     "id": "st-6-billion-cryptocurrency-hei",
@@ -685,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.271Z"
+    "imported_at": "2026-11-11T22:49:48.364Z"
   },
   {
     "id": "st-frequently-asked-questions-a",
@@ -701,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.754Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -717,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.754Z"
   },
   {
     "id": "st-michigan-can-use-artificial",
@@ -733,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.754Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -749,22 +765,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.271Z"
-  },
-  {
-    "id": "st-little-friends-artificial-in",
-    "title": "Little Friends: Artificial Intelligence and Human Services… a Lot To Think About!",
-    "source": "Positively Naperville",
-    "sourceId": "rss-positively-naperville",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-04T18:13:52.000Z",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXFsQ2t6aW1VX0ZEUDFmdkxmMFZEMHhYMzBDNVR1ZnY3WWwtUG5SZXM1LTVuUlU5bkp2c3RqamdpQzdUeGFXY1NjNlNqdmR1WVFiTTh4eFhIVGZsNWY4TWQ0RXdKS3VvT1dsMFFiUnIxbUZvRXZvZzR2QWVLMXhsWFVnWHF1bVBVc0ZLb1FNVUVNWGF6dlZlZ3ZxSUxuWDdKVHJhdExsYXR0aVdnM1BXYnNOaGZZbFhuclpKeEt1cGgwUXIxWlVYZ0N0TzVWZw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXFsQ2t6aW1VX0ZEUDFmdkxmMFZEMHhYMzBDNVR1ZnY3WWwtUG5SZXM1LTVuUlU5bkp2c3RqamdpQzdUeGFXY1NjNlNqdmR1WVFiTTh4eFhIVGZsNWY4TWQ0RXdKS3VvT1dsMFFiUnIxbUZvRXZvZzR2QWVLMXhsWFVnWHF1bVBVc0ZLb1FNVUVNWGF6dlZlZ3ZxSUxuWDdKVHJhdExsYXR0aV",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T16:19:13.741Z"
+    "imported_at": "2026-11-11T22:49:48.364Z"
   }
 ]

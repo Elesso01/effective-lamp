@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T16:19:13.892Z",
+  "generated_at": "2026-11-11T22:49:49.039Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 40
+    "familiar": 10,
+    "discovery": 38
   },
   "items": [
     {
@@ -20,6 +20,15 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-why-the-data-center-you-drea",
+      "title": "Why the data center you dread might never even be built",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,17 +51,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-coreweave-stock-jumps-15-pre",
-      "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-fsb-urgest-turkey-to-tighten",
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+      "id": "st-okxice-moves-ahead-with-toke",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -67,6 +67,24 @@
       "score": 9,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-united-won-t-let-your-ai-age",
+      "title": "United won’t let your AI agent book your flight",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-toyota-s-scion-is-back-start",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-cryptocurrency-regulation-a",
@@ -150,17 +168,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-databricks-new-ai-agent-tell",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "category": "Products and applications",
+      "id": "st-coreweave-turns-to-customer",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-plurai-wants-to-help-ai-agen",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "id": "st-with-720m-round-britain-s-fr",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -177,18 +195,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-x-launches-its-own-clipping",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-acquires-odessia-trav",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "category": "Startups and companies",
+      "id": "st-jiostar-s-chief-architect-on",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -240,11 +249,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cogent-and-openai-build-cybe",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "id": "st-uncalled-us-house-races-coul",
+      "title": "Uncalled US House races could send more crypto allies to Congress",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nomura-explores-sale-of-cryp",
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-data-center-restrictions",
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-hovers-near-74k-as-s",
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,29 +294,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-paraguay-bank-collapse-shows",
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "category": "Markets and business",
+      "id": "st-hands-on-with-home-assistant",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-covenants-part-5-mat",
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "category": "Markets and business",
+      "id": "st-loot-boxes-influencers-and-a",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-barclays-boosts-blackrock-bi",
-      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-saint-vincent-college-approv",
+      "title": "Saint Vincent College approves new artificial intelligence minor",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -294,35 +330,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sony-s-latest-pulse-wireless",
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-s-alphagenome-2-zooms",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-google-s-tabletop-ai-experim",
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-adobe-s-ai-experiments-let-y",
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -348,8 +357,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-faculty-member-addresses-art",
+      "title": "Faculty member addresses artificial intelligence practically and theoretically",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-artificial-intelligence-is-d",
       "title": "Artificial intelligence is desperately seeking its narrative",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-current-artificial-intellige",
+      "title": "Current Artificial Intelligence Uses in LUGPA Urology Practices",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -370,24 +397,6 @@
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-three-essays-on-artificial-i",
-      "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-a-message-from-president-gol",
-      "title": "A message from President Gold on artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -424,15 +433,6 @@
       "title": "‘I put £5,000 into cryptocurrency. Here’s why I regret it’",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-little-friends-artificial-in",
-      "title": "Little Friends: Artificial Intelligence and Human Services… a Lot To Think About!",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
