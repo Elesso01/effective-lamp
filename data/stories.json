@@ -13,103 +13,135 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-11T06:45:35.611Z"
+    "imported_at": "2026-11-11T16:19:13.271Z"
   },
   {
-    "id": "st-warren-what-is-white-house-d",
-    "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+    "id": "st-crypto-long-short-the-genius",
+    "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-10T20:36:33.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+    "published_at": "2026-11-11T16:00:45.000Z",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
     "type": "News",
-    "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T06:45:34.843Z"
-  },
-  {
-    "id": "st-former-nyse-president-says-s",
-    "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-10T20:15:08.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-    "type": "News",
-    "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
+    "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or ",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T06:45:34.844Z"
+    "imported_at": "2026-11-11T16:19:12.587Z"
   },
   {
-    "id": "st-goldman-sachs-citi-among-ban",
-    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+    "id": "st-okxice-to-debut-tokenized-st",
+    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-10T17:32:22.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "published_at": "2026-11-11T13:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
     "type": "News",
-    "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
+    "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T06:45:34.844Z"
+    "imported_at": "2026-11-11T16:19:12.588Z"
   },
   {
-    "id": "st-crypto-is-now-teamed-up-with",
-    "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+    "id": "st-meet-spiko-the-largest-token",
+    "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-10T17:07:22.000Z",
-    "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+    "published_at": "2026-11-11T12:57:36.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
     "type": "News",
-    "summary": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T06:45:34.844Z"
-  },
-  {
-    "id": "st-plume-affiliate-lands-broker",
-    "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-10T15:51:56.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-    "type": "News",
-    "summary": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-custodial wallets and stablecoin applications in the U.S.",
+    "summary": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T06:45:34.844Z"
+    "imported_at": "2026-11-11T16:19:12.588Z"
   },
   {
-    "id": "st-will-stablecoins-survive-onc",
-    "title": "Will stablecoins survive once the banks catch up?",
+    "id": "st-live-news-bitcoin-remains-un",
+    "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-10T14:00:00.000Z",
-    "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+    "published_at": "2026-11-11T12:21:24.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
     "type": "News",
-    "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.",
+    "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-11T16:19:12.588Z"
+  },
+  {
+    "id": "st-bitcoin-barely-flinches-at-h",
+    "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-11T12:19:30.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+    "type": "News",
+    "summary": "Your day-ahead look for Nov. 11, 2026",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T06:45:34.844Z"
+    "imported_at": "2026-11-11T16:19:12.589Z"
+  },
+  {
+    "id": "st-bitcoin-sits-out-stock-rebou",
+    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-11T11:37:04.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "type": "News",
+    "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-11T16:19:12.589Z"
+  },
+  {
+    "id": "st-kraken-s-xstocks-adds-200-uk",
+    "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-11T10:51:34.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+    "type": "News",
+    "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-11T16:19:12.589Z"
+  },
+  {
+    "id": "st-bitcoin-stuck-under-74-000-a",
+    "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-11T10:45:49.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+    "type": "News",
+    "summary": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-11T16:19:12.589Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -125,7 +157,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.150Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
+  },
+  {
+    "id": "st-openai-s-quarterly-revenue-r",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T16:14:44.000Z",
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "type": "News",
+    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-11T16:19:12.810Z"
+  },
+  {
+    "id": "st-databricks-new-ai-agent-tell",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "type": "News",
+    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-11T16:19:12.810Z"
+  },
+  {
+    "id": "st-plurai-wants-to-help-ai-agen",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "type": "News",
+    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-11T16:19:12.810Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -141,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
   },
   {
     "id": "st-x-launches-its-own-clipping",
@@ -157,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
+    "imported_at": "2026-11-11T16:19:12.810Z"
   },
   {
     "id": "st-openai-acquires-odessia-trav",
@@ -173,103 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
-  },
-  {
-    "id": "st-openai-anthropic-face-new-ov",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T20:52:13.000Z",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "type": "News",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
-  },
-  {
-    "id": "st-proximal-ventures-raises-deb",
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T20:47:05.000Z",
-    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-    "type": "News",
-    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
-  },
-  {
-    "id": "st-x-energy-gets-green-light-to",
-    "title": "X-energy gets green light to build its first small modular nuclear reactors",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T20:43:55.000Z",
-    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-    "type": "News",
-    "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
-  },
-  {
-    "id": "st-all-7-anthropic-founders-wil",
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T19:57:52.000Z",
-    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "type": "News",
-    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
-  },
-  {
-    "id": "st-oura-to-acquire-ai-native-pr",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T19:23:34.000Z",
-    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-    "type": "News",
-    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
-  },
-  {
-    "id": "st-psi-is-trying-to-make-a-busi",
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-10T19:03:52.000Z",
-    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-    "type": "News",
-    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.240Z"
+    "imported_at": "2026-11-11T16:19:12.810Z"
   },
   {
     "id": "st-helping-caregivers-use-ai-in",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
   },
   {
     "id": "st-introducing-businesses-in-ch",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
   },
   {
     "id": "st-closing-the-ai-guidance-gap",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
   },
   {
     "id": "st-singapore-airlines-elevates",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
   },
   {
     "id": "st-work-at-the-frontier-ai-s-ef",
@@ -349,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
   },
   {
     "id": "st-cogent-and-openai-build-cybe",
@@ -365,7 +349,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T06:45:35.151Z"
+    "imported_at": "2026-11-11T16:19:12.775Z"
+  },
+  {
+    "id": "st-deutsche-bank-launches-crypt",
+    "title": "Deutsche Bank launches crypto custody for companies and institutions",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T14:02:18.000Z",
+    "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-11T16:19:12.636Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -373,7 +373,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-11T06:00:00.000Z",
+    "published_at": "2026-11-11T13:38:15.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -381,231 +381,215 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
+    "imported_at": "2026-11-11T16:19:12.636Z"
   },
   {
-    "id": "st-initia-confirms-second-explo",
-    "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+    "id": "st-paraguay-bank-collapse-shows",
+    "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-11T05:52:14.000Z",
-    "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-11T13:30:00.000Z",
+    "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
-  },
-  {
-    "id": "st-across-protocol-restores-web",
-    "title": "Across Protocol restores website after hackers hijack domain",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T04:42:30.000Z",
-    "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
-  },
-  {
-    "id": "st-crypto-ally-tom-emmer-electe",
-    "title": "Crypto ally Tom Emmer elected House GOP minority whip",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T03:07:45.000Z",
-    "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+    "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
+    "imported_at": "2026-11-11T16:19:12.636Z"
   },
   {
-    "id": "st-lnbits-rushes-emergency-patc",
-    "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+    "id": "st-bitcoin-covenants-part-5-mat",
+    "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-11T01:16:58.000Z",
-    "url": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-11T13:26:18.000Z",
+    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+    "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
+    "imported_at": "2026-11-11T16:19:12.636Z"
   },
   {
-    "id": "st-cftc-warns-kalshi-of-imminen",
-    "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+    "id": "st-coreweave-stock-jumps-15-pre",
+    "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-10T23:49:51.000Z",
-    "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-11T13:02:30.000Z",
+    "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren’t live, according to Politico.",
-    "category": "Markets and business",
+    "summary": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion.",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
+    "imported_at": "2026-11-11T16:19:12.636Z"
   },
   {
-    "id": "st-global-banks-commit-270m-to",
-    "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+    "id": "st-fsb-urgest-turkey-to-tighten",
+    "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-10T23:08:28.000Z",
-    "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-11T12:44:10.000Z",
+    "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
-  },
-  {
-    "id": "st-can-crypto-trust-firms-compe",
-    "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-10T21:34:40.000Z",
-    "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.",
+    "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T06:45:34.958Z"
+    "imported_at": "2026-11-11T16:19:12.636Z"
   },
   {
-    "id": "st-microsoft-s-dlss-competitor",
-    "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-11T00:34:34.000Z",
-    "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+    "id": "st-barclays-boosts-blackrock-bi",
+    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T11:56:23.000Z",
+    "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside t",
-    "category": "Products and applications",
+    "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
+    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-11T16:19:12.637Z"
   },
   {
-    "id": "st-the-vr-disney-plus-app-on-me",
-    "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+    "id": "st-the-best-early-black-friday",
+    "title": "The best early Black Friday deals you can already shop",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-10T22:07:22.000Z",
-    "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+    "published_at": "2026-11-11T15:53:55.000Z",
+    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
     "type": "News",
-    "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta say",
-    "category": "Products and applications",
-    "bucket": "crypto",
+    "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good",
+    "category": "Markets and business",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
+    "imported_at": "2026-11-11T16:19:13.805Z"
   },
   {
-    "id": "st-oura-is-acquiring-medical-ai",
-    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "id": "st-sony-s-latest-pulse-wireless",
+    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-10T21:40:31.000Z",
-    "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+    "published_at": "2026-11-11T14:46:05.000Z",
+    "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
     "type": "News",
-    "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated re",
+    "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth co",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T16:19:13.805Z"
+  },
+  {
+    "id": "st-google-s-alphagenome-2-zooms",
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T14:18:08.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "type": "News",
+    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T16:19:13.805Z"
+  },
+  {
+    "id": "st-google-s-tabletop-ai-experim",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T14:15:27.000Z",
+    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "type": "News",
+    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a bui",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
+    "imported_at": "2026-11-11T16:19:13.805Z"
   },
   {
-    "id": "st-the-playstation-plus-pc-app",
-    "title": "The PlayStation Plus PC app is shutting down next month",
+    "id": "st-adobe-s-ai-experiments-let-y",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-10T20:42:09.000Z",
-    "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+    "published_at": "2026-11-11T12:56:24.000Z",
+    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
     "type": "News",
-    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a ve",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
-  },
-  {
-    "id": "st-google-s-pixel-tag-tracker-i",
-    "title": "Google’s Pixel Tag tracker is now available",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-10T20:02:54.000Z",
-    "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-    "type": "News",
-    "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub la",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
-  },
-  {
-    "id": "st-the-us-is-winning-the-ai-rac",
-    "title": "The US is winning the AI race. Jensen Huang could have blown it",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-10T19:31:58.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-    "type": "News",
-    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He ",
+    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
+    "imported_at": "2026-11-11T16:19:13.805Z"
   },
   {
-    "id": "st-starlink-mini-2-adds-a-swapp",
-    "title": "Starlink Mini 2 adds a swappable battery",
+    "id": "st-ocarina-of-time-is-even-bett",
+    "title": "Ocarina of Time is even better if you use a smartphone app",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-10T19:19:55.000Z",
-    "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+    "published_at": "2026-11-11T05:08:26.000Z",
+    "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
     "type": "News",
-    "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the d",
+    "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into ",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.120Z"
+    "imported_at": "2026-11-11T16:19:13.805Z"
+  },
+  {
+    "id": "st-sharge-s-eye-catching-macboo",
+    "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-11T02:01:12.000Z",
+    "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+    "type": "News",
+    "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T16:19:13.805Z"
+  },
+  {
+    "id": "st-artificial-intelligence-is-d",
+    "title": "Artificial intelligence is desperately seeking its narrative",
+    "source": "The Conversation",
+    "sourceId": "rss-the-conversation",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-10T13:12:58.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5\" target=\"_blan",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-australia-to-introduce-manda",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -637,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:35.611Z"
+    "imported_at": "2026-11-11T16:19:13.271Z"
   },
   {
     "id": "st-three-essays-on-artificial-i",
@@ -653,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-a-message-from-president-gol",
@@ -669,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-cryptocurrency-regulation-a",
@@ -685,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:35.611Z"
+    "imported_at": "2026-11-11T16:19:13.271Z"
   },
   {
     "id": "st-6-billion-cryptocurrency-hei",
@@ -701,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:35.611Z"
+    "imported_at": "2026-11-11T16:19:13.271Z"
   },
   {
     "id": "st-frequently-asked-questions-a",
@@ -717,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -733,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-michigan-can-use-artificial",
@@ -749,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   },
   {
     "id": "st-i-put-5-000-into-cryptocurre",
@@ -765,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:35.611Z"
+    "imported_at": "2026-11-11T16:19:13.271Z"
   },
   {
     "id": "st-little-friends-artificial-in",
@@ -781,22 +765,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
-  },
-  {
-    "id": "st-artificial-intelligence-in-a",
-    "title": "Artificial intelligence in a Jesuit University: A student conversation",
-    "source": "Marquette Today",
-    "sourceId": "rss-marquette-today",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-04T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnJXdC1hTXNGZGdJRUFMOEV0SVhsank1eG5IUEtkUS1Qa1FEZ05GbUxwTGtlaW9ieVlxSmdRbVBOWDlrcUJQZ1lHSjdkLU5tX3Z1djQ2c0MzU0NabldzTlI5bDJETHFPdHVWYk1ncW5xeTVYdHlDUFFyR25DdS1tZi0yck0ybENMeERhQ1VhNmQzX1FKcHg2b1JkbnVrSENoZi14aXptazF0MzA?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnJXdC1hTXNGZGdJRUFMOEV0SVhsank1eG5IUEtkUS1Qa1FEZ05GbUxwTGtlaW9ieVlxSmdRbVBOWDlrcUJQZ1lHSjdkLU5tX3Z1djQ2c0MzU0NabldzTlI5bDJETHFPdHVWYk1ncW5xeTVYdHlDUFFyR25DdS1tZi0yck0ybENMeERhQ1VhNmQzX1FKcHg2b1JkbnVrSENoZi14aXptazF0Mz",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T06:45:36.006Z"
+    "imported_at": "2026-11-11T16:19:13.741Z"
   }
 ]

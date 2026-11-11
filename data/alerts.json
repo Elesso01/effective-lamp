@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-11-11T06:45:36.225Z",
-  "count": 1,
+  "generated_at": "2026-11-11T16:19:13.926Z",
+  "count": 2,
   "alerts": [
     {
-      "id": "st-plume-affiliate-lands-broker",
-      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "id": "st-meet-spiko-the-largest-token",
+      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-10T15:51:56.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain"
+      "published_at": "2026-11-11T12:57:36.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about"
+    },
+    {
+      "id": "st-kraken-s-xstocks-adds-200-uk",
+      "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-11T10:51:34.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
     }
   ]
 }
