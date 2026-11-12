@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-12
 
-6 stories briefed · feed mix 6 familiar / 37 discovery.
+6 stories briefed · feed mix 8 familiar / 37 discovery.
 
 ## Top stories
-1. **MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine** (Markets and business · CoinDesk) — A top crypto development today
-2. **Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor** (Markets and business · CoinDesk) — A top crypto development today
-3. **Gilbert + Tobin rethinks the business of law with AI** (Products and applications · OpenAI Blog) — A top AI development today
-4. **The unfolding Jensen Huang scandal: a timeline** (Products and applications · TechCrunch) — A top AI development today
-5. **Ripple’s bank-lending system moves closer to launch on the XRP Ledger** (Products and applications · CoinDesk) — Outside your usual reads — worth a skim
-6. **Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Illinois crypto tax is impossible to enforce as written, crypto industry tells court** (Regulation and policy · CoinDesk) — A top crypto development today
+2. **DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout** (Markets and business · CoinDesk) — A top crypto development today
+3. **Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform** (Regulation and policy · CoinDesk) — A top AI development today
+4. **The next Congress will write rules for AI and emerging tech. They should use the stuff first.** (Products and applications · CoinDesk) — A top AI development today
+5. **Crypto for Advisors: The blockchain built to run financial markets** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+6. **Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry** (Regulation and policy · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Ripple’s bank-lending system moves closer to launch on the XRP Ledger.
+- Discovery pick of the week: Crypto for Advisors: The blockchain built to run financial markets.
 
 _News, not investment advice._

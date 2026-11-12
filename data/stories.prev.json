@@ -13,7 +13,71 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-11T22:49:48.364Z"
+    "imported_at": "2026-11-12T07:24:40.015Z"
+  },
+  {
+    "id": "st-msci-is-dropping-strategy-fr",
+    "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-12T07:00:37.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+    "type": "News",
+    "summary": "MSCI’s decision to exclude Strategy from its equity indices could hamper the company’s ability to buy more bitcoin, according to some analysts.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-12T07:24:39.356Z"
+  },
+  {
+    "id": "st-bitcoin-core-reveals-bug-tha",
+    "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-12T05:22:31.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "type": "News",
+    "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-12T07:24:39.357Z"
+  },
+  {
+    "id": "st-ripple-s-bank-lending-system",
+    "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-12T05:18:43.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+    "type": "News",
+    "summary": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-12T07:24:39.357Z"
+  },
+  {
+    "id": "st-nvidia-perps-crash-7-as-ceo",
+    "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-12T04:03:47.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+    "type": "News",
+    "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-12T07:24:39.357Z"
   },
   {
     "id": "st-crypto-long-short-the-genius",
@@ -29,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.632Z"
+    "imported_at": "2026-11-12T07:24:39.357Z"
   },
   {
     "id": "st-okxice-to-debut-tokenized-st",
@@ -45,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
+    "imported_at": "2026-11-12T07:24:39.357Z"
   },
   {
     "id": "st-meet-spiko-the-largest-token",
@@ -61,87 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
-  },
-  {
-    "id": "st-live-news-bitcoin-remains-un",
-    "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-11T12:21:24.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-    "type": "News",
-    "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
-  },
-  {
-    "id": "st-bitcoin-barely-flinches-at-h",
-    "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-11T12:19:30.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-    "type": "News",
-    "summary": "Your day-ahead look for Nov. 11, 2026",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
-  },
-  {
-    "id": "st-bitcoin-sits-out-stock-rebou",
-    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-11T11:37:04.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-    "type": "News",
-    "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
-  },
-  {
-    "id": "st-kraken-s-xstocks-adds-200-uk",
-    "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-11T10:51:34.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-    "type": "News",
-    "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
-  },
-  {
-    "id": "st-bitcoin-stuck-under-74-000-a",
-    "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-11T10:45:49.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-    "type": "News",
-    "summary": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-11T22:49:47.633Z"
+    "imported_at": "2026-11-12T07:24:39.357Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -157,7 +141,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
+  },
+  {
+    "id": "st-the-unfolding-jensen-huang-s",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-11T23:50:00.000Z",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "type": "News",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-12T07:24:39.591Z"
   },
   {
     "id": "st-why-the-data-center-you-drea",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.954Z"
+    "imported_at": "2026-11-12T07:24:39.591Z"
   },
   {
     "id": "st-coreweave-turns-to-customer",
@@ -184,44 +184,12 @@
     "published_at": "2026-11-11T19:54:00.000Z",
     "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
     "type": "News",
-    "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
     "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.954Z"
-  },
-  {
-    "id": "st-with-720m-round-britain-s-fr",
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-11T19:34:55.000Z",
-    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "type": "News",
-    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.955Z"
-  },
-  {
-    "id": "st-openai-s-quarterly-revenue-r",
-    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-11T16:14:44.000Z",
-    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "type": "News",
-    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.955Z"
+    "imported_at": "2026-11-12T07:24:39.591Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -237,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-jiostar-s-chief-architect-on",
@@ -253,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-helping-caregivers-use-ai-in",
@@ -269,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-introducing-businesses-in-ch",
@@ -285,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-closing-the-ai-guidance-gap",
@@ -301,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-singapore-airlines-elevates",
@@ -317,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-work-at-the-frontier-ai-s-ef",
@@ -333,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-11T22:49:47.897Z"
+    "imported_at": "2026-11-12T07:24:39.538Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -341,7 +309,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-11T22:15:26.000Z",
+    "published_at": "2026-11-12T06:00:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -349,7 +317,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.717Z"
+    "imported_at": "2026-11-12T07:24:39.435Z"
+  },
+  {
+    "id": "st-south-korea-to-permit-crypto",
+    "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-12T05:54:48.000Z",
+    "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-12T07:24:39.435Z"
+  },
+  {
+    "id": "st-binance-cso-unwittingly-fore",
+    "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-12T05:07:11.000Z",
+    "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-12T07:24:39.436Z"
+  },
+  {
+    "id": "st-suiet-wallet-to-shut-down-in",
+    "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-11T23:18:44.000Z",
+    "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-12T07:24:39.436Z"
   },
   {
     "id": "st-uncalled-us-house-races-coul",
@@ -365,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.717Z"
+    "imported_at": "2026-11-12T07:24:39.436Z"
   },
   {
     "id": "st-nomura-explores-sale-of-cryp",
@@ -381,71 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.718Z"
-  },
-  {
-    "id": "st-us-data-center-restrictions",
-    "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T20:43:19.000Z",
-    "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.718Z"
-  },
-  {
-    "id": "st-okxice-moves-ahead-with-toke",
-    "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T18:30:43.000Z",
-    "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.718Z"
-  },
-  {
-    "id": "st-bitcoin-hovers-near-74k-as-s",
-    "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T16:26:00.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.718Z"
-  },
-  {
-    "id": "st-deutsche-bank-launches-crypt",
-    "title": "Deutsche Bank launches crypto custody for companies and institutions",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-11T14:02:18.000Z",
-    "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-11T22:49:47.718Z"
+    "imported_at": "2026-11-12T07:24:39.436Z"
   },
   {
     "id": "st-hands-on-with-home-assistant",
@@ -453,15 +405,15 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-11T22:05:08.000Z",
+    "published_at": "2026-11-11T23:14:34.000Z",
     "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
     "type": "News",
-    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more",
+    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to b",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
+    "imported_at": "2026-11-12T07:24:40.512Z"
   },
   {
     "id": "st-united-won-t-let-your-ai-age",
@@ -477,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
+    "imported_at": "2026-11-12T07:24:40.512Z"
   },
   {
     "id": "st-loot-boxes-influencers-and-a",
@@ -493,23 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
-  },
-  {
-    "id": "st-saint-vincent-college-approv",
-    "title": "Saint Vincent College approves new artificial intelligence minor",
-    "source": "Saint Vincent College",
-    "sourceId": "rss-saint-vincent-college",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-11T17:24:05.000Z",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYVlp?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYV",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
+    "imported_at": "2026-11-12T07:24:40.512Z"
   },
   {
     "id": "st-toyota-s-scion-is-back-start",
@@ -525,7 +461,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
+    "imported_at": "2026-11-12T07:24:40.512Z"
   },
   {
     "id": "st-the-best-early-black-friday",
@@ -541,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
+    "imported_at": "2026-11-12T07:24:40.512Z"
   },
   {
     "id": "st-google-s-tabletop-ai-experim",
@@ -557,23 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
-  },
-  {
-    "id": "st-ocarina-of-time-is-even-bett",
-    "title": "Ocarina of Time is even better if you use a smartphone app",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-11T05:08:26.000Z",
-    "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
-    "type": "News",
-    "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into ",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
+    "imported_at": "2026-11-12T07:24:40.512Z"
   },
   {
     "id": "st-sharge-s-eye-catching-macboo",
@@ -589,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.954Z"
+    "imported_at": "2026-11-12T07:24:40.513Z"
   },
   {
     "id": "st-faculty-member-addresses-art",
@@ -605,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
+    "imported_at": "2026-11-12T07:24:40.404Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -621,23 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
-  },
-  {
-    "id": "st-current-artificial-intellige",
-    "title": "Current Artificial Intelligence Uses in LUGPA Urology Practices",
-    "source": "Renal and Urology News",
-    "sourceId": "rss-renal-and-urology-news",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-10T05:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVdmYTJScmx1ODVLUHJVVDRQOE5GWENwSUZFRHhLRUF5dTVRT2Z0cS01Vm1oV2o2NTRDalZmUlVnYVA2MTdYX0h1TjZ1VnVJUHJVakZLTkduUDF6LVhEUzkxekVkQkpnekMxVGN3Zl9kMWg0M3A3V0cwYlFYdVZQWlBGMXBrOVFINkJVNS1GNmRPRUh3TmFtRUZ3NkVnUFNvbXBRX3c4bXBJQUZlWVdvYzNUU3JlWHU0?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVdmYTJScmx1ODVLUHJVVDRQOE5GWENwSUZFRHhLRUF5dTVRT2Z0cS01Vm1oV2o2NTRDalZmUlVnYVA2MTdYX0h1TjZ1VnVJUHJVakZLTkduUDF6LVhEUzkxekVkQkpnekMxVGN3Zl9kMWg0M3A3V0cwYlFYdVZQWlBGMXBrOVFINkJVNS1GNmRPRUh3TmFtRUZ3NkVnUFNvbXBRX3c4bXBJQU",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
+    "imported_at": "2026-11-12T07:24:40.404Z"
   },
   {
     "id": "st-australia-to-introduce-manda",
@@ -653,7 +557,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
+    "imported_at": "2026-11-12T07:24:40.404Z"
+  },
+  {
+    "id": "st-6-billion-cryptocurrency-hei",
+    "title": "$6 billion cryptocurrency heist puts investors on edge",
+    "source": "PBS",
+    "sourceId": "rss-pbs",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-10T00:45:10.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWGJnaEliY2V2cUZnckRuZ3hn?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWG",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-12T07:24:40.015Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -669,39 +589,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.364Z"
+    "imported_at": "2026-11-12T07:24:40.015Z"
   },
   {
-    "id": "st-cryptocurrency-regulation-a",
-    "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+    "id": "st-three-essays-on-artificial-i",
+    "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
+    "source": "RAND",
+    "sourceId": "rss-rand",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-09T13:58:52.000Z",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5\" target=\"_blank\">Three Essays on Artificial Intelligence and Work in the U.S.<",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-12T07:24:40.404Z"
+  },
+  {
+    "id": "st-4-ways-to-invest-in-cryptocu",
+    "title": "4 ways to invest in cryptocurrency stocks",
     "source": "Britannica",
     "sourceId": "rss-britannica",
     "author": "Google News (crypto)",
     "published_at": "2026-11-06T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5\" target=\"_blank\">Cryptocurrency Regulation: A Guide to U.S. & Global Policies</a>",
-    "category": "Regulation and policy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5\" target=\"_blank\">4 ways to invest in cryptocurrency stocks</a>&nbsp;&nbsp;<font color=\"#6",
+    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.364Z"
-  },
-  {
-    "id": "st-6-billion-cryptocurrency-hei",
-    "title": "$6 billion cryptocurrency heist puts investors on edge",
-    "source": "PBS",
-    "sourceId": "rss-pbs",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-06T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWGJnaEliY2V2cUZnckRuZ3hn?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWG",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.364Z"
+    "imported_at": "2026-11-12T07:24:40.015Z"
   },
   {
     "id": "st-frequently-asked-questions-a",
@@ -717,7 +637,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
+    "imported_at": "2026-11-12T07:24:40.403Z"
+  },
+  {
+    "id": "st-artificial-intelligence-in-e",
+    "title": "Artificial Intelligence in Earth Science Data Systems",
+    "source": "NASA Earthdata (.gov)",
+    "sourceId": "rss-nasa-earthdata-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-06T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5\" target=\"_blank\">Artificial Intelligence in Earth Science Data Systems</a>&nbsp;&nbsp;<font color=\"#",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-12T07:24:40.404Z"
   },
   {
     "id": "st-responsible-use-of-artificia",
@@ -733,38 +669,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
+    "imported_at": "2026-11-12T07:24:40.404Z"
   },
   {
-    "id": "st-michigan-can-use-artificial",
-    "title": "Michigan can use artificial intelligence to improve lives",
-    "source": "Mackinac Center",
-    "sourceId": "rss-mackinac-center",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-05T13:03:08.000Z",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZKNXRhRHlsaDNzd21DZF9XcERZN2ZaRkZHSHp1UTNZZHVIbDFCbE85emFWaFkxMjN0MWFvOHBoRGpWUWNoMFI4VllsdUI5THczRVZpc0RETWtIeXlzcVAyVVBaSlI5ZW5fR3JJS1FlU29vREV4Nk82Unh2MTBpcGk2YUo2NEp6S3BhYXJsNjlLbzRTNWMw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZKNXRhRHlsaDNzd21DZF9XcERZN2ZaRkZHSHp1UTNZZHVIbDFCbE85emFWaFkxMjN0MWFvOHBoRGpWUWNoMFI4VllsdUI5THczRVZpc0RETWtIeXlzcVAyVVBaSlI5ZW5fR3JJS1FlU29vREV4Nk82Unh2MTBpcGk2YUo2NEp6S3BhYXJsNjlLbzRTNWMw?oc=5\" target=\"_blank\">Mic",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.754Z"
-  },
-  {
-    "id": "st-i-put-5-000-into-cryptocurre",
-    "title": "‘I put £5,000 into cryptocurrency. Here’s why I regret it’",
-    "source": "The Times",
-    "sourceId": "rss-the-times",
+    "id": "st-10-best-crypto-exchanges-of",
+    "title": "10 Best Crypto Exchanges Of 2026",
+    "source": "Forbes",
+    "sourceId": "rss-forbes",
     "author": "Google News (crypto)",
-    "published_at": "2026-11-05T06:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFd4QVZxdjBfVXpXNWxYZlFoTlYyNnpDQlJsVEN1ekkwaTNTOEk5bHNiRVhscWx3eFhUaGZVQnFCVkhJRlBZWWZFZVRpOE4zV3A3M1N0OTFwblh0OU5SQW5QR0pXbFd3ei0yQnhYRzhYN1ZPVzQwa21ld2tLSjRZSEpyMDI3QUtjbGlxSWJnUHd5SGhkdTNKcWRuOVlsblA0eG5kN3lIYm1jekZvZ3l6MjBoeV9MMmt5N0E?oc=5",
+    "published_at": "2026-11-05T10:05:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVZtY3F3d0w5U0lneDdFM1dCN291TmJTSlBLbGNZT09xQWtDTlBoZHRBUkZWS0NFRksxVUhyTDBMbUFIai0tYWFLdTMxWEZQRHVPbzBCa0tfcXRRM1ZiRFV2c3YxTFFYcmhMOG8zeG4xNjhaUWtlZTQ2VzMtaWVoWnZ5Q28?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFd4QVZxdjBfVXpXNWxYZlFoTlYyNnpDQlJsVEN1ekkwaTNTOEk5bHNiRVhscWx3eFhUaGZVQnFCVkhJRlBZWWZFZVRpOE4zV3A3M1N0OTFwblh0OU5SQW5QR0pXbFd3ei0yQnhYRzhYN1ZPVzQwa21ld2tLSjRZSEpyMDI3QUtjbGlxSWJnUHd5SGhkdTNKcWRuOVlsblA0eG5kN3lIYm1jek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVZtY3F3d0w5U0lneDdFM1dCN291TmJTSlBLbGNZT09xQWtDTlBoZHRBUkZWS0NFRksxVUhyTDBMbUFIai0tYWFLdTMxWEZQRHVPbzBCa0tfcXRRM1ZiRFV2c3YxTFFYcmhMOG8zeG4xNjhaUWtlZTQ2VzMtaWVoWnZ5Q28?oc=5\" target=\"_blank\">10 Best Crypto Exchanges Of ",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-11T22:49:48.364Z"
+    "imported_at": "2026-11-12T07:24:40.015Z"
   }
 ]

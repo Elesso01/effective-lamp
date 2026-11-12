@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T07:24:40.609Z",
+  "generated_at": "2026-11-12T16:53:09.011Z",
   "mix": {
-    "familiar": 6,
+    "familiar": 8,
     "discovery": 37
   },
   "items": [
     {
-      "id": "st-meet-spiko-the-largest-token",
-      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+      "id": "st-illinois-crypto-tax-is-impos",
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,8 +15,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-why-the-data-center-you-drea",
-      "title": "Why the data center you dread might never even be built",
+      "id": "st-jupiter-adds-anchorage-backe",
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-five-ways-jensen-huang-s-ous",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -24,8 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-thailand-proposes-148k-daily",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -33,29 +42,20 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-greek-parliament-approves-10",
-      "title": "Greek parliament approves 10% tax on cryptocurrency gains",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-united-won-t-let-your-ai-age",
-      "title": "United won’t let your AI agent book your flight",
+      "id": "st-crypto-hack-losses-equal-57",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
       "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-toyota-s-scion-is-back-start",
-      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
+      "id": "st-are-alt-l1s-over-security-co",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -69,8 +69,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-msci-is-dropping-strategy-fr",
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+      "id": "st-cryptocurrency-lawsuit-ether",
+      "title": "Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-dtcc-adds-solana-to-wall-str",
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -78,8 +87,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-core-reveals-bug-tha",
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "id": "st-crypto-for-advisors-the-bloc",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -87,46 +96,55 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ripple-s-bank-lending-system",
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nvidia-perps-crash-7-as-ceo",
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-long-short-the-genius",
-      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-okxice-to-debut-tokenized-st",
-      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-gilbert-tobin-rethinks-the-b",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "id": "st-the-next-congress-will-write",
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-weakness-erases-sept",
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uk-bank-griffin-raises-20-mi",
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-whoop-just-launched-a-social",
+      "title": "Whoop just launched a social network",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-norwest-pushes-deeper-into-a",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cyberattack-on-fireworks-ai",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -141,9 +159,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-coreweave-turns-to-customer",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "category": "Markets and business",
+      "id": "st-supporting-research-on-ai-an",
+      "title": "Supporting research on AI and children’s safety",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-gilbert-tobin-rethinks-the-b",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -195,44 +222,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-singapore-airlines-elevates",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-work-at-the-frontier-ai-s-ef",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-south-korea-to-permit-crypto",
-      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-cso-unwittingly-fore",
-      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-suiet-wallet-to-shut-down-in",
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "id": "st-bitcoin-slides-toward-71k-as",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,17 +231,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-uncalled-us-house-races-coul",
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "category": "Products and applications",
+      "id": "st-jensen-huang-resigns-as-nvid",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bit-digital-stock-falls-5-in",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uber-s-uk-banking-partner-gr",
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "category": "Startups and companies",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nomura-explores-sale-of-cryp",
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "id": "st-eu-defi-proposals-could-push",
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -258,26 +267,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hands-on-with-home-assistant",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "id": "st-a-power-bank-that-can-quickl",
+      "title": "A power bank that can quickly charge three gadgets is just $49",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-loot-boxes-influencers-and-a",
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "category": "Security and privacy",
-      "bucket": "crypto",
+      "id": "st-how-public-health-agencies-c",
+      "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-best-early-black-friday",
-      "title": "The best early Black Friday deals you can already shop",
+      "id": "st-the-pricey-new-apple-tv-4k-i",
+      "title": "The pricey new Apple TV 4K is still the best streamer around",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
@@ -285,17 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-google-s-tabletop-ai-experim",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sharge-s-eye-catching-macboo",
-      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "id": "st-i-reviewed-the-apple-homevie",
+      "title": "I reviewed the Apple HomeView, ask me anything",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -303,8 +303,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-faculty-member-addresses-art",
-      "title": "Faculty member addresses artificial intelligence practically and theoretically",
+      "id": "st-i-tried-google-s-ai-glasses",
+      "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-lego-s-bricklink-marketplace",
+      "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-exploring-how-autistic-indiv",
+      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -316,15 +334,6 @@
       "title": "Artificial intelligence is desperately seeking its narrative",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-australia-to-introduce-manda",
-      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-      "category": "Security and privacy",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -343,6 +352,15 @@
       "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ashburn-fbi-agent-pleads-gui",
+      "title": "Ashburn FBI agent pleads guilty to nearly $2.5 million cryptocurrency scheme",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,19 +393,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-responsible-use-of-artificia",
-      "title": "Responsible use of artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-1-unstoppable-cryptocurrency",
+      "title": "1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-10-best-crypto-exchanges-of",
-      "title": "10 Best Crypto Exchanges Of 2026",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-responsible-use-of-artificia",
+      "title": "Responsible use of artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
