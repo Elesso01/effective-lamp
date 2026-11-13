@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-13T12:22:04.956Z",
+  "generated_at": "2026-11-13T19:54:21.082Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-u-s-senate-banking-committee",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-13T17:05:43.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
+    },
     {
       "id": "st-bitcoin-hits-12-week-low-as",
       "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-11-13T11:52:25.000Z",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
-    },
-    {
-      "id": "st-bitcoin-etfs-are-now-down-ov",
-      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-13T05:45:26.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
     }
   ]
 }

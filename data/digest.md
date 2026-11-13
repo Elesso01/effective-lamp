@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-13
 
-6 stories briefed · feed mix 12 familiar / 35 discovery.
+6 stories briefed · feed mix 7 familiar / 44 discovery.
 
 ## Top stories
-1. **Bitcoin's momentum gauge is turning red, could send prices back below $60,000** (Markets and business · CoinDesk) — A top crypto development today
-2. **Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion** (Regulation and policy · CoinDesk) — A top crypto development today
-3. **DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam** (Regulation and policy · Cointelegraph) — A top AI development today
-4. **Microsoft 365 outage hits Outlook email and Teams calendars worldwide** (Products and applications · Cointelegraph) — A top AI development today
-5. **Live news: Bitcoin briefly drops below 200-week moving average** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
-6. **Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline** (Markets and business · CoinDesk) — A top crypto development today
+2. **Metaplanet swings to $170M loss as Bitcoin sale hits earnings** (Startups and companies · Cointelegraph) — A top crypto development today
+3. **U.S. Senate Banking Committee races toward hearing on new SEC nominations** (Regulation and policy · CoinDesk) — A top AI development today
+4. **AI agent startup LangChain hits $3B valuation** (Startups and companies · TechCrunch) — A top AI development today
+5. **Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms** (Crypto and AI intersections · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Live news: Bitcoin briefly drops below 200-week moving average.
+- Discovery pick of the week: Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms.
 
 _News, not investment advice._

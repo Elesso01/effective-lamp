@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-13T12:22:04.928Z",
+  "generated_at": "2026-11-13T19:54:21.052Z",
   "mix": {
-    "familiar": 12,
-    "discovery": 35
+    "familiar": 7,
+    "discovery": 44
   },
   "items": [
+    {
+      "id": "st-u-s-senate-banking-committee",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-bitcoin-hits-12-week-low-as",
       "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
@@ -24,55 +33,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-etfs-are-now-down-ov",
-      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-spacex-tesla-merger-talks-pu",
-      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-nebius-tests-the-neocloud-pl",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-doj-moves-to-seize-1-2b-from",
-      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-trump-nominates-hester-peirc",
-      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-      "category": "Regulation and policy",
-      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -87,17 +51,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-fbi-says-us-has-seized-1-2-b",
-      "title": "FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-us-seizes-north-korean-hacki",
-      "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+      "id": "st-fbi-says-us-seized-1-2-billi",
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -114,6 +69,33 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-bitcoin-plunges-to-68-000-as",
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-heads-for-sixth-week",
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kraken-parent-payward-says-e",
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-s-momentum-gauge-is",
       "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
       "category": "Markets and business",
@@ -123,8 +105,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-live-news-bitcoin-briefly-dr",
-      "title": "Live news: Bitcoin briefly drops below 200-week moving average",
+      "id": "st-live-updates-bitcoin-eyes-be",
+      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -132,37 +114,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-firm-nakamoto-owes-k",
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-dips-below-70-000-as",
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-democrats-launch-nvidia-inve",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "category": "Products and applications",
-      "bucket": "crypto",
+      "id": "st-ai-agent-startup-langchain-h",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "category": "Startups and companies",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-muse-can-now-place-calls-to",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "category": "Products and applications",
+      "id": "st-export-banned-nvidia-chips-a",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "category": "Research and development",
       "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-chatgpt-s-new-wallet-lets-ai",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -177,26 +150,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-uber-confirms-hackers-stole",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-elevenlabs-new-app-combines",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-israel-s-vcs-see-opportunity",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-how-amplitude-ships-product",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-s-latest-search-upgra",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-nectar-launches-an-ai-agent",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -249,18 +231,45 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-helping-caregivers-use-ai-in",
-      "title": "Helping caregivers use AI in everyday life",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-metaplanet-swings-to-170m-lo",
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "category": "Startups and companies",
+      "bucket": "crypto",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-unocoin-keeps-deposits-and-w",
-      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "id": "st-bitcoin-holds-below-70k-as-s",
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-arthur-hayes-flattered-as-co",
+      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
       "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nakamoto-shares-fall-6-prema",
+      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-israeli-police-arrest-five-i",
+      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
@@ -276,37 +285,100 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-jane-street-boosts-fidelity",
-      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-      "category": "Markets and business",
+      "id": "st-my-favorite-recipe-app-just",
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-microsoft-365-outage-hits-ou",
-      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+      "id": "st-springfield-city-council-to",
+      "title": "Springfield City Council to consider full ban on cryptocurrency kiosks to prevent scams",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-facestealer-cryptocurrency-t",
+      "title": "FaceStealer Cryptocurrency Theft Scheme",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-you-can-adjust-the-position",
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-jensen-huang-was-reckless-wi",
+      "title": "Jensen Huang was reckless with the environment, too",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-slides-below-70k-ami",
-      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-outlook-is-still-d",
-      "title": "Microsoft Outlook is still down",
+      "id": "st-the-smallest-version-of-camp",
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
       "category": "Products and applications",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-new-apple-tv-has-a-youtu",
+      "title": "The new Apple TV has a YouTube problem",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-cracks-down-on-north-kore",
+      "title": "US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-microsoft-s-massive-outlook",
+      "title": "Microsoft’s massive Outlook outage continues",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-best-early-black-friday",
+      "title": "The best early Black Friday deals you can already shop",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-jews-are-having-the-wrong-co",
+      "title": "Jews are having the wrong conversation about artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -316,24 +388,6 @@
       "title": "FBI's LA Field Office warns of ‘FaceStealer' cryptocurrency theft scheme",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-whoop-launched-a-social-netw",
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-s-new-gemini-model-is",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -350,15 +404,6 @@
     {
       "id": "st-how-public-health-agencies-c",
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-exploring-how-autistic-indiv",
-      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -413,15 +458,6 @@
     {
       "id": "st-today-s-crypto-news-bitcoin",
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ashburn-fbi-agent-pleads-gui",
-      "title": "Ashburn FBI agent pleads guilty to nearly $2.5 million cryptocurrency scheme",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
