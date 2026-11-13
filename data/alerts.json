@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-13T01:12:24.777Z",
+  "generated_at": "2026-11-13T12:22:04.956Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-north-korea-s-binance-hack-f",
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "id": "st-bitcoin-hits-12-week-low-as",
+      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-12T22:55:52.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
+      "published_at": "2026-11-13T11:52:25.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
     },
     {
-      "id": "st-u-s-president-trump-names-cf",
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "id": "st-bitcoin-etfs-are-now-down-ov",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-12T22:47:41.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
+      "published_at": "2026-11-13T05:45:26.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
     }
   ]
 }
