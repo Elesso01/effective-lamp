@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T18:17:21.288Z",
+  "generated_at": "2026-11-14T23:58:44.714Z",
   "mix": {
-    "familiar": 8,
+    "familiar": 9,
     "discovery": 35
   },
   "items": [
@@ -69,8 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-us-seizes-north-korean-hacki",
-      "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -78,8 +78,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-slides-to-3-month-lo",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "id": "st-6-billion-cryptocurrency-hei",
+      "title": "$6 billion cryptocurrency heist puts investors on edge",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-crashes-to-3-month-l",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -144,15 +153,6 @@
       "id": "st-amazon-s-new-kindle-colorsof",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-this-young-startup-wants-to",
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -267,6 +267,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-watch-spacex-successfully-ex",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-the-openai-board-member-who",
       "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "category": "Products and applications",
@@ -375,10 +384,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
+      "id": "st-best-ai-stocks-to-buy-in-202",
+      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest",
       "category": "Markets and business",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

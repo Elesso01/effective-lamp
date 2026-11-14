@@ -1,9 +1,9 @@
 # Weekly digest — week of 2026-11-14
 
-6 stories briefed · feed mix 8 familiar / 35 discovery.
+6 stories briefed · feed mix 9 familiar / 35 discovery.
 
 ## Top stories
-1. **Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave** (Markets and business · CoinDesk) — A top crypto development today
+1. **Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave** (Markets and business · CoinDesk) — A top crypto development today
 2. **Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale** (Markets and business · CoinDesk) — A top crypto development today
 3. **Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide** (Products and applications · TechCrunch) — A top AI development today
 4. **The AI graveyard: a running list of projects and startups that didn’t make it** (Products and applications · TechCrunch) — A top AI development today
