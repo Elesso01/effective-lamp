@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T19:54:21.052Z",
+  "generated_at": "2026-11-14T00:55:12.283Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 44
+    "familiar": 8,
+    "discovery": 43
   },
   "items": [
     {
@@ -24,17 +24,26 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ethereum-treasury-firm-btcs",
-      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 10.5,
+      "id": "st-jensen-huang-s-departure-bla",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-us-regulators-move-ahead-on",
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -67,6 +76,15 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-miners-pay-paraguay",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-bitcoin-plunges-to-68-000-as",
@@ -114,6 +132,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-amazon-s-new-kindle-colorsof",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-this-young-startup-wants-to",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ai-agent-startup-langchain-h",
       "title": "AI agent startup LangChain hits $3B valuation",
       "category": "Startups and companies",
@@ -124,7 +160,7 @@
     },
     {
       "id": "st-export-banned-nvidia-chips-a",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "category": "Research and development",
       "bucket": "ai",
       "score": 8,
@@ -150,27 +186,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-uber-confirms-hackers-stole",
-      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-elevenlabs-new-app-combines",
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "id": "st-shield-helps-technicians-han",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-israel-s-vcs-see-opportunity",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -222,11 +240,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-jiostar-s-chief-architect-on",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "category": "Research and development",
+      "id": "st-openai-launches-ai-payments",
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-adam-back-makes-case-for-sim",
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kraken-parent-payward-gains",
+      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+      "category": "Markets and business",
       "bucket": "ai",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,35 +294,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nakamoto-shares-fall-6-prema",
-      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-      "category": "Markets and business",
+      "id": "st-here-s-how-you-can-save-on-y",
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-israeli-police-arrest-five-i",
-      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+      "id": "st-cmf-s-milk-carton-shaped-blu",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-returns-to-200-week",
-      "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "id": "st-chatgpt-wallet-lets-openai-s",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-my-favorite-recipe-app-just",
-      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "id": "st-the-smallest-version-of-camp",
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -296,15 +332,6 @@
     {
       "id": "st-springfield-city-council-to",
       "title": "Springfield City Council to consider full ban on cryptocurrency kiosks to prevent scams",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-facestealer-cryptocurrency-t",
-      "title": "FaceStealer Cryptocurrency Theft Scheme",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -330,46 +357,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-smallest-version-of-camp",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-new-apple-tv-has-a-youtu",
-      "title": "The new Apple TV has a YouTube problem",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-us-cracks-down-on-north-kore",
       "title": "US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-s-massive-outlook",
-      "title": "Microsoft’s massive Outlook outage continues",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-best-early-black-friday",
-      "title": "The best early Black Friday deals you can already shop",
-      "category": "Markets and business",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -386,6 +377,15 @@
     {
       "id": "st-fbi-s-la-field-office-warns",
       "title": "FBI's LA Field Office warns of ‘FaceStealer' cryptocurrency theft scheme",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-facestealer-cryptocurrency-t",
+      "title": "FaceStealer Cryptocurrency Theft Scheme | Federal Bureau of Investigation",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,

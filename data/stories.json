@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-bitcoin-miners-pay-paraguay",
+    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-13T23:30:00.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "type": "News",
+    "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-14T00:55:10.533Z"
+  },
+  {
     "id": "st-bitcoin-plunges-to-68-000-as",
     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
     "id": "st-u-s-senate-banking-committee",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
     "id": "st-bitcoin-heads-for-sixth-week",
@@ -45,7 +61,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
     "id": "st-kraken-parent-payward-says-e",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
     "id": "st-bitcoin-s-momentum-gauge-is",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
     "id": "st-bitcoin-hits-12-week-low-as",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
     "id": "st-live-updates-bitcoin-eyes-be",
@@ -109,23 +125,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "imported_at": "2026-11-14T00:55:10.534Z"
   },
   {
-    "id": "st-ethereum-treasury-firm-btcs",
-    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-13T07:05:29.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+    "id": "st-amazon-s-new-kindle-colorsof",
+    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-13T23:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
     "type": "News",
-    "summary": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-13T19:54:19.734Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-14T00:55:11.182Z"
+  },
+  {
+    "id": "st-jensen-huang-s-departure-bla",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-13T22:43:00.000Z",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "type": "News",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-14T00:55:11.182Z"
+  },
+  {
+    "id": "st-this-young-startup-wants-to",
+    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-13T20:07:24.000Z",
+    "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+    "type": "News",
+    "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-14T00:55:11.182Z"
   },
   {
     "id": "st-ai-agent-startup-langchain-h",
@@ -141,11 +189,11 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
+    "imported_at": "2026-11-14T00:55:11.182Z"
   },
   {
     "id": "st-export-banned-nvidia-chips-a",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
+    "imported_at": "2026-11-14T00:55:11.182Z"
   },
   {
     "id": "st-chatgpt-s-new-wallet-lets-ai",
@@ -173,7 +221,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
+    "imported_at": "2026-11-14T00:55:11.182Z"
   },
   {
     "id": "st-the-unfolding-jensen-huang-s",
@@ -189,55 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
+    "imported_at": "2026-11-14T00:55:11.182Z"
   },
   {
-    "id": "st-uber-confirms-hackers-stole",
-    "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-13T14:57:55.000Z",
-    "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "id": "st-shield-helps-technicians-han",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-13T08:00:00.000Z",
+    "url": "https://openai.com/business/customer-stories/shield",
     "type": "News",
-    "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
-  },
-  {
-    "id": "st-elevenlabs-new-app-combines",
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-13T14:44:48.000Z",
-    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "type": "News",
-    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
     "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
-  },
-  {
-    "id": "st-israel-s-vcs-see-opportunity",
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-13T12:52:19.000Z",
-    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "type": "News",
-    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-    "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:20.079Z"
+    "imported_at": "2026-11-14T00:55:11.034Z"
   },
   {
     "id": "st-how-amplitude-ships-product",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:19.991Z"
+    "imported_at": "2026-11-14T00:55:11.034Z"
   },
   {
     "id": "st-gondola-doubles-revenue-as-i",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:19.991Z"
+    "imported_at": "2026-11-14T00:55:11.034Z"
   },
   {
     "id": "st-supporting-research-on-ai-an",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:19.991Z"
+    "imported_at": "2026-11-14T00:55:11.034Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -301,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:19.991Z"
+    "imported_at": "2026-11-14T00:55:11.034Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -317,23 +333,87 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:19.991Z"
+    "imported_at": "2026-11-14T00:55:11.034Z"
   },
   {
-    "id": "st-jiostar-s-chief-architect-on",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-11T00:00:00.000Z",
-    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-13T22:08:37.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "category": "Research and development",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T00:55:10.714Z"
+  },
+  {
+    "id": "st-openai-launches-ai-payments",
+    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-13T22:01:03.000Z",
+    "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T00:55:10.714Z"
+  },
+  {
+    "id": "st-adam-back-makes-case-for-sim",
+    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-13T21:49:27.000Z",
+    "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T00:55:10.714Z"
+  },
+  {
+    "id": "st-kraken-parent-payward-gains",
+    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-13T21:01:39.000Z",
+    "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-13T19:54:19.991Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-14T00:55:10.714Z"
+  },
+  {
+    "id": "st-us-regulators-move-ahead-on",
+    "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-13T20:53:20.000Z",
+    "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T00:55:10.714Z"
   },
   {
     "id": "st-metaplanet-swings-to-170m-lo",
@@ -349,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
+    "imported_at": "2026-11-14T00:55:10.714Z"
   },
   {
     "id": "st-bitcoin-holds-below-70k-as-s",
@@ -365,23 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T13:49:44.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
+    "imported_at": "2026-11-14T00:55:10.714Z"
   },
   {
     "id": "st-arthur-hayes-flattered-as-co",
@@ -397,71 +461,71 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
+    "imported_at": "2026-11-14T00:55:10.714Z"
   },
   {
-    "id": "st-nakamoto-shares-fall-6-prema",
-    "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T13:04:19.000Z",
-    "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
-  },
-  {
-    "id": "st-israeli-police-arrest-five-i",
-    "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T12:19:01.000Z",
-    "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
-  },
-  {
-    "id": "st-bitcoin-returns-to-200-week",
-    "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T09:39:05.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-13T19:54:19.837Z"
-  },
-  {
-    "id": "st-my-favorite-recipe-app-just",
-    "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+    "id": "st-here-s-how-you-can-save-on-y",
+    "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-13T19:10:09.000Z",
-    "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+    "published_at": "2026-11-13T22:47:40.000Z",
+    "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
     "type": "News",
-    "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the u",
+    "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony Pl",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
+    "imported_at": "2026-11-14T00:55:12.204Z"
+  },
+  {
+    "id": "st-cmf-s-milk-carton-shaped-blu",
+    "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-13T21:13:20.000Z",
+    "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+    "type": "News",
+    "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-14T00:55:12.204Z"
+  },
+  {
+    "id": "st-chatgpt-wallet-lets-openai-s",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-13T20:45:10.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "type": "News",
+    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Ch",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.7,
+    "imported_at": "2026-11-14T00:55:12.204Z"
+  },
+  {
+    "id": "st-the-smallest-version-of-camp",
+    "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-13T19:23:43.000Z",
+    "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+    "type": "News",
+    "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-14T00:55:12.204Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -477,23 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
-  },
-  {
-    "id": "st-facestealer-cryptocurrency-t",
-    "title": "FaceStealer Cryptocurrency Theft Scheme",
-    "source": "FBI (.gov)",
-    "sourceId": "rss-fbi-gov",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-13T18:21:37.000Z",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5\" target=\"_blank\">FaceStealer Cryptocurrency Theft Scheme</a>&nbsp;&nbs",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
+    "imported_at": "2026-11-14T00:55:11.605Z"
   },
   {
     "id": "st-you-can-adjust-the-position",
@@ -509,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
+    "imported_at": "2026-11-14T00:55:12.204Z"
   },
   {
     "id": "st-jensen-huang-was-reckless-wi",
@@ -525,39 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
-  },
-  {
-    "id": "st-the-smallest-version-of-camp",
-    "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-13T17:40:28.000Z",
-    "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-    "type": "News",
-    "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
-  },
-  {
-    "id": "st-the-new-apple-tv-has-a-youtu",
-    "title": "The new Apple TV has a YouTube problem",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-13T16:55:57.000Z",
-    "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-    "type": "News",
-    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on th",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
+    "imported_at": "2026-11-14T00:55:12.204Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -573,39 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
-  },
-  {
-    "id": "st-microsoft-s-massive-outlook",
-    "title": "Microsoft’s massive Outlook outage continues",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-13T16:17:11.000Z",
-    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-    "type": "News",
-    "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
-  },
-  {
-    "id": "st-the-best-early-black-friday",
-    "title": "The best early Black Friday deals you can already shop",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-13T15:49:27.000Z",
-    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-    "type": "News",
-    "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good disco",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.981Z"
+    "imported_at": "2026-11-14T00:55:11.605Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
+    "imported_at": "2026-11-14T00:55:11.605Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -637,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.013Z"
   },
   {
     "id": "st-fbi-s-la-field-office-warns",
@@ -653,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
+    "imported_at": "2026-11-14T00:55:11.605Z"
   },
   {
     "id": "st-fbi-says-us-seized-1-2-billi",
@@ -669,7 +653,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
+    "imported_at": "2026-11-14T00:55:11.606Z"
+  },
+  {
+    "id": "st-facestealer-cryptocurrency-t",
+    "title": "FaceStealer Cryptocurrency Theft Scheme | Federal Bureau of Investigation",
+    "source": "FBI (.gov)",
+    "sourceId": "rss-fbi-gov",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-12T23:46:56.000Z",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb25Cbm9nTXo4TDlXNXo4bzd6NXZvOTVDSVhMSWNqZ2c0b25xZ3hob2o4Y2RxbXNVcjZWS2k0dHY3el9kekxBYThxdDBKWm1VT3NYRVdzRG44MFdhNS04UU0yMm0tdWhUbEZUcWFuTWM1Um5qQmlZcVJZSmpmOWxoWXd1VQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb25Cbm9nTXo4TDlXNXo4bzd6NXZvOTVDSVhMSWNqZ2c0b25xZ3hob2o4Y2RxbXNVcjZWS2k0dHY3el9kekxBYThxdDBKWm1VT3NYRVdzRG44MFdhNS04UU0yMm0tdWhUbEZUcWFuTWM1Um5qQmlZcVJZSmpmOWxoWXd1VQ?oc=5\" target=\"_blank\">FaceStealer Cryptocurrency Th",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-14T00:55:11.605Z"
   },
   {
     "id": "st-associate-professor-finds-ag",
@@ -685,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.013Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -701,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.012Z"
   },
   {
     "id": "st-saint-vincent-college-approv",
@@ -717,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.013Z"
   },
   {
     "id": "st-financing-artificial-intelli",
@@ -733,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.013Z"
   },
   {
     "id": "st-doe-explains-artificial-inte",
@@ -749,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.012Z"
   },
   {
     "id": "st-faculty-member-addresses-art",
@@ -765,7 +765,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.013Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -781,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.870Z"
+    "imported_at": "2026-11-14T00:55:12.012Z"
   },
   {
     "id": "st-6-billion-cryptocurrency-hei",
@@ -797,7 +797,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
+    "imported_at": "2026-11-14T00:55:11.605Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -813,6 +813,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-13T19:54:20.472Z"
+    "imported_at": "2026-11-14T00:55:11.605Z"
   }
 ]
