@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-11-14T11:36:41.066Z",
+  "generated_at": "2026-11-14T18:17:21.288Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 42
+    "familiar": 8,
+    "discovery": 35
   },
   "items": [
     {
-      "id": "st-satoshi-era-wallet-served-in",
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "id": "st-ethereum-scaling-project-meg",
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-britain-could-turn-wasted-sc",
+      "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,17 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-u-s-senate-banking-committee",
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bitcoin-hits-12-week-low-as",
-      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+      "id": "st-satoshi-era-wallet-served-in",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -78,13 +78,40 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-6-billion-cryptocurrency-hei",
-      "title": "$6 billion cryptocurrency heist puts investors on edge",
-      "category": "Regulation and policy",
+      "id": "st-bitcoin-slides-to-3-month-lo",
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-kazakhstan-plans-tokenized-g",
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uk-singapore-and-thailand-ce",
+      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-a-behind-the-scenes-force-ma",
+      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-bitcoin-miners-pay-paraguay",
@@ -96,38 +123,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-plunges-to-68-000-as",
-      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-transportation-secretary-bla",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-heads-for-sixth-week",
-      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-kraken-parent-payward-says-e",
-      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-s-momentum-gauge-is",
-      "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-the-ai-graveyard-a-running-l",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -144,42 +153,6 @@
       "id": "st-this-young-startup-wants-to",
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-agent-startup-langchain-h",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-export-banned-nvidia-chips-a",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chatgpt-s-new-wallet-lets-ai",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-unfolding-jensen-huang-s",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -294,37 +267,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-how-you-can-save-on-y",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "id": "st-the-openai-board-member-who",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cmf-s-milk-carton-shaped-blu",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "category": "Markets and business",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chatgpt-wallet-lets-openai-s",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-smallest-version-of-camp",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -339,19 +285,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-you-can-adjust-the-position",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "category": "Products and applications",
+      "id": "st-the-largest-crypto-heist-in",
+      "title": "The Largest Crypto Heist in History Could Have Been Avoided",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jensen-huang-was-reckless-wi",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,24 +348,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-exploring-how-autistic-indiv",
-      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-saint-vincent-college-approv",
-      "title": "Saint Vincent College approves new artificial intelligence minor",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-doe-explains-artificial-inte",
       "title": "DOE Explains...Artificial Intelligence",
       "category": "Products and applications",
@@ -460,6 +379,15 @@
       "title": "4 ways to invest in cryptocurrency stocks",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-three-essays-on-artificial-i",
+      "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
