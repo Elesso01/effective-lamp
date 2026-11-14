@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-satoshi-era-wallet-served-in",
+    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-14T04:30:00.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "type": "News",
+    "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-14T11:36:39.801Z"
+  },
+  {
     "id": "st-bitcoin-miners-pay-paraguay",
     "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.533Z"
+    "imported_at": "2026-11-14T11:36:39.801Z"
   },
   {
     "id": "st-bitcoin-plunges-to-68-000-as",
@@ -29,7 +45,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
+    "imported_at": "2026-11-14T11:36:39.801Z"
   },
   {
     "id": "st-u-s-senate-banking-committee",
@@ -45,7 +61,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
+    "imported_at": "2026-11-14T11:36:39.801Z"
   },
   {
     "id": "st-bitcoin-heads-for-sixth-week",
@@ -61,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
+    "imported_at": "2026-11-14T11:36:39.801Z"
   },
   {
     "id": "st-kraken-parent-payward-says-e",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
+    "imported_at": "2026-11-14T11:36:39.802Z"
   },
   {
     "id": "st-bitcoin-s-momentum-gauge-is",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
+    "imported_at": "2026-11-14T11:36:39.802Z"
   },
   {
     "id": "st-bitcoin-hits-12-week-low-as",
@@ -109,23 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
-  },
-  {
-    "id": "st-live-updates-bitcoin-eyes-be",
-    "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-13T09:16:58.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-    "type": "News",
-    "summary": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-14T00:55:10.534Z"
+    "imported_at": "2026-11-14T11:36:39.802Z"
   },
   {
     "id": "st-amazon-s-new-kindle-colorsof",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-jensen-huang-s-departure-bla",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-this-young-startup-wants-to",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-ai-agent-startup-langchain-h",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-export-banned-nvidia-chips-a",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-chatgpt-s-new-wallet-lets-ai",
@@ -221,7 +221,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-the-unfolding-jensen-huang-s",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.182Z"
+    "imported_at": "2026-11-14T11:36:40.061Z"
   },
   {
     "id": "st-shield-helps-technicians-han",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.034Z"
+    "imported_at": "2026-11-14T11:36:39.992Z"
   },
   {
     "id": "st-how-amplitude-ships-product",
@@ -269,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.034Z"
+    "imported_at": "2026-11-14T11:36:39.992Z"
   },
   {
     "id": "st-gondola-doubles-revenue-as-i",
@@ -285,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.034Z"
+    "imported_at": "2026-11-14T11:36:39.992Z"
   },
   {
     "id": "st-supporting-research-on-ai-an",
@@ -301,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.034Z"
+    "imported_at": "2026-11-14T11:36:39.992Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -317,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.034Z"
+    "imported_at": "2026-11-14T11:36:39.992Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -333,7 +333,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-14T00:55:11.034Z"
+    "imported_at": "2026-11-14T11:36:39.992Z"
+  },
+  {
+    "id": "st-microsoft-confirms-global-ou",
+    "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-14T10:34:06.000Z",
+    "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T11:36:39.874Z"
+  },
+  {
+    "id": "st-megaeth-parent-cuts-20-of-st",
+    "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-14T08:12:30.000Z",
+    "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T11:36:39.874Z"
+  },
+  {
+    "id": "st-bitcoin-etfs-shed-2-35b-in-2",
+    "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-14T06:33:13.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-14T11:36:39.875Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -349,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
+    "imported_at": "2026-11-14T11:36:39.875Z"
   },
   {
     "id": "st-openai-launches-ai-payments",
@@ -365,7 +413,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
+    "imported_at": "2026-11-14T11:36:39.875Z"
   },
   {
     "id": "st-adam-back-makes-case-for-sim",
@@ -381,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
+    "imported_at": "2026-11-14T11:36:39.875Z"
   },
   {
     "id": "st-kraken-parent-payward-gains",
@@ -397,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
+    "imported_at": "2026-11-14T11:36:39.875Z"
   },
   {
     "id": "st-us-regulators-move-ahead-on",
@@ -413,55 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
-  },
-  {
-    "id": "st-metaplanet-swings-to-170m-lo",
-    "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T18:28:29.000Z",
-    "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
-    "category": "Startups and companies",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
-  },
-  {
-    "id": "st-bitcoin-holds-below-70k-as-s",
-    "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T16:39:11.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
-  },
-  {
-    "id": "st-arthur-hayes-flattered-as-co",
-    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T13:41:26.000Z",
-    "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-14T00:55:10.714Z"
+    "imported_at": "2026-11-14T11:36:39.875Z"
   },
   {
     "id": "st-here-s-how-you-can-save-on-y",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.204Z"
+    "imported_at": "2026-11-14T11:36:40.943Z"
   },
   {
     "id": "st-cmf-s-milk-carton-shaped-blu",
@@ -493,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.204Z"
+    "imported_at": "2026-11-14T11:36:40.943Z"
   },
   {
     "id": "st-chatgpt-wallet-lets-openai-s",
@@ -509,7 +509,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.204Z"
+    "imported_at": "2026-11-14T11:36:40.943Z"
   },
   {
     "id": "st-the-smallest-version-of-camp",
@@ -525,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.204Z"
+    "imported_at": "2026-11-14T11:36:40.943Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -541,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
     "id": "st-you-can-adjust-the-position",
@@ -557,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.204Z"
+    "imported_at": "2026-11-14T11:36:40.943Z"
   },
   {
     "id": "st-jensen-huang-was-reckless-wi",
@@ -573,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.204Z"
+    "imported_at": "2026-11-14T11:36:40.943Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -589,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -605,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -621,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.013Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
   },
   {
     "id": "st-fbi-s-la-field-office-warns",
@@ -637,23 +637,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
-    "id": "st-fbi-says-us-seized-1-2-billi",
-    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-    "source": "SecurityWeek",
-    "sourceId": "rss-securityweek",
+    "id": "st-us-seizes-north-korean-hacki",
+    "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+    "source": "CyberScoop",
+    "sourceId": "rss-cyberscoop",
     "author": "Google News (crypto)",
-    "published_at": "2026-11-13T02:28:21.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMm1Za3hNSDl4UTJGUzhXTnNKY2pZRGRUV2JPQTVOOHpLOXhOV3hBRnY1S19JWnpoOG1HdFJFbU1jeThweWltaDlQWWZ4MXNUMEFNM2Z5cm54YkZ6RFBTQWE3Wk9waDRib1RKaHMwSlFjVjBQRVk0ZkpLTnRfd0ZqUi04QzctX1BjUUtDQzkyVXh2bW9wb1J5REtpRzFXdzQya0t6V21aaw?oc=5",
+    "published_at": "2026-11-13T00:36:42.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY19zVThhV3ZURzJ5Z1g1eUE2UFFSd196ay1ZUmw1ZEVkUGtBMzVtZHdqdjhERmRlSHQzZDFNajJ0bWRsNGhvS0dUM3c1d1hlM1FPeDMtakpBRGQ0WlpQMFVrZUVVbHJoWXF6ZXRyUW9XbG8tSkRDNVhqYzg0LVBsRWhR?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMm1Za3hNSDl4UTJGUzhXTnNKY2pZRGRUV2JPQTVOOHpLOXhOV3hBRnY1S19JWnpoOG1HdFJFbU1jeThweWltaDlQWWZ4MXNUMEFNM2Z5cm54YkZ6RFBTQWE3Wk9waDRib1RKaHMwSlFjVjBQRVk0ZkpLTnRfd0ZqUi04QzctX1BjUUtDQzkyVXh2bW9wb1J5REtpRzFXdzQya0t6V21aaw?oc=",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY19zVThhV3ZURzJ5Z1g1eUE2UFFSd196ay1ZUmw1ZEVkUGtBMzVtZHdqdjhERmRlSHQzZDFNajJ0bWRsNGhvS0dUM3c1d1hlM1FPeDMtakpBRGQ0WlpQMFVrZUVVbHJoWXF6ZXRyUW9XbG8tSkRDNVhqYzg0LVBsRWhR?oc=5\" target=\"_blank\">US seizes North Korean hacking ",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.606Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -669,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
     "id": "st-associate-professor-finds-ag",
@@ -685,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.013Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -701,7 +701,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.012Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
+  },
+  {
+    "id": "st-exploring-how-autistic-indiv",
+    "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence",
+    "source": "SBU News",
+    "sourceId": "rss-sbu-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-11T20:37:35.000Z",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-14T11:36:40.814Z"
   },
   {
     "id": "st-saint-vincent-college-approv",
@@ -717,23 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.013Z"
-  },
-  {
-    "id": "st-financing-artificial-intelli",
-    "title": "Financing Artificial Intelligence: Cash, Debt, and Corporate Investment",
-    "source": "Federal Reserve Bank of St. Louis",
-    "sourceId": "rss-federal-reserve-bank-of-st-louis",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-10T19:40:25.000Z",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFVFWFNiUmVHOHM0M0ZjOGtKQkR6YkdLUUFfYWw1ay05SEd6TmR1RzJmaVJqd25sekVpZWsxeGFMVjI1Z3A1anItajFtTFJtQlZGUXB4M2xaU2paV25aczY4bzROYUp6YXRCUUNWOVloRFVXYjl4QXh0c212Ui0xWldXckp3bjlwZHViUTlobXlEaEhub2s3QlFLQVhIaWN6TVg0QjlScDlfQ1dGanFFdDB2Rk1wanZrM2FBcw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFVFWFNiUmVHOHM0M0ZjOGtKQkR6YkdLUUFfYWw1ay05SEd6TmR1RzJmaVJqd25sekVpZWsxeGFMVjI1Z3A1anItajFtTFJtQlZGUXB4M2xaU2paV25aczY4bzROYUp6YXRCUUNWOVloRFVXYjl4QXh0c212Ui0xWldXckp3bjlwZHViUTlobXlEaEhub2s3QlFLQVhIaWN6TVg0QjlScDlfQ1",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.013Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
   },
   {
     "id": "st-doe-explains-artificial-inte",
@@ -749,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.012Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
   },
   {
     "id": "st-faculty-member-addresses-art",
@@ -765,7 +765,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.013Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -781,7 +781,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:12.012Z"
+    "imported_at": "2026-11-14T11:36:40.814Z"
+  },
+  {
+    "id": "st-4-ways-to-invest-in-cryptocu",
+    "title": "4 ways to invest in cryptocurrency stocks",
+    "source": "Britannica",
+    "sourceId": "rss-britannica",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-10T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5\" target=\"_blank\">4 ways to invest in cryptocurrency stocks</a>&nbsp;&nbsp;<font color=\"#6",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-14T11:36:40.425Z"
   },
   {
     "id": "st-6-billion-cryptocurrency-hei",
@@ -797,22 +813,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
-  },
-  {
-    "id": "st-today-s-crypto-news-bitcoin",
-    "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-    "source": "Investing News Network",
-    "sourceId": "rss-investing-news-network",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-09T20:05:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5\" target=\"_blank\">Today's Crypto News: Bitcoin, Ether and Altcoin Insights</a>&nbsp;&nbsp;",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-14T00:55:11.605Z"
+    "imported_at": "2026-11-14T11:36:40.425Z"
   }
 ]

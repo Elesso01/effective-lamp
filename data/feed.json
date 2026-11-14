@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-14T00:55:12.283Z",
+  "generated_at": "2026-11-14T11:36:41.066Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 43
+    "familiar": 9,
+    "discovery": 42
   },
   "items": [
+    {
+      "id": "st-satoshi-era-wallet-served-in",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-u-s-senate-banking-committee",
       "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
@@ -60,8 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-fbi-says-us-seized-1-2-billi",
-      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+      "id": "st-us-seizes-north-korean-hacki",
+      "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
@@ -116,15 +125,6 @@
     {
       "id": "st-bitcoin-s-momentum-gauge-is",
       "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-live-updates-bitcoin-eyes-be",
-      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -240,6 +240,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-microsoft-confirms-global-ou",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-megaeth-parent-cuts-20-of-st",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-etfs-shed-2-35b-in-2",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-openai-launches-ai-payments",
       "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
       "category": "Crypto and AI intersections",
@@ -262,33 +289,6 @@
       "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
       "category": "Markets and business",
       "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-metaplanet-swings-to-170m-lo",
-      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-      "category": "Startups and companies",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-holds-below-70k-as-s",
-      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-arthur-hayes-flattered-as-co",
-      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -411,8 +411,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-saint-vincent-college-approv",
-      "title": "Saint Vincent College approves new artificial intelligence minor",
+      "id": "st-exploring-how-autistic-indiv",
+      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -420,8 +420,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-financing-artificial-intelli",
-      "title": "Financing Artificial Intelligence: Cash, Debt, and Corporate Investment",
+      "id": "st-saint-vincent-college-approv",
+      "title": "Saint Vincent College approves new artificial intelligence minor",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -456,8 +456,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
