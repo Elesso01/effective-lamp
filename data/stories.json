@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-crypto-insiders-aren-t-count",
+    "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-15T14:00:00.000Z",
+    "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+    "type": "News",
+    "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-15T15:43:24.567Z"
+  },
+  {
     "id": "st-xrp-crashes-to-its-lowest-si",
     "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-bitcoin-crashes-to-3-month-l",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-ethereum-scaling-project-meg",
@@ -45,7 +61,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-kazakhstan-plans-tokenized-g",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-uk-singapore-and-thailand-ce",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-britain-could-turn-wasted-sc",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-a-behind-the-scenes-force-ma",
@@ -109,23 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
-  },
-  {
-    "id": "st-satoshi-era-wallet-served-in",
-    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-14T04:30:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-    "type": "News",
-    "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-15T06:48:25.993Z"
+    "imported_at": "2026-11-15T15:43:24.567Z"
   },
   {
     "id": "st-transportation-secretary-bla",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.315Z"
+    "imported_at": "2026-11-15T15:43:24.829Z"
   },
   {
     "id": "st-the-ai-graveyard-a-running-l",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.315Z"
+    "imported_at": "2026-11-15T15:43:24.829Z"
   },
   {
     "id": "st-amazon-s-new-kindle-colorsof",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.315Z"
+    "imported_at": "2026-11-15T15:43:24.829Z"
   },
   {
     "id": "st-shield-helps-technicians-han",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.210Z"
+    "imported_at": "2026-11-15T15:43:24.782Z"
   },
   {
     "id": "st-how-amplitude-ships-product",
@@ -205,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.210Z"
+    "imported_at": "2026-11-15T15:43:24.782Z"
   },
   {
     "id": "st-gondola-doubles-revenue-as-i",
@@ -221,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.210Z"
+    "imported_at": "2026-11-15T15:43:24.782Z"
   },
   {
     "id": "st-supporting-research-on-ai-an",
@@ -237,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.210Z"
+    "imported_at": "2026-11-15T15:43:24.782Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -253,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.210Z"
+    "imported_at": "2026-11-15T15:43:24.782Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -269,7 +269,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T06:48:26.210Z"
+    "imported_at": "2026-11-15T15:43:24.782Z"
+  },
+  {
+    "id": "st-enterprise-blockchain-is-goi",
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-15T14:30:00.000Z",
+    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-15T15:43:24.637Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -277,7 +293,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-14T11:28:12.000Z",
+    "published_at": "2026-11-15T11:18:48.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -285,7 +301,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.047Z"
+    "imported_at": "2026-11-15T15:43:24.637Z"
+  },
+  {
+    "id": "st-bitcoin-falls-to-four-month",
+    "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-15T10:23:17.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-15T15:43:24.637Z"
+  },
+  {
+    "id": "st-coinone-warns-of-phishing-id",
+    "title": "Coinone warns of phishing, identity theft after customer data breach",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-15T08:07:58.000Z",
+    "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-15T15:43:24.637Z"
   },
   {
     "id": "st-microsoft-confirms-global-ou",
@@ -301,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.047Z"
+    "imported_at": "2026-11-15T15:43:24.637Z"
   },
   {
     "id": "st-megaeth-parent-cuts-20-of-st",
@@ -317,7 +365,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.048Z"
+    "imported_at": "2026-11-15T15:43:24.637Z"
   },
   {
     "id": "st-bitcoin-etfs-shed-2-35b-in-2",
@@ -333,55 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.048Z"
-  },
-  {
-    "id": "st-openai-launches-ai-payments",
-    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T22:01:03.000Z",
-    "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.048Z"
-  },
-  {
-    "id": "st-adam-back-makes-case-for-sim",
-    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T21:49:27.000Z",
-    "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.048Z"
-  },
-  {
-    "id": "st-kraken-parent-payward-gains",
-    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-13T21:01:39.000Z",
-    "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-15T06:48:26.048Z"
+    "imported_at": "2026-11-15T15:43:24.637Z"
   },
   {
     "id": "st-advocacy-groups-sue-to-stop",
@@ -397,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-watch-spacex-successfully-ex",
@@ -413,7 +413,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.248Z"
+    "imported_at": "2026-11-15T15:43:25.780Z"
+  },
+  {
+    "id": "st-lg-s-budget-friendly-b6e-ole",
+    "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-14T14:51:30.000Z",
+    "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+    "type": "News",
+    "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time ",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-15T15:43:25.780Z"
   },
   {
     "id": "st-the-openai-board-member-who",
@@ -429,7 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.248Z"
+    "imported_at": "2026-11-15T15:43:25.780Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -445,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-the-largest-crypto-heist-in",
@@ -461,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -477,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -493,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -509,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-fbi-s-la-field-office-warns",
@@ -525,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -541,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-associate-professor-finds-ag",
@@ -557,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-doe-explains-artificial-inte",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-faculty-member-addresses-art",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   },
   {
     "id": "st-4-ways-to-invest-in-cryptocu",
@@ -637,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-6-billion-cryptocurrency-hei",
@@ -653,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:26.741Z"
+    "imported_at": "2026-11-15T15:43:25.242Z"
   },
   {
     "id": "st-three-essays-on-artificial-i",
@@ -669,6 +685,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T06:48:27.145Z"
+    "imported_at": "2026-11-15T15:43:25.664Z"
   }
 ]
