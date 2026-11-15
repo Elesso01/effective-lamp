@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T15:43:25.854Z",
+  "generated_at": "2026-11-15T21:05:57.612Z",
   "mix": {
-    "familiar": 5,
-    "discovery": 38
+    "familiar": 6,
+    "discovery": 37
   },
   "items": [
     {
@@ -33,6 +33,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-congress-wants-to-tighten-ex",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-u-s-seizes-1-2-billion-in-cr",
       "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
       "category": "Regulation and policy",
@@ -42,13 +51,22 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-6-billion-cryptocurrency-hei",
-      "title": "$6 billion cryptocurrency heist puts investors on edge",
+      "id": "st-us-seizes-north-korean-hacki",
+      "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-did-prediction-markets-call",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-crypto-insiders-aren-t-count",
@@ -96,37 +114,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-behind-the-scenes-force-ma",
-      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "category": "Markets and business",
+      "id": "st-techcrunch-mobility-the-nvid",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-tech-products-we-enthusi",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-transportation-secretary-bla",
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-ai-graveyard-a-running-l",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-s-new-kindle-colorsof",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -240,6 +240,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-vulcan-rocket-fails-destroyi",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-s-first-smart-glasses",
+      "title": "Apple’s first smart glasses are coming together",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-advocacy-groups-sue-to-stop",
       "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers",
       "category": "Products and applications",
@@ -249,26 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-watch-spacex-successfully-ex",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-lg-s-budget-friendly-b6e-ole",
       "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-openai-board-member-who",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
