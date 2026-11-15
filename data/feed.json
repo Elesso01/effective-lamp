@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T23:58:44.714Z",
+  "generated_at": "2026-11-15T06:48:27.317Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 35
+    "familiar": 6,
+    "discovery": 36
   },
   "items": [
     {
@@ -33,26 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-jensen-huang-s-departure-bla",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-us-regulators-move-ahead-on",
-      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -69,15 +51,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cryptocurrency-regulation-a",
-      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-6-billion-cryptocurrency-hei",
       "title": "$6 billion cryptocurrency heist puts investors on edge",
       "category": "Regulation and policy",
@@ -87,8 +60,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-xrp-crashes-to-its-lowest-si",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-crashes-to-3-month-l",
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -118,15 +100,6 @@
       "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-miners-pay-paraguay",
-      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -267,6 +240,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-advocacy-groups-sue-to-stop",
+      "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-watch-spacex-successfully-ex",
       "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
       "category": "Products and applications",
@@ -384,10 +366,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-best-ai-stocks-to-buy-in-202",
-      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest",
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
       "category": "Markets and business",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
