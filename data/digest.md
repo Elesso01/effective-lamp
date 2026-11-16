@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-16
 
-6 stories briefed · feed mix 6 familiar / 39 discovery.
+6 stories briefed · feed mix 6 familiar / 43 discovery.
 
 ## Top stories
-1. **Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000** (Markets and business · CoinDesk) — A top crypto development today
-2. **Here’s what happened in crypto today** (Regulation and policy · Cointelegraph) — A top crypto development today
-3. **Trump administration to name Nvidia, OpenAI and several others as AI national champions** (Products and applications · CoinDesk) — A top AI development today
-4. **Asian chip stocks tumble ahead of Nvidia Q3 earnings** (Markets and business · Cointelegraph) — A top AI development today
-5. **Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack** (Crypto and AI intersections · Cointelegraph) — A major development affecting both AI and blockchain
-6. **Aster CEO suspects foul play after token plunges 32% in minutes** (Markets and business · Cointelegraph) — Outside your usual reads — worth a skim
+1. **Lighter suspends all withdrawals after $10.4 million crypto exploit** (Security and privacy · CoinDesk) — A top crypto development today
+2. **Brazil's central bank faces backlash over stablecoin money laundering remarks** (Markets and business · CoinDesk) — A top crypto development today
+3. **Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion** (Regulation and policy · TechCrunch) — A top AI development today
+4. **Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’** (Products and applications · TechCrunch) — A top AI development today
+5. **Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **German parliament proposes crypto seizures without criminal charges** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Aster CEO suspects foul play after token plunges 32% in minutes.
+- Discovery pick of the week: German parliament proposes crypto seizures without criminal charges.
 
 _News, not investment advice._

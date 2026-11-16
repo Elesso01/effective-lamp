@@ -1,5 +1,22 @@
 {
-  "generated_at": "2026-11-16T06:48:13.938Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-11-16T18:40:41.352Z",
+  "count": 2,
+  "alerts": [
+    {
+      "id": "st-lighter-suspends-all-withdra",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+      "category": "Security and privacy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-16T16:41:42.000Z",
+      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit"
+    },
+    {
+      "id": "st-bitcoin-slips-after-reboundi",
+      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-16T11:03:14.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush"
+    }
+  ]
 }

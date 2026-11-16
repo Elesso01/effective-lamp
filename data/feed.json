@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-11-16T06:48:13.914Z",
+  "generated_at": "2026-11-16T18:40:41.294Z",
   "mix": {
     "familiar": 6,
-    "discovery": 39
+    "discovery": 43
   },
   "items": [
     {
-      "id": "st-ethereum-scaling-project-meg",
-      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-bitcoin-slips-after-reboundi",
+      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
       "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-tesla-goes-all-in-on-the-cyb",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -20,24 +29,6 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-listen-to-this-armand-hammer",
-      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-congress-wants-to-tighten-ex",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -60,71 +51,89 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-trump-administration-to-name",
-      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-lighter-suspends-all-withdra",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-brazil-s-central-bank-faces",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-german-parliament-proposes-c",
+      "title": "German parliament proposes crypto seizures without criminal charges",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-solana-drops-beta-label-afte",
+      "title": "Solana drops ‘beta’ label after more than six years",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-old-crypto-feud-reignites-wh",
+      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-was-supposed-to-gain",
+      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sam-altman-on-nvidia-without",
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-s-biggest-bet-is-now",
-      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-did-prediction-markets-call",
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-crypto-insiders-aren-t-count",
-      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-xrp-crashes-to-its-lowest-si",
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-crashes-to-3-month-l",
-      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-launches-new-app-to-st",
-      "title": "Apple launches new app to study how people use AI for health",
-      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-indian-chip-startup-bharat-s",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "id": "st-fbi-says-artex-ai-open-sourc",
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-jordan-belfort-s-new-ai-voic",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -132,71 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-step-toward-defining-the-s",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-is-bad-news-for-jensen-huang",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-mobility-the-nvid",
-      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-tech-products-we-enthusi",
-      "title": "The tech products we enthusiastically recommend this holiday season",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-shield-helps-technicians-han",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-amplitude-ships-product",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-gondola-doubles-revenue-as-i",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-supporting-research-on-ai-an",
-      "title": "Supporting research on AI and children’s safety",
+      "id": "st-openai-will-embed-safety-res",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
       "category": "Research and development",
       "bucket": "ai",
       "score": 8,
@@ -204,26 +150,98 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-aster-ceo-suspects-foul-play",
-      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-asian-chip-stocks-tumble-ahe",
-      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-      "category": "Markets and business",
+      "id": "st-broadening-access-to-ai-for",
+      "title": "Broadening access to AI for scientists",
+      "category": "Research and development",
       "bucket": "ai",
-      "score": 7.5,
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-luxor-ceo-warns-of-ai-dark-f",
-      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "id": "st-strengthening-the-fight-agai",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-releases-a-new-image",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-instagram-now-lets-creators",
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-serena-williams-winds-down-h",
+      "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-science-at-the-frontier-how",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-lvmh-s-media-division-announ",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-our-first-phase-of-embedded",
+      "title": "Our first phase of embedded assessments",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-more-ways-to-move-care-forwa",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-king-s-trust-and-openai",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-nvidia-turmoil-tests-bitcoin",
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 7.5,
@@ -231,8 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-sellers-drive-bitcoin-cra",
-      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "id": "st-safe-wallet-reportedly-loses",
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,8 +258,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-enterprise-blockchain-is-goi",
-      "title": "Enterprise blockchain is going to come back from the dead",
+      "id": "st-bitcoin-price-fails-to-hold",
+      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-zelle-picks-solana-for-zelle",
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -249,8 +276,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-falls-to-4-month-low",
-      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
+      "id": "st-banks-are-banning-ai-agents",
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-strategy-buys-33m-in-bitcoin",
+      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -258,17 +294,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-new-study-looks-to-i",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "category": "Research and development",
+      "id": "st-sony-s-playstation-5-accesso",
+      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-vulcan-rocket-fails-destroyi",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "id": "st-the-verge-s-guide-to-the-bes",
+      "title": "The Verge’s guide to the best gifts under $100",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -276,10 +312,37 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-s-first-smart-glasses",
-      "title": "Apple’s first smart glasses are coming together",
+      "id": "st-why-nj-s-governor-thinks-rep",
+      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-tv-is-getting-video-po",
+      "title": "Apple TV is getting video podcasts you can watch for free",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-to-build-an-artificial-i",
+      "title": "How to Build an Artificial Intelligence Revolution for All",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-states-cities-move-to-ban-cr",
+      "title": "States, cities move to ban cryptocurrency kiosks as scams mount",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -330,10 +393,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fbi-s-la-field-office-warns",
-      "title": "FBI's LA Field Office warns of ‘FaceStealer' cryptocurrency theft scheme",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-q-a-leveraging-artificial-in",
+      "title": "Q&A: Leveraging artificial intelligence to propel engineering education",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,35 +438,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-faculty-member-addresses-art",
-      "title": "Faculty member addresses artificial intelligence practically and theoretically",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-artificial-intelligence-is-d",
       "title": "Artificial intelligence is desperately seeking its narrative",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-three-essays-on-artificial-i",
-      "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
