@@ -1,5 +1,21 @@
 [
   {
+    "id": "st-did-prediction-markets-call",
+    "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-15T19:30:00.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+    "type": "News",
+    "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-15T21:05:56.255Z"
+  },
+  {
     "id": "st-crypto-insiders-aren-t-count",
     "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
     "source": "CoinDesk",
@@ -13,7 +29,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
     "id": "st-xrp-crashes-to-its-lowest-si",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
     "id": "st-bitcoin-crashes-to-3-month-l",
@@ -45,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
     "id": "st-ethereum-scaling-project-meg",
@@ -61,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
     "id": "st-kazakhstan-plans-tokenized-g",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
     "id": "st-uk-singapore-and-thailand-ce",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
     "id": "st-britain-could-turn-wasted-sc",
@@ -109,71 +125,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
+    "imported_at": "2026-11-15T21:05:56.255Z"
   },
   {
-    "id": "st-a-behind-the-scenes-force-ma",
-    "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-14T12:57:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+    "id": "st-techcrunch-mobility-the-nvid",
+    "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-15T17:05:00.000Z",
+    "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
     "type": "News",
-    "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
-    "category": "Markets and business",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-15T21:05:56.495Z"
+  },
+  {
+    "id": "st-the-tech-products-we-enthusi",
+    "title": "The tech products we enthusiastically recommend this holiday season",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-15T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+    "type": "News",
+    "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-15T15:43:24.567Z"
-  },
-  {
-    "id": "st-transportation-secretary-bla",
-    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-14T17:45:04.000Z",
-    "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-    "type": "News",
-    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.829Z"
-  },
-  {
-    "id": "st-the-ai-graveyard-a-running-l",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-14T17:30:00.000Z",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "type": "News",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.829Z"
-  },
-  {
-    "id": "st-amazon-s-new-kindle-colorsof",
-    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-13T23:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-    "type": "News",
-    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.829Z"
+    "imported_at": "2026-11-15T21:05:56.495Z"
   },
   {
     "id": "st-shield-helps-technicians-han",
@@ -189,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.782Z"
+    "imported_at": "2026-11-15T21:05:56.451Z"
   },
   {
     "id": "st-how-amplitude-ships-product",
@@ -205,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.782Z"
+    "imported_at": "2026-11-15T21:05:56.451Z"
   },
   {
     "id": "st-gondola-doubles-revenue-as-i",
@@ -221,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.782Z"
+    "imported_at": "2026-11-15T21:05:56.451Z"
   },
   {
     "id": "st-supporting-research-on-ai-an",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.782Z"
+    "imported_at": "2026-11-15T21:05:56.451Z"
   },
   {
     "id": "st-gilbert-tobin-rethinks-the-b",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.782Z"
+    "imported_at": "2026-11-15T21:05:56.451Z"
   },
   {
     "id": "st-chatgpt-plus-for-veterans-an",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-15T15:43:24.782Z"
+    "imported_at": "2026-11-15T21:05:56.451Z"
   },
   {
     "id": "st-enterprise-blockchain-is-goi",
@@ -285,7 +269,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -301,7 +285,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
   },
   {
     "id": "st-bitcoin-falls-to-four-month",
@@ -317,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
   },
   {
     "id": "st-coinone-warns-of-phishing-id",
@@ -333,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
   },
   {
     "id": "st-microsoft-confirms-global-ou",
@@ -349,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
   },
   {
     "id": "st-megaeth-parent-cuts-20-of-st",
@@ -365,7 +349,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
   },
   {
     "id": "st-bitcoin-etfs-shed-2-35b-in-2",
@@ -381,7 +365,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-15T15:43:24.637Z"
+    "imported_at": "2026-11-15T21:05:56.310Z"
+  },
+  {
+    "id": "st-vulcan-rocket-fails-destroyi",
+    "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-15T21:05:02.000Z",
+    "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "type": "News",
+    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a smal",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-15T21:05:57.527Z"
+  },
+  {
+    "id": "st-congress-wants-to-tighten-ex",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-15T19:15:43.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "type": "News",
+    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules ",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-15T21:05:57.527Z"
+  },
+  {
+    "id": "st-apple-s-first-smart-glasses",
+    "title": "Apple’s first smart glasses are coming together",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-15T16:59:16.000Z",
+    "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+    "type": "News",
+    "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-15T21:05:57.527Z"
   },
   {
     "id": "st-advocacy-groups-sue-to-stop",
@@ -397,23 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
-  },
-  {
-    "id": "st-watch-spacex-successfully-ex",
-    "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-14T21:44:44.000Z",
-    "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-    "type": "News",
-    "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.780Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-lg-s-budget-friendly-b6e-ole",
@@ -429,23 +445,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.780Z"
-  },
-  {
-    "id": "st-the-openai-board-member-who",
-    "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-14T00:06:40.000Z",
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "type": "News",
-    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is pe",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.780Z"
+    "imported_at": "2026-11-15T21:05:57.527Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -461,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-the-largest-crypto-heist-in",
@@ -477,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -493,7 +493,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -509,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -525,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-fbi-s-la-field-office-warns",
@@ -541,7 +541,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
+  },
+  {
+    "id": "st-us-seizes-north-korean-hacki",
+    "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+    "source": "CyberScoop",
+    "sourceId": "rss-cyberscoop",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-13T00:36:42.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY19zVThhV3ZURzJ5Z1g1eUE2UFFSd196ay1ZUmw1ZEVkUGtBMzVtZHdqdjhERmRlSHQzZDFNajJ0bWRsNGhvS0dUM3c1d1hlM1FPeDMtakpBRGQ0WlpQMFVrZUVVbHJoWXF6ZXRyUW9XbG8tSkRDNVhqYzg0LVBsRWhR?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY19zVThhV3ZURzJ5Z1g1eUE2UFFSd196ay1ZUmw1ZEVkUGtBMzVtZHdqdjhERmRlSHQzZDFNajJ0bWRsNGhvS0dUM3c1d1hlM1FPeDMtakpBRGQ0WlpQMFVrZUVVbHJoWXF6ZXRyUW9XbG8tSkRDNVhqYzg0LVBsRWhR?oc=5\" target=\"_blank\">US seizes North Korean hacking ",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -557,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-associate-professor-finds-ag",
@@ -573,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -589,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-doe-explains-artificial-inte",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-faculty-member-addresses-art",
@@ -621,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -637,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   },
   {
     "id": "st-4-ways-to-invest-in-cryptocu",
@@ -653,23 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
-  },
-  {
-    "id": "st-6-billion-cryptocurrency-hei",
-    "title": "$6 billion cryptocurrency heist puts investors on edge",
-    "source": "PBS",
-    "sourceId": "rss-pbs",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-10T00:45:10.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWGJnaEliY2V2cUZnckRuZ3hn?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTNnMFdZOE41T3NUNzY1ODBRVS1sR0REVUpRSzBPTjV5ejhkbExOY3QtdlhzWDNEV3RkanBsYzNnRVJpTEREb0Z0Xzc1dk0yMDJXTzZLVjdMQVFNc2k5NXhnbXYxYlFMLVdndzMtN3h4Qy03OWdQckNIOUNMR1JUQ2Rjbm1NOGVDMVpWbGJrcHllRFZtZml1MnVDbUpUQzhFSWFlUlY5bTBCWG",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.242Z"
+    "imported_at": "2026-11-15T21:05:56.915Z"
   },
   {
     "id": "st-three-essays-on-artificial-i",
@@ -685,6 +685,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-15T15:43:25.664Z"
+    "imported_at": "2026-11-15T21:05:57.356Z"
   }
 ]

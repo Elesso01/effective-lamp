@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-11-15
+# Weekly digest — week of 2026-11-16
 
-6 stories briefed · feed mix 6 familiar / 37 discovery.
+6 stories briefed · feed mix 6 familiar / 39 discovery.
 
 ## Top stories
-1. **Did prediction markets call the U.S. midterm election?: State of Crypto** (Markets and business · CoinDesk) — A top crypto development today
-2. **Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session** (Markets and business · CoinDesk) — A top crypto development today
-3. **TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry** (Products and applications · TechCrunch) — A top AI development today
-4. **Congress wants to tighten export rules on AI chips after Nvidia spy scandal** (Regulation and policy · The Verge) — A top AI development today
-5. **Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **The tech products we enthusiastically recommend this holiday season** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
+1. **Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000** (Markets and business · CoinDesk) — A top crypto development today
+2. **Here’s what happened in crypto today** (Regulation and policy · Cointelegraph) — A top crypto development today
+3. **Trump administration to name Nvidia, OpenAI and several others as AI national champions** (Products and applications · CoinDesk) — A top AI development today
+4. **Asian chip stocks tumble ahead of Nvidia Q3 earnings** (Markets and business · Cointelegraph) — A top AI development today
+5. **Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack** (Crypto and AI intersections · Cointelegraph) — A major development affecting both AI and blockchain
+6. **Aster CEO suspects foul play after token plunges 32% in minutes** (Markets and business · Cointelegraph) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: The tech products we enthusiastically recommend this holiday season.
+- Discovery pick of the week: Aster CEO suspects foul play after token plunges 32% in minutes.
 
 _News, not investment advice._
