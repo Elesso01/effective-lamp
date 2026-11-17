@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-11-16
+# Weekly digest — week of 2026-11-17
 
-6 stories briefed · feed mix 6 familiar / 43 discovery.
+6 stories briefed · feed mix 11 familiar / 37 discovery.
 
 ## Top stories
-1. **Lighter suspends all withdrawals after $10.4 million crypto exploit** (Security and privacy · CoinDesk) — A top crypto development today
-2. **Brazil's central bank faces backlash over stablecoin money laundering remarks** (Markets and business · CoinDesk) — A top crypto development today
-3. **Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion** (Regulation and policy · TechCrunch) — A top AI development today
-4. **Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’** (Products and applications · TechCrunch) — A top AI development today
-5. **Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **German parliament proposes crypto seizures without criminal charges** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid** (Markets and business · CoinDesk) — A top crypto development today
+2. **Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off** (Markets and business · CoinDesk) — A top crypto development today
+3. **Cybersecurity AI startup Corma reaches $1B valuation in about 3 months** (Regulation and policy · TechCrunch) — A top AI development today
+4. **U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans** (Regulation and policy · CoinDesk) — A top AI development today
+5. **Cyber giant Infoblox confirms security incident after hackers access ‘company information’** (Security and privacy · TechCrunch) — Outside your usual reads — worth a skim
+6. **Hackers inject credit card, crypto-stealing malware into 178 major websites** (Security and privacy · Cointelegraph) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: German parliament proposes crypto seizures without criminal charges.
+- Discovery pick of the week: Cyber giant Infoblox confirms security incident after hackers access ‘company information’.
 
 _News, not investment advice._

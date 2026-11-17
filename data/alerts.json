@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-16T18:40:41.352Z",
+  "generated_at": "2026-11-17T02:59:02.226Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-u-s-senate-democrats-tell-cf",
+      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-16T18:54:19.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans"
+    },
     {
       "id": "st-lighter-suspends-all-withdra",
       "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-11-16T16:41:42.000Z",
       "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit"
-    },
-    {
-      "id": "st-bitcoin-slips-after-reboundi",
-      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-16T11:03:14.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush"
     }
   ]
 }

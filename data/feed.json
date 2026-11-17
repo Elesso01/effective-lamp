@@ -1,25 +1,52 @@
 {
-  "generated_at": "2026-11-16T18:40:41.294Z",
+  "generated_at": "2026-11-17T02:59:02.200Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 43
+    "familiar": 11,
+    "discovery": 37
   },
   "items": [
     {
-      "id": "st-bitcoin-slips-after-reboundi",
-      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "id": "st-u-s-senate-democrats-tell-cf",
+      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-tesla-goes-all-in-on-the-cyb",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+      "id": "st-cybersecurity-ai-startup-cor",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-california-state-ag-sues-ope",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-custodia-bank-loses-supreme",
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-german-lawmakers-back-crypto",
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -29,6 +56,24 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-boris-johnson-says-uk-must-l",
+      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-california-sues-openai-over",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -58,6 +103,24 @@
       "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-former-robinhood-engineer-pl",
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-risks-falling-below",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-lighter-suspends-all-withdra",
@@ -105,26 +168,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-was-supposed-to-gain",
-      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sam-altman-on-nvidia-without",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fbi-says-artex-ai-open-sourc",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "id": "st-cyber-giant-infoblox-confirm",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 8,
@@ -132,19 +177,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-jordan-belfort-s-new-ai-voic",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "category": "Startups and companies",
+      "id": "st-apple-reveals-new-mac-securi",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-will-embed-safety-res",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "category": "Research and development",
-      "bucket": "ai",
+      "id": "st-uber-says-hackers-stole-info",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-apple-adds-face-unlock-to-th",
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "category": "Products and applications",
+      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -162,33 +216,6 @@
       "id": "st-strengthening-the-fight-agai",
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
       "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-releases-a-new-image",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-instagram-now-lets-creators",
-      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-serena-williams-winds-down-h",
-      "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
-      "category": "Products and applications",
       "bucket": "crypto",
       "score": 8,
       "familiar": false,
@@ -240,17 +267,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nvidia-turmoil-tests-bitcoin",
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-hackers-inject-credit-card-c",
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-safe-wallet-reportedly-loses",
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "id": "st-binance-hack-may-push-instit",
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitmine-edges-toward-5-of-et",
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -258,72 +294,27 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-price-fails-to-hold",
-      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-zelle-picks-solana-for-zelle",
-      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-      "category": "Markets and business",
+      "id": "st-hacker-behind-2022-gta-vi-le",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-banks-are-banning-ai-agents",
-      "title": "Banks are banning AI agents over security... and competition concerns",
+      "id": "st-sam-altman-says-he-wants-eve",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-strategy-buys-33m-in-bitcoin",
-      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sony-s-playstation-5-accesso",
-      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-verge-s-guide-to-the-bes",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-why-nj-s-governor-thinks-rep",
-      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apple-tv-is-getting-video-po",
-      "title": "Apple TV is getting video podcasts you can watch for free",
-      "category": "Products and applications",
+      "id": "st-in-get-huge-the-manosphere-i",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -393,15 +384,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-q-a-leveraging-artificial-in",
-      "title": "Q&A: Leveraging artificial intelligence to propel engineering education",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-facestealer-cryptocurrency-t",
       "title": "FaceStealer Cryptocurrency Theft Scheme | Federal Bureau of Investigation",
       "category": "Markets and business",
@@ -431,6 +413,15 @@
     {
       "id": "st-doe-explains-artificial-inte",
       "title": "DOE Explains...Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-faculty-member-addresses-art",
+      "title": "Faculty member addresses artificial intelligence practically and theoretically",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
