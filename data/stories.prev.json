@@ -1,131 +1,147 @@
 [
   {
-    "id": "st-former-robinhood-engineer-pl",
-    "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+    "id": "st-ethereum-s-glamsterdam-upgra",
+    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-16T21:51:04.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+    "published_at": "2026-11-17T13:02:56.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
     "type": "News",
-    "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+    "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.748Z"
+    "imported_at": "2026-11-17T13:37:26.233Z"
   },
   {
-    "id": "st-bitcoin-risks-falling-below",
-    "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+    "id": "st-decentralized-exchange-grvt",
+    "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-16T20:35:21.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "published_at": "2026-11-17T13:00:00.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
     "type": "News",
-    "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
+    "summary": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
+    "category": "Startups and companies",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T13:37:26.233Z"
+  },
+  {
+    "id": "st-crypto-s-casino-chips-are-di",
+    "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-17T12:16:53.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+    "type": "News",
+    "summary": "Your day-ahead look for Nov. 17, 2026",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.748Z"
+    "imported_at": "2026-11-17T13:37:26.233Z"
   },
   {
-    "id": "st-u-s-senate-democrats-tell-cf",
-    "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+    "id": "st-ex-openai-researcher-fund-du",
+    "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-16T18:54:19.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+    "published_at": "2026-11-17T12:00:55.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
     "type": "News",
-    "summary": "The Commodity Futures Trading Commission directed platforms such as Kalshi to defy state bans, but the Democrats want it to reverse course, citing court orders.",
-    "category": "Regulation and policy",
+    "summary": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T13:37:26.233Z"
+  },
+  {
+    "id": "st-bitcoin-remains-penned-in-ne",
+    "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-17T11:36:07.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+    "type": "News",
+    "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T13:37:26.233Z"
+  },
+  {
+    "id": "st-solana-foundation-takes-majo",
+    "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-17T11:29:51.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+    "type": "News",
+    "summary": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T13:37:26.233Z"
+  },
+  {
+    "id": "st-new-defi-yield-generation-ta",
+    "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-17T11:25:58.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+    "type": "News",
+    "summary": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T13:37:26.233Z"
+  },
+  {
+    "id": "st-fed-governor-michael-barr-wa",
+    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-17T10:48:12.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+    "type": "News",
+    "summary": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.",
+    "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.749Z"
+    "imported_at": "2026-11-17T13:37:26.233Z"
   },
   {
-    "id": "st-lighter-suspends-all-withdra",
-    "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T16:41:42.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+    "id": "st-strengthening-nato-and-allie",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00.000Z",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "type": "News",
-    "summary": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.749Z"
-  },
-  {
-    "id": "st-brazil-s-central-bank-faces",
-    "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T15:54:11.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-    "type": "News",
-    "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.749Z"
-  },
-  {
-    "id": "st-german-parliament-proposes-c",
-    "title": "German parliament proposes crypto seizures without criminal charges",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T15:44:59.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-    "type": "News",
-    "summary": "German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.749Z"
-  },
-  {
-    "id": "st-solana-drops-beta-label-afte",
-    "title": "Solana drops ‘beta’ label after more than six years",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T13:03:16.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-    "type": "News",
-    "summary": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.749Z"
-  },
-  {
-    "id": "st-old-crypto-feud-reignites-wh",
-    "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T12:55:46.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-    "type": "News",
-    "summary": "CZ says Binance isn’t selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange’s role in successive October crashes.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T02:59:00.749Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
     "id": "st-cybersecurity-ai-startup-cor",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:01.018Z"
+    "imported_at": "2026-11-17T13:37:26.513Z"
   },
   {
     "id": "st-cyber-giant-infoblox-confirm",
@@ -157,7 +173,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:01.018Z"
+    "imported_at": "2026-11-17T13:37:26.513Z"
   },
   {
     "id": "st-apple-reveals-new-mac-securi",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:01.018Z"
+    "imported_at": "2026-11-17T13:37:26.513Z"
   },
   {
     "id": "st-california-state-ag-sues-ope",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:01.018Z"
+    "imported_at": "2026-11-17T13:37:26.513Z"
   },
   {
     "id": "st-uber-says-hackers-stole-info",
@@ -205,7 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:01.018Z"
+    "imported_at": "2026-11-17T13:37:26.513Z"
   },
   {
     "id": "st-apple-adds-face-unlock-to-th",
@@ -221,7 +237,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:01.019Z"
+    "imported_at": "2026-11-17T13:37:26.513Z"
   },
   {
     "id": "st-broadening-access-to-ai-for",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
     "id": "st-strengthening-the-fight-agai",
@@ -253,7 +269,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
     "id": "st-science-at-the-frontier-how",
@@ -269,7 +285,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
+    "imported_at": "2026-11-17T13:37:26.462Z"
+  },
+  {
+    "id": "st-how-revolut-raises-ambition",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-16T09:30:00.000Z",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "type": "News",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
     "id": "st-lvmh-s-media-division-announ",
@@ -285,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
     "id": "st-our-first-phase-of-embedded",
@@ -301,7 +333,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
     "id": "st-more-ways-to-move-care-forwa",
@@ -317,135 +349,119 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
+    "imported_at": "2026-11-17T13:37:26.462Z"
   },
   {
-    "id": "st-the-king-s-trust-and-openai",
-    "title": "The King’s Trust and OpenAI launch £1m partnership",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-16T00:00:00.000Z",
-    "url": "https://openai.com/index/the-kings-trust-and-openai",
-    "type": "News",
-    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-17T02:59:00.975Z"
-  },
-  {
-    "id": "st-hackers-inject-credit-card-c",
-    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+    "id": "st-bitcoin-to-1m-by-2030-almost",
+    "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-17T01:02:05.000Z",
-    "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-17T13:30:00.000Z",
+    "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
+    "summary": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
+    "imported_at": "2026-11-17T13:37:26.317Z"
   },
   {
-    "id": "st-custodia-bank-loses-supreme",
-    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+    "id": "st-revolut-plans-four-blockchai",
+    "title": "Revolut plans four blockchain-based funds for private markets, chair says",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T22:54:57.000Z",
-    "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-17T12:24:20.000Z",
+    "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
-  },
-  {
-    "id": "st-german-lawmakers-back-crypto",
-    "title": "German lawmakers back crypto freezes outside criminal cases",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-16T22:46:44.000Z",
-    "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
-  },
-  {
-    "id": "st-binance-hack-may-push-instit",
-    "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-16T22:19:41.000Z",
-    "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-16T22:07:36.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
-  },
-  {
-    "id": "st-bitmine-edges-toward-5-of-et",
-    "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-16T20:45:47.000Z",
-    "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+    "summary": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
+    "imported_at": "2026-11-17T13:37:26.317Z"
   },
   {
-    "id": "st-boris-johnson-says-uk-must-l",
-    "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+    "id": "st-us-senators-seek-sec-answers",
+    "title": "US senators seek SEC answers on tokenized stock money laundering risks",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T20:18:02.000Z",
-    "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-17T11:36:26.000Z",
+    "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
+    "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T02:59:00.833Z"
+    "imported_at": "2026-11-17T13:37:26.317Z"
+  },
+  {
+    "id": "st-blackrock-s-bitcoin-etf-snap",
+    "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-17T11:18:18.000Z",
+    "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-17T13:37:26.317Z"
+  },
+  {
+    "id": "st-bitcoin-realized-loss-metric",
+    "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-17T11:14:05.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-17T13:37:26.317Z"
+  },
+  {
+    "id": "st-google-says-hackers-use-ai-a",
+    "title": "Google says hackers use AI agents to find and exploit software flaws",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-17T10:05:59.000Z",
+    "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-17T13:37:26.317Z"
+  },
+  {
+    "id": "st-us-judge-clears-brothers-in",
+    "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-17T09:30:05.000Z",
+    "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-17T13:37:26.317Z"
   },
   {
     "id": "st-hacker-behind-2022-gta-vi-le",
@@ -461,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:02.128Z"
+    "imported_at": "2026-11-17T13:37:27.565Z"
   },
   {
     "id": "st-california-sues-openai-over",
@@ -477,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:02.128Z"
+    "imported_at": "2026-11-17T13:37:27.566Z"
   },
   {
     "id": "st-sam-altman-says-he-wants-eve",
@@ -493,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:02.128Z"
+    "imported_at": "2026-11-17T13:37:27.566Z"
   },
   {
     "id": "st-in-get-huge-the-manosphere-i",
@@ -509,7 +525,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:02.128Z"
+    "imported_at": "2026-11-17T13:37:27.566Z"
+  },
+  {
+    "id": "st-uber-and-zipline-s-drone-del",
+    "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-16T20:42:51.000Z",
+    "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+    "type": "News",
+    "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned. The rollout comes after Uber and Zipline first an",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-17T13:37:27.565Z"
+  },
+  {
+    "id": "st-clemson-university-to-launch",
+    "title": "Clemson University to launch three new degree programs in artificial intelligence",
+    "source": "Clemson News",
+    "sourceId": "rss-clemson-news",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-16T15:32:17.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0g2TDRrOE9RYmJ0WXRENWxSYW5zd0l3LWxidnV3SHZzS0J0U2NEN3hwM3RLcV9fTWYyUTZ4ZzVpUGlld2tEU19JM1ZwOFVILVA4NEJKVmJYZXppdjRWenJNY3YtUU1ibkV4YlYtbG1NQ05LZDV5Q0tyd0tsYXB0ajlaazMwZE5Zc0FyS2Y0RTBJNzdiWmNfcUVHaGQzdjFQVnZVNzE5d2FrZVE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0g2TDRrOE9RYmJ0WXRENWxSYW5zd0l3LWxidnV3SHZzS0J0U2NEN3hwM3RLcV9fTWYyUTZ4ZzVpUGlld2tEU19JM1ZwOFVILVA4NEJKVmJYZXppdjRWenJNY3YtUU1ibkV4YlYtbG1NQ05LZDV5Q0tyd0tsYXB0ajlaazMwZE5Zc0FyS2Y0RTBJNzdiWmNfcUVHaGQzdjFQVnZVNzE5d2FrZV",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-17T13:37:27.440Z"
   },
   {
     "id": "st-how-to-build-an-artificial-i",
@@ -525,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
+    "imported_at": "2026-11-17T13:37:27.440Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -541,7 +589,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
+  },
+  {
+    "id": "st-apa-offers-new-guidance-as-a",
+    "title": "APA offers new guidance as artificial intelligence use at work expands",
+    "source": "American Psychological Association (APA)",
+    "sourceId": "rss-american-psychological-association-apa",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-16T08:05:57.000Z",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5\" target=\"_blank\">APA offers new ",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-17T13:37:27.440Z"
   },
   {
     "id": "st-advocacy-groups-sue-to-stop",
@@ -557,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
+    "imported_at": "2026-11-17T13:37:27.440Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -573,23 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
-  },
-  {
-    "id": "st-the-largest-crypto-heist-in",
-    "title": "The Largest Crypto Heist in History Could Have Been Avoided",
-    "source": "CSIS | Center for Strategic and International Studies",
-    "sourceId": "rss-csis-center-for-strategic-and-international-studies",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-13T17:35:51.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2xldkNud2ZCVTFXNmpEN2owY1kzV09nY1lySUxJUDVtT2VDNy1vTnV4UnNfT2RzX3NBWkxDTkt6V3dkdFBDZTlxRFMtT1Eyd2djTm1oZXpYTXgxV3pqdDF2Um9NOTJBMUlDX0ItOEk2SldSQkEtcE82ckZtcEptT1Q5bmNVR3Z4eEE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2xldkNud2ZCVTFXNmpEN2owY1kzV09nY1lySUxJUDVtT2VDNy1vTnV4UnNfT2RzX3NBWkxDTkt6V3dkdFBDZTlxRFMtT1Eyd2djTm1oZXpYTXgxV3pqdDF2Um9NOTJBMUlDX0ItOEk2SldSQkEtcE82ckZtcEptT1Q5bmNVR3Z4eEE?oc=5\" target=\"_blank\">The Largest Crypto H",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -605,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -621,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -637,7 +685,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
+    "imported_at": "2026-11-17T13:37:27.439Z"
+  },
+  {
+    "id": "st-us-seizes-north-korean-hacki",
+    "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+    "source": "CyberScoop",
+    "sourceId": "rss-cyberscoop",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-13T00:36:42.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY19zVThhV3ZURzJ5Z1g1eUE2UFFSd196ay1ZUmw1ZEVkUGtBMzVtZHdqdjhERmRlSHQzZDFNajJ0bWRsNGhvS0dUM3c1d1hlM1FPeDMtakpBRGQ0WlpQMFVrZUVVbHJoWXF6ZXRyUW9XbG8tSkRDNVhqYzg0LVBsRWhR?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY19zVThhV3ZURzJ5Z1g1eUE2UFFSd196ay1ZUmw1ZEVkUGtBMzVtZHdqdjhERmRlSHQzZDFNajJ0bWRsNGhvS0dUM3c1d1hlM1FPeDMtakpBRGQ0WlpQMFVrZUVVbHJoWXF6ZXRyUW9XbG8tSkRDNVhqYzg0LVBsRWhR?oc=5\" target=\"_blank\">US seizes North Korean hacking ",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -653,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.434Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-fbi-says-us-has-seized-1-2-b",
@@ -669,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-associate-professor-finds-ag",
@@ -685,7 +749,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
+    "imported_at": "2026-11-17T13:37:27.440Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -701,23 +765,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
+    "imported_at": "2026-11-17T13:37:27.440Z"
   },
   {
-    "id": "st-cryptocurrency-regulation-a",
-    "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+    "id": "st-cryptocurrency-etfs-how-do-t",
+    "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
     "source": "Britannica",
     "sourceId": "rss-britannica",
     "author": "Google News (crypto)",
     "published_at": "2026-11-12T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5\" target=\"_blank\">Cryptocurrency Regulation: A Guide to U.S. & Global Policies</a>",
-    "category": "Regulation and policy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB?oc=5\" target=\"_blank\">Cryptocurrency ETFs: How Do They Work & Should You Invest?<",
+    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.435Z"
+    "imported_at": "2026-11-17T13:37:26.954Z"
   },
   {
     "id": "st-doe-explains-artificial-inte",
@@ -733,38 +797,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
-  },
-  {
-    "id": "st-faculty-member-addresses-art",
-    "title": "Faculty member addresses artificial intelligence practically and theoretically",
-    "source": "The Pennsylvania State University",
-    "sourceId": "rss-the-pennsylvania-state-university",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-10T17:46:03.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
-  },
-  {
-    "id": "st-artificial-intelligence-is-d",
-    "title": "Artificial intelligence is desperately seeking its narrative",
-    "source": "The Conversation",
-    "sourceId": "rss-the-conversation",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-10T13:12:58.000Z",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5\" target=\"_blan",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-17T02:59:01.830Z"
+    "imported_at": "2026-11-17T13:37:27.439Z"
   }
 ]

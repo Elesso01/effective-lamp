@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-11-17T13:37:27.665Z",
-  "count": 0,
-  "alerts": []
+  "generated_at": "2026-11-17T23:33:49.597Z",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "st-druckenmiller-says-he-is-sho",
+      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-17T17:42:40.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027"
+    }
+  ]
 }
