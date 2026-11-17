@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-17
 
-6 stories briefed · feed mix 11 familiar / 37 discovery.
+6 stories briefed · feed mix 10 familiar / 40 discovery.
 
 ## Top stories
-1. **Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid** (Markets and business · CoinDesk) — A top crypto development today
-2. **Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off** (Markets and business · CoinDesk) — A top crypto development today
-3. **Cybersecurity AI startup Corma reaches $1B valuation in about 3 months** (Regulation and policy · TechCrunch) — A top AI development today
-4. **U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans** (Regulation and policy · CoinDesk) — A top AI development today
-5. **Cyber giant Infoblox confirms security incident after hackers access ‘company information’** (Security and privacy · TechCrunch) — Outside your usual reads — worth a skim
-6. **Hackers inject credit card, crypto-stealing malware into 178 major websites** (Security and privacy · Cointelegraph) — Outside your usual reads — worth a skim
+1. **Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps** (Markets and business · CoinDesk) — A top crypto development today
+2. **Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps** (Startups and companies · CoinDesk) — A top crypto development today
+3. **Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes** (Startups and companies · CoinDesk) — A top AI development today
+4. **Strengthening NATO and allied cyber defenses with AI** (Products and applications · OpenAI Blog) — A top AI development today
+5. **Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Cyber giant Infoblox confirms security incident after hackers access ‘company information’.
+- Discovery pick of the week: Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows.
 
 _News, not investment advice._

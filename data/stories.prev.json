@@ -1,5 +1,53 @@
 [
   {
+    "id": "st-former-robinhood-engineer-pl",
+    "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-16T21:51:04.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+    "type": "News",
+    "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T02:59:00.748Z"
+  },
+  {
+    "id": "st-bitcoin-risks-falling-below",
+    "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-16T20:35:21.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "type": "News",
+    "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T02:59:00.748Z"
+  },
+  {
+    "id": "st-u-s-senate-democrats-tell-cf",
+    "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-16T18:54:19.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+    "type": "News",
+    "summary": "The Commodity Futures Trading Commission directed platforms such as Kalshi to defy state bans, but the Democrats want it to reverse course, citing court orders.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-17T02:59:00.749Z"
+  },
+  {
     "id": "st-lighter-suspends-all-withdra",
     "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
     "source": "CoinDesk",
@@ -13,7 +61,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.020Z"
+    "imported_at": "2026-11-17T02:59:00.749Z"
   },
   {
     "id": "st-brazil-s-central-bank-faces",
@@ -29,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.021Z"
+    "imported_at": "2026-11-17T02:59:00.749Z"
   },
   {
     "id": "st-german-parliament-proposes-c",
@@ -45,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.021Z"
+    "imported_at": "2026-11-17T02:59:00.749Z"
   },
   {
     "id": "st-solana-drops-beta-label-afte",
@@ -61,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.021Z"
+    "imported_at": "2026-11-17T02:59:00.749Z"
   },
   {
     "id": "st-old-crypto-feud-reignites-wh",
@@ -77,119 +125,103 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.021Z"
+    "imported_at": "2026-11-17T02:59:00.749Z"
   },
   {
-    "id": "st-bitcoin-was-supposed-to-gain",
-    "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T12:09:00.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
-    "type": "News",
-    "summary": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.021Z"
-  },
-  {
-    "id": "st-bitcoin-slips-after-reboundi",
-    "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-16T11:03:14.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-    "type": "News",
-    "summary": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-16T18:40:40.021Z"
-  },
-  {
-    "id": "st-tesla-goes-all-in-on-the-cyb",
-    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+    "id": "st-cybersecurity-ai-startup-cor",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-11-16T18:21:14.000Z",
-    "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+    "published_at": "2026-11-16T23:32:32.000Z",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
     "type": "News",
-    "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
+    "imported_at": "2026-11-17T02:59:01.018Z"
   },
   {
-    "id": "st-sam-altman-on-nvidia-without",
-    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "id": "st-cyber-giant-infoblox-confirm",
+    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-11-16T18:11:10.000Z",
-    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "published_at": "2026-11-16T22:12:31.000Z",
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
     "type": "News",
-    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
-  },
-  {
-    "id": "st-fbi-says-artex-ai-open-sourc",
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-16T17:36:43.000Z",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "type": "News",
-    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
     "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
+    "imported_at": "2026-11-17T02:59:01.018Z"
   },
   {
-    "id": "st-jordan-belfort-s-new-ai-voic",
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "id": "st-apple-reveals-new-mac-securi",
+    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-11-16T17:10:00.000Z",
-    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "published_at": "2026-11-16T21:01:02.000Z",
+    "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
     "type": "News",
-    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-    "category": "Startups and companies",
+    "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
+    "imported_at": "2026-11-17T02:59:01.018Z"
   },
   {
-    "id": "st-openai-will-embed-safety-res",
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "id": "st-california-state-ag-sues-ope",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-11-16T17:02:43.000Z",
-    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "published_at": "2026-11-16T20:07:13.000Z",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "type": "News",
-    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "category": "Research and development",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
+    "imported_at": "2026-11-17T02:59:01.018Z"
+  },
+  {
+    "id": "st-uber-says-hackers-stole-info",
+    "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-16T19:53:00.000Z",
+    "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "type": "News",
+    "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-17T02:59:01.018Z"
+  },
+  {
+    "id": "st-apple-adds-face-unlock-to-th",
+    "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-16T19:26:55.000Z",
+    "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+    "type": "News",
+    "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-17T02:59:01.019Z"
   },
   {
     "id": "st-broadening-access-to-ai-for",
@@ -205,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
     "id": "st-strengthening-the-fight-agai",
@@ -221,55 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
-  },
-  {
-    "id": "st-openai-releases-a-new-image",
-    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-16T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-    "type": "News",
-    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
-  },
-  {
-    "id": "st-instagram-now-lets-creators",
-    "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-16T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-    "type": "News",
-    "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
-  },
-  {
-    "id": "st-serena-williams-winds-down-h",
-    "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-16T16:06:30.000Z",
-    "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-    "type": "News",
-    "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.357Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
     "id": "st-science-at-the-frontier-how",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
     "id": "st-lvmh-s-media-division-announ",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
     "id": "st-our-first-phase-of-embedded",
@@ -317,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
     "id": "st-more-ways-to-move-care-forwa",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
     "id": "st-the-king-s-trust-and-openai",
@@ -349,71 +333,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-16T18:40:40.312Z"
+    "imported_at": "2026-11-17T02:59:00.975Z"
   },
   {
-    "id": "st-nvidia-turmoil-tests-bitcoin",
-    "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+    "id": "st-hackers-inject-credit-card-c",
+    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T18:07:49.000Z",
-    "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-17T01:02:05.000Z",
+    "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.140Z"
-  },
-  {
-    "id": "st-safe-wallet-reportedly-loses",
-    "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-16T17:49:13.000Z",
-    "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
-    "category": "Markets and business",
+    "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.140Z"
+    "imported_at": "2026-11-17T02:59:00.833Z"
   },
   {
-    "id": "st-bitcoin-price-fails-to-hold",
-    "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+    "id": "st-custodia-bank-loses-supreme",
+    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T16:26:52.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-16T22:54:57.000Z",
+    "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
+    "summary": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.140Z"
+    "imported_at": "2026-11-17T02:59:00.833Z"
   },
   {
-    "id": "st-zelle-picks-solana-for-zelle",
-    "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+    "id": "st-german-lawmakers-back-crypto",
+    "title": "German lawmakers back crypto freezes outside criminal cases",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T14:55:46.000Z",
-    "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-16T22:46:44.000Z",
+    "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
-    "category": "Markets and business",
+    "summary": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.140Z"
+    "imported_at": "2026-11-17T02:59:00.833Z"
+  },
+  {
+    "id": "st-binance-hack-may-push-instit",
+    "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-16T22:19:41.000Z",
+    "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-17T02:59:00.833Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -421,7 +405,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T13:31:49.000Z",
+    "published_at": "2026-11-16T22:07:36.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -429,103 +413,103 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.141Z"
+    "imported_at": "2026-11-17T02:59:00.833Z"
   },
   {
-    "id": "st-banks-are-banning-ai-agents",
-    "title": "Banks are banning AI agents over security... and competition concerns",
+    "id": "st-bitmine-edges-toward-5-of-et",
+    "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-16T13:30:00.000Z",
-    "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-16T20:45:47.000Z",
+    "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.141Z"
-  },
-  {
-    "id": "st-strategy-buys-33m-in-bitcoin",
-    "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-16T13:29:11.000Z",
-    "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales.",
+    "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-16T18:40:40.141Z"
+    "imported_at": "2026-11-17T02:59:00.833Z"
   },
   {
-    "id": "st-sony-s-playstation-5-accesso",
-    "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+    "id": "st-boris-johnson-says-uk-must-l",
+    "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-16T20:18:02.000Z",
+    "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-17T02:59:00.833Z"
+  },
+  {
+    "id": "st-hacker-behind-2022-gta-vi-le",
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-16T17:15:27.000Z",
-    "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+    "published_at": "2026-11-16T23:35:58.000Z",
+    "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
     "type": "News",
-    "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great ha",
-    "category": "Markets and business",
+    "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August ",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-17T02:59:02.128Z"
+  },
+  {
+    "id": "st-california-sues-openai-over",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-16T23:04:02.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "type": "News",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous pro",
+    "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.219Z"
+    "imported_at": "2026-11-17T02:59:02.128Z"
   },
   {
-    "id": "st-the-verge-s-guide-to-the-bes",
-    "title": "The Verge’s guide to the best gifts under $100",
+    "id": "st-sam-altman-says-he-wants-eve",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-16T17:00:48.000Z",
-    "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+    "published_at": "2026-11-16T22:47:14.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
     "type": "News",
-    "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt.",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is ",
     "category": "Products and applications",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.220Z"
+    "imported_at": "2026-11-17T02:59:02.128Z"
   },
   {
-    "id": "st-why-nj-s-governor-thinks-rep",
-    "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+    "id": "st-in-get-huge-the-manosphere-i",
+    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-16T16:27:55.000Z",
-    "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+    "published_at": "2026-11-16T21:41:57.000Z",
+    "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
     "type": "News",
-    "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountabilit",
-    "category": "Products and applications",
+    "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.220Z"
-  },
-  {
-    "id": "st-apple-tv-is-getting-video-po",
-    "title": "Apple TV is getting video podcasts you can watch for free",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-16T14:45:56.000Z",
-    "url": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
-    "type": "News",
-    "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podca",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.220Z"
+    "imported_at": "2026-11-17T02:59:02.128Z"
   },
   {
     "id": "st-how-to-build-an-artificial-i",
@@ -541,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -557,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-advocacy-groups-sue-to-stop",
@@ -573,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -589,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-the-largest-crypto-heist-in",
@@ -605,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -621,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -637,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -653,23 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
-  },
-  {
-    "id": "st-q-a-leveraging-artificial-in",
-    "title": "Q&A: Leveraging artificial intelligence to propel engineering education",
-    "source": "The Pennsylvania State University",
-    "sourceId": "rss-the-pennsylvania-state-university",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-13T09:46:18.000Z",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeC1rSXpha1YyNnVNWkp5eGluRVZ6alpsYWRYNEFDNGp2a2tDMmRLRDh1aG1aellwdkFYa2I3cVVEaTc0RndLZXVCU2dYd3ZhYmkzbFFkOVQ4d2Vpa2tHRnQwWnkzWm0walhTbEpKQURHRFdvNDdjRkEwVkFRVVVXX29Yd29QeVRmbDA5OGxYOWxfWEROLXh6OFVTZUZFWUtaTGVrMFhPRzR2UGJvdlE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeC1rSXpha1YyNnVNWkp5eGluRVZ6alpsYWRYNEFDNGp2a2tDMmRLRDh1aG1aellwdkFYa2I3cVVEaTc0RndLZXVCU2dYd3ZhYmkzbFFkOVQ4d2Vpa2tHRnQwWnkzWm0walhTbEpKQURHRFdvNDdjRkEwVkFRVVVXX29Yd29QeVRmbDA5OGxYOWxfWEROLXh6OFVTZUZFWUtaTGVrMFhPRzR2UG",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -685,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.434Z"
   },
   {
     "id": "st-fbi-says-us-has-seized-1-2-b",
@@ -701,7 +669,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-associate-professor-finds-ag",
@@ -717,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -733,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
   },
   {
     "id": "st-cryptocurrency-regulation-a",
@@ -749,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:40.791Z"
+    "imported_at": "2026-11-17T02:59:01.435Z"
   },
   {
     "id": "st-doe-explains-artificial-inte",
@@ -765,7 +733,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
+  },
+  {
+    "id": "st-faculty-member-addresses-art",
+    "title": "Faculty member addresses artificial intelligence practically and theoretically",
+    "source": "The Pennsylvania State University",
+    "sourceId": "rss-the-pennsylvania-state-university",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-10T17:46:03.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUG",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-17T02:59:01.830Z"
   },
   {
     "id": "st-artificial-intelligence-is-d",
@@ -781,6 +765,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-16T18:40:41.124Z"
+    "imported_at": "2026-11-17T02:59:01.830Z"
   }
 ]
