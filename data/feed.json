@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-18T07:42:05.183Z",
+  "generated_at": "2026-11-18T17:21:17.170Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 37
+    "familiar": 8,
+    "discovery": 40
   },
   "items": [
     {
-      "id": "st-u-s-judge-says-ethereum-has",
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "category": "Markets and business",
+      "id": "st-crypto-long-short-crypto-exc",
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-cftc-nominee-questions-publi",
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "id": "st-german-judge-proposes-droppi",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-sec-reportedly-investigating",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
+      "id": "st-25m-ethereum-mev-acquittal-t",
+      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,11 +42,20 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-maple-finance-ceo-targets-up",
-      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-      "category": "Regulation and policy",
+      "id": "st-us-judge-clears-mit-educated",
+      "title": "US judge clears MIT-educated brothers of $25 million cryptocurrency heist charges",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9.5,
+      "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-instagram-s-school-safety-pu",
+      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -69,44 +78,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-google-finds-self-running-ai",
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "category": "Security and privacy",
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-live-updates-bitcoin-stuck-n",
-      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-s-12-slide-through-k",
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-xrp-whales-moved-270-million",
-      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-coinbase-ceo-says-ai-agents",
-      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "id": "st-hong-kong-wants-banks-to-use",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -114,17 +96,53 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nvidia-s-startup-stakes-ball",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
+      "id": "st-bitcoin-miner-mara-raises-18",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nvidia-says-its-open-source",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "id": "st-bullish-beats-revenue-estima",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-circle-turns-to-dbs-as-banks",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-blaming-anthropic-s-ipo-for",
+      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-drops-as-nvidia-earn",
+      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sam-altman-warns-against-a-f",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -132,9 +150,72 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amazon-and-google-will-toget",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "id": "st-openai-ceo-sam-altman-says-i",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sony-s-updated-turntable-is",
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-british-hackers-face-prison",
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-felicis-leads-7-5m-bet-on-un",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
       "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-india-s-humyn-labs-raises-47",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-china-dominates-battery-grap",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-le-groupe-figaro-and-openai",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-advancing-chip-design-with-o",
+      "title": "Advancing chip design with OpenAI models",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -177,80 +258,71 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-strengthening-the-fight-agai",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "id": "st-polymarket-us-takes-rapid-fi",
+      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-stocks-wobble-as-fed",
+      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-covenants-part-6-fe",
+      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sanctions-fears-loom-over-ru",
+      "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-will-wright-s-next-game-uses",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-remember-the-frontier-ai-pau",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-science-at-the-frontier-how",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ledger-hardware-implant-saga",
-      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cftc-halts-some-kalshi-trump",
-      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-eastern-europe-crypto-flows",
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-lighter-incident-exposes-ris",
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-fed-s-waller-cites-binance-h",
-      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-satya-nadella-says-he-s-agi",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "category": "Products and applications",
+      "id": "st-rivian-spinoff-also-pauses-e",
+      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
+      "category": "Startups and companies",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-nvidia-s-q3-earnings-hit-the",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "id": "st-how-the-verge-is-picking-whi",
+      "title": "How The Verge is picking which Black Friday deals to share",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -258,17 +330,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ifixit-s-apple-homeview-tear",
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-macbook-neo-is-receiving",
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "id": "st-artificial-intelligence-for",
+      "title": "Artificial intelligence for antibiotic discovery and design",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -285,17 +348,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-clemson-university-to-launch",
-      "title": "Clemson University to launch three new degree programs in artificial intelligence",
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,8 +357,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-to-build-an-artificial-i",
-      "title": "How to Build an Artificial Intelligence Revolution for All",
+      "id": "st-clemson-university-to-launch",
+      "title": "Clemson University to launch three new degree programs in artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,8 +375,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-prior-authorization-in-medic",
-      "title": "Prior Authorization in Medicaid: Regulating Artificial Intelligence",
+      "id": "st-apa-offers-new-guidance-as-a",
+      "title": "APA offers new guidance as artificial intelligence use at work expands",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -377,24 +431,6 @@
     {
       "id": "st-how-public-health-agencies-c",
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-miso-robotics-brings-hands-o",
-      "title": "Miso Robotics Brings Hands-On Robotics, Artificial Intelligence and Analytics Learning to Cal Poly Pomona",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

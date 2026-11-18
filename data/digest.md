@@ -1,17 +1,17 @@
 # Weekly digest — week of 2026-11-18
 
-6 stories briefed · feed mix 7 familiar / 37 discovery.
+6 stories briefed · feed mix 8 familiar / 40 discovery.
 
 ## Top stories
-1. **Google finds self-running AI hacking tool with Russian comments in its files** (Security and privacy · CoinDesk) — A top crypto development today
-2. **Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up** (Markets and business · CoinDesk) — A top crypto development today
-3. **CFTC nominee questions public benefit of prediction markets as legal fight grows** (Regulation and policy · CoinDesk) — A top AI development today
-4. **Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt** (Startups and companies · TechCrunch) — A top AI development today
-5. **Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **Crypto Long & Short: Crypto exchanges shouldn’t double as the vault** (Regulation and policy · CoinDesk) — A top crypto development today
+2. **German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin** (Regulation and policy · CoinDesk) — A top crypto development today
+3. **Sam Altman warns against a future where AI, not humans, calls the shots** (Products and applications · TechCrunch) — A top AI development today
+4. **OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’** (Products and applications · TechCrunch) — A top AI development today
+5. **Hong Kong wants banks to use AI to catch crypto crime before money disappears** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Sony’s updated turntable is an easy entry into the world of vinyl** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud.
+- Discovery pick of the week: Sony’s updated turntable is an easy entry into the world of vinyl.
 
 _News, not investment advice._
