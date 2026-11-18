@@ -1,5 +1,101 @@
 [
   {
+    "id": "st-google-finds-self-running-ai",
+    "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-18T07:37:59.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+    "type": "News",
+    "summary": "Google spots an AI that can find and exploit software flaws on its own, no human needed.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-18T07:42:03.891Z"
+  },
+  {
+    "id": "st-live-updates-bitcoin-stuck-n",
+    "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-18T07:27:48.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+    "type": "News",
+    "summary": "XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about what Treasuries do.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-18T07:42:03.891Z"
+  },
+  {
+    "id": "st-u-s-judge-says-ethereum-has",
+    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-18T05:30:10.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "type": "News",
+    "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-18T07:42:03.891Z"
+  },
+  {
+    "id": "st-bitcoin-s-12-slide-through-k",
+    "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-18T04:34:21.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "type": "News",
+    "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-18T07:42:03.891Z"
+  },
+  {
+    "id": "st-xrp-whales-moved-270-million",
+    "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-18T04:28:37.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+    "type": "News",
+    "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-18T07:42:03.891Z"
+  },
+  {
+    "id": "st-cftc-nominee-questions-publi",
+    "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-18T00:46:25.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+    "type": "News",
+    "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-18T07:42:03.892Z"
+  },
+  {
     "id": "st-coinbase-ceo-says-ai-agents",
     "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
     "source": "CoinDesk",
@@ -13,119 +109,39 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.164Z"
+    "imported_at": "2026-11-18T07:42:03.892Z"
   },
   {
-    "id": "st-predictions-platform-kalshi",
-    "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-17T19:16:00.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+    "id": "st-nvidia-s-startup-stakes-ball",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-18T01:44:21.000Z",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
     "type": "News",
-    "summary": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.164Z"
-  },
-  {
-    "id": "st-druckenmiller-says-he-is-sho",
-    "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-17T17:42:40.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
-    "type": "News",
-    "summary": "The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.165Z"
-  },
-  {
-    "id": "st-u-s-fed-governor-waller-pitc",
-    "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-17T17:00:05.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-    "type": "News",
-    "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.165Z"
-  },
-  {
-    "id": "st-hong-kong-swift-test-tokeniz",
-    "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-17T15:11:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-    "type": "News",
-    "summary": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.165Z"
-  },
-  {
-    "id": "st-ethereum-s-glamsterdam-upgra",
-    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-17T13:02:56.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-    "type": "News",
-    "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.165Z"
-  },
-  {
-    "id": "st-decentralized-exchange-grvt",
-    "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-17T13:00:00.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
-    "type": "News",
-    "summary": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
+    "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
     "category": "Startups and companies",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-17T23:33:48.165Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-18T07:42:04.269Z"
   },
   {
     "id": "st-nvidia-says-its-open-source",
-    "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
     "published_at": "2026-11-17T23:04:35.000Z",
     "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
     "type": "News",
-    "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.497Z"
+    "imported_at": "2026-11-18T07:42:04.269Z"
   },
   {
     "id": "st-amazon-and-google-will-toget",
@@ -141,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.498Z"
+    "imported_at": "2026-11-18T07:42:04.269Z"
   },
   {
     "id": "st-sec-reportedly-investigating",
@@ -157,55 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.498Z"
-  },
-  {
-    "id": "st-waymo-suspends-freeway-rides",
-    "title": "Waymo suspends freeway rides nationwide after California DMV order",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-17T19:49:41.000Z",
-    "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-    "type": "News",
-    "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.498Z"
-  },
-  {
-    "id": "st-model-ml-raises-250m-to-auto",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-17T19:32:11.000Z",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "type": "News",
-    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.498Z"
-  },
-  {
-    "id": "st-google-expands-access-to-gem",
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-17T19:02:20.000Z",
-    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "type": "News",
-    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.498Z"
+    "imported_at": "2026-11-18T07:42:04.269Z"
   },
   {
     "id": "st-introducing-gpt-6-2-astra-an",
@@ -221,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.442Z"
+    "imported_at": "2026-11-18T07:42:04.138Z"
   },
   {
     "id": "st-strengthening-nato-and-allie",
@@ -237,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.442Z"
+    "imported_at": "2026-11-18T07:42:04.138Z"
   },
   {
     "id": "st-astra-for-law-leads-in-legal",
@@ -253,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.442Z"
+    "imported_at": "2026-11-18T07:42:04.138Z"
   },
   {
     "id": "st-broadening-access-to-ai-for",
@@ -269,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.442Z"
+    "imported_at": "2026-11-18T07:42:04.138Z"
   },
   {
     "id": "st-strengthening-the-fight-agai",
@@ -285,7 +253,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.442Z"
+    "imported_at": "2026-11-18T07:42:04.138Z"
   },
   {
     "id": "st-science-at-the-frontier-how",
@@ -301,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-17T23:33:48.442Z"
+    "imported_at": "2026-11-18T07:42:04.138Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -309,7 +277,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-17T22:37:51.000Z",
+    "published_at": "2026-11-18T06:00:00.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -317,7 +285,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.290Z"
+    "imported_at": "2026-11-18T07:42:03.974Z"
+  },
+  {
+    "id": "st-ledger-hardware-implant-saga",
+    "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-18T02:39:52.000Z",
+    "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-18T07:42:03.974Z"
   },
   {
     "id": "st-cftc-halts-some-kalshi-trump",
@@ -333,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
+    "imported_at": "2026-11-18T07:42:03.974Z"
   },
   {
     "id": "st-maple-finance-ceo-targets-up",
@@ -349,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
+    "imported_at": "2026-11-18T07:42:03.974Z"
   },
   {
     "id": "st-eastern-europe-crypto-flows",
@@ -365,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
+    "imported_at": "2026-11-18T07:42:03.974Z"
   },
   {
     "id": "st-lighter-incident-exposes-ris",
@@ -381,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
+    "imported_at": "2026-11-18T07:42:03.974Z"
   },
   {
     "id": "st-fed-s-waller-cites-binance-h",
@@ -397,39 +381,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
+    "imported_at": "2026-11-18T07:42:03.974Z"
   },
   {
-    "id": "st-bitcoin-drops-2-5-as-nvidia",
-    "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-17T16:39:43.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-satya-nadella-says-he-s-agi",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-18T01:48:18.000Z",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
     "type": "News",
-    "summary": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
-  },
-  {
-    "id": "st-solana-foundation-takes-majo",
-    "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-17T14:45:49.000Z",
-    "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features.",
+    "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's org",
     "category": "Products and applications",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-17T23:33:48.291Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-18T07:42:05.107Z"
   },
   {
     "id": "st-nvidia-s-q3-earnings-hit-the",
@@ -445,7 +413,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.496Z"
+    "imported_at": "2026-11-18T07:42:05.107Z"
   },
   {
     "id": "st-ifixit-s-apple-homeview-tear",
@@ -461,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.496Z"
+    "imported_at": "2026-11-18T07:42:05.107Z"
   },
   {
     "id": "st-the-macbook-neo-is-receiving",
@@ -477,23 +445,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.496Z"
+    "imported_at": "2026-11-18T07:42:05.107Z"
   },
   {
-    "id": "st-not-even-sam-altman-is-safe",
-    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-17T21:00:55.000Z",
-    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "id": "st-artificial-intelligence-and",
+    "title": "Artificial intelligence and the economy",
+    "source": "Brookings",
+    "sourceId": "rss-brookings",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-17T13:42:37.000Z",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5",
     "type": "News",
-    "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5\" target=\"_blank\">Artificial intelligence and the e",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.496Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -509,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.909Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-clemson-university-to-launch",
@@ -525,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
     "id": "st-how-to-build-an-artificial-i",
@@ -541,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -557,39 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.908Z"
-  },
-  {
-    "id": "st-apa-offers-new-guidance-as-a",
-    "title": "APA offers new guidance as artificial intelligence use at work expands",
-    "source": "American Psychological Association (APA)",
-    "sourceId": "rss-american-psychological-association-apa",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-16T08:05:57.000Z",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5\" target=\"_blank\">APA offers new ",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
-  },
-  {
-    "id": "st-advocacy-groups-sue-to-stop",
-    "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers",
-    "source": "Jurist.org",
-    "sourceId": "rss-jurist-org",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-14T22:05:24.000Z",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURoay1wenlTQTdzS1JKWjgtak5DZnZUR1R1eGt3X1FaMWRVNk9GXzd6MENMdnlqZlhjWE52aW1UN0RpclplYWJSd0tzaEZNMS00RTA3LVdTUFJIMnM1dklfdVZIYzFIVm5BMFVlVk10dzJaOUNpVVRfU0lXeUNCUFZxLTZ4bElkc3c0dGo3T001QnZSdkRzajRPbDlzeHdvdUJJS3hfTXU4UXZsZGlnRjRDY3o3d2xCOWFUNjB3MUprYV9U?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURoay1wenlTQTdzS1JKWjgtak5DZnZUR1R1eGt3X1FaMWRVNk9GXzd6MENMdnlqZlhjWE52aW1UN0RpclplYWJSd0tzaEZNMS00RTA3LVdTUFJIMnM1dklfdVZIYzFIVm5BMFVlVk10dzJaOUNpVVRfU0lXeUNCUFZxLTZ4bElkc3c0dGo3T001QnZSdkRzajRPbDlzeHdvdUJJS3hfTXU4UX",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-prior-authorization-in-medic",
@@ -605,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -621,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.909Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-national-lab-discovery-serie",
@@ -637,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -653,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.909Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -669,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.908Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -685,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -701,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.908Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-fbi-says-us-has-seized-1-2-b",
@@ -717,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.909Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
   },
   {
     "id": "st-how-public-health-agencies-c",
@@ -733,22 +669,38 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:49.309Z"
+    "imported_at": "2026-11-18T07:42:05.053Z"
   },
   {
-    "id": "st-cryptocurrency-etfs-how-do-t",
-    "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
+    "id": "st-4-ways-to-invest-in-cryptocu",
+    "title": "4 ways to invest in cryptocurrency stocks",
     "source": "Britannica",
     "sourceId": "rss-britannica",
     "author": "Google News (crypto)",
     "published_at": "2026-11-12T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB?oc=5\" target=\"_blank\">Cryptocurrency ETFs: How Do They Work & Should You Invest?<",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5\" target=\"_blank\">4 ways to invest in cryptocurrency stocks</a>&nbsp;&nbsp;<font color=\"#6",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-17T23:33:48.909Z"
+    "imported_at": "2026-11-18T07:42:04.653Z"
+  },
+  {
+    "id": "st-miso-robotics-brings-hands-o",
+    "title": "Miso Robotics Brings Hands-On Robotics, Artificial Intelligence and Analytics Learning to Cal Poly Pomona",
+    "source": "Cal Poly Pomona",
+    "sourceId": "rss-cal-poly-pomona",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-12T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWNVNTVGLUVzX3ZhOGJRNy1Nd0NmSUNDY01oSXRfcmVYV0VoZk9vRUhLSm9QTlljeGxHUWVybGpBUWdObnQyVVJkakJjdjFUWEIwTlJyWjJmdnVRcTRLMzc5NjczQnJFZzBfeklwVHBqOGR0NmRNN1otMHA2d0tNNUdrZXUxYkV2bGoya3gzanhLWlRTMlc4VExyQkZMdDZOdlJwUUZVMC13V2Fta1EtWF9ib1FZVDhhY0JIY2JzcG42aUZvRzlSUF9xVlAwN1NfcEFGcVFjRXJ5SVlfSHYyUFA2WjBteld2WEVMQUN3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWNVNTVGLUVzX3ZhOGJRNy1Nd0NmSUNDY01oSXRfcmVYV0VoZk9vRUhLSm9QTlljeGxHUWVybGpBUWdObnQyVVJkakJjdjFUWEIwTlJyWjJmdnVRcTRLMzc5NjczQnJFZzBfeklwVHBqOGR0NmRNN1otMHA2d0tNNUdrZXUxYkV2bGoya3gzanhLWlRTMlc4VExyQkZMdDZOdlJwUUZVMC13V2",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-18T07:42:05.053Z"
   }
 ]

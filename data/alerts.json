@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-11-17T23:33:49.597Z",
-  "count": 1,
+  "generated_at": "2026-11-18T07:42:05.214Z",
+  "count": 2,
   "alerts": [
     {
-      "id": "st-druckenmiller-says-he-is-sho",
-      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+      "id": "st-google-finds-self-running-ai",
+      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+      "category": "Security and privacy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-18T07:37:59.000Z",
+      "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files"
+    },
+    {
+      "id": "st-cftc-nominee-questions-publi",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-17T17:42:40.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027"
+      "published_at": "2026-11-18T00:46:25.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
     }
   ]
 }
