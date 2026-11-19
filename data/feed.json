@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-11-18T17:21:17.170Z",
+  "generated_at": "2026-11-19T01:54:44.365Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 40
+    "familiar": 10,
+    "discovery": 38
   },
   "items": [
+    {
+      "id": "st-another-u-s-appellate-court",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-a-1-5-billion-crypto-startup",
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-crypto-long-short-crypto-exc",
       "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
@@ -24,10 +42,10 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-25m-ethereum-mev-acquittal-t",
-      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-trump-administration-unveils",
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "category": "Regulation and policy",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -42,17 +60,26 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-us-judge-clears-mit-educated",
-      "title": "US judge clears MIT-educated brothers of $25 million cryptocurrency heist charges",
-      "category": "Markets and business",
+      "id": "st-bain-capital-crypto-leads-11",
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-instagram-s-school-safety-pu",
-      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+      "id": "st-binance-says-it-obtained-6-5",
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-democrats-skip-a-vote-on-add",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -69,22 +96,13 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-fbi-says-us-has-seized-1-2-b",
-      "title": "FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance",
-      "category": "Regulation and policy",
+      "id": "st-payward-the-owner-of-crypto",
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-cryptocurrency-regulation-a",
-      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-hong-kong-wants-banks-to-use",
@@ -114,35 +132,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-circle-turns-to-dbs-as-banks",
-      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-blaming-anthropic-s-ipo-for",
-      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-drops-as-nvidia-earn",
-      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sam-altman-warns-against-a-f",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "id": "st-microsoft-ceo-satya-nadella",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -150,8 +141,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-openai-ceo-sam-altman-says-i",
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "id": "st-amidst-fears-of-ai-cyberatta",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -159,26 +150,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sony-s-updated-turntable-is",
-      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "id": "st-satya-nadella-predicts-ai-ag",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-british-hackers-face-prison",
-      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-felicis-leads-7-5m-bet-on-un",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "id": "st-anthropic-reportedly-prices",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -186,18 +168,27 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-india-s-humyn-labs-raises-47",
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "category": "Startups and companies",
+      "id": "st-research-acceleration-the-ja",
+      "title": "Research acceleration: The jagged frontier",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-china-dominates-battery-grap",
-      "title": "China dominates battery graphite, but this startup could break the monopoly",
-      "category": "Startups and companies",
+      "id": "st-how-sumitomo-life-s-leaders",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-managing-frontier-ai-risk-fr",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -231,35 +222,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-strengthening-nato-and-allie",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "category": "Products and applications",
+      "id": "st-fed-officials-saw-october-ra",
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "category": "Markets and business",
       "bucket": "ai",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-astra-for-law-leads-in-legal",
-      "title": "Astra for Law leads in legal intelligence",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-broadening-access-to-ai-for",
-      "title": "Broadening access to AI for scientists",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-polymarket-us-takes-rapid-fi",
-      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
+      "id": "st-tether-invokes-the-big-short",
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -267,26 +240,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-stocks-wobble-as-fed",
-      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-covenants-part-6-fe",
-      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-sanctions-fears-loom-over-ru",
-      "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+      "id": "st-ledger-warns-berlin-customer",
+      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -294,8 +249,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-will-wright-s-next-game-uses",
-      "title": "Will Wright’s next game uses AI to map your memories",
+      "id": "st-mara-prices-185m-debt-offeri",
+      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-nation-s-largest-school",
+      "title": "The nation’s largest school districts consider ditching Google Search",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -303,27 +267,54 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-remember-the-frontier-ai-pau",
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "category": "Security and privacy",
+      "id": "st-absolute-batman-can-save-dc",
+      "title": "Absolute Batman can save DC Studios",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-rivian-spinoff-also-pauses-e",
-      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-      "category": "Startups and companies",
+      "id": "st-trump-s-latest-land-grab-is",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-the-verge-is-picking-whi",
-      "title": "How The Verge is picking which Black Friday deals to share",
+      "id": "st-instagram-now-lets-you-edit",
+      "title": "Instagram now lets you edit your stories after you post them",
       "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sony-s-impressive-bravia-8-i",
+      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cybercriminals-still-rely-on",
+      "title": "Cybercriminals still rely on cryptocurrency to move money around the world",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-prediction-this-cryptocurren",
+      "title": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -433,6 +424,15 @@
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"

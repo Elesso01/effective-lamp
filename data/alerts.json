@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-18T17:21:17.190Z",
+  "generated_at": "2026-11-19T01:54:44.389Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-crypto-long-short-crypto-exc",
-      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "id": "st-another-u-s-appellate-court",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-18T16:02:54.000Z",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault"
+      "published_at": "2026-11-19T00:33:46.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds"
     },
     {
-      "id": "st-german-judge-proposes-droppi",
-      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "id": "st-a-1-5-billion-crypto-startup",
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-18T15:38:38.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin"
+      "published_at": "2026-11-18T17:22:03.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook"
     }
   ]
 }
