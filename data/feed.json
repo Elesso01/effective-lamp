@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-11-19T13:29:52.846Z",
+  "generated_at": "2026-11-19T23:06:36.442Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 37
+    "familiar": 12,
+    "discovery": 39
   },
   "items": [
+    {
+      "id": "st-sky-s-usds-stablecoin-shrink",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-trump-s-democratic-sec-pick",
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-wins-6-5-billion-fee",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-trump-media-wants-to-clear-8",
       "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
@@ -15,26 +42,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-holds-above-63-750-b",
-      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+      "id": "st-anthropic-s-ipo-could-delive",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-north-korean-hackers-used-sk",
-      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-hong-kong-adds-hyperliquid-t",
-      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+      "id": "st-binance-s-6-5b-freeze-order",
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,8 +60,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-singapore-settles-77-5m-toke",
-      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -51,8 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bitcoin-etf-assets-fall-to-t",
-      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+      "id": "st-trump-s-sec-nominee-johnson",
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -60,8 +78,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-democrats-skip-a-vote-on-add",
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "id": "st-ethereum-s-glamsterdam-upgra",
+      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-meta-now-sells-3d-movies-on",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -87,6 +114,24 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-anthropic-gains-after-ipo-bu",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-crypto-for-advisors-falling",
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-crypto-traders-vs-wall-stree",
       "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
       "category": "Crypto and AI intersections",
@@ -105,35 +150,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-s-107-billion-sale",
-      "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-financial-firms-must-act-now",
-      "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-live-updates-bitcoin-nears-6",
-      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-microsoft-ceo-satya-nadella",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "id": "st-want-to-see-your-live-ai-usa",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -141,8 +159,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-amidst-fears-of-ai-cyberatta",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "id": "st-meta-s-new-muse-charm-device",
+      "title": "Meta’s new Muse Charm device may cost $300",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -150,8 +168,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-satya-nadella-predicts-ai-ag",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "id": "st-these-tech-outages-are-givin",
+      "title": "These tech outages are giving Y2K, AI agent style",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -159,18 +177,36 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-prices-ipo-at-83-a",
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "category": "Startups and companies",
+      "id": "st-the-unfolding-jensen-huang-s",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-research-acceleration-the-ja",
-      "title": "Research acceleration: The jagged frontier",
-      "category": "Research and development",
+      "id": "st-google-gives-gemini-the-abil",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-s-ai-agent-muse-is-mixi",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-openai-s-performance-fac",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -179,6 +215,15 @@
     {
       "id": "st-how-sumitomo-life-s-leaders",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-research-acceleration-the-ja",
+      "title": "Research acceleration: The jagged frontier",
       "category": "Research and development",
       "bucket": "ai",
       "score": 8,
@@ -213,17 +258,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-introducing-gpt-6-2-astra-an",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "category": "Products and applications",
+      "id": "st-moonpay-seeks-us-bank-charte",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-hyperliquid-anthropic-future",
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "category": "Startups and companies",
       "bucket": "ai",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-gta-vi-publisher-racks-up-ne",
-      "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+      "id": "st-why-higher-rates-could-slow",
+      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -231,26 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sweden-s-h100-could-tap-bitc",
-      "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-iosco-warns-quantum-upgrades",
-      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-retests-62k-as-nasda",
-      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+      "id": "st-bitcoin-price-ignores-anthro",
+      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 7.5,
@@ -258,17 +294,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-absolute-batman-can-save-dc",
-      "title": "Absolute Batman can save DC Studios",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-nation-s-largest-school",
-      "title": "The nation’s largest school districts consider ditching Google Search",
+      "id": "st-apple-is-hiring-engineers-to",
+      "title": "Apple is hiring engineers to build its own AI agent",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -276,8 +303,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-i-let-apple-s-always-listeni",
-      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "id": "st-a-brief-history-of-nvidia-s",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-s-muse-charm-might-cost",
+      "title": "Meta’s Muse Charm might cost $300",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-is-putting-ai-chats-r",
+      "title": "Google is putting AI chats right on the homepage",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -285,9 +330,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-s-latest-land-grab-is",
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "category": "Products and applications",
+      "id": "st-sony-s-wh-1000xm5-are-cheape",
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,

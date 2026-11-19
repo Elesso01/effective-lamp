@@ -1,5 +1,85 @@
 [
   {
+    "id": "st-sky-s-usds-stablecoin-shrink",
+    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-19T19:53:42.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "type": "News",
+    "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-19T23:06:35.285Z"
+  },
+  {
+    "id": "st-trump-s-democratic-sec-pick",
+    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-19T18:15:56.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+    "type": "News",
+    "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-19T23:06:35.286Z"
+  },
+  {
+    "id": "st-anthropic-gains-after-ipo-bu",
+    "title": "Anthropic gains after IPO, but pulls off highest levels",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-19T17:01:47.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+    "type": "News",
+    "summary": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-19T23:06:35.286Z"
+  },
+  {
+    "id": "st-crypto-for-advisors-falling",
+    "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-19T16:09:28.000Z",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+    "type": "News",
+    "summary": "",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-19T23:06:35.286Z"
+  },
+  {
+    "id": "st-binance-wins-6-5-billion-fee",
+    "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-19T15:20:38.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+    "type": "News",
+    "summary": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-19T23:06:35.286Z"
+  },
+  {
     "id": "st-crypto-traders-vs-wall-stree",
     "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
     "source": "CoinDesk",
@@ -13,7 +93,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.466Z"
+    "imported_at": "2026-11-19T23:06:35.286Z"
   },
   {
     "id": "st-trump-media-wants-to-clear-8",
@@ -29,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
+    "imported_at": "2026-11-19T23:06:35.286Z"
   },
   {
     "id": "st-bitcoin-etf-outflows-show-wa",
@@ -45,167 +125,135 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
+    "imported_at": "2026-11-19T23:06:35.286Z"
   },
   {
-    "id": "st-bitcoin-holds-above-63-750-b",
-    "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T12:08:06.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+    "id": "st-want-to-see-your-live-ai-usa",
+    "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-19T22:33:26.000Z",
+    "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
     "type": "News",
-    "summary": "Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention now turning to Anthrophic's $100 billion IPO.",
+    "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-19T23:06:35.584Z"
+  },
+  {
+    "id": "st-meta-s-new-muse-charm-device",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-19T21:58:06.000Z",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "type": "News",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-19T23:06:35.585Z"
+  },
+  {
+    "id": "st-these-tech-outages-are-givin",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-19T21:42:31.000Z",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "type": "News",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-19T23:06:35.585Z"
+  },
+  {
+    "id": "st-the-unfolding-jensen-huang-s",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-19T20:18:49.000Z",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "type": "News",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-19T23:06:35.585Z"
+  },
+  {
+    "id": "st-anthropic-s-ipo-could-delive",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-19T19:10:45.000Z",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "type": "News",
+    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
     "category": "Regulation and policy",
-    "bucket": "crypto",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-19T23:06:35.585Z"
   },
   {
-    "id": "st-north-korean-hackers-used-sk",
-    "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T11:30:00.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
-    "type": "News",
-    "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
-  },
-  {
-    "id": "st-anthropic-s-107-billion-sale",
-    "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T11:06:13.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
-    "type": "News",
-    "summary": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
-  },
-  {
-    "id": "st-financial-firms-must-act-now",
-    "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T10:55:29.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
-    "type": "News",
-    "summary": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
-  },
-  {
-    "id": "st-live-updates-bitcoin-nears-6",
-    "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T10:48:26.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-    "type": "News",
-    "summary": "Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T13:29:51.467Z"
-  },
-  {
-    "id": "st-microsoft-ceo-satya-nadella",
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "id": "st-google-gives-gemini-the-abil",
+    "title": "Google gives Gemini the ability to use your Mac for you",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-11-19T00:42:56.000Z",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "published_at": "2026-11-19T18:09:11.000Z",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
     "type": "News",
-    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.840Z"
+    "imported_at": "2026-11-19T23:06:35.585Z"
   },
   {
-    "id": "st-amidst-fears-of-ai-cyberatta",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "id": "st-meta-s-ai-agent-muse-is-mixi",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
     "source": "TechCrunch",
     "sourceId": "rss-techcrunch",
     "author": "TechCrunch",
-    "published_at": "2026-11-18T23:45:00.000Z",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "published_at": "2026-11-19T17:38:40.000Z",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
     "type": "News",
-    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.840Z"
+    "imported_at": "2026-11-19T23:06:35.585Z"
   },
   {
-    "id": "st-satya-nadella-predicts-ai-ag",
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-18T22:58:11.000Z",
-    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "type": "News",
-    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.840Z"
-  },
-  {
-    "id": "st-anthropic-prices-ipo-at-83-a",
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-18T22:11:15.000Z",
-    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "type": "News",
-    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.840Z"
-  },
-  {
-    "id": "st-research-acceleration-the-ja",
-    "title": "Research acceleration: The jagged frontier",
+    "id": "st-how-openai-s-performance-fac",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "source": "OpenAI Blog",
     "sourceId": "rss-openai-blog",
     "author": "OpenAI Blog",
-    "published_at": "2026-11-18T08:00:00.000Z",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "published_at": "2026-11-19T08:00:00.000Z",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "type": "News",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "category": "Research and development",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.737Z"
+    "imported_at": "2026-11-19T23:06:35.534Z"
   },
   {
     "id": "st-how-sumitomo-life-s-leaders",
@@ -221,7 +269,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.737Z"
+    "imported_at": "2026-11-19T23:06:35.534Z"
+  },
+  {
+    "id": "st-research-acceleration-the-ja",
+    "title": "Research acceleration: The jagged frontier",
+    "source": "OpenAI Blog",
+    "sourceId": "rss-openai-blog",
+    "author": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00.000Z",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "type": "News",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-19T23:06:35.534Z"
   },
   {
     "id": "st-managing-frontier-ai-risk-fr",
@@ -237,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.737Z"
+    "imported_at": "2026-11-19T23:06:35.535Z"
   },
   {
     "id": "st-le-groupe-figaro-and-openai",
@@ -253,7 +317,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.737Z"
+    "imported_at": "2026-11-19T23:06:35.535Z"
   },
   {
     "id": "st-advancing-chip-design-with-o",
@@ -269,215 +333,231 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.737Z"
+    "imported_at": "2026-11-19T23:06:35.535Z"
   },
   {
-    "id": "st-introducing-gpt-6-2-astra-an",
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-17T17:45:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "id": "st-binance-s-6-5b-freeze-order",
+    "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-19T22:25:18.000Z",
+    "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "category": "Products and applications",
+    "summary": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-19T23:06:35.367Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-19T21:42:20.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-19T23:06:35.367Z"
+  },
+  {
+    "id": "st-moonpay-seeks-us-bank-charte",
+    "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-19T21:01:42.000Z",
+    "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-19T23:06:35.367Z"
+  },
+  {
+    "id": "st-hyperliquid-anthropic-future",
+    "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-19T20:33:24.000Z",
+    "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.",
+    "category": "Startups and companies",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T13:29:51.737Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-19T23:06:35.367Z"
   },
   {
-    "id": "st-hong-kong-adds-hyperliquid-t",
-    "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+    "id": "st-trump-s-sec-nominee-johnson",
+    "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-19T12:44:06.000Z",
-    "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-19T20:06:34.000Z",
+    "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Hong Kong’s securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city.",
+    "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
+    "imported_at": "2026-11-19T23:06:35.367Z"
   },
   {
-    "id": "st-gta-vi-publisher-racks-up-ne",
-    "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+    "id": "st-ethereum-s-glamsterdam-upgra",
+    "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-19T12:33:46.000Z",
-    "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-19T18:20:49.000Z",
+    "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
+    "summary": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
+    "imported_at": "2026-11-19T23:06:35.367Z"
   },
   {
-    "id": "st-sweden-s-h100-could-tap-bitc",
-    "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+    "id": "st-why-higher-rates-could-slow",
+    "title": "Why higher rates could slow Bitcoin buying at treasury firms",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-19T11:19:58.000Z",
-    "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-19T18:09:32.000Z",
+    "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.",
+    "summary": "A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
+    "imported_at": "2026-11-19T23:06:35.367Z"
   },
   {
-    "id": "st-iosco-warns-quantum-upgrades",
-    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+    "id": "st-bitcoin-price-ignores-anthro",
+    "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-19T10:32:05.000Z",
-    "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-19T18:06:50.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
-  },
-  {
-    "id": "st-singapore-settles-77-5m-toke",
-    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T08:54:58.000Z",
-    "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
-  },
-  {
-    "id": "st-bitcoin-etf-assets-fall-to-t",
-    "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T08:26:19.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
-  },
-  {
-    "id": "st-bitcoin-retests-62k-as-nasda",
-    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T07:55:56.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+    "summary": "Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.",
     "category": "Crypto and AI intersections",
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-11-19T13:29:51.557Z"
+    "imported_at": "2026-11-19T23:06:35.367Z"
   },
   {
-    "id": "st-absolute-batman-can-save-dc",
-    "title": "Absolute Batman can save DC Studios",
+    "id": "st-apple-is-hiring-engineers-to",
+    "title": "Apple is hiring engineers to build its own AI agent",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-19T10:31:05.000Z",
-    "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+    "published_at": "2026-11-19T22:31:41.000Z",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "type": "News",
-    "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature ",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.774Z"
-  },
-  {
-    "id": "st-the-nation-s-largest-school",
-    "title": "The nation’s largest school districts consider ditching Google Search",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-18T23:18:35.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-    "type": "News",
-    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere",
+    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the cre",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.774Z"
+    "imported_at": "2026-11-19T23:06:36.380Z"
   },
   {
-    "id": "st-i-let-apple-s-always-listeni",
-    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "id": "st-a-brief-history-of-nvidia-s",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-18T22:31:27.000Z",
-    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+    "published_at": "2026-11-19T21:59:35.000Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
     "type": "News",
-    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? S",
-    "category": "Products and applications",
+    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on ",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.774Z"
+    "imported_at": "2026-11-19T23:06:36.380Z"
   },
   {
-    "id": "st-democrats-skip-a-vote-on-add",
-    "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+    "id": "st-meta-now-sells-3d-movies-on",
+    "title": "Meta now sells 3D movies on Quest VR headsets",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-18T22:05:48.000Z",
-    "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+    "published_at": "2026-11-19T21:14:33.000Z",
+    "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
     "type": "News",
-    "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader Joh",
+    "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Go",
     "category": "Regulation and policy",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.774Z"
+    "imported_at": "2026-11-19T23:06:36.380Z"
   },
   {
-    "id": "st-trump-s-latest-land-grab-is",
-    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "id": "st-meta-s-muse-charm-might-cost",
+    "title": "Meta’s Muse Charm might cost $300",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-18T21:44:01.000Z",
-    "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "published_at": "2026-11-19T20:29:21.000Z",
+    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
     "type": "News",
-    "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ral",
+    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the ho",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-19T23:06:36.380Z"
+  },
+  {
+    "id": "st-google-is-putting-ai-chats-r",
+    "title": "Google is putting AI chats right on the homepage",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-19T20:14:34.000Z",
+    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "type": "News",
+    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar b",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.774Z"
+    "imported_at": "2026-11-19T23:06:36.380Z"
+  },
+  {
+    "id": "st-sony-s-wh-1000xm5-are-cheape",
+    "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-19T19:35:52.000Z",
+    "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+    "type": "News",
+    "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are ",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-19T23:06:36.380Z"
   },
   {
     "id": "st-cybercriminals-still-rely-on",
@@ -493,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-prediction-this-cryptocurren",
@@ -509,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-artificial-intelligence-for",
@@ -525,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-artificial-intelligence-and",
@@ -541,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -557,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-clemson-university-to-launch",
@@ -573,7 +653,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-how-to-build-an-artificial-i",
@@ -589,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -605,7 +685,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-apa-offers-new-guidance-as-a",
@@ -621,7 +701,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-springfield-city-council-to",
@@ -637,7 +717,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-national-lab-discovery-serie",
@@ -653,7 +733,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -669,7 +749,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -685,7 +765,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -701,7 +781,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.685Z"
+    "imported_at": "2026-11-19T23:06:36.347Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -717,7 +797,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   },
   {
     "id": "st-fbi-says-us-has-seized-1-2-b",
@@ -733,6 +813,6 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T13:29:52.274Z"
+    "imported_at": "2026-11-19T23:06:35.975Z"
   }
 ]
