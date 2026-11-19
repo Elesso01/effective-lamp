@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-19T01:54:44.389Z",
+  "generated_at": "2026-11-19T13:29:52.874Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-another-u-s-appellate-court",
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "id": "st-trump-media-wants-to-clear-8",
+      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-19T00:33:46.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds"
+      "published_at": "2026-11-19T12:40:12.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin"
     },
     {
-      "id": "st-a-1-5-billion-crypto-startup",
-      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "id": "st-bitcoin-holds-above-63-750-b",
+      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-18T17:22:03.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook"
+      "published_at": "2026-11-19T12:08:06.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large"
     }
   ]
 }

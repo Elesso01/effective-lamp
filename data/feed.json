@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-11-19T01:54:44.365Z",
+  "generated_at": "2026-11-19T13:29:52.846Z",
   "mix": {
-    "familiar": 10,
-    "discovery": 38
+    "familiar": 9,
+    "discovery": 37
   },
   "items": [
     {
-      "id": "st-another-u-s-appellate-court",
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-a-1-5-billion-crypto-startup",
-      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "id": "st-trump-media-wants-to-clear-8",
+      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -24,8 +15,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-crypto-long-short-crypto-exc",
-      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "id": "st-bitcoin-holds-above-63-750-b",
+      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -33,8 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-german-judge-proposes-droppi",
-      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "id": "st-north-korean-hackers-used-sk",
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -42,17 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-trump-administration-unveils",
-      "title": "Trump administration unveils new center to choke off scam payments",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-hong-kong-adds-hyperliquid-t",
+      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -60,8 +42,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-bain-capital-crypto-leads-11",
-      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "id": "st-singapore-settles-77-5m-toke",
+      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -69,8 +51,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-says-it-obtained-6-5",
-      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "id": "st-bitcoin-etf-assets-fall-to-t",
+      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -96,17 +78,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-payward-the-owner-of-crypto",
-      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "category": "Markets and business",
+      "id": "st-fbi-says-us-has-seized-1-2-b",
+      "title": "FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance",
+      "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-hong-kong-wants-banks-to-use",
-      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "id": "st-crypto-traders-vs-wall-stree",
+      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -114,8 +96,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-miner-mara-raises-18",
-      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "id": "st-bitcoin-etf-outflows-show-wa",
+      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 8.5,
@@ -123,10 +105,28 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bullish-beats-revenue-estima",
-      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "id": "st-anthropic-s-107-billion-sale",
+      "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-financial-firms-must-act-now",
+      "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-bitcoin-nears-6",
+      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -159,8 +159,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-reportedly-prices",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "id": "st-anthropic-prices-ipo-at-83-a",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "category": "Startups and companies",
       "bucket": "ai",
       "score": 8,
@@ -222,17 +222,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fed-officials-saw-october-ra",
-      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-tether-invokes-the-big-short",
-      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "id": "st-gta-vi-publisher-racks-up-ne",
+      "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,29 +231,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ledger-warns-berlin-customer",
-      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-      "category": "Products and applications",
+      "id": "st-sweden-s-h100-could-tap-bitc",
+      "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+      "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-mara-prices-185m-debt-offeri",
-      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+      "id": "st-iosco-warns-quantum-upgrades",
+      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-retests-62k-as-nasda",
+      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
       "category": "Crypto and AI intersections",
       "bucket": "crossover",
       "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-nation-s-largest-school",
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -276,8 +267,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-trump-s-latest-land-grab-is",
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "id": "st-the-nation-s-largest-school",
+      "title": "The nation’s largest school districts consider ditching Google Search",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -285,18 +276,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-instagram-now-lets-you-edit",
-      "title": "Instagram now lets you edit your stories after you post them",
+      "id": "st-i-let-apple-s-always-listeni",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
       "category": "Products and applications",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sony-s-impressive-bravia-8-i",
-      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-      "category": "Markets and business",
+      "id": "st-trump-s-latest-land-grab-is",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -350,6 +341,15 @@
     {
       "id": "st-clemson-university-to-launch",
       "title": "Clemson University to launch three new degree programs in artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-how-to-build-an-artificial-i",
+      "title": "How to Build an Artificial Intelligence Revolution for All",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -413,24 +413,6 @@
     {
       "id": "st-facestealer-cryptocurrency-t",
       "title": "FaceStealer Cryptocurrency Theft Scheme | Federal Bureau of Investigation",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-how-public-health-agencies-c",
-      "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
