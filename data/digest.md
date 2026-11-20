@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-11-19
+# Weekly digest — week of 2026-11-20
 
-6 stories briefed · feed mix 12 familiar / 39 discovery.
+6 stories briefed · feed mix 10 familiar / 37 discovery.
 
 ## Top stories
-1. **Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report** (Regulation and policy · CoinDesk) — A top crypto development today
-2. **Trump's Democratic SEC pick suggests tokenization policy deserves full rule process** (Regulation and policy · CoinDesk) — A top crypto development today
-3. **Want to see your live AI usage on your Mac’s icons? This clever new app lets you** (Products and applications · TechCrunch) — A top AI development today
-4. **Meta’s new Muse Charm device may cost $300** (Products and applications · TechCrunch) — A top AI development today
-5. **Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
-6. **These tech outages are giving Y2K, AI agent style** (Products and applications · TechCrunch) — Outside your usual reads — worth a skim
+1. **Here's what's crashing gold and likely weighing on bitcoin too** (Markets and business · CoinDesk) — A top crypto development today
+2. **This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive** (Markets and business · CoinDesk) — A top crypto development today
+3. **Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s** (Research and development · Cointelegraph) — A top AI development today
+4. **Apple may be developing its own AI agent that runs your Mac** (Products and applications · TechCrunch) — A top AI development today
+5. **Anthropic shares may fall 5% at Friday’s open, crypto futures suggest** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling** (Regulation and policy · CoinDesk) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: These tech outages are giving Y2K, AI agent style.
+- Discovery pick of the week: Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling.
 
 _News, not investment advice._

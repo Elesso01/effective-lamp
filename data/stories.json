@@ -1,5 +1,117 @@
 [
   {
+    "id": "st-here-s-what-s-crashing-gold",
+    "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T06:12:15.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+    "type": "News",
+    "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.734Z"
+  },
+  {
+    "id": "st-anthropic-shares-may-fall-5",
+    "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T06:08:28.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+    "type": "News",
+    "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.734Z"
+  },
+  {
+    "id": "st-this-bitcoin-miner-sold-267",
+    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T05:32:25.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+    "type": "News",
+    "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.734Z"
+  },
+  {
+    "id": "st-big-money-bought-a-net-4-bil",
+    "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T05:20:51.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+    "type": "News",
+    "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.734Z"
+  },
+  {
+    "id": "st-ethereum-s-next-big-upgrade",
+    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T04:58:08.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "type": "News",
+    "summary": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.735Z"
+  },
+  {
+    "id": "st-vaneck-drops-gemini-as-custo",
+    "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T04:28:52.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+    "type": "News",
+    "summary": "Coinbase Custody will continue serving all three funds after Gemini's contracts end in February.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.735Z"
+  },
+  {
+    "id": "st-bitcoin-hits-four-month-low",
+    "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-20T03:32:30.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+    "type": "News",
+    "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-20T07:30:04.735Z"
+  },
+  {
     "id": "st-sky-s-usds-stablecoin-shrink",
     "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
     "source": "CoinDesk",
@@ -13,119 +125,55 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.285Z"
+    "imported_at": "2026-11-20T07:30:04.735Z"
   },
   {
-    "id": "st-trump-s-democratic-sec-pick",
-    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T18:15:56.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+    "id": "st-apple-may-be-developing-its",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-20T00:56:01.000Z",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "type": "News",
-    "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
-  },
-  {
-    "id": "st-anthropic-gains-after-ipo-bu",
-    "title": "Anthropic gains after IPO, but pulls off highest levels",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T17:01:47.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-    "type": "News",
-    "summary": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.",
-    "category": "Startups and companies",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-20T07:30:05.029Z"
   },
   {
-    "id": "st-crypto-for-advisors-falling",
-    "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T16:09:28.000Z",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+    "id": "st-anthropic-s-7-founders-cashe",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-20T00:43:50.000Z",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
     "type": "News",
-    "summary": "",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
-  },
-  {
-    "id": "st-binance-wins-6-5-billion-fee",
-    "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T15:20:38.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-    "type": "News",
-    "summary": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
     "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-20T07:30:05.029Z"
+  },
+  {
+    "id": "st-anthropic-rival-says-compani",
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-20T00:26:03.000Z",
+    "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+    "type": "News",
+    "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
-  },
-  {
-    "id": "st-crypto-traders-vs-wall-stree",
-    "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T13:11:31.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-    "type": "News",
-    "summary": "The crypto exchange plans to launch tokenized Anthropic shares as its pre-IPO futures trade about 24% above the company’s $83 offering price.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
-  },
-  {
-    "id": "st-trump-media-wants-to-clear-8",
-    "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T12:40:12.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-    "type": "News",
-    "summary": "The Truth Social owner bought back $100 million of convertible notes this week. Holders of the rest can demand cash on Nov. 30, and its bitcoin is worth just under $1 billion.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
-  },
-  {
-    "id": "st-bitcoin-etf-outflows-show-wa",
-    "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-19T12:20:39.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-    "type": "News",
-    "summary": "Your day-ahead look for Nov. 19, 2026",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-19T23:06:35.286Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-20T07:30:05.029Z"
   },
   {
     "id": "st-want-to-see-your-live-ai-usa",
@@ -141,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.584Z"
+    "imported_at": "2026-11-20T07:30:05.029Z"
   },
   {
     "id": "st-meta-s-new-muse-charm-device",
@@ -157,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.585Z"
+    "imported_at": "2026-11-20T07:30:05.029Z"
   },
   {
     "id": "st-these-tech-outages-are-givin",
@@ -173,71 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.585Z"
-  },
-  {
-    "id": "st-the-unfolding-jensen-huang-s",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-19T20:18:49.000Z",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "type": "News",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.585Z"
-  },
-  {
-    "id": "st-anthropic-s-ipo-could-delive",
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-19T19:10:45.000Z",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "type": "News",
-    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.585Z"
-  },
-  {
-    "id": "st-google-gives-gemini-the-abil",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-19T18:09:11.000Z",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "type": "News",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.585Z"
-  },
-  {
-    "id": "st-meta-s-ai-agent-muse-is-mixi",
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-19T17:38:40.000Z",
-    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "type": "News",
-    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.585Z"
+    "imported_at": "2026-11-20T07:30:05.029Z"
   },
   {
     "id": "st-how-openai-s-performance-fac",
@@ -253,23 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.534Z"
+    "imported_at": "2026-11-20T07:30:04.976Z"
   },
   {
-    "id": "st-how-sumitomo-life-s-leaders",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "id": "st-explore-the-codex-security-p",
+    "title": "Explore the Codex Security Plugin",
     "source": "OpenAI Blog",
     "sourceId": "rss-openai-blog",
     "author": "OpenAI Blog",
-    "published_at": "2026-11-18T08:00:00.000Z",
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "published_at": "2026-11-19T00:00:00.000Z",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
     "type": "News",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "category": "Research and development",
-    "bucket": "ai",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "category": "Products and applications",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.534Z"
+    "imported_at": "2026-11-20T07:30:04.976Z"
   },
   {
     "id": "st-research-acceleration-the-ja",
@@ -285,55 +269,71 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.534Z"
+    "imported_at": "2026-11-20T07:30:04.976Z"
   },
   {
-    "id": "st-managing-frontier-ai-risk-fr",
-    "title": "Managing frontier AI risk: From training to deployment",
+    "id": "st-how-sumitomo-life-s-leaders",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
     "source": "OpenAI Blog",
     "sourceId": "rss-openai-blog",
     "author": "OpenAI Blog",
-    "published_at": "2026-11-18T06:00:00.000Z",
-    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "published_at": "2026-11-18T08:00:00.000Z",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
     "type": "News",
-    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-    "category": "Products and applications",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.535Z"
+    "imported_at": "2026-11-20T07:30:04.976Z"
   },
   {
-    "id": "st-le-groupe-figaro-and-openai",
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-18T00:00:00.000Z",
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "id": "st-anthropic-s-81b-ipo-draws-ha",
+    "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-20T06:24:41.000Z",
+    "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "category": "Products and applications",
+    "summary": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.",
+    "category": "Research and development",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.535Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-20T07:30:04.821Z"
   },
   {
-    "id": "st-advancing-chip-design-with-o",
-    "title": "Advancing chip design with OpenAI models",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-18T00:00:00.000Z",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-20T06:00:00.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-19T23:06:35.535Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-20T07:30:04.821Z"
+  },
+  {
+    "id": "st-institutions-pile-back-into",
+    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-20T03:33:22.000Z",
+    "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-20T07:30:04.821Z"
   },
   {
     "id": "st-binance-s-6-5b-freeze-order",
@@ -349,23 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T21:42:20.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
+    "imported_at": "2026-11-20T07:30:04.822Z"
   },
   {
     "id": "st-moonpay-seeks-us-bank-charte",
@@ -381,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
+    "imported_at": "2026-11-20T07:30:04.822Z"
   },
   {
     "id": "st-hyperliquid-anthropic-future",
@@ -397,7 +381,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
+    "imported_at": "2026-11-20T07:30:04.822Z"
   },
   {
     "id": "st-trump-s-sec-nominee-johnson",
@@ -413,55 +397,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
+    "imported_at": "2026-11-20T07:30:04.822Z"
   },
   {
-    "id": "st-ethereum-s-glamsterdam-upgra",
-    "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T18:20:49.000Z",
-    "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-facestealer-cryptocurrency-t",
+    "title": "FaceStealer Cryptocurrency Theft Scheme",
+    "source": "FBI (.gov)",
+    "sourceId": "rss-fbi-gov",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-20T05:47:07.000Z",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5",
     "type": "News",
-    "summary": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5\" target=\"_blank\">FaceStealer Cryptocurrency Theft Scheme</a>&nbsp;&nbs",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
-  },
-  {
-    "id": "st-why-higher-rates-could-slow",
-    "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T18:09:32.000Z",
-    "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
-  },
-  {
-    "id": "st-bitcoin-price-ignores-anthro",
-    "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-19T18:06:50.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-19T23:06:35.367Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-apple-is-hiring-engineers-to",
@@ -469,7 +421,7 @@
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-19T22:31:41.000Z",
+    "published_at": "2026-11-19T23:13:01.000Z",
     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "type": "News",
     "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the cre",
@@ -477,7 +429,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.380Z"
+    "imported_at": "2026-11-20T07:30:06.006Z"
   },
   {
     "id": "st-a-brief-history-of-nvidia-s",
@@ -493,7 +445,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.380Z"
+    "imported_at": "2026-11-20T07:30:06.006Z"
+  },
+  {
+    "id": "st-cryptocurrency-industry-star",
+    "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
+    "source": "The Hill",
+    "sourceId": "rss-the-hill",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-19T21:20:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalR0RlVESVVxUXFPNUJabWEzMXJBc0t5UG5XWi0waFR5Nm1PWnpXblA5ekRpOVdmNGlHdm9NU3NiQ013U2cyNkw3X0d4Z1pqaXUyeEE0UC0wV09sLWdvMW5Zdi02dkpwcFl4R0VaY19HX0RVNmJ4M2NzX3hrdU1fN2VKbFJIWHplMm5uNXhGY2FZdlB1bjBqMER1MNIBoAFBVV95cUxQY0FadWpkMEo5dF91al9IV3JvY1V4TVc4dVAzRGZ0eS1UYjdYMzV4M01mWGlzcU9JeFg4RWNrdnZaU0s5eWcteGpUWkZweFBLRDNpaFBvVVZaN3lUekNLNDVteVRvM3Y1cU5UUjd3Nk1YQVF6R2k4dXpNVHlkaHQzdjdBYktFTkFSdmxFM1pwZ1k2RWxQcnpOVHZvZ1U0YU1v?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOalR0RlVESVVxUXFPNUJabWEzMXJBc0t5UG5XWi0waFR5Nm1PWnpXblA5ekRpOVdmNGlHdm9NU3NiQ013U2cyNkw3X0d4Z1pqaXUyeEE0UC0wV09sLWdvMW5Zdi02dkpwcFl4R0VaY19HX0RVNmJ4M2NzX3hrdU1fN2VKbFJIWHplMm5uNXhGY2FZdlB1bjBqMER1MNIBoAFBVV95cUxQY0FadW",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-meta-now-sells-3d-movies-on",
@@ -509,7 +477,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.380Z"
+    "imported_at": "2026-11-20T07:30:06.006Z"
   },
   {
     "id": "st-meta-s-muse-charm-might-cost",
@@ -525,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.380Z"
+    "imported_at": "2026-11-20T07:30:06.006Z"
   },
   {
     "id": "st-google-is-putting-ai-chats-r",
@@ -541,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.380Z"
+    "imported_at": "2026-11-20T07:30:06.006Z"
   },
   {
     "id": "st-sony-s-wh-1000xm5-are-cheape",
@@ -557,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.380Z"
+    "imported_at": "2026-11-20T07:30:06.006Z"
   },
   {
     "id": "st-cybercriminals-still-rely-on",
@@ -573,7 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-prediction-this-cryptocurren",
@@ -589,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-artificial-intelligence-for",
@@ -605,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-artificial-intelligence-and",
@@ -621,7 +589,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -637,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-clemson-university-to-launch",
@@ -653,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-how-to-build-an-artificial-i",
@@ -669,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -685,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-apa-offers-new-guidance-as-a",
@@ -701,23 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
-  },
-  {
-    "id": "st-springfield-city-council-to",
-    "title": "Springfield City Council to consider full ban on cryptocurrency kiosks to prevent scams",
-    "source": "WBUR",
-    "sourceId": "rss-wbur",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-13T18:54:45.000Z",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGlFbGtMTk00cXM5SGo2dm0wUWJqd21XR2xmUGFUeElHY29lZHExVXZmT2t4NFFnTWRNRWxQV0VUbXQ2dS1SekoyWWF2d2E4VGh1ZEg5emp1OG81M1RHTW1GSlVsNUNrS0hNVjlyUDh5ZHp5OElva3o2TWRGZFRkRE9QbnJLdw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGlFbGtMTk00cXM5SGo2dm0wUWJqd21XR2xmUGFUeElHY29lZHExVXZmT2t4NFFnTWRNRWxQV0VUbXQ2dS1SekoyWWF2d2E4VGh1ZEg5emp1OG81M1RHTW1GSlVsNUNrS0hNVjlyUDh5ZHp5OElva3o2TWRGZFRkRE9QbnJLdw?oc=5\" target=\"_blank\">Springfield City Council ",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-national-lab-discovery-serie",
@@ -733,7 +685,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   },
   {
     "id": "st-us-cracks-down-on-north-kore",
@@ -749,7 +701,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-u-s-seizes-1-2-billion-in-cr",
@@ -765,7 +717,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.403Z"
+  },
+  {
+    "id": "st-fbi-says-it-s-recovered-1-2",
+    "title": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance",
+    "source": "CBS News",
+    "sourceId": "rss-cbs-news",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-13T10:52:16.000Z",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43bUp2RG1MVE9CcnlUTl92U3p4U1J4Zl9qMEFiV2RzSUFkY2ttY2Y2aHc5Z09rN1ZRcUxoWWdZQks0X0w4bGdyNWpWcGdXRzQwdlpWTk1JVl9ZYUFMV2lzZjlsXzIzVlFuLVc1RkppTmJWcmQzcm1n?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE43bUp2RG1MVE9CcnlUTl92U3p4U1J4Zl9qMEFiV2RzSUFkY2ttY2Y2aHc5Z09rN1ZRcUxoWWdZQks0X0w4bGdyNWpWcGdXRzQwdlpWTk1JVl9ZYUFMV2lzZjlsXzIzVlFuLVc1RkppTmJWcmQzcm1n?oc=5\" target=\"_blank\">FBI says it's recovered $1.2 billion worth of c",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-20T07:30:05.403Z"
   },
   {
     "id": "st-jews-are-having-the-wrong-co",
@@ -781,38 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:36.347Z"
-  },
-  {
-    "id": "st-facestealer-cryptocurrency-t",
-    "title": "FaceStealer Cryptocurrency Theft Scheme | Federal Bureau of Investigation",
-    "source": "FBI (.gov)",
-    "sourceId": "rss-fbi-gov",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-12T23:46:56.000Z",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb25Cbm9nTXo4TDlXNXo4bzd6NXZvOTVDSVhMSWNqZ2c0b25xZ3hob2o4Y2RxbXNVcjZWS2k0dHY3el9kekxBYThxdDBKWm1VT3NYRVdzRG44MFdhNS04UU0yMm0tdWhUbEZUcWFuTWM1Um5qQmlZcVJZSmpmOWxoWXd1VQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb25Cbm9nTXo4TDlXNXo4bzd6NXZvOTVDSVhMSWNqZ2c0b25xZ3hob2o4Y2RxbXNVcjZWS2k0dHY3el9kekxBYThxdDBKWm1VT3NYRVdzRG44MFdhNS04UU0yMm0tdWhUbEZUcWFuTWM1Um5qQmlZcVJZSmpmOWxoWXd1VQ?oc=5\" target=\"_blank\">FaceStealer Cryptocurrency Th",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
-  },
-  {
-    "id": "st-fbi-says-us-has-seized-1-2-b",
-    "title": "FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance",
-    "source": "AP News",
-    "sourceId": "rss-ap-news",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-12T23:26:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZEFGZ1FOcjBNSUdWWi1oelVSMzZUTnRiRzczcThYOUJOY2FuOTlSQzlmTll5UnU1UmZfMWk1aTFDWElQT1lMLXVIeHY4aHdJMDBGb1ozLXdDanh3ZGZXN25GMi15SkI0R1pPSF9KOFFsNC1IUDc2ZkNad3hLU2xwM3FPUV9lSW9Jc0FwaXJhOEVadFFTV1VvRXd0MHkzeHNyMHFiaTNibw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZEFGZ1FOcjBNSUdWWi1oelVSMzZUTnRiRzczcThYOUJOY2FuOTlSQzlmTll5UnU1UmZfMWk1aTFDWElQT1lMLXVIeHY4aHdJMDBGb1ozLXdDanh3ZGZXN25GMi15SkI0R1pPSF9KOFFsNC1IUDc2ZkNad3hLU2xwM3FPUV9lSW9Jc0FwaXJhOEVadFFTV1VvRXd0MHkzeHNyMHFiaTNibw?oc=",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-19T23:06:35.975Z"
+    "imported_at": "2026-11-20T07:30:05.787Z"
   }
 ]

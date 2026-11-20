@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-19T23:06:36.467Z",
+  "generated_at": "2026-11-20T07:30:06.105Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-big-money-bought-a-net-4-bil",
+      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-20T05:20:51.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling"
+    },
     {
       "id": "st-sky-s-usds-stablecoin-shrink",
       "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-11-19T19:53:42.000Z",
       "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
-    },
-    {
-      "id": "st-trump-s-democratic-sec-pick",
-      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-19T18:15:56.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process"
     }
   ]
 }
