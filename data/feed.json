@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T07:30:06.078Z",
+  "generated_at": "2026-11-20T17:01:55.081Z",
   "mix": {
-    "familiar": 10,
-    "discovery": 37
+    "familiar": 8,
+    "discovery": 29
   },
   "items": [
     {
-      "id": "st-big-money-bought-a-net-4-bil",
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "id": "st-hong-kong-moves-to-extend-cr",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,20 +15,29 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ethereum-s-next-big-upgrade",
-      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "category": "Markets and business",
+      "id": "st-u-s-senate-passes-bill-to-ba",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-ecb-s-lagarde-warns-europe-c",
+      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-sky-s-usds-stablecoin-shrink",
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "id": "st-bending-spoons-buys-mailchim",
+      "title": "Bending Spoons buys Mailchimp for $3.68 billion",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,6 +51,15 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-us-senate-advances-predictio",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
@@ -51,26 +69,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-binance-s-6-5b-freeze-order",
-      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-trump-s-sec-nominee-johnson",
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-meta-now-sells-3d-movies-on",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "id": "st-un-court-cites-military-face",
+      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 9,
@@ -78,26 +78,35 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-u-s-seizes-1-2-billion-in-cr",
-      "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "id": "st-former-point72-head-of-propr",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-fbi-says-it-s-recovered-1-2",
-      "title": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "id": "st-live-news-bitcoin-slips-to-f",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-here-s-what-s-crashing-gold",
-      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "id": "st-bitcoin-bots-pounced-within",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-stocks-and-gold-trad",
+      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,17 +114,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-shares-may-fall-5",
-      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-this-bitcoin-miner-sold-267",
-      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+      "id": "st-bitcoin-drops-for-third-stra",
+      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -123,62 +123,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-vaneck-drops-gemini-as-custo",
-      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-six-ai-powered-gadgets-that",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-hits-four-month-low",
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 8.5,
+      "id": "st-california-ag-subpoenas-nvid",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-apple-may-be-developing-its",
       "title": "Apple may be developing its own AI agent that runs your Mac",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-anthropic-rival-says-compani",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-want-to-see-your-live-ai-usa",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-s-new-muse-charm-device",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-these-tech-outages-are-givin",
-      "title": "These tech outages are giving Y2K, AI agent style",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -222,17 +186,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-anthropic-s-81b-ipo-draws-ha",
-      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-      "category": "Research and development",
-      "bucket": "ai",
+      "id": "st-bitcoin-price-drops-to-60k-a",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-institutions-pile-back-into",
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "id": "st-dbs-bets-it-can-lose-the-dep",
+      "title": "DBS bets it can lose the deposit and keep the client",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -240,8 +204,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-moonpay-seeks-us-bank-charte",
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "id": "st-lagarde-warns-europe-could-m",
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -249,26 +213,35 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hyperliquid-anthropic-future",
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "category": "Startups and companies",
-      "bucket": "ai",
+      "id": "st-binance-hacker-moves-nearly",
+      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+      "category": "Security and privacy",
+      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-facestealer-cryptocurrency-t",
-      "title": "FaceStealer Cryptocurrency Theft Scheme",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
+      "id": "st-vaneck-to-end-gemini-etf-cus",
+      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-apple-is-hiring-engineers-to",
-      "title": "Apple is hiring engineers to build its own AI agent",
+      "id": "st-bitcoin-nears-repeat-of-char",
+      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-mathematician-clai",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -276,8 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-brief-history-of-nvidia-s",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "id": "st-the-best-early-black-friday",
+      "title": "The best early Black Friday deals you can already shop",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
@@ -285,26 +258,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-industry-star",
-      "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-meta-s-muse-charm-might-cost",
-      "title": "Meta’s Muse Charm might cost $300",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-is-putting-ai-chats-r",
-      "title": "Google is putting AI chats right on the homepage",
+      "id": "st-signal-is-blocking-gemini-an",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -312,28 +267,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-sony-s-wh-1000xm5-are-cheape",
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-      "category": "Markets and business",
+      "id": "st-opinion-artificial-intellige",
+      "title": "Opinion | Artificial intelligence flourished in California election advertising — and divided voters",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cybercriminals-still-rely-on",
-      "title": "Cybercriminals still rely on cryptocurrency to move money around the world",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-prediction-this-cryptocurren",
-      "title": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-artificial-intelligence-cove",
+      "title": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,24 +321,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-how-to-build-an-artificial-i",
-      "title": "How to Build an Artificial Intelligence Revolution for All",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-states-cities-move-to-ban-cr",
-      "title": "States, cities move to ban cryptocurrency kiosks as scams mount",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-apa-offers-new-guidance-as-a",
       "title": "APA offers new guidance as artificial intelligence use at work expands",
       "category": "Products and applications",
@@ -404,24 +332,6 @@
     {
       "id": "st-national-lab-discovery-serie",
       "title": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-us-cracks-down-on-north-kore",
-      "title": "US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-jews-are-having-the-wrong-co",
-      "title": "Jews are having the wrong conversation about artificial intelligence",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

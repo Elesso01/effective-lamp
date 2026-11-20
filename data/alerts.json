@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-20T07:30:06.105Z",
+  "generated_at": "2026-11-20T17:01:55.104Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-big-money-bought-a-net-4-bil",
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "id": "st-hong-kong-moves-to-extend-cr",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-20T05:20:51.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling"
+      "published_at": "2026-11-20T14:38:30.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
     },
     {
-      "id": "st-sky-s-usds-stablecoin-shrink",
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "id": "st-u-s-senate-passes-bill-to-ba",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-19T19:53:42.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
+      "published_at": "2026-11-20T14:25:57.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
     }
   ]
 }
