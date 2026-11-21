@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-21T12:48:21.719Z",
+  "generated_at": "2026-11-21T21:42:59.897Z",
   "count": 2,
   "alerts": [
+    {
+      "id": "st-bitcoin-rebounds-above-60-00",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-21T17:50:00.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+    },
     {
       "id": "st-ether-treasury-firm-btcs-war",
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -9,14 +17,6 @@
       "source": "CoinDesk",
       "published_at": "2026-11-21T12:30:00.000Z",
       "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
-    },
-    {
-      "id": "st-xrp-falls-10-as-long-bets-un",
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-21T05:59:19.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
     }
   ]
 }

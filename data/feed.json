@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-11-21T12:48:21.691Z",
+  "generated_at": "2026-11-21T21:42:59.858Z",
   "mix": {
-    "familiar": 11,
-    "discovery": 40
+    "familiar": 9,
+    "discovery": 38
   },
   "items": [
+    {
+      "id": "st-bitcoin-rebounds-above-60-00",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
     {
       "id": "st-ether-treasury-firm-btcs-war",
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -38,15 +47,6 @@
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bending-spoons-buys-mailchim",
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -96,24 +96,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-youtube-is-reportedly-prepar",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-rockstar-says-gta-vi-made-3",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-bitcoin-nodes-could-be-stall",
       "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
       "category": "Crypto and AI intersections",
@@ -132,20 +114,38 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-plunges-below-59-000",
-      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-signal-restricts-mobile-scre",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-former-point72-head-of-propr",
-      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "category": "Research and development",
+      "id": "st-trump-says-reported-fbi-data",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-here-are-the-top-ai-agents-t",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "category": "Products and applications",
       "bucket": "ai",
-      "score": 8.5,
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-is-selling-an-ai-version-of",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -163,33 +163,6 @@
       "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-daniel-ek-backs-ai-researche",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-claimed-a-solution-to-the",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-super-hot-rock-geothermal-co",
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "category": "Startups and companies",
-      "bucket": "ai",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -276,6 +249,33 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-the-fbi-and-usda-were-report",
+      "title": "The FBI and USDA were reportedly hacked",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-our-go-to-earbuds-for-taking",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-can-anthropic-afford-to-put",
+      "title": "Can Anthropic afford to put safety first?",
+      "category": "Startups and companies",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-facestealer-cryptocurrency-t",
       "title": "FaceStealer Cryptocurrency Theft Scheme",
       "category": "Markets and business",
@@ -285,53 +285,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-harbinger-is-building-the-un",
-      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-threatens-tremendous-t",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-says-it-s-going-to-sh",
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-eufy-s-omni-c28-is-53-percen",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-multiplying-your-switch-2-s",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-here-are-the-apple-deals-act",
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "id": "st-the-xiaomi-18-pro-proves-two",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -348,6 +303,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-history-of-artificial-intell",
+      "title": "History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-southeast-asia-strengthens-r",
       "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
       "category": "Markets and business",
@@ -357,10 +321,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-securing-elections-in-an-age",
-      "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
+      "id": "st-chess-com-s-next-move-is-a-n",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
       "category": "Products and applications",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -370,15 +334,6 @@
       "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-loss",
-      "title": "Artificial intelligence: loss scenarios and claims developments",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -420,8 +375,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-for",
-      "title": "Artificial intelligence for antibiotic discovery and design",
+      "id": "st-artificial-intelligence-and",
+      "title": "Artificial intelligence and the economy",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -431,6 +386,15 @@
     {
       "id": "st-the-year-ahead-will-be-crunc",
       "title": "The year ahead will be crunch time for artificial intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

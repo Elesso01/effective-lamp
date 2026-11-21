@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
+  },
+  {
+    "id": "st-bitcoin-rebounds-above-60-00",
+    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-21T17:50:00.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "type": "News",
+    "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
     "id": "st-ether-treasury-firm-btcs-war",
@@ -29,7 +45,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.247Z"
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
     "id": "st-bitcoin-nodes-could-be-stall",
@@ -45,7 +61,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
     "id": "st-xrp-falls-10-as-long-bets-un",
@@ -61,7 +77,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
     "id": "st-bitcoin-tanks-below-57-000-f",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
     "id": "st-kalshi-races-to-get-ahead-of",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
     "id": "st-fairmint-plans-tokenized-sto",
@@ -109,39 +125,71 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
+    "imported_at": "2026-11-21T21:42:58.396Z"
   },
   {
-    "id": "st-bitcoin-plunges-below-59-000",
-    "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-20T18:13:52.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+    "id": "st-signal-restricts-mobile-scre",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-21T21:37:10.000Z",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "type": "News",
-    "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
-  },
-  {
-    "id": "st-former-point72-head-of-propr",
-    "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-20T14:54:30.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-    "type": "News",
-    "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
-    "category": "Research and development",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-21T12:48:20.248Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-21T21:42:58.855Z"
+  },
+  {
+    "id": "st-trump-says-reported-fbi-data",
+    "title": "Trump says reported FBI database hack is ‘not good’",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-21T18:44:53.000Z",
+    "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+    "type": "News",
+    "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-21T21:42:58.855Z"
+  },
+  {
+    "id": "st-here-are-the-top-ai-agents-t",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-21T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "type": "News",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-21T21:42:58.855Z"
+  },
+  {
+    "id": "st-is-selling-an-ai-version-of",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-21T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "type": "News",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.8,
+    "imported_at": "2026-11-21T21:42:58.855Z"
   },
   {
     "id": "st-startup-sues-apple-in-india",
@@ -157,7 +205,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.560Z"
+    "imported_at": "2026-11-21T21:42:58.855Z"
   },
   {
     "id": "st-experts-warn-nearly-everyone",
@@ -173,71 +221,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.560Z"
-  },
-  {
-    "id": "st-daniel-ek-backs-ai-researche",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-20T19:53:41.000Z",
-    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "type": "News",
-    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-    "category": "Research and development",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.560Z"
-  },
-  {
-    "id": "st-ai-claimed-a-solution-to-the",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-20T19:32:08.000Z",
-    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "type": "News",
-    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.560Z"
-  },
-  {
-    "id": "st-super-hot-rock-geothermal-co",
-    "title": "Super-hot rock geothermal could end data center energy woes",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-20T18:34:00.000Z",
-    "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-    "type": "News",
-    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.560Z"
-  },
-  {
-    "id": "st-bending-spoons-buys-mailchim",
-    "title": "Bending Spoons buys Mailchimp for $3.68B",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-20T16:16:06.000Z",
-    "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-    "type": "News",
-    "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.560Z"
+    "imported_at": "2026-11-21T21:42:58.855Z"
   },
   {
     "id": "st-combatting-adversarial-disti",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.489Z"
+    "imported_at": "2026-11-21T21:42:58.765Z"
   },
   {
     "id": "st-hebbia-sees-improvements-in",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.489Z"
+    "imported_at": "2026-11-21T21:42:58.765Z"
   },
   {
     "id": "st-can-ai-help-scientists-ident",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.489Z"
+    "imported_at": "2026-11-21T21:42:58.765Z"
   },
   {
     "id": "st-how-openai-s-performance-fac",
@@ -301,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.489Z"
+    "imported_at": "2026-11-21T21:42:58.765Z"
   },
   {
     "id": "st-explore-the-codex-security-p",
@@ -317,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-21T12:48:20.489Z"
+    "imported_at": "2026-11-21T21:42:58.765Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -333,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.350Z"
+    "imported_at": "2026-11-21T21:42:58.515Z"
   },
   {
     "id": "st-ecb-seeks-industry-partners",
@@ -349,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.350Z"
+    "imported_at": "2026-11-21T21:42:58.515Z"
   },
   {
     "id": "st-us-lawmakers-propose-up-to-3",
@@ -365,7 +349,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.350Z"
+    "imported_at": "2026-11-21T21:42:58.516Z"
   },
   {
     "id": "st-hong-kong-pushes-to-bring-cr",
@@ -381,7 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.350Z"
+    "imported_at": "2026-11-21T21:42:58.516Z"
   },
   {
     "id": "st-wrapped-monero-token-crashes",
@@ -397,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.350Z"
+    "imported_at": "2026-11-21T21:42:58.516Z"
   },
   {
     "id": "st-sky-protocol-sees-2-billion",
@@ -413,7 +397,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.351Z"
+    "imported_at": "2026-11-21T21:42:58.516Z"
   },
   {
     "id": "st-bitcoin-falls-below-60k-for",
@@ -429,7 +413,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.351Z"
+    "imported_at": "2026-11-21T21:42:58.516Z"
   },
   {
     "id": "st-us-senate-advances-predictio",
@@ -445,7 +429,55 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-21T12:48:20.351Z"
+    "imported_at": "2026-11-21T21:42:58.516Z"
+  },
+  {
+    "id": "st-the-fbi-and-usda-were-report",
+    "title": "The FBI and USDA were reportedly hacked",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-21T17:51:21.000Z",
+    "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+    "type": "News",
+    "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), w",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-21T21:42:59.774Z"
+  },
+  {
+    "id": "st-our-go-to-earbuds-for-taking",
+    "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-21T14:55:28.000Z",
+    "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+    "type": "News",
+    "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-21T21:42:59.774Z"
+  },
+  {
+    "id": "st-can-anthropic-afford-to-put",
+    "title": "Can Anthropic afford to put safety first?",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-21T13:29:45.000Z",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "type": "News",
+    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
+    "category": "Startups and companies",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-21T21:42:59.774Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -461,135 +493,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
-    "id": "st-youtube-is-reportedly-prepar",
-    "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+    "id": "st-the-xiaomi-18-pro-proves-two",
+    "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-20T22:51:40.000Z",
-    "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+    "published_at": "2026-11-20T18:35:38.000Z",
+    "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
     "type": "News",
-    "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeg",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-rockstar-says-gta-vi-made-3",
-    "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T22:10:53.000Z",
-    "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-    "type": "News",
-    "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Roc",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-harbinger-is-building-the-un",
-    "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T19:34:11.000Z",
-    "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-    "type": "News",
-    "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defens",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-trump-threatens-tremendous-t",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T18:50:19.000Z",
-    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-    "type": "News",
-    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-google-says-it-s-going-to-sh",
-    "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T18:06:41.000Z",
-    "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-    "type": "News",
-    "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, me",
+    "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-eufy-s-omni-c28-is-53-percen",
-    "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T17:50:06.000Z",
-    "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-    "type": "News",
-    "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly ",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-multiplying-your-switch-2-s",
-    "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T17:48:09.000Z",
-    "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-    "type": "News",
-    "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thank",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.612Z"
-  },
-  {
-    "id": "st-here-are-the-apple-deals-act",
-    "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-20T17:33:59.000Z",
-    "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-    "type": "News",
-    "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Bla",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.613Z"
+    "imported_at": "2026-11-21T21:42:59.774Z"
   },
   {
     "id": "st-opinion-artificial-intellige",
@@ -605,7 +525,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.634Z"
+  },
+  {
+    "id": "st-history-of-artificial-intell",
+    "title": "History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts",
+    "source": "Britannica",
+    "sourceId": "rss-britannica",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-20T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMGMwd2UtbzRjeEMyZlR6Y0tHR3BUejFycGkxZm94RTN5SVk0aEY4OG1oZ2NwcE1sd29JQ1g0azJPamZ4Z01obTRpWTg0dGJkMGhZMW5hOHpxU2NuOWt4Ykk0SHJlQVBTeHptd3FxWTR6M2NxdzVPdw?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMGMwd2UtbzRjeEMyZlR6Y0tHR3BUejFycGkxZm94RTN5SVk0aEY4OG1oZ2NwcE1sd29JQ1g0azJPamZ4Z01obTRpWTg0dGJkMGhZMW5hOHpxU2NuOWt4Ykk0SHJlQVBTeHptd3FxWTR6M2NxdzVPdw?oc=5\" target=\"_blank\">History of artificial intelligence | Dates, A",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-21T21:42:59.634Z"
   },
   {
     "id": "st-southeast-asia-strengthens-r",
@@ -621,23 +557,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
-    "id": "st-securing-elections-in-an-age",
-    "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
-    "source": "The Electoral Integrity Project",
-    "sourceId": "rss-the-electoral-integrity-project",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-20T02:59:08.000Z",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2RiNGV5eHIydUdHSlh6TlZCa1BTYzRBcjFpNGJlSmtsSWM?oc=5",
+    "id": "st-chess-com-s-next-move-is-a-n",
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-19T23:04:02.000Z",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2",
+    "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
     "category": "Products and applications",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.774Z"
   },
   {
     "id": "st-cryptocurrency-industry-star",
@@ -653,23 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
-  },
-  {
-    "id": "st-artificial-intelligence-loss",
-    "title": "Artificial intelligence: loss scenarios and claims developments",
-    "source": "Allianz Commercial",
-    "sourceId": "rss-allianz-commercial",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-18T22:57:48.000Z",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFkyRGRTMThfdHUzZTFzRVBSenFIM0ZaMFlhbkxvV3ViNkYwcHlaN0xHRm5TYzQyMFhpX0VNczVzblkzNnVxX3B1eFRDR1ZZUUY0ZzJVaFN6R1lGYVcwRmhYbVhfN29BOFFvZGVrVjdIaS1oV0tIbnhNSWNfaWdUMUR3VmtDMFBlUEJDX0ln?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFkyRGRTMThfdHUzZTFzRVBSenFIM0ZaMFlhbkxvV3ViNkYwcHlaN0xHRm5TYzQyMFhpX0VNczVzblkzNnVxX3B1eFRDR1ZZUUY0ZzJVaFN6R1lGYVcwRmhYbVhfN29BOFFvZGVrVjdIaS1oV0tIbnhNSWNfaWdUMUR3VmtDMFBlUEJDX0ln?oc=5\" target=\"_blank\">Artificial inte",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
     "id": "st-cybercriminals-still-rely-on",
@@ -685,7 +605,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -701,7 +621,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
     "id": "st-prediction-this-cryptocurren",
@@ -717,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
     "id": "st-artificial-intelligence-cove",
@@ -733,23 +653,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.634Z"
   },
   {
-    "id": "st-artificial-intelligence-for",
-    "title": "Artificial intelligence for antibiotic discovery and design",
-    "source": "Nature",
-    "sourceId": "rss-nature",
+    "id": "st-artificial-intelligence-and",
+    "title": "Artificial intelligence and the economy",
+    "source": "Brookings",
+    "sourceId": "rss-brookings",
     "author": "Google News (AI)",
-    "published_at": "2026-11-17T22:11:47.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
+    "published_at": "2026-11-17T13:42:37.000Z",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5\" target=\"_blank\">Artificial intelligence for antibiotic discovery and design</a>&nbsp;&nbsp;<fon",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5\" target=\"_blank\">Artificial intelligence and the e",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.634Z"
   },
   {
     "id": "st-the-year-ahead-will-be-crunc",
@@ -765,7 +685,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.634Z"
+  },
+  {
+    "id": "st-artificial-intelligence-in-e",
+    "title": "Artificial Intelligence in Earth Science Data Systems",
+    "source": "NASA Earthdata (.gov)",
+    "sourceId": "rss-nasa-earthdata-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-16T23:26:49.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5\" target=\"_blank\">Artificial Intelligence in Earth Science Data Systems</a>&nbsp;&nbsp;<font color=\"#",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-21T21:42:59.634Z"
   },
   {
     "id": "st-clemson-university-to-launch",
@@ -781,7 +717,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.634Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -797,7 +733,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.025Z"
+    "imported_at": "2026-11-21T21:42:59.292Z"
   },
   {
     "id": "st-apa-offers-new-guidance-as-a",
@@ -813,6 +749,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-21T12:48:21.504Z"
+    "imported_at": "2026-11-21T21:42:59.634Z"
   }
 ]
