@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-21T01:35:51.523Z",
+  "generated_at": "2026-11-21T12:48:21.719Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-kalshi-races-to-get-ahead-of",
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "id": "st-ether-treasury-firm-btcs-war",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-20T22:51:14.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
+      "published_at": "2026-11-21T12:30:00.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
     },
     {
-      "id": "st-fairmint-plans-tokenized-sto",
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "id": "st-xrp-falls-10-as-long-bets-un",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-20T22:05:31.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
+      "published_at": "2026-11-21T05:59:19.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
     }
   ]
 }
