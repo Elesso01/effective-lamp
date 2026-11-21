@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-20T17:01:55.104Z",
+  "generated_at": "2026-11-21T01:35:51.523Z",
   "count": 2,
   "alerts": [
     {
-      "id": "st-hong-kong-moves-to-extend-cr",
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "id": "st-kalshi-races-to-get-ahead-of",
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-20T14:38:30.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
+      "published_at": "2026-11-20T22:51:14.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
     },
     {
-      "id": "st-u-s-senate-passes-bill-to-ba",
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "id": "st-fairmint-plans-tokenized-sto",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-20T14:25:57.000Z",
-      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+      "published_at": "2026-11-20T22:05:31.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
     }
   ]
 }
