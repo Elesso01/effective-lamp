@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T21:42:59.858Z",
+  "generated_at": "2026-11-22T07:05:48.070Z",
   "mix": {
-    "familiar": 9,
-    "discovery": 38
+    "familiar": 8,
+    "discovery": 39
   },
   "items": [
     {
@@ -73,15 +73,6 @@
       "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-us-senate-advances-predictio",
-      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "category": "Regulation and policy",
-      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
@@ -213,6 +204,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-chainflip-confirms-12m-hack",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-ecb-seeks-industry-partners",
       "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
       "category": "Products and applications",
@@ -253,6 +253,15 @@
       "title": "The FBI and USDA were reportedly hacked",
       "category": "Security and privacy",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-may-not-work-like-the-hum",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -303,19 +312,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-history-of-artificial-intell",
-      "title": "History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-southeast-asia-strengthens-r",
+      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-southeast-asia-strengthens-r",
-      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-securing-elections-in-an-age",
+      "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -334,6 +343,15 @@
       "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-in-print-korean-studies-in-t",
+      "title": "In Print: ‘Korean Studies in the Artificial Intelligence Era’",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,26 +393,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-and",
-      "title": "Artificial intelligence and the economy",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-the-year-ahead-will-be-crunc",
       "title": "The year ahead will be crunch time for artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-artificial-intelligence-in-e",
-      "title": "Artificial Intelligence in Earth Science Data Systems",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
