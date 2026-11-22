@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-22T07:05:47.459Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
+  },
+  {
+    "id": "st-bitcoin-s-quantum-security-c",
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-22T14:00:00.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "type": "News",
+    "summary": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-bitcoin-rebounds-above-60-00",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-ether-treasury-firm-btcs-war",
@@ -45,7 +61,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-bitcoin-nodes-could-be-stall",
@@ -61,7 +77,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-xrp-falls-10-as-long-bets-un",
@@ -77,7 +93,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-bitcoin-tanks-below-57-000-f",
@@ -93,7 +109,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-kalshi-races-to-get-ahead-of",
@@ -109,23 +125,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
-  },
-  {
-    "id": "st-fairmint-plans-tokenized-sto",
-    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-20T22:05:31.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-    "type": "News",
-    "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-22T07:05:46.493Z"
+    "imported_at": "2026-11-22T16:25:51.350Z"
   },
   {
     "id": "st-signal-restricts-mobile-scre",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.992Z"
+    "imported_at": "2026-11-22T16:25:51.602Z"
   },
   {
     "id": "st-trump-says-reported-fbi-data",
@@ -157,7 +157,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.993Z"
+    "imported_at": "2026-11-22T16:25:51.602Z"
   },
   {
     "id": "st-here-are-the-top-ai-agents-t",
@@ -173,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.993Z"
+    "imported_at": "2026-11-22T16:25:51.602Z"
   },
   {
     "id": "st-is-selling-an-ai-version-of",
@@ -189,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.993Z"
+    "imported_at": "2026-11-22T16:25:51.602Z"
   },
   {
     "id": "st-startup-sues-apple-in-india",
@@ -205,23 +205,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.993Z"
-  },
-  {
-    "id": "st-experts-warn-nearly-everyone",
-    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-20T20:58:29.000Z",
-    "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-    "type": "News",
-    "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.993Z"
+    "imported_at": "2026-11-22T16:25:51.602Z"
   },
   {
     "id": "st-combatting-adversarial-disti",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.874Z"
+    "imported_at": "2026-11-22T16:25:51.552Z"
   },
   {
     "id": "st-hebbia-sees-improvements-in",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.874Z"
+    "imported_at": "2026-11-22T16:25:51.553Z"
   },
   {
     "id": "st-can-ai-help-scientists-ident",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.874Z"
+    "imported_at": "2026-11-22T16:25:51.553Z"
   },
   {
     "id": "st-how-openai-s-performance-fac",
@@ -285,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.874Z"
+    "imported_at": "2026-11-22T16:25:51.553Z"
   },
   {
     "id": "st-explore-the-codex-security-p",
@@ -301,7 +285,71 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T07:05:46.874Z"
+    "imported_at": "2026-11-22T16:25:51.553Z"
+  },
+  {
+    "id": "st-the-future-of-onchain-fx-cou",
+    "title": "The future of onchain FX could start with users, not institutional liquidity",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-22T14:30:00.000Z",
+    "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-22T16:25:51.431Z"
+  },
+  {
+    "id": "st-here-s-what-happened-in-cryp",
+    "title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-22T11:25:27.000Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-22T16:25:51.431Z"
+  },
+  {
+    "id": "st-bitcoin-briefly-drops-to-17k",
+    "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-22T09:33:06.000Z",
+    "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-22T16:25:51.432Z"
+  },
+  {
+    "id": "st-south-korean-exchanges-halt",
+    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-22T07:24:05.000Z",
+    "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+    "category": "Security and privacy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-22T16:25:51.432Z"
   },
   {
     "id": "st-chainflip-confirms-12m-hack",
@@ -317,23 +365,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.610Z"
-  },
-  {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-21T11:18:52.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.610Z"
+    "imported_at": "2026-11-22T16:25:51.432Z"
   },
   {
     "id": "st-ecb-seeks-industry-partners",
@@ -349,7 +381,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.610Z"
+    "imported_at": "2026-11-22T16:25:51.432Z"
   },
   {
     "id": "st-us-lawmakers-propose-up-to-3",
@@ -365,7 +397,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.610Z"
+    "imported_at": "2026-11-22T16:25:51.432Z"
   },
   {
     "id": "st-hong-kong-pushes-to-bring-cr",
@@ -381,119 +413,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.610Z"
+    "imported_at": "2026-11-22T16:25:51.432Z"
   },
   {
-    "id": "st-wrapped-monero-token-crashes",
-    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-20T19:37:27.000Z",
-    "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.611Z"
-  },
-  {
-    "id": "st-sky-protocol-sees-2-billion",
-    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-20T18:37:10.000Z",
-    "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.611Z"
-  },
-  {
-    "id": "st-bitcoin-falls-below-60k-for",
-    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-20T16:55:51.000Z",
-    "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-22T07:05:46.611Z"
-  },
-  {
-    "id": "st-the-fbi-and-usda-were-report",
-    "title": "The FBI and USDA were reportedly hacked",
+    "id": "st-your-questions-about-apple-h",
+    "title": "Your questions about Apple HomeView’s audio, answered",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-21T17:51:21.000Z",
-    "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+    "published_at": "2026-11-22T13:11:50.000Z",
+    "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
     "type": "News",
-    "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), w",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.936Z"
-  },
-  {
-    "id": "st-ai-may-not-work-like-the-hum",
-    "title": "AI may not work like the human brain after all, scientists discover",
-    "source": "Science Daily",
-    "sourceId": "rss-science-daily",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-21T15:25:56.000Z",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5\" target=\"_blank\">AI may not work like the human brain after all, scientist",
+    "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrati",
     "category": "Products and applications",
-    "bucket": "ai",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
-  },
-  {
-    "id": "st-our-go-to-earbuds-for-taking",
-    "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-21T14:55:28.000Z",
-    "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-    "type": "News",
-    "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.936Z"
-  },
-  {
-    "id": "st-can-anthropic-afford-to-put",
-    "title": "Can Anthropic afford to put safety first?",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-21T13:29:45.000Z",
-    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-    "type": "News",
-    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.936Z"
+    "imported_at": "2026-11-22T16:25:52.531Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -501,7 +437,7 @@
     "source": "FBI (.gov)",
     "sourceId": "rss-fbi-gov",
     "author": "Google News (crypto)",
-    "published_at": "2026-11-21T01:31:44.000Z",
+    "published_at": "2026-11-22T10:44:29.000Z",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5\" target=\"_blank\">FaceStealer Cryptocurrency Theft Scheme</a>&nbsp;&nbs",
@@ -509,23 +445,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
   },
   {
-    "id": "st-the-xiaomi-18-pro-proves-two",
-    "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+    "id": "st-the-vibe-coding-revolution-i",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-20T18:35:38.000Z",
-    "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+    "published_at": "2026-11-20T21:30:59.000Z",
+    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
     "type": "News",
-    "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]",
-    "category": "Products and applications",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik",
+    "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.936Z"
+    "imported_at": "2026-11-22T16:25:52.531Z"
   },
   {
     "id": "st-opinion-artificial-intellige",
@@ -541,55 +477,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
+    "imported_at": "2026-11-22T16:25:52.502Z"
   },
   {
-    "id": "st-southeast-asia-strengthens-r",
-    "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-    "source": "United Nations Office on Drugs and Crime",
-    "sourceId": "rss-united-nations-office-on-drugs-and-crime",
+    "id": "st-cryptocurrency-regulation-a",
+    "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+    "source": "Britannica",
+    "sourceId": "rss-britannica",
     "author": "Google News (crypto)",
-    "published_at": "2026-11-20T06:01:31.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BMbndCWVJZT3dUUnFMMXpGWm5jSG5fNVJKOVZWdjVTWUtNMlQtRnpUWXRyTW9sVHJjbG5vdzVGcDJTcHV3SEhvYnA2U1NuTEpUZ0ZyQmgzSDh0T2s2SzhlTTFGRllncGRLUlJPSFlETHN3TWF1WmZjWlhTa1ktNjEyMjI5eEc3dmNIYVYtQ1htTlplTDVFUzJic3Z1VE5qdlJJNFJmdmUycms?oc=5",
+    "published_at": "2026-11-20T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BMbndCWVJZT3dUUnFMMXpGWm5jSG5fNVJKOVZWdjVTWUtNMlQtRnpUWXRyTW9sVHJjbG5vdzVGcDJTcHV3SEhvYnA2U1NuTEpUZ0ZyQmgzSDh0T2s2SzhlTTFGRllncGRLUlJPSFlETHN3TWF1WmZjWlhTa1ktNjEyMjI5eEc3dmNIYVYtQ1htTlplTDVFUzJic3Z1VE5qdlJJNFJmdmUycm",
-    "category": "Markets and business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5\" target=\"_blank\">Cryptocurrency Regulation: A Guide to U.S. & Global Policies</a>",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
-  },
-  {
-    "id": "st-securing-elections-in-an-age",
-    "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
-    "source": "The Electoral Integrity Project",
-    "sourceId": "rss-the-electoral-integrity-project",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-20T02:59:08.000Z",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2RiNGV5eHIydUdHSlh6TlZCa1BTYzRBcjFpNGJlSmtsSWM?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
-  },
-  {
-    "id": "st-chess-com-s-next-move-is-a-n",
-    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-19T23:04:02.000Z",
-    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-    "type": "News",
-    "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.936Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
   },
   {
     "id": "st-cryptocurrency-industry-star",
@@ -605,23 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
-  },
-  {
-    "id": "st-in-print-korean-studies-in-t",
-    "title": "In Print: ‘Korean Studies in the Artificial Intelligence Era’",
-    "source": "Purdue University",
-    "sourceId": "rss-purdue-university",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-19T16:30:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanM4dlRRVDNuRU1iU2dYR3Y1czlmSFl1UkE1ZmhlX3QtTEJlTWwxSFI5VEFLMGtIWTVrTFhLQU0wcndCOGlKYWo3eXpuQXdaa2FYZGdOSEl4aDV2T0FRaG9Ja1dYSFRDOWltdnlkR0JEVEpVRDEtSk9aOHdxVHpRMlBVM01XV3A2MGJrQVpTVnFRc0M3QjNDRHVYTG1zMlVvTXBhdU1idTFkdTZqNmMw?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQanM4dlRRVDNuRU1iU2dYR3Y1czlmSFl1UkE1ZmhlX3QtTEJlTWwxSFI5VEFLMGtIWTVrTFhLQU0wcndCOGlKYWo3eXpuQXdaa2FYZGdOSEl4aDV2T0FRaG9Ja1dYSFRDOWltdnlkR0JEVEpVRDEtSk9aOHdxVHpRMlBVM01XV3A2MGJrQVpTVnFRc0M3QjNDRHVYTG1zMlVvTXBhdU1idTFkdT",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
   },
   {
     "id": "st-cybercriminals-still-rely-on",
@@ -637,7 +525,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -653,7 +541,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
+  },
+  {
+    "id": "st-artificial-intelligence-in-e",
+    "title": "Artificial Intelligence in Earth Science Data Systems",
+    "source": "NASA Earthdata (.gov)",
+    "sourceId": "rss-nasa-earthdata-gov",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-18T13:35:18.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5\" target=\"_blank\">Artificial Intelligence in Earth Science Data Systems</a>&nbsp;&nbsp;<font color=\"#",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-22T16:25:52.502Z"
   },
   {
     "id": "st-prediction-this-cryptocurren",
@@ -669,7 +573,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
   },
   {
     "id": "st-artificial-intelligence-cove",
@@ -685,23 +589,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
+    "imported_at": "2026-11-22T16:25:52.502Z"
   },
   {
-    "id": "st-the-year-ahead-will-be-crunc",
-    "title": "The year ahead will be crunch time for artificial intelligence",
-    "source": "The Economist",
-    "sourceId": "rss-the-economist",
+    "id": "st-artificial-intelligence-for",
+    "title": "Artificial intelligence for antibiotic discovery and design",
+    "source": "Nature",
+    "sourceId": "rss-nature",
     "author": "Google News (AI)",
-    "published_at": "2026-11-17T00:06:50.000Z",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2pVSmZ4VEVVMF9OMkhabXM3RzZqR3o0X2hQVWp4dXhpdlVxMHBFV25kRWpXNGoyUWhGRDNUZEo4QmxCUmRFb092cFNhd1Q5Vkx0WWY2Q0ZRUHNXVC00Yzd1UVJybVhhb3RidEtuczV3SU9ldlVERnFsdUtyNWhYM2tnRTRqclBsXzF5SkdoaWh1NVhfTUtFOTRYakVJdDcwVzE3UjY0OU5TOVZPRHJUdFdib0Y4dw?oc=5",
+    "published_at": "2026-11-17T22:11:47.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2pVSmZ4VEVVMF9OMkhabXM3RzZqR3o0X2hQVWp4dXhpdlVxMHBFV25kRWpXNGoyUWhGRDNUZEo4QmxCUmRFb092cFNhd1Q5Vkx0WWY2Q0ZRUHNXVC00Yzd1UVJybVhhb3RidEtuczV3SU9ldlVERnFsdUtyNWhYM2tnRTRqclBsXzF5SkdoaWh1NVhfTUtFOTRYakVJdDcwVzE3UjY0OU5TOV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5\" target=\"_blank\">Artificial intelligence for antibiotic discovery and design</a>&nbsp;&nbsp;<fon",
     "category": "Products and applications",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
+    "imported_at": "2026-11-22T16:25:52.502Z"
+  },
+  {
+    "id": "st-artificial-intelligence-and",
+    "title": "Artificial intelligence and the economy",
+    "source": "Brookings",
+    "sourceId": "rss-brookings",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-17T13:42:37.000Z",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5\" target=\"_blank\">Artificial intelligence and the e",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-22T16:25:52.502Z"
   },
   {
     "id": "st-clemson-university-to-launch",
@@ -717,7 +637,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
+    "imported_at": "2026-11-22T16:25:52.502Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -733,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.459Z"
+    "imported_at": "2026-11-22T16:25:52.051Z"
   },
   {
     "id": "st-apa-offers-new-guidance-as-a",
@@ -749,6 +669,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T07:05:47.847Z"
+    "imported_at": "2026-11-22T16:25:52.502Z"
   }
 ]

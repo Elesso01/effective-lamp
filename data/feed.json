@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T07:05:48.070Z",
+  "generated_at": "2026-11-22T16:25:52.616Z",
   "mix": {
     "familiar": 8,
-    "discovery": 39
+    "discovery": 34
   },
   "items": [
     {
@@ -42,18 +42,18 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-fairmint-plans-tokenized-sto",
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "id": "st-here-s-what-happened-in-cryp",
+      "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
       "bucket": "crypto",
-      "score": 10.5,
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
-      "category": "Regulation and policy",
+      "id": "st-south-korean-exchanges-halt",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -69,20 +69,29 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-sky-protocol-sees-2-billion",
-      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-bitcoin-falls-below-60-000-l",
       "title": "Bitcoin falls below $60,000 level",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-cryptocurrency-regulation-a",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-bitcoin-s-quantum-security-c",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -150,15 +159,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-experts-warn-nearly-everyone",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-combatting-adversarial-disti",
       "title": "Combatting adversarial distillation",
       "category": "Products and applications",
@@ -204,6 +204,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-the-future-of-onchain-fx-cou",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-briefly-drops-to-17k",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-chainflip-confirms-12m-hack",
       "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
       "category": "Security and privacy",
@@ -231,55 +249,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-wrapped-monero-token-crashes",
-      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-falls-below-60k-for",
-      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-fbi-and-usda-were-report",
-      "title": "The FBI and USDA were reportedly hacked",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ai-may-not-work-like-the-hum",
-      "title": "AI may not work like the human brain after all, scientists discover",
+      "id": "st-your-questions-about-apple-h",
+      "title": "Your questions about Apple HomeView’s audio, answered",
       "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-our-go-to-earbuds-for-taking",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-can-anthropic-afford-to-put",
-      "title": "Can Anthropic afford to put safety first?",
-      "category": "Startups and companies",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -294,9 +267,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-xiaomi-18-pro-proves-two",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "category": "Products and applications",
+      "id": "st-the-vibe-coding-revolution-i",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "category": "Security and privacy",
       "bucket": "crypto",
       "score": 7,
       "familiar": false,
@@ -312,46 +285,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-southeast-asia-strengthens-r",
-      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-securing-elections-in-an-age",
-      "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chess-com-s-next-move-is-a-n",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-cryptocurrency-industry-star",
       "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-in-print-korean-studies-in-t",
-      "title": "In Print: ‘Korean Studies in the Artificial Intelligence Era’",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,6 +312,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-artificial-intelligence-in-e",
+      "title": "Artificial Intelligence in Earth Science Data Systems",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-prediction-this-cryptocurren",
       "title": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
       "category": "Markets and business",
@@ -393,8 +339,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-year-ahead-will-be-crunc",
-      "title": "The year ahead will be crunch time for artificial intelligence",
+      "id": "st-artificial-intelligence-for",
+      "title": "Artificial intelligence for antibiotic discovery and design",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-artificial-intelligence-and",
+      "title": "Artificial intelligence and the economy",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
