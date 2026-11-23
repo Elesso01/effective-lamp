@@ -1,22 +1,14 @@
 {
-  "generated_at": "2026-11-23T00:57:23.908Z",
-  "count": 2,
+  "generated_at": "2026-11-23T14:55:58.827Z",
+  "count": 1,
   "alerts": [
     {
-      "id": "st-bitcoin-rebounds-above-60-00",
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "id": "st-ethereum-wallets-holding-72",
+      "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-21T17:50:00.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
-    },
-    {
-      "id": "st-ether-treasury-firm-btcs-war",
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "category": "Regulation and policy",
-      "source": "CoinDesk",
-      "published_at": "2026-11-21T12:30:00.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
+      "published_at": "2026-11-23T12:13:35.000Z",
+      "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack"
     }
   ]
 }

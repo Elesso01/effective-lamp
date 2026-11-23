@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T00:57:23.876Z",
+  "generated_at": "2026-11-23T14:55:58.792Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 32
+    "familiar": 5,
+    "discovery": 36
   },
   "items": [
     {
-      "id": "st-bitcoin-rebounds-above-60-00",
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "id": "st-ethereum-wallets-holding-72",
+      "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,20 +15,20 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ether-treasury-firm-btcs-war",
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "id": "st-sierra-doubles-valuation-to",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
       "category": "Regulation and policy",
       "bucket": "ai",
-      "score": 10.5,
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-xrp-falls-10-as-long-bets-un",
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "id": "st-how-notable-capital-gic-and",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
+      "bucket": "ai",
+      "score": 10,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -42,9 +42,9 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-south-korean-exchanges-halt",
-      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-      "category": "Security and privacy",
+      "id": "st-strategy-buys-457-bitcoin-sp",
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -60,17 +60,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cryptocurrency-regulation-a",
-      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-more-on-the-pending-oversigh",
-      "title": "More on the pending oversight hearings: State of Crypto",
+      "id": "st-bitcoin-s-5-year-return-is-n",
+      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -78,53 +69,71 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-s-quantum-security-c",
-      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "id": "st-jensen-huang-returns-as-nvid",
+      "title": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
       "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-openai-anthropic-and-rivals",
-      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
-      "category": "Products and applications",
       "bucket": "ai",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-nodes-could-be-stall",
-      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-fidelity-investments-strive",
+      "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-live-updates-bitcoin-climbs",
+      "title": "Live updates: Bitcoin climbs above $63,000 as Nasdaq soars 6% on Huang return",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-s-losing-streak-is-s",
+      "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-rebounds-from-2-year",
+      "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-japan-to-ramp-up-crypto-tax",
+      "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-uber-now-lets-you-book-rides",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-openai-s-chief-scientist-has",
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-techcrunch-mobility-a-b-test",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-signal-restricts-mobile-scre",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -168,17 +177,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-will-bitcoin-s-big-rebound-h",
-      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-future-of-onchain-fx-cou",
-      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "id": "st-nvidia-reinstates-jensen-hua",
+      "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7.5,
@@ -186,26 +186,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-briefly-drops-to-17k",
-      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-chainflip-confirms-12m-hack",
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-ecb-seeks-industry-partners",
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "id": "st-okx-ice-launch-113-tokenized",
+      "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
@@ -213,11 +195,56 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-lawmakers-propose-up-to-3",
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "id": "st-trump-linked-american-bitcoi",
+      "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
       "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ai-agents-are-using-credit-c",
+      "title": "AI agents are using credit cards. Where does that leave crypto?",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-critics-of-netflix-s-ftx-dra",
+      "title": "Critics of Netflix’s FTX drama point to Obama’s producer credit",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-ecb-to-let-banks-pledge-more",
+      "title": "ECB to let banks pledge more tokenized securities as collateral",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-meta-muse-can-do-your-black",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-samsung-s-absurd-1-100hz-gam",
+      "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -231,10 +258,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-binding-of-isaac-developer-r",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-today-s-crypto-news-bitcoin",
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -244,6 +271,24 @@
       "title": "Opinion | Artificial intelligence flourished in California election advertising — and divided voters",
       "category": "Products and applications",
       "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-4-ways-to-invest-in-cryptocu",
+      "title": "4 ways to invest in cryptocurrency stocks",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-southeast-asia-strengthens-r",
+      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -267,10 +312,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-      "category": "Markets and business",
-      "bucket": "crypto",
+      "id": "st-artificial-intelligence-and",
+      "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -323,24 +368,6 @@
     {
       "id": "st-clemson-university-to-launch",
       "title": "Clemson University to launch three new degree programs in artificial intelligence",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-states-cities-move-to-ban-cr",
-      "title": "States, cities move to ban cryptocurrency kiosks as scams mount",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-apa-offers-new-guidance-as-a",
-      "title": "APA offers new guidance as artificial intelligence use at work expands",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,

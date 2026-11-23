@@ -13,7 +13,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
+  },
+  {
+    "id": "st-more-on-the-pending-oversigh",
+    "title": "More on the pending oversight hearings: State of Crypto",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-22T19:30:00.000Z",
+    "url": "https://www.coindesk.com/",
+    "type": "News",
+    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-23T00:57:22.299Z"
   },
   {
     "id": "st-bitcoin-s-quantum-security-c",
@@ -29,7 +45,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "imported_at": "2026-11-23T00:57:22.299Z"
   },
   {
     "id": "st-bitcoin-rebounds-above-60-00",
@@ -45,7 +61,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "imported_at": "2026-11-23T00:57:22.299Z"
+  },
+  {
+    "id": "st-openai-anthropic-and-rivals",
+    "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-21T14:00:00.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+    "type": "News",
+    "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-23T00:57:22.300Z"
   },
   {
     "id": "st-ether-treasury-firm-btcs-war",
@@ -61,7 +93,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "imported_at": "2026-11-23T00:57:22.300Z"
   },
   {
     "id": "st-bitcoin-nodes-could-be-stall",
@@ -77,7 +109,7 @@
     "bucket": "crossover",
     "crossover": true,
     "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "imported_at": "2026-11-23T00:57:22.300Z"
   },
   {
     "id": "st-xrp-falls-10-as-long-bets-un",
@@ -93,39 +125,39 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "imported_at": "2026-11-23T00:57:22.300Z"
   },
   {
-    "id": "st-bitcoin-tanks-below-57-000-f",
-    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-21T04:10:07.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "id": "st-openai-s-chief-scientist-has",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-22T21:14:07.000Z",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
     "type": "News",
-    "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-23T00:57:22.735Z"
   },
   {
-    "id": "st-kalshi-races-to-get-ahead-of",
-    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-20T22:51:14.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "id": "st-techcrunch-mobility-a-b-test",
+    "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+    "source": "TechCrunch",
+    "sourceId": "rss-techcrunch",
+    "author": "TechCrunch",
+    "published_at": "2026-11-22T17:06:00.000Z",
+    "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
     "type": "News",
-    "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-22T16:25:51.350Z"
+    "quality": 0.8,
+    "imported_at": "2026-11-23T00:57:22.735Z"
   },
   {
     "id": "st-signal-restricts-mobile-scre",
@@ -141,71 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.602Z"
-  },
-  {
-    "id": "st-trump-says-reported-fbi-data",
-    "title": "Trump says reported FBI database hack is ‘not good’",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-21T18:44:53.000Z",
-    "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-    "type": "News",
-    "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.602Z"
-  },
-  {
-    "id": "st-here-are-the-top-ai-agents-t",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-21T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "type": "News",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.602Z"
-  },
-  {
-    "id": "st-is-selling-an-ai-version-of",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-21T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "type": "News",
-    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-    "category": "Startups and companies",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.602Z"
-  },
-  {
-    "id": "st-startup-sues-apple-in-india",
-    "title": "Startup sues Apple in India over tap-to-share contacts feature",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-21T04:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-    "type": "News",
-    "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.602Z"
+    "imported_at": "2026-11-23T00:57:22.735Z"
   },
   {
     "id": "st-combatting-adversarial-disti",
@@ -221,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.552Z"
+    "imported_at": "2026-11-23T00:57:22.605Z"
   },
   {
     "id": "st-hebbia-sees-improvements-in",
@@ -237,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.553Z"
+    "imported_at": "2026-11-23T00:57:22.606Z"
   },
   {
     "id": "st-can-ai-help-scientists-ident",
@@ -253,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.553Z"
+    "imported_at": "2026-11-23T00:57:22.606Z"
   },
   {
     "id": "st-how-openai-s-performance-fac",
@@ -269,23 +237,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.553Z"
+    "imported_at": "2026-11-23T00:57:22.606Z"
   },
   {
-    "id": "st-explore-the-codex-security-p",
-    "title": "Explore the Codex Security Plugin",
-    "source": "OpenAI Blog",
-    "sourceId": "rss-openai-blog",
-    "author": "OpenAI Blog",
-    "published_at": "2026-11-19T00:00:00.000Z",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "id": "st-will-bitcoin-s-big-rebound-h",
+    "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-22T22:47:09.000Z",
+    "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.8,
-    "imported_at": "2026-11-22T16:25:51.553Z"
+    "quality": 0.75,
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-the-future-of-onchain-fx-cou",
@@ -301,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.431Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -317,7 +285,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.431Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-bitcoin-briefly-drops-to-17k",
@@ -333,7 +301,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.432Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-south-korean-exchanges-halt",
@@ -349,7 +317,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.432Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-chainflip-confirms-12m-hack",
@@ -365,7 +333,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.432Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-ecb-seeks-industry-partners",
@@ -381,7 +349,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.432Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-us-lawmakers-propose-up-to-3",
@@ -397,39 +365,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.432Z"
-  },
-  {
-    "id": "st-hong-kong-pushes-to-bring-cr",
-    "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-21T05:40:35.000Z",
-    "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-22T16:25:51.432Z"
-  },
-  {
-    "id": "st-your-questions-about-apple-h",
-    "title": "Your questions about Apple HomeView’s audio, answered",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-22T13:11:50.000Z",
-    "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-    "type": "News",
-    "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrati",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.531Z"
+    "imported_at": "2026-11-23T00:57:22.382Z"
   },
   {
     "id": "st-facestealer-cryptocurrency-t",
@@ -437,7 +373,7 @@
     "source": "FBI (.gov)",
     "sourceId": "rss-fbi-gov",
     "author": "Google News (crypto)",
-    "published_at": "2026-11-22T10:44:29.000Z",
+    "published_at": "2026-11-22T19:52:32.000Z",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5",
     "type": "News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBORXhFZGZTSUNjaUZPTXVyWmdVdEt3aHprOHJQMEo3NVlQQ0JodEp1T2RSRlRqbjlDQzRZTXhmNGU4Q01CVE1Gdl9CWnRmOEllTFMzYk9udlYyRFVGY1JYN0M0bDhyM3Bmc2N2dFU0SGc1dw?oc=5\" target=\"_blank\">FaceStealer Cryptocurrency Theft Scheme</a>&nbsp;&nbs",
@@ -445,23 +381,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
-    "id": "st-the-vibe-coding-revolution-i",
-    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "id": "st-binding-of-isaac-developer-r",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-20T21:30:59.000Z",
-    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "published_at": "2026-11-22T17:25:20.000Z",
+    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
     "type": "News",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik",
-    "category": "Security and privacy",
-    "bucket": "crypto",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se",
+    "category": "Products and applications",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.531Z"
+    "imported_at": "2026-11-23T00:57:23.795Z"
   },
   {
     "id": "st-opinion-artificial-intellige",
@@ -477,7 +413,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   },
   {
     "id": "st-cryptocurrency-regulation-a",
@@ -493,7 +429,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
     "id": "st-cryptocurrency-industry-star",
@@ -509,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
     "id": "st-cybercriminals-still-rely-on",
@@ -525,7 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -541,7 +477,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
     "id": "st-artificial-intelligence-in-e",
@@ -557,7 +493,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   },
   {
     "id": "st-prediction-this-cryptocurren",
@@ -573,7 +509,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
     "id": "st-artificial-intelligence-cove",
@@ -589,7 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   },
   {
     "id": "st-artificial-intelligence-for",
@@ -605,7 +541,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   },
   {
     "id": "st-artificial-intelligence-and",
@@ -621,7 +557,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   },
   {
     "id": "st-clemson-university-to-launch",
@@ -637,7 +573,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   },
   {
     "id": "st-states-cities-move-to-ban-cr",
@@ -653,7 +589,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.051Z"
+    "imported_at": "2026-11-23T00:57:23.281Z"
   },
   {
     "id": "st-apa-offers-new-guidance-as-a",
@@ -669,6 +605,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-22T16:25:52.502Z"
+    "imported_at": "2026-11-23T00:57:23.669Z"
   }
 ]
