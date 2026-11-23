@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T16:25:52.616Z",
+  "generated_at": "2026-11-23T00:57:23.876Z",
   "mix": {
-    "familiar": 8,
-    "discovery": 34
+    "familiar": 6,
+    "discovery": 32
   },
   "items": [
     {
@@ -33,15 +33,6 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-kalshi-races-to-get-ahead-of",
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 10.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
       "id": "st-here-s-what-happened-in-cryp",
       "title": "Here’s what happened in crypto today",
       "category": "Regulation and policy",
@@ -54,15 +45,6 @@
       "id": "st-south-korean-exchanges-halt",
       "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
       "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-hong-kong-pushes-to-bring-cr",
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
       "familiar": true,
@@ -87,10 +69,28 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-more-on-the-pending-oversigh",
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-bitcoin-s-quantum-security-c",
       "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
       "category": "Markets and business",
       "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-openai-anthropic-and-rivals",
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -105,11 +105,20 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-tanks-below-57-000-f",
-      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
+      "id": "st-openai-s-chief-scientist-has",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-techcrunch-mobility-a-b-test",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -118,42 +127,6 @@
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-trump-says-reported-fbi-data",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-here-are-the-top-ai-agents-t",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-is-selling-an-ai-version-of",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "category": "Startups and companies",
-      "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-startup-sues-apple-in-india",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "category": "Products and applications",
-      "bucket": "crypto",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -195,11 +168,11 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-explore-the-codex-security-p",
-      "title": "Explore the Codex Security Plugin",
+      "id": "st-will-bitcoin-s-big-rebound-h",
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 8,
+      "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -249,15 +222,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-your-questions-about-apple-h",
-      "title": "Your questions about Apple HomeView’s audio, answered",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-facestealer-cryptocurrency-t",
       "title": "FaceStealer Cryptocurrency Theft Scheme",
       "category": "Markets and business",
@@ -267,10 +231,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-vibe-coding-revolution-i",
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "category": "Security and privacy",
-      "bucket": "crypto",
+      "id": "st-binding-of-isaac-developer-r",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "category": "Products and applications",
+      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
