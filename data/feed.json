@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T02:57:21.444Z",
+  "generated_at": "2026-11-24T14:59:14.927Z",
   "mix": {
-    "familiar": 6,
-    "discovery": 39
+    "familiar": 4,
+    "discovery": 40
   },
   "items": [
     {
-      "id": "st-u-s-cftc-sets-policies-on-ev",
-      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "id": "st-bitcoin-drops-as-november-sp",
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 10.5,
@@ -15,8 +15,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-nvidia-s-jensen-huang-faces",
-      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "id": "st-u-s-seeks-1-1-billion-seized",
+      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10.5,
@@ -24,17 +24,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ethereum-foundation-doubles",
-      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-here-s-what-happened-in-cryp",
-      "title": "Here’s what happened in crypto today",
+      "id": "st-south-korea-proposes-bank-le",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,8 +33,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-base-makes-quantum-security",
-      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "id": "st-bitcoin-etfs-keep-bleeding-a",
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -60,35 +51,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-not-bitcoin-not-ethereum-thi",
-      "title": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
+      "id": "st-south-korea-proposes-ending",
+      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-bitcoin-rebound-already-losi",
-      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
       "score": 8.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cathie-wood-s-ark-invest-pul",
-      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-hackers-push-247-mil",
-      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "id": "st-crypto-trader-ansem-says-his",
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
       "category": "Security and privacy",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,8 +69,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-eric-trump-backed-american-b",
-      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+      "id": "st-live-updates-bitcoin-pulls-b",
+      "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,8 +78,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-s-5-year-return-is-n",
-      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+      "id": "st-bitcoin-hands-back-monday-s",
+      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-s-drop-to-55-000-lef",
+      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -136,15 +118,6 @@
       "title": "OpenAI and Cisco introduce Shirudo",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-google-search-s-ai-mode-can",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
       "score": 8,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -204,8 +177,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cftc-staff-say-exchanges-can",
-      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "id": "st-usdt-buyers-face-22-vat-when",
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -213,29 +186,65 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-us-seeks-to-recover-1-1b-in",
-      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "id": "st-swiss-central-bank-ubs-and-s",
+      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-grayscale-calls-bitcoin-over",
+      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-dipped-on-huang-s-nv",
+      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-dips-back-under-60k",
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bambu-s-five-nozzle-p3c-isn",
+      "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-hacker-behind-early-gta",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
       "category": "Security and privacy",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-btcs-offloads-44m-in-eth-to",
-      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "id": "st-euipo-supports-europol-opera",
+      "title": "EUIPO supports Europol operation to trace cryptocurrency payments behind illegal IPTV services",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cuomo-says-rivals-urged-comp",
-      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -258,15 +267,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-hacker-behind-early-gta",
-      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-ladybird-the-first-new-brows",
       "title": "Ladybird, the first new browser engine in years, is now available to test",
       "category": "Products and applications",
@@ -276,17 +276,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-welcome-to-elite-impunity-je",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "category": "Markets and business",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-apple-watch-series-12-is",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "id": "st-uber-nuro-and-lucid-kick-off",
+      "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -312,6 +303,24 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-south-korea-seeks-broader-ac",
+      "title": "South Korea seeks broader account freezes and tighter rules on offshore crypto transfers",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-double-alignment-problem",
+      "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-trump-hosts-third-crypto-gal",
       "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
       "category": "Markets and business",
@@ -321,10 +330,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-ai-may-not-work-like-the-hum",
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "category": "Products and applications",
-      "bucket": "ai",
+      "id": "st-programs-and-services-votes",
+      "title": "Programs and Services Votes To Advance Cryptocurrency ATM Ban",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -334,15 +343,6 @@
       "title": "Opinion | Artificial intelligence flourished in California election advertising — and divided voters",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-southeast-asia-strengthens-r",
-      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -375,15 +375,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-cybercriminals-still-rely-on",
-      "title": "Cybercriminals still rely on cryptocurrency to move money around the world",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-governor-newsom-s-nation-lea",
       "title": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight",
       "category": "Products and applications",
@@ -393,18 +384,18 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-new-classroom-use-for-arti",
-      "title": "A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer",
-      "category": "Markets and business",
+      "id": "st-artificial-intelligence-cove",
+      "title": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-artificial-intelligence-cove",
-      "title": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans",
-      "category": "Products and applications",
+      "id": "st-artificial-intelligence-and",
+      "title": "Artificial Intelligence and Labor Market Reallocation",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
