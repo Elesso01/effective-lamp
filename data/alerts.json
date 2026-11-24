@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-11-23T14:55:58.827Z",
-  "count": 1,
+  "generated_at": "2026-11-24T02:57:21.466Z",
+  "count": 2,
   "alerts": [
     {
-      "id": "st-ethereum-wallets-holding-72",
-      "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+      "id": "st-u-s-cftc-sets-policies-on-ev",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-23T12:13:35.000Z",
-      "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack"
+      "published_at": "2026-11-24T00:25:04.000Z",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
+    },
+    {
+      "id": "st-nvidia-s-jensen-huang-faces",
+      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-23T18:12:05.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
     }
   ]
 }
