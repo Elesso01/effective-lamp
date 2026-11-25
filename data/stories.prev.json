@@ -13,119 +13,119 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-24T02:57:20.833Z"
+    "imported_at": "2026-11-24T14:59:14.232Z"
   },
   {
-    "id": "st-u-s-cftc-sets-policies-on-ev",
-    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+    "id": "st-south-korea-proposes-ending",
+    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-24T00:25:04.000Z",
-    "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+    "published_at": "2026-11-24T14:40:53.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
     "type": "News",
-    "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
-    "category": "Regulation and policy",
+    "summary": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
+    "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.977Z"
+    "imported_at": "2026-11-24T14:59:13.506Z"
   },
   {
-    "id": "st-nvidia-s-jensen-huang-faces",
-    "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+    "id": "st-crypto-trader-ansem-says-his",
+    "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-23T18:12:05.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+    "published_at": "2026-11-24T12:47:49.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
     "type": "News",
-    "summary": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.978Z"
-  },
-  {
-    "id": "st-bitcoin-rebound-already-losi",
-    "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-23T17:31:27.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
-    "type": "News",
-    "summary": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.978Z"
-  },
-  {
-    "id": "st-cathie-wood-s-ark-invest-pul",
-    "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-23T16:39:03.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
-    "type": "News",
-    "summary": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
-    "category": "Products and applications",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.978Z"
-  },
-  {
-    "id": "st-binance-hackers-push-247-mil",
-    "title": "Binance hackers push $247 million through transactions designed to cloud the source",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-23T15:29:01.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
-    "type": "News",
-    "summary": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers.",
+    "summary": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
     "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.978Z"
+    "imported_at": "2026-11-24T14:59:13.506Z"
   },
   {
-    "id": "st-eric-trump-backed-american-b",
-    "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+    "id": "st-live-updates-bitcoin-pulls-b",
+    "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-23T15:02:32.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+    "published_at": "2026-11-24T12:47:40.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
     "type": "News",
-    "summary": "The Nasdaq-listed crypto miner can borrow without selling its reserves or issuing new shares, but falling BTC prices could force it to pledge more collateral.",
+    "summary": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.978Z"
+    "imported_at": "2026-11-24T14:59:13.507Z"
   },
   {
-    "id": "st-bitcoin-s-5-year-return-is-n",
-    "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+    "id": "st-bitcoin-drops-as-november-sp",
+    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-23T14:43:18.000Z",
-    "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
+    "published_at": "2026-11-24T12:36:28.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
     "type": "News",
-    "summary": "",
+    "summary": "Your day-ahead look for Nov. 24, 2026",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-24T14:59:13.507Z"
+  },
+  {
+    "id": "st-bitcoin-hands-back-monday-s",
+    "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-24T11:31:56.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+    "type": "News",
+    "summary": "Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's selloff.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-24T02:57:19.978Z"
+    "imported_at": "2026-11-24T14:59:13.507Z"
+  },
+  {
+    "id": "st-bitcoin-s-drop-to-55-000-lef",
+    "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-24T11:11:38.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+    "type": "News",
+    "summary": "Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entities holding 100 to 10,000 BTC continued to accumulate.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-24T14:59:13.507Z"
+  },
+  {
+    "id": "st-u-s-seeks-1-1-billion-seized",
+    "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-24T10:58:51.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+    "type": "News",
+    "summary": "U.S. seeks to recover $1.1 billion in frozen USDC as billions more from the Binance hack remain unaccounted for.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-24T14:59:13.507Z"
   },
   {
     "id": "st-anthropic-launches-claude-sh",
@@ -141,7 +141,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.445Z"
+    "imported_at": "2026-11-24T14:59:13.719Z"
   },
   {
     "id": "st-supertake-raises-20m-to-let",
@@ -157,7 +157,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.445Z"
+    "imported_at": "2026-11-24T14:59:13.719Z"
   },
   {
     "id": "st-openai-and-cisco-introduce-s",
@@ -173,23 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
-  },
-  {
-    "id": "st-google-search-s-ai-mode-can",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "source": "TechCrunch",
-    "sourceId": "rss-techcrunch",
-    "author": "TechCrunch",
-    "published_at": "2026-11-23T19:14:46.000Z",
-    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "type": "News",
-    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.445Z"
+    "imported_at": "2026-11-24T14:59:13.681Z"
   },
   {
     "id": "st-connected-intelligence-for-i",
@@ -205,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
+    "imported_at": "2026-11-24T14:59:13.681Z"
   },
   {
     "id": "st-richpanel-helps-companies-au",
@@ -221,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
+    "imported_at": "2026-11-24T14:59:13.682Z"
   },
   {
     "id": "st-combatting-adversarial-disti",
@@ -237,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
+    "imported_at": "2026-11-24T14:59:13.682Z"
   },
   {
     "id": "st-hebbia-sees-improvements-in",
@@ -253,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
+    "imported_at": "2026-11-24T14:59:13.682Z"
   },
   {
     "id": "st-can-ai-help-scientists-ident",
@@ -269,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
+    "imported_at": "2026-11-24T14:59:13.682Z"
   },
   {
     "id": "st-how-openai-s-performance-fac",
@@ -285,119 +269,167 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-24T02:57:20.341Z"
+    "imported_at": "2026-11-24T14:59:13.682Z"
   },
   {
-    "id": "st-ethereum-foundation-doubles",
-    "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+    "id": "st-usdt-buyers-face-22-vat-when",
+    "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-24T00:36:26.000Z",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-24T14:10:23.000Z",
+    "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+    "summary": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
+    "imported_at": "2026-11-24T14:59:13.571Z"
   },
   {
-    "id": "st-cftc-staff-say-exchanges-can",
-    "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+    "id": "st-swiss-central-bank-ubs-and-s",
+    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-23T23:43:34.000Z",
-    "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-24T13:57:56.000Z",
+    "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
-    "category": "Markets and business",
-    "bucket": "crypto",
+    "summary": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
+    "category": "Research and development",
+    "bucket": "ai",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
+    "imported_at": "2026-11-24T14:59:13.571Z"
   },
   {
-    "id": "st-here-s-what-happened-in-cryp",
-    "title": "Here’s what happened in crypto today",
+    "id": "st-grayscale-calls-bitcoin-over",
+    "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-23T21:40:44.000Z",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-24T13:11:44.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "summary": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.75,
+    "imported_at": "2026-11-24T14:59:13.571Z"
+  },
+  {
+    "id": "st-south-korea-proposes-bank-le",
+    "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-24T12:04:16.000Z",
+    "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.",
     "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
+    "imported_at": "2026-11-24T14:59:13.571Z"
   },
   {
-    "id": "st-us-seeks-to-recover-1-1b-in",
-    "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+    "id": "st-bitcoin-dipped-on-huang-s-nv",
+    "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-23T21:04:03.000Z",
-    "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-24T11:40:33.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+    "summary": "Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-24T14:59:13.571Z"
+  },
+  {
+    "id": "st-bitcoin-dips-back-under-60k",
+    "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-24T09:25:45.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-24T14:59:13.571Z"
+  },
+  {
+    "id": "st-bitcoin-etfs-keep-bleeding-a",
+    "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-24T07:41:50.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-24T14:59:13.571Z"
+  },
+  {
+    "id": "st-bambu-s-five-nozzle-p3c-isn",
+    "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-24T14:36:15.000Z",
+    "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+    "type": "News",
+    "summary": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu P3C can also swap between materials on the fly, mix different colo",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-24T14:59:14.845Z"
+  },
+  {
+    "id": "st-the-hacker-behind-early-gta",
+    "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-24T13:21:16.000Z",
+    "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+    "type": "News",
+    "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of ",
     "category": "Security and privacy",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-24T14:59:14.845Z"
   },
   {
-    "id": "st-btcs-offloads-44m-in-eth-to",
-    "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-23T19:35:06.000Z",
-    "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "st-euipo-supports-europol-opera",
+    "title": "EUIPO supports Europol operation to trace cryptocurrency payments behind illegal IPTV services",
+    "source": "EUIPO",
+    "sourceId": "rss-euipo",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-24T12:06:56.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHhETFhEckdXaGgtc2cxWG5mQS1OdUs3SmJMNnVqNDlUTVRFeTBsWHRYQUFQeV9nYzA0R0JvVkVFZ05XcEVxVXdVa21HNll1UEpMRzQzQ091QnZJNjR0dXAxQzRjVExRYmpDTmh1dDlCbFJLZldCSjBLOFN1czgzVEsycFRsX1RUMVljbFRtdXota0xIb1ZoRTdLS1c1TTY4aGNIamFsZE5LeHhLbFRfZHR6dk5VbFBGa2V2ZWxmdVV2Si1VQ2ZsY1JB?oc=5",
     "type": "News",
-    "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHhETFhEckdXaGgtc2cxWG5mQS1OdUs3SmJMNnVqNDlUTVRFeTBsWHRYQUFQeV9nYzA0R0JvVkVFZ05XcEVxVXdVa21HNll1UEpMRzQzQ091QnZJNjR0dXAxQzRjVExRYmpDTmh1dDlCbFJLZldCSjBLOFN1czgzVEsycFRsX1RUMVljbFRtdXota0xIb1ZoRTdLS1c1TTY4aGNIamFsZE5LeH",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
-  },
-  {
-    "id": "st-base-makes-quantum-security",
-    "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-23T19:16:46.000Z",
-    "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
-  },
-  {
-    "id": "st-cuomo-says-rivals-urged-comp",
-    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-23T17:42:18.000Z",
-    "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-24T02:57:20.102Z"
+    "quality": 0.7,
+    "imported_at": "2026-11-24T14:59:14.233Z"
   },
   {
     "id": "st-justice-department-warning-o",
@@ -413,7 +445,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
+    "imported_at": "2026-11-24T14:59:14.233Z"
   },
   {
     "id": "st-google-alternative-kagi-laun",
@@ -429,23 +461,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.382Z"
-  },
-  {
-    "id": "st-the-hacker-behind-early-gta",
-    "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-23T23:25:01.000Z",
-    "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-    "type": "News",
-    "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of ",
-    "category": "Security and privacy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.382Z"
+    "imported_at": "2026-11-24T14:59:14.845Z"
   },
   {
     "id": "st-ladybird-the-first-new-brows",
@@ -461,39 +477,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.382Z"
+    "imported_at": "2026-11-24T14:59:14.845Z"
   },
   {
-    "id": "st-welcome-to-elite-impunity-je",
-    "title": "Welcome to elite impunity, Jensen Huang",
+    "id": "st-uber-nuro-and-lucid-kick-off",
+    "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-23T22:21:36.000Z",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "published_at": "2026-11-23T21:08:31.000Z",
+    "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
     "type": "News",
-    "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.382Z"
-  },
-  {
-    "id": "st-the-apple-watch-series-12-is",
-    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-23T21:36:48.000Z",
-    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-    "type": "News",
-    "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beatin",
+    "summary": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025, this three-way allia",
     "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.382Z"
+    "imported_at": "2026-11-24T14:59:14.845Z"
   },
   {
     "id": "st-inside-the-black-market-for",
@@ -509,7 +509,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
+    "imported_at": "2026-11-24T14:59:14.816Z"
   },
   {
     "id": "st-from-wall-street-to-main-str",
@@ -525,7 +525,39 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
+    "imported_at": "2026-11-24T14:59:14.816Z"
+  },
+  {
+    "id": "st-south-korea-seeks-broader-ac",
+    "title": "South Korea seeks broader account freezes and tighter rules on offshore crypto transfers",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-23T10:53:19.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnpOUDMzc29tMzU3TGdTSThQOFI0cW9TcFhBWHJlRXhQbHVxeGdabXdkd3BoT05mTWxMNUZ4X1FZbjVMbjBOaUpCb2dxTEFtNmtlT0NoQW52Z0JqNnJKajJEajEyRzA1anpoMGRkLTIwcTN2bTNxemdzU21ZeldDd1hjTXNyd3kyUGZ3RWxTR1ZES0Rlcl96WjRmN3dnckk4WURxZEZuSFlQVHJCTVVSdVMyZ2dQQ01FY2tqT3c3T0JfWjZhYkZzLQ?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnpOUDMzc29tMzU3TGdTSThQOFI0cW9TcFhBWHJlRXhQbHVxeGdabXdkd3BoT05mTWxMNUZ4X1FZbjVMbjBOaUpCb2dxTEFtNmtlT0NoQW52Z0JqNnJKajJEajEyRzA1anpoMGRkLTIwcTN2bTNxemdzU21ZeldDd1hjTXNyd3kyUGZ3RWxTR1ZES0Rlcl96WjRmN3dnckk4WURxZEZuSFlQVH",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-24T14:59:14.233Z"
+  },
+  {
+    "id": "st-the-double-alignment-problem",
+    "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
+    "source": "War on the Rocks",
+    "sourceId": "rss-war-on-the-rocks",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-23T08:34:37.000Z",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0Y5bFdTbGFaaDhyeWdsVGdxWnZlUTNzSTFMYzd2NWgxXy1neWpFSU1BdWdkSzhwbkFtdGRGR09VR3hPWk5QcGpLYUVwcHlyV1ZLQXF0Y0Y5MGxYejYzS1FTdXlTaVF1VUJHbTZ0UjZZaUJLakpyZGpQZ1lNSEpzTjVlUUZJS1lMZzNyVEhMNGVDNnpPaDAyU0dpaVlhcEVJME04VUxfMV8zMjBDTWhEQS1ZbUlleTBlalE?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0Y5bFdTbGFaaDhyeWdsVGdxWnZlUTNzSTFMYzd2NWgxXy1neWpFSU1BdWdkSzhwbkFtdGRGR09VR3hPWk5QcGpLYUVwcHlyV1ZLQXF0Y0Y5MGxYejYzS1FTdXlTaVF1VUJHbTZ0UjZZaUJLakpyZGpQZ1lNSEpzTjVlUUZJS1lMZzNyVEhMNGVDNnpPaDAyU0dpaVlhcEVJME04VUxfMV8zMj",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-24T14:59:14.816Z"
   },
   {
     "id": "st-trump-hosts-third-crypto-gal",
@@ -541,23 +573,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
+    "imported_at": "2026-11-24T14:59:14.233Z"
   },
   {
-    "id": "st-ai-may-not-work-like-the-hum",
-    "title": "AI may not work like the human brain after all, scientists discover",
-    "source": "ScienceDaily",
-    "sourceId": "rss-sciencedaily",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-21T15:25:56.000Z",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
+    "id": "st-programs-and-services-votes",
+    "title": "Programs and Services Votes To Advance Cryptocurrency ATM Ban",
+    "source": "The Heights",
+    "sourceId": "rss-the-heights",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-22T18:43:42.000Z",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3ZZLTk5VVpyNm5NZWVuaUdFdExNQzJDRmU5d21zWFUydlA0U0lIc2h1V0xxRTlEVm53WHJvNHc4cGp2MFBLXzI4TS1JMzhWcXNLMkJDb1RxdXU5VjBBQy1xd3BNUTBiekRKMUpHNk9QWFg4d3pGYUE3RlZGUlZtc3NmenhpUjhqbVlENllWWnZsdGdnSGF4Unk0VmdmUQ?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5\" target=\"_blank\">AI may not work like the human brain after all, scientist",
-    "category": "Products and applications",
-    "bucket": "ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3ZZLTk5VVpyNm5NZWVuaUdFdExNQzJDRmU5d21zWFUydlA0U0lIc2h1V0xxRTlEVm53WHJvNHc4cGp2MFBLXzI4TS1JMzhWcXNLMkJDb1RxdXU5VjBBQy1xd3BNUTBiekRKMUpHNk9QWFg4d3pGYUE3RlZGUlZtc3NmenhpUjhqbVlENllWWnZsdGdnSGF4Unk0VmdmUQ?oc=5\" target=\"_",
+    "category": "Markets and business",
+    "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
+    "imported_at": "2026-11-24T14:59:14.233Z"
   },
   {
     "id": "st-opinion-artificial-intellige",
@@ -573,23 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
-  },
-  {
-    "id": "st-southeast-asia-strengthens-r",
-    "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-    "source": "United Nations Office on Drugs and Crime",
-    "sourceId": "rss-united-nations-office-on-drugs-and-crime",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-20T06:01:31.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BMbndCWVJZT3dUUnFMMXpGWm5jSG5fNVJKOVZWdjVTWUtNMlQtRnpUWXRyTW9sVHJjbG5vdzVGcDJTcHV3SEhvYnA2U1NuTEpUZ0ZyQmgzSDh0T2s2SzhlTTFGRllncGRLUlJPSFlETHN3TWF1WmZjWlhTa1ktNjEyMjI5eEc3dmNIYVYtQ1htTlplTDVFUzJic3Z1VE5qdlJJNFJmdmUycms?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BMbndCWVJZT3dUUnFMMXpGWm5jSG5fNVJKOVZWdjVTWUtNMlQtRnpUWXRyTW9sVHJjbG5vdzVGcDJTcHV3SEhvYnA2U1NuTEpUZ0ZyQmgzSDh0T2s2SzhlTTFGRllncGRLUlJPSFlETHN3TWF1WmZjWlhTa1ktNjEyMjI5eEc3dmNIYVYtQ1htTlplTDVFUzJic3Z1VE5qdlJJNFJmdmUycm",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
+    "imported_at": "2026-11-24T14:59:14.816Z"
   },
   {
     "id": "st-securing-elections-in-an-age",
@@ -605,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
+    "imported_at": "2026-11-24T14:59:14.816Z"
   },
   {
     "id": "st-cryptocurrency-industry-star",
@@ -621,23 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
-  },
-  {
-    "id": "st-not-bitcoin-not-ethereum-thi",
-    "title": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
-    "source": "The Motley Fool",
-    "sourceId": "rss-the-motley-fool",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-19T11:00:02.000Z",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
+    "imported_at": "2026-11-24T14:59:14.233Z"
   },
   {
     "id": "st-cryptocurrency-statistics-20",
@@ -653,23 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
-  },
-  {
-    "id": "st-cybercriminals-still-rely-on",
-    "title": "Cybercriminals still rely on cryptocurrency to move money around the world",
-    "source": "Federal News Network",
-    "sourceId": "rss-federal-news-network",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-18T18:20:16.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXRyUDBzWXhhVm0zWEUxdktfdlBMY0RRRUY1b2hzU2NZaTRhUURKQzQ1UmhUN0l6Y3VHc25Uamx1NUN4M2VpT3E3eHhOdkJ2VHljR1JERXZCYTRIaGc5YzhvaDdieGZHWHNaekpvUTE3MzJldWQ5YzgzUTdJVUFUcW9uVkV1b3NiaFR5TkVjRlpoalFXQU5ySVNmWTVQYzVIOW9EMmlZWXlDQVcyTmcxdXdkS1dFdExUZnl1cVgxX0FWYldSSjZXNGV3?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXRyUDBzWXhhVm0zWEUxdktfdlBMY0RRRUY1b2hzU2NZaTRhUURKQzQ1UmhUN0l6Y3VHc25Uamx1NUN4M2VpT3E3eHhOdkJ2VHljR1JERXZCYTRIaGc5YzhvaDdieGZHWHNaekpvUTE3MzJldWQ5YzgzUTdJVUFUcW9uVkV1b3NiaFR5TkVjRlpoalFXQU5ySVNmWTVQYzVIOW9EMmlZWXlDQV",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:20.833Z"
+    "imported_at": "2026-11-24T14:59:14.233Z"
   },
   {
     "id": "st-governor-newsom-s-nation-lea",
@@ -685,23 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
-  },
-  {
-    "id": "st-a-new-classroom-use-for-arti",
-    "title": "A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer",
-    "source": "EdSurge",
-    "sourceId": "rss-edsurge",
-    "author": "Google News (AI)",
-    "published_at": "2026-11-18T14:21:03.000Z",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEpGbmpjR1RPeWFoQ2ZYOWlwVEY4eVdSOGtxZllJd2NLMlRIZGIyWnN0clV0NDRDVVBZNEZfMzI5U0Fncm5jS2NKdy1LZkwwcEE4TzlJRVJtOTdxUEpWQWNnRWFsMkE5S21GWjV1bk5iX2lNTkYxX0p3bzBkcGw2OTl5cUNCZWREUkt4c3dYS2t2eHlOMUJkbThsR2p5T1JSRGtDQ3ZMNEczc1RQczYzWQ?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEpGbmpjR1RPeWFoQ2ZYOWlwVEY4eVdSOGtxZllJd2NLMlRIZGIyWnN0clV0NDRDVVBZNEZfMzI5U0Fncm5jS2NKdy1LZkwwcEE4TzlJRVJtOTdxUEpWQWNnRWFsMkE5S21GWjV1bk5iX2lNTkYxX0p3bzBkcGw2OTl5cUNCZWREUkt4c3dYS2t2eHlOMUJkbThsR2p5T1JSRGtDQ3ZMNEczc1",
-    "category": "Markets and business",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.278Z"
+    "imported_at": "2026-11-24T14:59:14.816Z"
   },
   {
     "id": "st-artificial-intelligence-cove",
@@ -717,6 +685,22 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-24T02:57:21.277Z"
+    "imported_at": "2026-11-24T14:59:14.816Z"
+  },
+  {
+    "id": "st-artificial-intelligence-and",
+    "title": "Artificial Intelligence and Labor Market Reallocation",
+    "source": "Federal Reserve Bank of San Francisco",
+    "sourceId": "rss-federal-reserve-bank-of-san-francisco",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-18T00:30:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW92UWdHZTlOSmt6S2ItdUpBdDVBWTdvN0J5YTJGZ0wzWWdHQXJkaWdVRGYwMDdPVTFyWjJEbG9qLWtvTlN2dTBRTUQydHBqa2lzUGlFdV9CVmRyaThmRTR3OVlpdVpwTDN5YzlHaUNqLTJvTW1rc1VxWjhvZF9EeUFxWVprYm5JUF9YVXdxWnI1LU9YalM1c3ctb1ZZelB3TENlN3FGWVZwb1ljbFp5a0liT0kzeXZuVE9sYU03VVBCWU9XZzJqV1dDTHEwem8?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW92UWdHZTlOSmt6S2ItdUpBdDVBWTdvN0J5YTJGZ0wzWWdHQXJkaWdVRGYwMDdPVTFyWjJEbG9qLWtvTlN2dTBRTUQydHBqa2lzUGlFdV9CVmRyaThmRTR3OVlpdVpwTDN5YzlHaUNqLTJvTW1rc1VxWjhvZF9EeUFxWVprYm5JUF9YVXdxWnI1LU9YalM1c3ctb1ZZelB3TENlN3FGWVZwb1",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-24T14:59:14.816Z"
   }
 ]
