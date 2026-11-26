@@ -1,17 +1,17 @@
-# Weekly digest — week of 2026-11-25
+# Weekly digest — week of 2026-11-26
 
-6 stories briefed · feed mix 7 familiar / 36 discovery.
+6 stories briefed · feed mix 10 familiar / 39 discovery.
 
 ## Top stories
-1. **Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes** (Markets and business · CoinDesk) — A top crypto development today
-2. **Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%** (Products and applications · CoinDesk) — A top crypto development today
-3. **Fed’s preferred inflation gauge lands with a December rate increase already priced in** (Markets and business · CoinDesk) — A top AI development today
-4. **Amazon and Meta reportedly in talks to lift blockade on AI agent Muse** (Products and applications · TechCrunch) — A top AI development today
-5. **Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization** (Crypto and AI intersections · Cointelegraph) — A major development affecting both AI and blockchain
-6. **Gold's haven status has lost its edge over bitcoin, and the Fed's to blame** (Markets and business · CoinDesk) — Outside your usual reads — worth a skim
+1. **French Senate blocks new crypto tax and wallet list critics called a kidnapping risk** (Regulation and policy · CoinDesk) — A top crypto development today
+2. **Here’s what happened in crypto today** (Regulation and policy · Cointelegraph) — A top crypto development today
+3. **FCC approves SpaceX plan to put AI data centers in space** (Regulation and policy · TechCrunch) — A top AI development today
+4. **OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work** (Products and applications · TechCrunch) — A top AI development today
+5. **'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles** (Crypto and AI intersections · CoinDesk) — A major development affecting both AI and blockchain
+6. **The canceled Tesla Cybertruck is the fastest-selling used truck in America** (Markets and business · TechCrunch) — Outside your usual reads — worth a skim
 
 ## Follow up
 - Revisit developing Regulation and policy threads for updates or corrections.
-- Discovery pick of the week: Gold's haven status has lost its edge over bitcoin, and the Fed's to blame.
+- Discovery pick of the week: The canceled Tesla Cybertruck is the fastest-selling used truck in America.
 
 _News, not investment advice._

@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-11-25T14:37:29.993Z",
-  "count": 1,
+  "generated_at": "2026-11-26T00:31:26.872Z",
+  "count": 2,
   "alerts": [
     {
-      "id": "st-eu-proposes-54-7-billion-fun",
-      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "id": "st-french-senate-blocks-new-cry",
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
       "category": "Regulation and policy",
       "source": "CoinDesk",
-      "published_at": "2026-11-25T11:00:27.000Z",
-      "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push"
+      "published_at": "2026-11-25T18:24:47.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk"
+    },
+    {
+      "id": "st-ukrainian-lawmakers-pass-cry",
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "category": "Regulation and policy",
+      "source": "CoinDesk",
+      "published_at": "2026-11-25T16:02:07.000Z",
+      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million"
     }
   ]
 }

@@ -1,22 +1,40 @@
 {
-  "generated_at": "2026-11-25T14:37:29.963Z",
+  "generated_at": "2026-11-26T00:31:26.840Z",
   "mix": {
-    "familiar": 7,
-    "discovery": 36
+    "familiar": 10,
+    "discovery": 39
   },
   "items": [
     {
-      "id": "st-eu-proposes-54-7-billion-fun",
-      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "id": "st-french-senate-blocks-new-cry",
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
       "category": "Regulation and policy",
-      "bucket": "ai",
+      "bucket": "crypto",
       "score": 10.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-yale-s-sonnenfeld-nvidia-is",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "id": "st-ukrainian-lawmakers-pass-cry",
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-crypto-long-short-bitcoin-in",
+      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-fcc-approves-spacex-plan-to",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
@@ -33,8 +51,17 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-ukraine-passes-bill-to-legal",
-      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "id": "st-ethereum-foundation-backs-ke",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 9.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-nvidia-agrees-to-290m-settle",
+      "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
       "category": "Regulation and policy",
       "bucket": "crypto",
       "score": 9.5,
@@ -42,31 +69,67 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-french-senate-rejects-100k-e",
-      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-law-enforcement-follow-crypt",
-      "title": "Law enforcement follow crypto money trail behind billion-euro illegal streaming industry",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-not-bitcoin-not-ethereum-thi",
-      "title": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
+      "id": "st-bitcoin-rises-after-falling",
+      "title": "Bitcoin rises after falling to two-year low",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 9,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-amazon-loses-its-latest-atte",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
       "familiar": true,
       "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-whatsapp-s-new-scheduled-mes",
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-a-guide-to-blockchain-and-cr",
+      "title": "A guide to blockchain and cryptocurrency laws and regulations 2027: British Virgin Islands (GLI chapter)",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-this-time-actually-seems-dif",
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-eu-bank-watchdog-seeks-europ",
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-south-korean-crypto-exchange",
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-fed-s-preferred-inflation-ga",
@@ -87,53 +150,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-italy-s-unicredit-launches-s",
-      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-gold-s-haven-status-has-lost",
-      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-live-updates-bitcoin-slips-b",
-      "title": "Live updates: Bitcoin slips back under $59,000, with tech rout continuing",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-just-10-accounts-drove-all-o",
-      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-todoist-confirms-6-of-custom",
-      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-and-meta-reportedly-i",
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "id": "st-openai-says-heavy-chatgpt-us",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 8,
@@ -141,9 +159,36 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-flipkart-ceo-kalyan-krishnam",
-      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-      "category": "Startups and companies",
+      "id": "st-the-canceled-tesla-cybertruc",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-anthropic-s-dario-amodei-cal",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-1password-said-hackers-broke",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 8,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-want-to-buy-your-kid-an-ai-t",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "category": "Research and development",
       "bucket": "ai",
       "score": 8,
       "familiar": false,
@@ -204,53 +249,80 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-japan-s-sbi-smfg-launch-sola",
-      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
+      "id": "st-switzerland-clears-57-jurisd",
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-hong-kong-launches-tokenized",
-      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+      "id": "st-braiins-warns-of-bitcoin-min",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-why-ecb-collateral-eligibili",
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-us-inflation-rises-to-3-8-ah",
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-bitcoin-falls-toward-57k-ami",
+      "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-google-s-patent-for-custom-a",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-1password-breach-leaked-cust",
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "category": "Security and privacy",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-loneliest-peptide-party",
+      "title": "The loneliest peptide party in New York",
       "category": "Products and applications",
       "bucket": "crypto",
-      "score": 7.5,
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-etfs-near-5b-in-reco",
-      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-price-may-fall-below",
-      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-      "category": "Research and development",
-      "bucket": "ai",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hype-drops-8-as-trump-bump-g",
-      "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-amazon-is-reportedly-in-talk",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "id": "st-the-fairphone-6-plus-is-modu",
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
@@ -258,8 +330,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-microsoft-declares-code-red",
-      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "id": "st-euipo-supports-europol-opera",
+      "title": "EUIPO supports Europol operation to trace cryptocurrency payments behind illegal IPTV services",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -267,10 +339,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-xteink-s-pocketable-x4-class",
-      "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
-      "category": "Research and development",
-      "bucket": "ai",
+      "id": "st-justice-department-warning-o",
+      "title": "Justice department warning online users of scammers using real women in cryptocurrency scheme",
+      "category": "Markets and business",
+      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
@@ -312,8 +384,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-facestealer-cryptocurrency-t",
-      "title": "FaceStealer Cryptocurrency Theft Scheme",
+      "id": "st-the-double-alignment-problem",
+      "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-trump-hosts-third-crypto-gal",
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-programs-and-services-votes",
+      "title": "Programs and Services Votes To Advance Cryptocurrency ATM Ban",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -339,24 +429,6 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-southeast-asia-strengthens-r",
-      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
       "id": "st-cryptocurrency-industry-star",
       "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
       "category": "Markets and business",
@@ -366,28 +438,10 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-states-cities-move-to-ban-cr",
-      "title": "States, cities move to ban cryptocurrency kiosks as scams mount",
+      "id": "st-boneheaded-crypto-faces-a-bl",
+      "title": "‘Boneheaded’: Crypto faces a blue wave reckoning",
       "category": "Markets and business",
       "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-cybercriminals-still-rely-on",
-      "title": "Cybercriminals still rely on cryptocurrency to move money around the world",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-governor-newsom-s-nation-lea",
-      "title": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight",
-      "category": "Products and applications",
-      "bucket": "ai",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
