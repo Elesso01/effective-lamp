@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T00:40:23.405Z",
+  "generated_at": "2026-11-27T13:59:55.205Z",
   "mix": {
-    "familiar": 9,
+    "familiar": 10,
     "discovery": 35
   },
   "items": [
@@ -15,11 +15,47 @@
       "reason": "Matches your feedback and follows"
     },
     {
+      "id": "st-kalshi-turns-to-small-busine",
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+      "category": "Regulation and policy",
+      "bucket": "ai",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-injective-asks-sec-to-allow",
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-tether-can-freeze-stolen-cry",
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 10.5,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
       "id": "st-fcc-approves-spacex-plan-to",
       "title": "FCC approves SpaceX plan to put AI data centers in space",
       "category": "Regulation and policy",
       "bucket": "ai",
       "score": 10,
+      "familiar": true,
+      "reason": "Matches your feedback and follows"
+    },
+    {
+      "id": "st-binance-to-launch-tokenized",
+      "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+      "category": "Regulation and policy",
+      "bucket": "crypto",
+      "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
@@ -33,40 +69,22 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-uk-is-getting-it-wrong-on-de",
-      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "id": "st-new-york-ag-secures-1-37b-co",
+      "title": "New York AG secures $1.37B court judgment against NovaTech founders",
       "category": "Regulation and policy",
-      "bucket": "crypto",
+      "bucket": "ai",
       "score": 9.5,
       "familiar": true,
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-japan-weighs-tighter-oversig",
-      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-      "category": "Regulation and policy",
-      "bucket": "crypto",
-      "score": 9.5,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-android-app-developers-will",
-      "title": "Android app developers will soon have to share their address publicly",
-      "category": "Regulation and policy",
+      "id": "st-podcast-where-the-artificial",
+      "title": "PODCAST: Where the artificial intelligence boom goes next",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
-    },
-    {
-      "id": "st-federal-judge-blocks-the-fcc",
-      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "category": "Regulation and policy",
-      "bucket": "ai",
-      "score": 9,
-      "familiar": true,
-      "reason": "Matches your feedback and follows"
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
     },
     {
       "id": "st-a-guide-to-blockchain-and-cr",
@@ -87,8 +105,8 @@
       "reason": "Matches your feedback and follows"
     },
     {
-      "id": "st-a-tiny-payment-can-expose-th",
-      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "id": "st-bitcoin-death-cross-is-comin",
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -96,8 +114,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bitcoin-s-dormant-supply-ris",
-      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "id": "st-bitcoin-on-course-to-end-sev",
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -105,8 +123,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-for-advisors-four-que",
-      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "id": "st-live-updates-bitcoin-rebound",
+      "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+      "category": "Crypto and AI intersections",
+      "bucket": "crossover",
+      "score": 8.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-next-ecb-chief-favors-tokeni",
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 8.5,
@@ -114,45 +141,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-spain-gives-anti-laundering",
-      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-standard-chartered-s-zodia-c",
-      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-      "category": "Security and privacy",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-etfs-are-bleeding-ca",
-      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-hong-kong-based-crypto-tradi",
-      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 8.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-bitcoin-little-changed-defi",
-      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-      "category": "Markets and business",
+      "id": "st-brazil-s-stock-exchange-team",
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 8.5,
       "familiar": false,
@@ -240,26 +231,17 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-bnb-chain-details-new-layer",
-      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-      "category": "Crypto and AI intersections",
-      "bucket": "crossover",
-      "score": 7.5,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-binance-completes-withdrawal",
-      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-      "category": "Security and privacy",
+      "id": "st-brazil-s-stock-exchange-push",
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "category": "Products and applications",
       "bucket": "crypto",
       "score": 7.5,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-spain-moves-to-grant-financi",
-      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "id": "st-austria-supervised-crypto-fi",
+      "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -267,8 +249,8 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-crypto-on-notice-as-hawkish",
-      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+      "id": "st-bitcoin-supply-metric-hits-1",
+      "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7.5,
@@ -276,8 +258,53 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-the-best-black-friday-deals",
-      "title": "The best Black Friday deals we’ve already found",
+      "id": "st-bluefin-to-shut-down-perps-r",
+      "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-esma-to-overhaul-eu-s-mica-c",
+      "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+      "category": "Research and development",
+      "bucket": "ai",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-absolute-best-black-frid",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-our-favorite-headphones-and",
+      "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-oura-ring-5-just-got-its",
+      "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-se-3-is-the-apple-watch",
+      "title": "The SE 3 is the Apple Watch most people should buy on Black Friday",
       "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
@@ -287,15 +314,6 @@
     {
       "id": "st-artificial-intelligence-and",
       "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
-      "category": "Products and applications",
-      "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-macbook-neo-is-receiving",
-      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
       "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
@@ -321,9 +339,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-a-research-agenda-for-integr",
-      "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
-      "category": "Research and development",
+      "id": "st-artificial-intelligence-stoc",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing",
+      "category": "Markets and business",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -375,28 +393,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-is-this-cryptocurrency-a-pot",
+      "title": "Is This Cryptocurrency a Potential Millionaire Maker?",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-artificial-intelligence-unit",
       "title": "Artificial intelligence | United States | Global law firm",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-4-ways-to-invest-in-cryptocu",
-      "title": "4 ways to invest in cryptocurrency stocks",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-southeast-asia-strengthens-r",
-      "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
