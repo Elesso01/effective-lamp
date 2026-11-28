@@ -13,135 +13,151 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.9,
-    "imported_at": "2026-11-27T00:40:22.816Z"
+    "imported_at": "2026-11-27T13:59:54.620Z"
   },
   {
-    "id": "st-a-tiny-payment-can-expose-th",
-    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "id": "st-podcast-where-the-artificial",
+    "title": "PODCAST: Where the artificial intelligence boom goes next",
+    "source": "Reuters",
+    "sourceId": "rss-reuters",
+    "author": "Google News (AI)",
+    "published_at": "2026-11-23T08:00:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEZIcEhfemdqeHAyVmpEVnRwenVHTDBPRFEtNXlCWDBOZ1YxcGtwZ25USkFKSnk0bFRIZkUwQmozLVctZ2pwQmQ2OG9iNng4eUpSblJPUEtwUllCei1nTk5QZ3dDRE1xOUtvMjY2MUFEeE5rV3hzYUdrMGNQUGdVcHdMMHN0OGNySThPaWp4cmM2WURmU0FNVzBkeWZuUy1uSWVCaA?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEZIcEhfemdqeHAyVmpEVnRwenVHTDBPRFEtNXlCWDBOZ1YxcGtwZ25USkFKSnk0bFRIZkUwQmozLVctZ2pwQmQ2OG9iNng4eUpSblJPUEtwUllCei1nTk5QZ3dDRE1xOUtvMjY2MUFEeE5rV3hzYUdrMGNQUGdVcHdMMHN0OGNySThPaWp4cmM2WURmU0FNVzBkeWZuUy1uSWVCaA?oc=5\" t",
+    "category": "Products and applications",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.9,
+    "imported_at": "2026-11-27T13:59:55.020Z"
+  },
+  {
+    "id": "st-kalshi-turns-to-small-busine",
+    "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-26T17:30:00.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "published_at": "2026-11-27T13:19:10.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
     "type": "News",
-    "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+    "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.85,
+    "imported_at": "2026-11-27T13:59:53.927Z"
+  },
+  {
+    "id": "st-bitcoin-death-cross-is-comin",
+    "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-27T12:16:07.000Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+    "type": "News",
+    "summary": "Your day-ahead look for Nov. 27, 2026",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.933Z"
+    "imported_at": "2026-11-27T13:59:53.928Z"
   },
   {
-    "id": "st-bitcoin-s-dormant-supply-ris",
-    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "id": "st-bitcoin-on-course-to-end-sev",
+    "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-26T16:50:23.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "published_at": "2026-11-27T11:45:47.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
     "type": "News",
-    "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+    "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
+    "imported_at": "2026-11-27T13:59:53.928Z"
   },
   {
-    "id": "st-crypto-for-advisors-four-que",
-    "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+    "id": "st-live-updates-bitcoin-rebound",
+    "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-26T15:42:43.000Z",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+    "published_at": "2026-11-27T11:34:37.000Z",
+    "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
     "type": "News",
-    "summary": "",
+    "summary": "Nasdaq 100 futures rose 3% ahead of Friday’s shortened U.S. trading session, with some AI cloud stocks up double-digit percentages.",
+    "category": "Crypto and AI intersections",
+    "bucket": "crossover",
+    "crossover": true,
+    "quality": 0.85,
+    "imported_at": "2026-11-27T13:59:53.928Z"
+  },
+  {
+    "id": "st-next-ecb-chief-favors-tokeni",
+    "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+    "source": "CoinDesk",
+    "sourceId": "rss-coindesk",
+    "author": "CoinDesk",
+    "published_at": "2026-11-27T11:22:42.000Z",
+    "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+    "type": "News",
+    "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
+    "imported_at": "2026-11-27T13:59:53.928Z"
   },
   {
-    "id": "st-spain-gives-anti-laundering",
-    "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+    "id": "st-injective-asks-sec-to-allow",
+    "title": "Injective asks SEC to allow order books for tokenized stock trading",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-26T14:05:58.000Z",
-    "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+    "published_at": "2026-11-27T11:07:17.000Z",
+    "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
     "type": "News",
-    "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
-    "category": "Markets and business",
+    "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
+    "imported_at": "2026-11-27T13:59:53.928Z"
   },
   {
-    "id": "st-standard-chartered-s-zodia-c",
-    "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+    "id": "st-brazil-s-stock-exchange-team",
+    "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-26T12:38:51.000Z",
-    "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+    "published_at": "2026-11-27T10:51:27.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
     "type": "News",
-    "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place.",
-    "category": "Security and privacy",
+    "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
+    "imported_at": "2026-11-27T13:59:53.929Z"
   },
   {
-    "id": "st-bitcoin-etfs-are-bleeding-ca",
-    "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+    "id": "st-tether-can-freeze-stolen-cry",
+    "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
     "source": "CoinDesk",
     "sourceId": "rss-coindesk",
     "author": "CoinDesk",
-    "published_at": "2026-11-26T12:14:46.000Z",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+    "published_at": "2026-11-27T10:00:00.000Z",
+    "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
     "type": "News",
-    "summary": "Your day-ahead look for Nov. 26, 2026",
-    "category": "Markets and business",
+    "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
+    "category": "Regulation and policy",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
-  },
-  {
-    "id": "st-hong-kong-based-crypto-tradi",
-    "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-26T11:27:50.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-    "type": "News",
-    "summary": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
-  },
-  {
-    "id": "st-bitcoin-little-changed-defi",
-    "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-    "source": "CoinDesk",
-    "sourceId": "rss-coindesk",
-    "author": "CoinDesk",
-    "published_at": "2026-11-26T11:17:22.000Z",
-    "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-    "type": "News",
-    "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.85,
-    "imported_at": "2026-11-27T00:40:21.934Z"
+    "imported_at": "2026-11-27T13:59:53.929Z"
   },
   {
     "id": "st-nvidia-hits-pause-on-chip-sh",
@@ -157,7 +173,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.313Z"
+    "imported_at": "2026-11-27T13:59:54.239Z"
   },
   {
     "id": "st-grand-theft-auto-vi-proves-w",
@@ -173,7 +189,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.313Z"
+    "imported_at": "2026-11-27T13:59:54.239Z"
   },
   {
     "id": "st-fcc-approves-spacex-plan-to",
@@ -189,7 +205,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.313Z"
+    "imported_at": "2026-11-27T13:59:54.239Z"
   },
   {
     "id": "st-openai-says-heavy-chatgpt-us",
@@ -205,7 +221,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.313Z"
+    "imported_at": "2026-11-27T13:59:54.239Z"
   },
   {
     "id": "st-gpt-6-models-demonstrate-int",
@@ -221,7 +237,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.220Z"
+    "imported_at": "2026-11-27T13:59:54.175Z"
   },
   {
     "id": "st-how-intentful-uses-dots-to-m",
@@ -237,7 +253,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.220Z"
+    "imported_at": "2026-11-27T13:59:54.175Z"
   },
   {
     "id": "st-clay-helps-sales-teams-win-w",
@@ -253,7 +269,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.220Z"
+    "imported_at": "2026-11-27T13:59:54.175Z"
   },
   {
     "id": "st-openai-and-cisco-introduce-s",
@@ -269,7 +285,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.220Z"
+    "imported_at": "2026-11-27T13:59:54.175Z"
   },
   {
     "id": "st-connected-intelligence-for-i",
@@ -285,7 +301,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.220Z"
+    "imported_at": "2026-11-27T13:59:54.175Z"
   },
   {
     "id": "st-richpanel-helps-companies-au",
@@ -301,7 +317,23 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.8,
-    "imported_at": "2026-11-27T00:40:22.220Z"
+    "imported_at": "2026-11-27T13:59:54.175Z"
+  },
+  {
+    "id": "st-binance-to-launch-tokenized",
+    "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-27T13:44:00.000Z",
+    "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers.",
+    "category": "Regulation and policy",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-27T13:59:54.018Z"
   },
   {
     "id": "st-here-s-what-happened-in-cryp",
@@ -309,7 +341,7 @@
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-26T22:12:06.000Z",
+    "published_at": "2026-11-27T13:28:26.000Z",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -317,135 +349,167 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
+    "imported_at": "2026-11-27T13:59:54.018Z"
   },
   {
-    "id": "st-bnb-chain-details-new-layer",
-    "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+    "id": "st-brazil-s-stock-exchange-push",
+    "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-26T21:42:43.000Z",
-    "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-27T12:39:54.000Z",
+    "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
-    "category": "Crypto and AI intersections",
-    "bucket": "crossover",
-    "crossover": true,
-    "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
-  },
-  {
-    "id": "st-binance-completes-withdrawal",
-    "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-26T21:33:47.000Z",
-    "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
-    "category": "Security and privacy",
+    "summary": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+    "category": "Products and applications",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
+    "imported_at": "2026-11-27T13:59:54.018Z"
   },
   {
-    "id": "st-uk-is-getting-it-wrong-on-de",
-    "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+    "id": "st-austria-supervised-crypto-fi",
+    "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-26T21:13:53.000Z",
-    "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-27T12:20:00.000Z",
+    "url": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
-  },
-  {
-    "id": "st-japan-weighs-tighter-oversig",
-    "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-26T20:05:18.000Z",
-    "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
-    "category": "Regulation and policy",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
-  },
-  {
-    "id": "st-spain-moves-to-grant-financi",
-    "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-    "source": "Cointelegraph",
-    "sourceId": "rss-cointelegraph",
-    "author": "Cointelegraph",
-    "published_at": "2026-11-26T18:26:31.000Z",
-    "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "type": "News",
-    "summary": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+    "summary": "About 74% of accounts were based in other EEA countries, highlighting the market’s cross-border nature and putting Europe’s supervisory framework in focus, FMA said.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
+    "imported_at": "2026-11-27T13:59:54.018Z"
   },
   {
-    "id": "st-crypto-on-notice-as-hawkish",
-    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "id": "st-bitcoin-supply-metric-hits-1",
+    "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
     "source": "Cointelegraph",
     "sourceId": "rss-cointelegraph",
     "author": "Cointelegraph",
-    "published_at": "2026-11-26T17:39:53.000Z",
-    "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-27T11:14:28.000Z",
+    "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "type": "News",
-    "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+    "summary": "The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%.",
     "category": "Markets and business",
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.75,
-    "imported_at": "2026-11-27T00:40:22.001Z"
+    "imported_at": "2026-11-27T13:59:54.018Z"
   },
   {
-    "id": "st-the-best-black-friday-deals",
-    "title": "The best Black Friday deals we’ve already found",
+    "id": "st-bluefin-to-shut-down-perps-r",
+    "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-27T10:26:06.000Z",
+    "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades.",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-27T13:59:54.018Z"
+  },
+  {
+    "id": "st-esma-to-overhaul-eu-s-mica-c",
+    "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-27T08:04:39.000Z",
+    "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
+    "category": "Research and development",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-27T13:59:54.018Z"
+  },
+  {
+    "id": "st-new-york-ag-secures-1-37b-co",
+    "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+    "source": "Cointelegraph",
+    "sourceId": "rss-cointelegraph",
+    "author": "Cointelegraph",
+    "published_at": "2026-11-27T07:19:44.000Z",
+    "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "type": "News",
+    "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+    "category": "Regulation and policy",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.75,
+    "imported_at": "2026-11-27T13:59:54.018Z"
+  },
+  {
+    "id": "st-the-absolute-best-black-frid",
+    "title": "The absolute best Black Friday deals we’ve found (so far)",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-26T19:20:49.000Z",
-    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+    "published_at": "2026-11-27T11:52:34.000Z",
+    "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
     "type": "News",
-    "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a g",
+    "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and s",
+    "category": "Products and applications",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-27T13:59:55.123Z"
+  },
+  {
+    "id": "st-our-favorite-headphones-and",
+    "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-27T11:02:59.000Z",
+    "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+    "type": "News",
+    "summary": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, N",
     "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.345Z"
+    "imported_at": "2026-11-27T13:59:55.123Z"
   },
   {
-    "id": "st-android-app-developers-will",
-    "title": "Android app developers will soon have to share their address publicly",
+    "id": "st-the-oura-ring-5-just-got-its",
+    "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
     "source": "The Verge",
     "sourceId": "rss-the-verge",
     "author": "The Verge",
-    "published_at": "2026-11-26T18:19:32.000Z",
-    "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+    "published_at": "2026-11-27T10:11:02.000Z",
+    "url": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
     "type": "News",
-    "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Ac",
-    "category": "Regulation and policy",
+    "summary": "If you’ve been curious about smart rings but have been put off by their high price tags, Black Friday is a good time to consider giving one a try. That’s because the Oura Ring 5, which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100 off) ",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.345Z"
+    "imported_at": "2026-11-27T13:59:55.123Z"
+  },
+  {
+    "id": "st-the-se-3-is-the-apple-watch",
+    "title": "The SE 3 is the Apple Watch most people should buy on Black Friday",
+    "source": "The Verge",
+    "sourceId": "rss-the-verge",
+    "author": "The Verge",
+    "published_at": "2026-11-27T09:58:55.000Z",
+    "url": "https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale",
+    "type": "News",
+    "summary": "During Black Friday, the Apple Watch SE 3 is on sale in the 40mm / GPS configuration at Amazon, Walmart, and Target starting around $179 ($70 off), $20 less than its previous lowest price. The 44mm variant, meanwhile, is on sale at Amazon, Walmart, and Target starting at around $",
+    "category": "Markets and business",
+    "bucket": "ai",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-27T13:59:55.123Z"
   },
   {
     "id": "st-artificial-intelligence-and",
@@ -461,23 +525,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.208Z"
-  },
-  {
-    "id": "st-the-macbook-neo-is-receiving",
-    "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-26T17:15:53.000Z",
-    "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-    "type": "News",
-    "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Tou",
-    "category": "Products and applications",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.345Z"
+    "imported_at": "2026-11-27T13:59:55.020Z"
   },
   {
     "id": "st-the-garmin-forerunner-265s-i",
@@ -493,23 +541,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.345Z"
-  },
-  {
-    "id": "st-federal-judge-blocks-the-fcc",
-    "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-    "source": "The Verge",
-    "sourceId": "rss-the-verge",
-    "author": "The Verge",
-    "published_at": "2026-11-26T16:38:00.000Z",
-    "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-    "type": "News",
-    "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its f",
-    "category": "Regulation and policy",
-    "bucket": "ai",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.345Z"
+    "imported_at": "2026-11-27T13:59:55.123Z"
   },
   {
     "id": "st-today-s-crypto-news-bitcoin",
@@ -525,7 +557,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.816Z"
+    "imported_at": "2026-11-27T13:59:54.620Z"
   },
   {
     "id": "st-a-guide-to-blockchain-and-cr",
@@ -541,23 +573,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.816Z"
+    "imported_at": "2026-11-27T13:59:54.620Z"
   },
   {
-    "id": "st-a-research-agenda-for-integr",
-    "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
-    "source": "Nature",
-    "sourceId": "rss-nature",
+    "id": "st-artificial-intelligence-stoc",
+    "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing",
+    "source": "US News Money",
+    "sourceId": "rss-us-news-money",
     "author": "Google News (AI)",
-    "published_at": "2026-11-25T11:18:40.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUb3JjOFZLXzRBazBrdlVUQzJ6MUJtUlQ0ZF9tVkZRYVBZbmMtSHFTSElmYlhDMFZUUmVIVkdMV3pPTFppVXROVW8wSzZTenRTZGtwZWZfbHE1WktUZ1Qw?oc=5",
+    "published_at": "2026-11-25T17:40:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5",
     "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUb3JjOFZLXzRBazBrdlVUQzJ6MUJtUlQ0ZF9tVkZRYVBZbmMtSHFTSElmYlhDMFZUUmVIVkdMV3pPTFppVXROVW8wSzZTenRTZGtwZWZfbHE1WktUZ1Qw?oc=5\" target=\"_blank\">A research agenda for integrating artificial intelligence in mitigation scenari",
-    "category": "Research and development",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5\" target=",
+    "category": "Markets and business",
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.208Z"
+    "imported_at": "2026-11-27T13:59:55.020Z"
   },
   {
     "id": "st-artificial-intelligence-barg",
@@ -573,7 +605,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.208Z"
+    "imported_at": "2026-11-27T13:59:55.020Z"
   },
   {
     "id": "st-usi-receives-8-5-million-art",
@@ -589,7 +621,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.208Z"
+    "imported_at": "2026-11-27T13:59:55.020Z"
   },
   {
     "id": "st-law-enforcement-follow-crypt",
@@ -605,7 +637,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.817Z"
+    "imported_at": "2026-11-27T13:59:54.620Z"
   },
   {
     "id": "st-justice-department-warning-o",
@@ -621,7 +653,7 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.816Z"
+    "imported_at": "2026-11-27T13:59:54.620Z"
   },
   {
     "id": "st-from-wall-street-to-main-str",
@@ -637,7 +669,7 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.208Z"
+    "imported_at": "2026-11-27T13:59:55.020Z"
   },
   {
     "id": "st-trump-hosts-third-crypto-gal",
@@ -653,7 +685,23 @@
     "bucket": "crypto",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.816Z"
+    "imported_at": "2026-11-27T13:59:54.620Z"
+  },
+  {
+    "id": "st-is-this-cryptocurrency-a-pot",
+    "title": "Is This Cryptocurrency a Potential Millionaire Maker?",
+    "source": "The Motley Fool",
+    "sourceId": "rss-the-motley-fool",
+    "author": "Google News (crypto)",
+    "published_at": "2026-11-22T09:00:02.000Z",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3Vad0xDSnJ0MnlKNldzTEtSVnFCMGJnTExiblVVTUJpYTRWRW5laWFQNzVMcFY5UVZXcURlWlZDNmZUMHZidDZyeUxxR2JDMy05aWtDZV94RlZENTRfQ254a2gtR1hOY29UV2JuZE1uZXhNU1BQMjA4QmxiXzlDT1VSZ1cwT1pKRTh6cVg0US1mQ1Fxb2JDd2dSNA?oc=5",
+    "type": "News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3Vad0xDSnJ0MnlKNldzTEtSVnFCMGJnTExiblVVTUJpYTRWRW5laWFQNzVMcFY5UVZXcURlWlZDNmZUMHZidDZyeUxxR2JDMy05aWtDZV94RlZENTRfQ254a2gtR1hOY29UV2JuZE1uZXhNU1BQMjA4QmxiXzlDT1VSZ1cwT1pKRTh6cVg0US1mQ1Fxb2JDd2dSNA?oc=5\" target=\"_blan",
+    "category": "Markets and business",
+    "bucket": "crypto",
+    "crossover": false,
+    "quality": 0.7,
+    "imported_at": "2026-11-27T13:59:54.620Z"
   },
   {
     "id": "st-artificial-intelligence-unit",
@@ -669,38 +717,6 @@
     "bucket": "ai",
     "crossover": false,
     "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:23.208Z"
-  },
-  {
-    "id": "st-4-ways-to-invest-in-cryptocu",
-    "title": "4 ways to invest in cryptocurrency stocks",
-    "source": "Britannica",
-    "sourceId": "rss-britannica",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-20T08:00:00.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5c0pLSUkxOFJqek1IeTlsUDlEM0JvWHMzeDFiTm95STUydnluYWtKLTlJbU5ncDJ2cjl1ZlhYS3k4UXdpR0NPN2dfR0xuQzBFLUxtVGtzbGpWYVU2UXRZOFk4SkE?oc=5\" target=\"_blank\">4 ways to invest in cryptocurrency stocks</a>&nbsp;&nbsp;<font color=\"#6",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.816Z"
-  },
-  {
-    "id": "st-southeast-asia-strengthens-r",
-    "title": "Southeast Asia strengthens regional cooperation to address emerging cyber-enabled and cryptocurrency-facilitated crimes",
-    "source": "United Nations Office on Drugs and Crime",
-    "sourceId": "rss-united-nations-office-on-drugs-and-crime",
-    "author": "Google News (crypto)",
-    "published_at": "2026-11-20T06:01:31.000Z",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BMbndCWVJZT3dUUnFMMXpGWm5jSG5fNVJKOVZWdjVTWUtNMlQtRnpUWXRyTW9sVHJjbG5vdzVGcDJTcHV3SEhvYnA2U1NuTEpUZ0ZyQmgzSDh0T2s2SzhlTTFGRllncGRLUlJPSFlETHN3TWF1WmZjWlhTa1ktNjEyMjI5eEc3dmNIYVYtQ1htTlplTDVFUzJic3Z1VE5qdlJJNFJmdmUycms?oc=5",
-    "type": "News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BMbndCWVJZT3dUUnFMMXpGWm5jSG5fNVJKOVZWdjVTWUtNMlQtRnpUWXRyTW9sVHJjbG5vdzVGcDJTcHV3SEhvYnA2U1NuTEpUZ0ZyQmgzSDh0T2s2SzhlTTFGRllncGRLUlJPSFlETHN3TWF1WmZjWlhTa1ktNjEyMjI5eEc3dmNIYVYtQ1htTlplTDVFUzJic3Z1VE5qdlJJNFJmdmUycm",
-    "category": "Markets and business",
-    "bucket": "crypto",
-    "crossover": false,
-    "quality": 0.7,
-    "imported_at": "2026-11-27T00:40:22.816Z"
+    "imported_at": "2026-11-27T13:59:55.020Z"
   }
 ]
