@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-28T00:06:22.052Z",
+  "generated_at": "2026-11-28T08:03:49.433Z",
   "mix": {
     "familiar": 10,
-    "discovery": 35
+    "discovery": 37
   },
   "items": [
     {
@@ -231,6 +231,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-binance-receives-in-principl",
+      "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+      "category": "Products and applications",
+      "bucket": "crypto",
+      "score": 7.5,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-franklin-templeton-makes-roo",
       "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
       "category": "Markets and business",
@@ -258,11 +267,29 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-brazil-s-stock-exchange-push",
-      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "id": "st-the-absolute-best-black-frid",
+      "title": "The absolute best Black Friday deals you can still get",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-m5-macbook-air-just-got",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "category": "Markets and business",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-sony-s-1000xm4c-headphones-a",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
       "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7.5,
+      "bucket": "ai",
+      "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
     },
@@ -276,9 +303,9 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-roborock-dreame-and-eufy-are",
-      "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
-      "category": "Markets and business",
+      "id": "st-the-best-robot-vacuums-we-ve",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "category": "Products and applications",
       "bucket": "ai",
       "score": 7,
       "familiar": false,
@@ -287,33 +314,6 @@
     {
       "id": "st-yooka-laylee-s-free-upgrade",
       "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-absolute-best-black-frid",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-allstate-has-been-suffering",
-      "title": "Allstate has been suffering an outage since Monday",
-      "category": "Products and applications",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-the-new-ipad-mini-is-getting",
-      "title": "The new iPad Mini is getting its first major discount for Black Friday",
       "category": "Products and applications",
       "bucket": "crypto",
       "score": 7,
@@ -330,8 +330,26 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
-      "id": "st-today-s-crypto-news-bitcoin",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "id": "st-us-china-ai-competition-supe",
+      "title": "US-China AI Competition: Superintelligence & Geopolitics",
+      "category": "Products and applications",
+      "bucket": "ai",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-the-rise-of-bitcoin-and-why",
+      "title": "The rise of bitcoin and why it matters now",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
+      "id": "st-douglas-county-investigator",
+      "title": "Douglas County investigator recovers $671K for alleged cryptocurrency scam victim",
       "category": "Markets and business",
       "bucket": "crypto",
       "score": 7,
@@ -357,6 +375,15 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-marex-group-mrx-is-reportedl",
+      "title": "Marex Group (MRX) Is Reportedly Discussing A Cryptocurrency Unit Acquisition",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-usi-receives-8-5-million-art",
       "title": "USI receives $8.5 million artificial intelligence grant through Lilly Endowment",
       "category": "Products and applications",
@@ -375,28 +402,19 @@
       "reason": "Discovery — outside your usual reads"
     },
     {
+      "id": "st-inside-trump-s-cryptocurrenc",
+      "title": "Inside Trump's cryptocurrency gala for $TRUMP meme coin's largest buyers",
+      "category": "Markets and business",
+      "bucket": "crypto",
+      "score": 7,
+      "familiar": false,
+      "reason": "Discovery — outside your usual reads"
+    },
+    {
       "id": "st-from-wall-street-to-main-str",
       "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
       "category": "Products and applications",
       "bucket": "ai",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-programs-and-services-votes",
-      "title": "Programs and Services Votes To Advance Cryptocurrency ATM Ban",
-      "category": "Markets and business",
-      "bucket": "crypto",
-      "score": 7,
-      "familiar": false,
-      "reason": "Discovery — outside your usual reads"
-    },
-    {
-      "id": "st-is-this-cryptocurrency-a-pot",
-      "title": "Is This Cryptocurrency a Potential Millionaire Maker?",
-      "category": "Markets and business",
-      "bucket": "crypto",
       "score": 7,
       "familiar": false,
       "reason": "Discovery — outside your usual reads"
